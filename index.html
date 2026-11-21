@@ -133,6 +133,20 @@ html.tab .nextbun{font-size:17px;padding:6px 18px;border-radius:20px}html.tab .n
 .sinfo b{font-weight:600}
 html.pre .sinfo{display:none!important}
 html.tab .group{font-size:20px}html.tab .sub .name{font-size:19px}html.tab .sub .code{font-size:16px!important}html.tab .sinfo{font-size:15px}
+
+/* v1.5 = Lao v2.75–v2.77: key badges (PC and pad only), key info line under 연속/묶음 재생, flatter header */
+.kc{display:none;font:600 10.5px/1 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;min-width:17px;height:17px;padding:0 4px;box-sizing:border-box;align-items:center;justify-content:center;border:1px solid currentColor;border-bottom-width:2.5px;border-radius:5px;margin-left:6px;opacity:.72;vertical-align:1px;letter-spacing:0;white-space:nowrap}
+html.tab .kc{display:inline-flex;font-size:12.5px;min-width:21px;height:21px;border-radius:6px}
+@media (hover:hover) and (pointer:fine){.kc{display:inline-flex}}
+.nextbun .nbl{display:inline-flex;align-items:center}.nextbun.prevbun .kc{margin-left:0;margin-right:6px}
+.kbinfo{display:none;order:99;flex-basis:100%;justify-content:center;flex-wrap:wrap;gap:4px 16px;color:var(--muted);margin-top:2px;font-size:11.5px}
+.kbinfo span,.kbinfo label{display:inline-flex;align-items:center;gap:0;white-space:nowrap}.kbinfo .kc{margin:0 5px 0 0;font-size:10px;height:16px;min-width:16px}
+.kbinfo label{cursor:pointer;color:var(--muted)}.kbinfo input{margin:0 6px 0 0;width:15px;height:15px;accent-color:var(--accent);cursor:pointer}
+html.tab .kbinfo{display:flex;font-size:14px}html.tab .kbinfo input{width:18px;height:18px}html.tab .kbinfo .kc{font-size:11.5px;height:19px;min-width:19px}
+@media (hover:hover) and (pointer:fine){.kbinfo{display:flex}}
+header{padding-top:12px!important;padding-bottom:10px!important;min-height:0!important}
+header .eyebrow{line-height:1.15;display:block}
+h1.lotitle{line-height:.98!important;margin-top:-.06em!important}
 </style>
 <link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#8a5a12">
 <meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes">
@@ -496,21 +510,22 @@ html.tab .voice{font-size:18px}
     <div class="band" id="band"></div>
     <div class="controls" id="controls">
       <div class="seg" role="group" aria-label="학습 방식">
-        <button id="m-dlg" data-mode="dlg"><span class="sl">문장</span><span class="ll">예문보기</span></button>
-        <button id="m-cards" data-mode="cards"><span class="sl">단어</span><span class="ll">단어공부</span></button>
-        <button id="m-quiz" data-mode="quiz"><span class="sl">퀴즈</span><span class="ll">확인퀴즈</span></button>
+        <button id="m-dlg" data-mode="dlg"><span class="sl">문장</span><span class="ll">예문보기</span><kbd class="kc">Q</kbd></button>
+        <button id="m-cards" data-mode="cards"><span class="sl">단어</span><span class="ll">단어공부</span><kbd class="kc">W</kbd></button>
+        <button id="m-quiz" data-mode="quiz"><span class="sl">퀴즈</span><span class="ll">확인퀴즈</span><kbd class="kc">E</kbd></button>
       </div>
-      <span class="opts"><span class="ll olab">반복</span><span class="repw"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m17 2 4 4-4 4"/><path d="M3 11v-1a4 4 0 0 1 4-4h14"/><path d="m7 22-4-4 4-4"/><path d="M21 13v1a4 4 0 0 1-4 4H3"/></svg><select id="repSel" class="bsel osel" aria-label="음성 반복 횟수"><option value="1">1회</option><option value="2">2회</option><option value="3">3회</option><option value="4">4회</option><option value="5">5회</option></select></span>
-      <span class="ll olab">배속</span><select id="rateSel" class="bsel osel" aria-label="재생 속도"><option value="0.8">x 0.8</option><option value="1">x 1.0</option><option value="1.2">x 1.2</option><option value="1.5">x 1.5</option><option value="2">x 2.0</option></select></span>
+      <span class="opts"><span class="ll olab">반복<kbd class="kc">1~5</kbd></span><span class="repw"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m17 2 4 4-4 4"/><path d="M3 11v-1a4 4 0 0 1 4-4h14"/><path d="m7 22-4-4 4-4"/><path d="M21 13v1a4 4 0 0 1-4 4H3"/></svg><select id="repSel" class="bsel osel" aria-label="음성 반복 횟수"><option value="1">1회</option><option value="2">2회</option><option value="3">3회</option><option value="4">4회</option><option value="5">5회</option></select></span>
+      <span class="ll olab">배속<kbd class="kc">±</kbd></span><select id="rateSel" class="bsel osel" aria-label="재생 속도"><option value="0.8">x 0.8</option><option value="1">x 1.0</option><option value="1.2">x 1.2</option><option value="1.5">x 1.5</option><option value="2">x 2.0</option></select></span>
       <div class="bact" id="bact"></div>
+      <div class="kbinfo" id="kbinfo"><span><kbd class="kc">Esc</kbd>재생 정지</span><span><kbd class="kc">Enter</kbd>무한 반복/취소</span><span><kbd class="kc">←</kbd>이전 문장</span><span><kbd class="kc">→</kbd>다음 문장</span><label class="kok"><input type="checkbox" id="koChk" checked><kbd class="kc">K</kbd>한국어 말하기</label></div>
     </div>
     <div class="body" id="view"></div>
   </section>
   <div class="player" id="player" hidden><span class="t" id="pt"></span><button id="ppause">❙❙ 일시정지</button><button id="pstop" class="pcancel">■ 취소</button></div>
-  <div class="fbox"><p class="note foot"><svg class="fi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4V5z" fill="currentColor"/><path d="M15.5 8.5a5 5 0 0 1 0 7M18.5 5.5a9 9 0 0 1 0 13"/></svg> 듣기 · <svg class="fi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m17 2 4 4-4 4"/><path d="M3 11v-1a4 4 0 0 1 4-4h14"/><path d="m7 22-4-4 4-4"/><path d="M21 13v1a4 4 0 0 1-4 4H3"/></svg> 반복 (1–5회) 정한 횟수만큼 반복합니다. 학습 기록은 이 기기에만 저장됩니다. 키보드에서 <kbd>?</kbd>를 누르면 단축키를 볼 수 있어요.</p><p class="voice" id="voiceNote"></p><div class="ver">2026-11-20 v1.4 · Claude AI로 제작</div></div>
+  <div class="fbox"><p class="note foot"><svg class="fi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4V5z" fill="currentColor"/><path d="M15.5 8.5a5 5 0 0 1 0 7M18.5 5.5a9 9 0 0 1 0 13"/></svg> 듣기 · <svg class="fi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m17 2 4 4-4 4"/><path d="M3 11v-1a4 4 0 0 1 4-4h14"/><path d="m7 22-4-4 4-4"/><path d="M21 13v1a4 4 0 0 1-4 4H3"/></svg> 반복 (1–5회) 정한 횟수만큼 반복합니다. 학습 기록은 이 기기에만 저장됩니다. 키보드에서 <kbd>?</kbd>를 누르면 단축키를 볼 수 있어요.</p><p class="voice" id="voiceNote"></p><div class="ver">2026-11-21 v1.5 · Claude AI로 제작</div></div>
 </div>
 
 
 
-<script>/* load data only after the first screen is painted (iPhone waited for 2 MB of data before showing anything) */(function(){var AV="app.js?v=1.4";/* v14.13: show the last screen at once from the saved snapshot; app.js re-renders the same thing when it arrives */try{var sn=JSON.parse(localStorage.getItem("sw-snap")||"null"),se=JSON.parse(localStorage.getItem("sw-sel")||"null"),ap=document.getElementById("app");if(sn&&se&&sn.v===AV&&sn.h&&sn.sig===[se.part,se.sub,(se.bun||{})[se.sub]||"",se.mode||"dlg",innerWidth].join("|")){sn.h.forEach(function(x){document.getElementById(x[0]).innerHTML=x[1]});ap.className=sn.c;ap.setAttribute("data-g",sn.g);document.documentElement.classList.remove("pre");[["groups",'[aria-pressed="true"]'],["subs",'[aria-selected="true"]']].forEach(function(q){var c=document.getElementById(q[0]),e=c&&c.querySelector(q[1]);if(!e)return;var l=e.offsetLeft-(e.offsetParent===c?0:c.offsetLeft),r=l+e.offsetWidth;if(l-28<c.scrollLeft)c.scrollLeft=Math.max(0,l-28);else if(r+28>c.scrollLeft+c.clientWidth)c.scrollLeft=r+28-c.clientWidth})}}catch(e){}function go(){var a=document.createElement("script");a.src="audio/index.js";a.onload=a.onerror=function(){var s=document.createElement("script");s.src=AV;document.body.appendChild(s)};document.body.appendChild(a)}function later(){requestAnimationFrame(function(){setTimeout(go,60)})}if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",later);else later()})()</script>
+<script>/* load data only after the first screen is painted (iPhone waited for 2 MB of data before showing anything) */(function(){var AV="app.js?v=1.5";/* v14.13: show the last screen at once from the saved snapshot; app.js re-renders the same thing when it arrives */try{var sn=JSON.parse(localStorage.getItem("sw-snap")||"null"),se=JSON.parse(localStorage.getItem("sw-sel")||"null"),ap=document.getElementById("app");if(sn&&se&&sn.v===AV&&sn.h&&sn.sig===[se.part,se.sub,(se.bun||{})[se.sub]||"",se.mode||"dlg",innerWidth].join("|")){sn.h.forEach(function(x){document.getElementById(x[0]).innerHTML=x[1]});ap.className=sn.c;ap.setAttribute("data-g",sn.g);document.documentElement.classList.remove("pre");[["groups",'[aria-pressed="true"]'],["subs",'[aria-selected="true"]']].forEach(function(q){var c=document.getElementById(q[0]),e=c&&c.querySelector(q[1]);if(!e)return;var l=e.offsetLeft-(e.offsetParent===c?0:c.offsetLeft),r=l+e.offsetWidth;if(l-28<c.scrollLeft)c.scrollLeft=Math.max(0,l-28);else if(r+28>c.scrollLeft+c.clientWidth)c.scrollLeft=r+28-c.clientWidth})}}catch(e){}function go(){var a=document.createElement("script");a.src="audio/index.js";a.onload=a.onerror=function(){var s=document.createElement("script");s.src=AV;document.body.appendChild(s)};document.body.appendChild(a)}function later(){requestAnimationFrame(function(){setTimeout(go,60)})}if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",later);else later()})()</script>
 </body></html>
