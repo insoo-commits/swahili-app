@@ -563,7 +563,7 @@ addEventListener("resize",close);
  document.addEventListener("touchstart",e=>{ok=false;if(e.touches.length!==1)return;const t=e.touches[0],w=innerWidth;if(t.clientX<24||t.clientX>w-24)return;
   const el=e.target;if(el.closest&&el.closest("input,select,textarea,#player,.gal,.bsel,#groups,#subs,.subs,.tabs"))return;if(hscroll(el))return;sx=t.clientX;sy=t.clientY;st=Date.now();ok=true},{passive:true});
  let quiet=0;["click","mousedown","pointerdown"].forEach(n=>document.addEventListener(n,e=>{if(e.isTrusted&&Date.now()<quiet){e.preventDefault();e.stopPropagation()}},true));/* after a swipe, ignore the leftover tap so the sticky bundle list does not open */
- const go=dx=>{quiet=Date.now()+450;const b=document.querySelector(dx<0?".nextbun:not(.prevbun)":".nextbun.prevbun");if(!b)return;b.click();
+ const go=dx=>{quiet=Date.now()+450;const b=document.querySelector(dx<0?".nextbun:not(.prevbun)":".nextbun.prevbun");if(!b)return;b.click();/* v1.23 RYU: after a swipe show the page from the very top (title), not the bundle-name bar */try{window.scrollTo({top:0,left:0,behavior:"instant"})}catch(_){window.scrollTo(0,0)}
   const s2=document.getElementById("sheet");if(s2){s2.style.transition="none";s2.style.transform="translateX("+(dx<0?36:-36)+"px)";s2.style.opacity=".4";
    requestAnimationFrame(()=>requestAnimationFrame(()=>{s2.style.transition="transform .16s ease-out,opacity .16s";s2.style.transform="";s2.style.opacity=""}))}};
  document.addEventListener("touchmove",e=>{if(!ok||e.touches.length!==1)return;const t=e.touches[0],dx=t.clientX-sx,dy=t.clientY-sy;
