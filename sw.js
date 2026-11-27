@@ -1,4 +1,4 @@
-const SHELL="sw-shell-v1.31",AUD="sw-audio-v2";
+const SHELL="sw-shell-v1.32",AUD="sw-audio-v2";
 const JS="sw-js";/* versioned app.js?v=… lives here, kept across versions, only newest entry kept */
 const FILES=["./","index.html","manifest.webmanifest","audio/index.js","icon-180.png","icon-192.png","icon-512.png","header.svg","header-day.svg"];
 /* Audio clips live in IndexedDB ("sw-audio" / store "c", key = clip name, value = ArrayBuffer).
