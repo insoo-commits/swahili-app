@@ -1,0 +1,219 @@
+# P5-G | 금융·통신
+
+@ 1-10-01 | 은행·환전 | benki·kubadilisha | 은행과 환전소(maduka ya kubadilisha fedha)에서 쓰는 말이에요.
+w benki | 은행 | 은행
+e Benki iko wazi leo? | 오늘 은행 열어요?
+e Ninakwenda benki. | 은행에 가요.
+e Benki ya Taifa. | 국립은행.
+w pesa | 돈 · fedha도 같은 뜻 | 돈
+e Sina pesa. | 돈이 없어요.
+e Pesa taslimu. | 현금.
+e Pesa nyingi. | 많은 돈.
+w kubadilisha fedha | 환전하다 · badilisha 바꾸다 | 환전하다
+e Nataka kubadilisha fedha. | 환전하고 싶어요.
+e Duka la kubadilisha fedha. | 환전소.
+e Nimebadilisha dola mia moja. | 100달러를 바꿨어요.
+w dola | 달러 | 달러
+e Dola moja ni shilingi ngapi? | 1달러에 몇 실링이에요?
+e Unakubali dola? | 달러 받아요?
+e Dola za Marekani. | 미국 달러.
+w kiwango cha kubadilisha | 환율 · kiwango 정도, 비율 | 환율
+e Kiwango cha leo ni kipi? | 오늘 환율이 어때요?
+e Kiwango kimepanda. | 환율이 올랐어요.
+e Kiwango ni kizuri hapa. | 여기 환율이 좋아요.
+w ATM | 현금인출기 · 표준어 mashine ya kutolea pesa | 현금인출기
+e ATM iko wapi? | ATM이 어디 있어요?
+e ATM haina pesa. | ATM에 돈이 없어요.
+e Toa pesa kwenye ATM. | ATM에서 돈을 뽑아요.
+w kutoa pesa | 돈을 찾다 · toa 꺼내다 | 돈을 찾다(인출하다)
+e Nataka kutoa pesa. | 돈을 찾고 싶어요.
+e Toa elfu hamsini. | 오만 실링 찾아요.
+e Umeshatoa pesa? | 벌써 돈 찾았어요?
+w akaunti | 계좌 | 계좌
+e Akaunti ya benki. | 은행 계좌.
+e Fungua akaunti. | 계좌를 열어요.
+e Weka pesa kwenye akaunti. | 계좌에 돈을 넣어요.
+tp 돈은 pesa(입말)와 fedha(공식) 둘 다 써요.
+tp 환전은 은행이나 환전소(bureau de change)에서 하고, 길에서 바꾸지 마세요.
+tp '돈을 넣다' kuweka pesa ↔ '돈을 찾다' kutoa pesa.
+pr kuweka pesa | 입금하다 || kutoa pesa | 출금하다
+pr dola | 달러 || shilingi | 실링
+dl 민준 | Nataka kubadilisha dola mia mbili. | 200달러를 바꾸고 싶어요.
+dl 직원 | Sawa. Pasipoti yako, tafadhali. | 네. 여권 주세요.
+dl 민준 | Hii hapa. Kiwango cha leo ni kipi? | 여기요. 오늘 환율이 어때요?
+dl 직원 | Dola moja ni shilingi elfu mbili na mia tano. | 1달러에 2,500실링이에요.
+sm Benki: weka pesa, toa pesa, badilisha fedha. | 은행: 입금, 출금, 환전.
+qz '환전하다'는? | kubadilisha fedha
+qz '돈'은? | pesa
+
+@ 1-10-02 | 모바일 송금·결제 | M-Pesa·kutuma pesa | 동아프리카는 휴대폰으로 돈을 보내고 받는 M-Pesa가 생활의 일부예요.
+w M-Pesa | 엠페사 · 휴대폰 송금 서비스 | 휴대폰 송금(엠페사)
+e Lipa kwa M-Pesa. | 엠페사로 내요.
+e Una M-Pesa? | 엠페사 있어요?
+e Nitakutumia kwa M-Pesa. | 엠페사로 보내 줄게요.
+w kutuma pesa | 돈을 보내다 | 송금하다
+e Tuma pesa kwa mama. | 엄마께 돈을 보내요.
+e Nimetuma pesa. | 돈 보냈어요.
+e Umepokea pesa? | 돈 받았어요?
+w wakala | 대리점 · 휴대폰 돈을 넣고 빼는 가게 | (송금) 대리점
+e Wakala wa M-Pesa. | 엠페사 대리점.
+e Toa pesa kwa wakala. | 대리점에서 돈을 찾아요.
+e Wakala yuko karibu na soko. | 대리점은 시장 근처에 있어요.
+w namba ya simu | 전화번호 | 전화번호
+e Namba yako ya simu ni ipi? | 전화번호가 뭐예요?
+e Andika namba yangu ya simu. | 내 전화번호 적어요.
+e Nimebadilisha namba ya simu. | 전화번호를 바꿨어요.
+w salio | 잔액 · 남은 것 | 잔액
+e Angalia salio. | 잔액을 확인해요.
+e Salio halitoshi. | 잔액이 부족해요.
+e Salio lako ni elfu tano. | 잔액이 오천 실링이에요.
+w vocha | 충전 카드 · 영어 voucher | (통화) 충전권
+e Nunua vocha ya elfu moja. | 천 실링짜리 충전권을 사요.
+e Weka vocha kwenye simu. | 휴대폰에 충전해요.
+e Vocha imeisha. | 충전 잔액이 다 됐어요.
+w kifurushi | 데이터·통화 상품 · 원래 '꾸러미' | (통신) 상품, 패키지; 꾸러미
+e Kifurushi cha wiki. | 주간 상품.
+e Nunua kifurushi cha intaneti. | 데이터 상품을 사요.
+e Kifurushi kimeisha. | 상품이 다 됐어요.
+tp 엠페사(M-Pesa)는 케냐 Safaricom에서 시작됐고, 탄자니아에는 M-Pesa, Tigo Pesa, Airtel Money 등이 있어요.
+tp 휴대폰에 돈을 넣거나 현금으로 찾을 때는 길가의 wakala(대리점)에 가요.
+tp 잔액 salio, 충전 vocha, 상품 kifurushi — 휴대폰 생활 3총사예요.
+pr kutuma | 보내다 || kupokea | 받다
+pr salio | 잔액 || vocha | 충전권
+dl 수아 | Bei ni elfu kumi. Naweza kulipa kwa M-Pesa? | 만 실링이에요? 엠페사로 내도 돼요?
+dl 상인 | Ndiyo. Tuma kwa namba hii. | 네. 이 번호로 보내요.
+dl 수아 | Nimetuma. Umepokea? | 보냈어요. 받았어요?
+dl 상인 | Ndiyo, nimepokea. Asante! | 네, 받았어요. 고마워요!
+sm Tuma pesa kwa M-Pesa, angalia salio, nunua kifurushi. | 엠페사로 돈 보내고, 잔액 확인하고, 상품을 사요.
+qz '잔액'은? | salio
+qz '송금하다'는? | kutuma pesa
+
+@ 1-10-03 | 휴대폰 | simu·chaji | 휴대폰과 충전에 대한 말이에요.
+w simu | 전화, 휴대폰 | 전화; 휴대폰
+e Simu yangu imeibiwa. | 휴대폰을 도둑맞았어요.
+e Simu mpya. | 새 휴대폰.
+e Zima simu. | 휴대폰을 꺼요.
+w simu janja | 스마트폰 · janja 영리한 | 스마트폰
+e Simu janja ni ghali. | 스마트폰은 비싸요.
+e Programu za simu janja. | 스마트폰 앱.
+e Nimenunua simu janja. | 스마트폰을 샀어요.
+w kuchaji | 충전하다 | 충전하다
+e Naweza kuchaji simu hapa? | 여기서 휴대폰 충전해도 돼요?
+e Simu inachaji. | 휴대폰이 충전 중이에요.
+e Chaja ya simu. | 휴대폰 충전기.
+w chaji | 배터리 잔량 | 배터리, 충전
+e Simu haina chaji. | 휴대폰 배터리가 없어요.
+e Chaji imeisha. | 배터리가 다 됐어요.
+e Chaji iko asilimia hamsini. | 배터리가 50퍼센트예요.
+w laini | 유심, 회선 · 원래 '줄' | 유심(SIM)
+e Nunua laini mpya. | 새 유심을 사요.
+e Laini ya Vodacom. | 보다콤 유심.
+e Sajili laini kwa kitambulisho. | 신분증으로 유심을 등록해요.
+w mtandao | 통신망, 신호 | 통신망; 신호
+e Hakuna mtandao hapa. | 여기는 신호가 안 잡혀요.
+e Mtandao ni mzuri mjini. | 시내는 신호가 좋아요.
+e Mtandao gani unatumia? | 어느 통신사 써요?
+w kuvunjika | 깨지다, 부러지다 | 깨지다, 부러지다
+e Skrini imevunjika. | 화면이 깨졌어요.
+e Simu ilianguka ikavunjika. | 휴대폰이 떨어져서 깨졌어요.
+e Kikombe kimevunjika. | 컵이 깨졌어요.
+tp 유심은 laini라고 하고, 살 때 여권이나 신분증으로 등록(kusajili)해요.
+tp laini는 '부드럽다'라는 뜻도 있어요: mkate laini(부드러운 빵).
+tp 충전을 부탁할 때: Naweza kuchaji simu?(휴대폰 충전해도 될까요?)
+pr chaji imejaa | 충전 다 됐어요 || chaji imeisha | 배터리 없어요
+pr kuwasha | 켜다 || kuzima | 끄다
+dl 민준 | Simu yangu haina chaji. Naweza kuchaji hapa? | 휴대폰 배터리가 없어요. 여기서 충전해도 돼요?
+dl 할리마 | Ndiyo, chaja iko pale. | 네, 충전기가 저기 있어요.
+dl 민준 | Asante. Pia nahitaji laini ya Tanzania. | 고마워요. 탄자니아 유심도 필요해요.
+dl 할리마 | Nunua kwa wakala, lete pasipoti. | 대리점에서 사요, 여권 가져가요.
+sm Simu janja, laini mpya na chaji iliyojaa. | 스마트폰, 새 유심, 꽉 찬 배터리.
+qz '충전하다'는? | kuchaji
+qz '유심'은? | laini
+
+@ 1-10-04 | 전화·메시지 | kupiga simu·ujumbe | 전화하고 메시지를 보낼 때 쓰는 말이에요.
+w kupiga simu | 전화하다 · piga 치다 | 전화하다
+e Nitakupigia simu jioni. | 저녁에 전화할게.
+e Piga simu kwa mama. | 엄마한테 전화해.
+e Nani amepiga simu? | 누가 전화했어요?
+w Haloo | 여보세요 · 전화 받을 때 | 여보세요
+e Haloo, ni nani? | 여보세요, 누구세요?
+e Haloo, Neema? | 여보세요, 네에마?
+e Haloo, unanisikia? | 여보세요, 들려요?
+w ujumbe | 메시지 · 여럿 jumbe | 메시지, 전갈
+e Nitumie ujumbe. | 메시지 보내 줘.
+e Ujumbe mfupi. | 문자 메시지(SMS).
+e Nimepokea ujumbe wako. | 메시지 받았어요.
+w kusikia | 듣다, 들리다 | 듣다; 들리다
+e Sikusikii vizuri. | 잘 안 들려요.
+e Unanisikia? | 내 말 들려요?
+e Nimesikia habari. | 소식 들었어요.
+w kupokea simu | 전화를 받다 | 전화를 받다
+e Hapokei simu. | 그가 전화를 안 받아요.
+e Pokea simu, tafadhali! | 전화 좀 받아요!
+e Nilikuwa sipokei simu darasani. | 수업 중이라 전화를 못 받았어요.
+w kukata simu | 전화를 끊다 · kata 자르다 | 전화를 끊다
+e Usikate simu! | 끊지 마요!
+e Simu imekatika. | 전화가 끊겼어요.
+e Nitakata simu sasa. | 이제 끊을게요.
+w kupiga tena | 다시 전화하다 · tena 다시 | 다시 걸다
+e Nitakupigia tena baadaye. | 이따 다시 전화할게요.
+e Piga tena, tafadhali. | 다시 걸어 주세요.
+e Nimepiga tena, hapokei. | 다시 걸었는데 안 받아요.
+w video | 영상 · simu ya video = 영상 통화 | 영상
+e Tupigiane simu ya video. | 영상 통화해요.
+e Tuma video. | 영상을 보내요.
+e Video hii ni ya harusi. | 이 영상은 결혼식 거예요.
+tp '~에게 전화하다'는 동사 끝을 -ia로: kupigia(~에게 전화하다): Nitakupigia(너에게 전화할게).
+tp 전화가 잘 안 들릴 때: Sikusikii vizuri(잘 안 들려요). 신호 탓이면 Mtandao ni mbaya.
+tp 문자 메시지는 ujumbe mfupi(짧은 메시지), 줄여서 SMS.
+pr kupiga simu | 전화 걸다 || kupokea simu | 전화 받다
+pr Unanisikia? | 들려요? || Sikusikii. | 안 들려요.
+dl 수아 | Haloo, Baraka? Ni Sua. | 여보세요, 바라카? 수아예요.
+dl 바라카 | Haloo! Sikusikii vizuri. | 여보세요! 잘 안 들려요.
+dl 수아 | Mtandao ni mbaya. Nitakutumia ujumbe. | 신호가 안 좋네요. 메시지 보낼게요.
+dl 바라카 | Sawa, nitakupigia tena baadaye. | 좋아요, 이따 다시 걸게요.
+sm Piga simu, sema 'haloo', tuma ujumbe, kata simu. | 전화 걸고, '여보세요' 하고, 메시지 보내고, 끊어요.
+qz '전화하다'는? | kupiga simu
+qz '메시지'는? | ujumbe
+
+@ 1-10-05 | 신분 확인·서류 작성 | kitambulisho·fomu | 은행·통신사에서 같이 쓰는 서류와 절차 말이에요.
+w kitambulisho | 신분증 · tambulisha 알리다 | 신분증
+e Kitambulisho chako, tafadhali. | 신분증 주세요.
+e Kitambulisho cha taifa. | 국민 신분증.
+e Sina kitambulisho. | 신분증이 없어요.
+w fomu | 서식, 양식 | 서식, 신청서
+e Jaza fomu hii. | 이 서식을 채워요.
+e Fomu ya maombi. | 신청서.
+e Nipe fomu nyingine. | 다른 서식 주세요.
+w kujaza | 채우다, 작성하다 | 채우다; 작성하다
+e Jaza jina na anwani. | 이름과 주소를 적어요.
+e Jaza ndoo kwa maji. | 양동이에 물을 채워요.
+e Nimejaza fomu. | 서식을 다 썼어요.
+w sahihi | 서명 · '맞다'라는 뜻도 | 서명; 맞다
+e Weka sahihi hapa. | 여기에 서명해요.
+e Sahihi yako. | 당신의 서명.
+e Jibu ni sahihi. | 답이 맞아요.
+w anwani | 주소 | 주소
+e Anwani yako ni ipi? | 주소가 어떻게 돼요?
+e Andika anwani ya nyumbani. | 집 주소를 써요.
+e Anwani ya barua pepe. | 이메일 주소.
+w foleni | 줄 | 줄, 대기열
+e Panga foleni. | 줄 서요.
+e Foleni ni ndefu benki. | 은행 줄이 길어요.
+e Nani wa mwisho kwenye foleni? | 줄 맨 끝이 누구예요?
+w risiti | 영수증 | 영수증
+e Naomba risiti. | 영수증 주세요.
+e Hifadhi risiti. | 영수증을 보관해요.
+e Risiti ya M-Pesa. | 엠페사 영수증(문자).
+tp sahihi는 '서명'과 '맞다(정확하다)' 두 뜻이에요: weka sahihi(서명해요), jibu sahihi(맞는 답).
+tp 서류 절차: panga foleni(줄 서기) → jaza fomu(작성) → weka sahihi(서명) → risiti(영수증).
+tp 탄자니아 사람 이름은 이름 + 아버지 이름 + 성 순서로 쓰는 일이 많아요.
+pr kujaza fomu | 서식 쓰기 || kuweka sahihi | 서명하기
+pr anwani | 주소 || namba ya simu | 전화번호
+dl 직원 | Jaza fomu hii na uweke sahihi. | 이 서식을 쓰고 서명해 주세요.
+dl 민준 | Anwani ya Korea au ya hapa? | 한국 주소요, 여기 주소요?
+dl 직원 | Ya hapa Tanzania. Na kitambulisho chako. | 여기 탄자니아 주소요. 그리고 신분증이요.
+dl 민준 | Hii ni pasipoti yangu. | 이게 제 여권이에요.
+sm Panga foleni, jaza fomu, weka sahihi, chukua risiti. | 줄 서고, 서식 쓰고, 서명하고, 영수증 받아요.
+qz '신분증'은? | kitambulisho
+qz '영수증'은? | risiti

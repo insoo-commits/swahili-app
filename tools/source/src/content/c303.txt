@@ -1,0 +1,377 @@
+# P3-D | 감정·상태 표현
+
+@ 3-04-01 | 좋다·예쁘다 | -zuri·-ema·safi | 좋은 것을 말하는 말이에요.
+w -zuri | 좋은, 예쁜 · 모양·품질 | 좋은; 예쁜
+e Siku nzuri. | 좋은 날.
+e Nyumba nzuri. | 예쁜 집.
+e Mtoto mzuri. | 착하고 예쁜 아이.
+w -ema | 착한, 좋은 · 마음·성품 | 착한, 선한
+e Mtu mwema. | 착한 사람.
+e Siku njema! | 좋은 하루 보내요!
+e Safari njema. | 좋은 여행 되세요.
+w safi | 깨끗한, 멋진 · 모양 그대로 | 깨끗한; 멋진, 좋은
+e Chumba ni safi. | 방이 깨끗해요.
+e Maji safi. | 깨끗한 물.
+e Safi sana! | 멋져요!
+w -rembo | 아름다운 · 사람·물건 | 아름다운
+e Msichana mrembo. | 아름다운 아가씨.
+e Kanga nzuri na rembo. | 예쁘고 아름다운 캉가.
+e Mji mrembo. | 아름다운 도시.
+w poa | 좋다, 쿨하다 · 젊은 사람 입말 | 좋아, 괜찮아(속어)
+e Poa! | 좋아!
+e Mambo? — Poa. | 잘 지내? — 좋아.
+e Kila kitu poa. | 다 괜찮아.
+tp -zuri(겉보기·질이 좋은) vs -ema(마음·성품이 착한): mtu mzuri는 '잘생긴 사람', mtu mwema는 '착한 사람'.
+tp 인사말에는 -ema를 많이 써요: Siku njema, Safari njema, Usiku mwema.
+tp safi는 '깨끗한'에서 '멋진'까지, poa는 젊은 사람 말이에요.
+pr mtu mzuri | 잘생긴 사람 || mtu mwema | 착한 사람
+pr safi | 깨끗한 || chafu | 더러운
+dl 주마 | Mambo? | 잘 지내?
+dl 민준 | Poa! Siku nzuri leo. | 좋아! 오늘 날씨 좋다.
+dl 주마 | Kweli. Tutembee mjini? | 맞아. 시내 구경할까?
+dl 민준 | Safi! Twende. | 좋지! 가자.
+sm Nzuri, njema, safi, rembo, poa — maneno mazuri. | 좋고, 착하고, 깨끗하고, 아름답고, 쿨해요 — 좋은 말들.
+qz '착한 사람'은? | Mtu mwema
+qz '좋은 하루 보내요!'는? | Siku njema!
+
+@ 3-04-02 | 기쁘다·슬프다 | furaha·huzuni·kufurahi | 기분을 말해요.
+w furaha | 기쁨 · 명사 | 기쁨, 행복
+e Nina furaha. | 기뻐요(기쁨이 있어요).
+e Furaha yangu ni familia. | 내 행복은 가족이에요.
+e Siku ya furaha. | 기쁜 날.
+w kufurahi | 기뻐하다 | 기뻐하다, 즐거워하다
+e Nimefurahi kukuona. | 만나서 기뻐요.
+e Watoto wanafurahi. | 아이들이 즐거워해요.
+e Furahi! | 기운 내! 즐겨!
+w huzuni | 슬픔 · 명사 | 슬픔
+e Ana huzuni. | 그는 슬퍼요.
+e Habari za huzuni. | 슬픈 소식.
+e Usiwe na huzuni. | 슬퍼하지 마.
+w kuhuzunika | 슬퍼하다 | 슬퍼하다
+e Nimehuzunika kusikia hivyo. | 그 얘기 들으니 슬퍼요.
+e Alihuzunika sana. | 그는 몹시 슬퍼했어요.
+e Usihuzunike. | 슬퍼하지 마.
+w kufurahia | 즐기다 · furahi + ia | 즐기다, 반기다
+e Nimefurahia chakula. | 음식 잘 먹었어요.
+e Furahia likizo! | 휴가 즐겨!
+e Tunafurahia muziki. | 음악을 즐겨요.
+tp 기분은 Nina ~ (~가 있다)로 말해요: Nina furaha, Nina huzuni.
+tp Nimefurahi kukuona = 만나서 반가워요(Nice to meet you).
+tp kufurahia는 '무엇을 즐기다': Nimefurahia safari(여행 즐거웠어요).
+pr Nina furaha. | 기뻐요. || Nina huzuni. | 슬퍼요.
+pr kufurahi | 기뻐하다 || kuhuzunika | 슬퍼하다
+dl 네에마 | Mbona una huzuni? | 왜 슬퍼 보여?
+dl 수아 | Kesho ninarudi Korea. | 내일 한국에 돌아가.
+dl 네에마 | Usihuzunike. Ulifurahia Tanzania? | 슬퍼하지 마. 탄자니아 즐거웠어?
+dl 수아 | Sana! Nina furaha nimekujua. | 정말! 너를 알게 돼서 기뻐.
+sm Furaha na huzuni — hisia mbili. | 기쁨과 슬픔 — 두 가지 감정.
+qz '만나서 기뻐요'는? | Nimefurahi kukuona
+qz '슬퍼하지 마'는? | Usihuzunike
+
+@ 3-04-03 | 화나다·무섭다 | hasira·hofu·kuogopa | 강한 감정이에요.
+w hasira | 화 · 명사 | 화, 분노
+e Ana hasira. | 그는 화가 났어요.
+e Usiwe na hasira. | 화내지 마.
+e Hasira hasara. | 화는 손해다(속담).
+w kukasirika | 화나다 | 화나다
+e Amekasirika. | 그는 화났어요.
+e Usikasirike. | 화내지 마세요.
+e Kwa nini umekasirika? | 왜 화났어요?
+w kuogopa | 무서워하다 | 두려워하다, 무서워하다
+e Naogopa mbwa. | 개가 무서워요.
+e Usiogope. | 무서워하지 마.
+e Anaogopa giza. | 그는 어둠을 무서워해요.
+w hofu | 두려움, 걱정 | 두려움; 걱정
+e Usiwe na hofu. | 걱정 마.
+e Kuna hofu ya mvua kubwa. | 큰비가 올까 걱정돼요.
+e Hofu imeisha. | 두려움이 사라졌어요.
+w kushtuka | 깜짝 놀라다 | 깜짝 놀라다
+e Nimeshtuka! | 깜짝 놀랐어!
+e Usishtuke. | 놀라지 마.
+e Alishtuka kusikia habari. | 그는 소식을 듣고 깜짝 놀랐어요.
+tp 감정 명사 + kuwa na: kuwa na hasira(화나 있다), kuwa na hofu(두렵다).
+tp 동사로: kukasirika(화나다), kuogopa(무서워하다), kushtuka(놀라다).
+tp Hasira hasara는 동아프리카 사람이 다 아는 속담이에요.
+pr Naogopa. | 무서워요. || Sina hofu. | 안 무서워요.
+pr Amekasirika. | 화났어요. || Ameshtuka. | 놀랐어요.
+dl 수아 | Ah! Nimeshtuka. Ni nini kile? | 아! 깜짝이야. 저게 뭐야?
+dl 바라카 | Ni mjusi tu. Usiogope. | 그냥 도마뱀이야. 무서워하지 마.
+dl 수아 | Naogopa wanyama wadogo. | 작은 동물이 무서워.
+dl 바라카 | Usiwe na hofu, hawaumi. | 걱정 마, 안 물어.
+sm Hasira, hofu, kuogopa, kushtuka. | 화, 두려움, 무서워하다, 놀라다.
+qz '개가 무서워요'는? | Naogopa mbwa
+qz '깜짝 놀랐어!'는? | Nimeshtuka!
+
+@ 3-04-04 | 피곤하다·아프다 | kuchoka·kuumwa·kuumia | 몸 상태를 말해요.
+w kuchoka | 피곤하다, 지치다 | 지치다, 피곤하다; 싫증 나다
+e Nimechoka. | 피곤해요.
+e Umechoka? | 피곤해요?
+e Nimechoka na kelele. | 소음에 질렸어요.
+w kuumwa | 아프다 · 병 | 아프다(병)
+e Ninaumwa. | 아파요.
+e Anaumwa malaria. | 그는 말라리아에 걸렸어요.
+e Naumwa kichwa. | 머리가 아파요.
+w kuumia | 다치다 | 다치다
+e Ameumia mguu. | 그는 다리를 다쳤어요.
+e Umeumia? | 다쳤어요?
+e Nimeumia kidogo tu. | 조금 다쳤을 뿐이에요.
+w kuuma | 아프다, 물다 · 부위가 주어 | (부위가) 아프다; 물다
+e Tumbo linauma. | 배가 아파요.
+e Jino linauma. | 이가 아파요.
+e Mbu ameniuma. | 모기가 날 물었어요.
+w kupumzika | 쉬다 | 쉬다
+e Pumzika kidogo. | 좀 쉬어.
+e Leo ninapumzika. | 오늘은 쉬어요.
+e Daktari amesema nipumzike. | 의사가 쉬라고 했어요.
+tp '나는 아프다'는 Ninaumwa, '(부위가) 아프다'는 ~ linauma / inauma.
+tp kuumwa(병으로 아픔) vs kuumia(다침).
+tp Nimechoka = 피곤해요. 지친 뒤엔 Pumzika!
+pr Ninaumwa. | 아파요. || Nimepona. | 나았어요.
+pr kuumia | 다치다 || kupumzika | 쉬다
+dl 의사 | Unaumwa nini? | 어디가 아파요?
+dl 민준 | Kichwa kinauma, na nimechoka sana. | 머리가 아프고 많이 피곤해요.
+dl 의사 | Pumzika siku mbili, kunywa maji mengi. | 이틀 쉬고 물 많이 마셔요.
+dl 민준 | Asante, daktari. | 고맙습니다, 선생님.
+sm Choka, umwa, umia, uma, pumzika. | 지치고, 아프고, 다치고, 쑤시고, 쉬어요.
+qz '배가 아파요'는? | Tumbo linauma
+qz '다쳤어요?'는? | Umeumia?
+
+@ 3-04-05 | 크다·넓다 | -kubwa·-pana·-refu | 크기를 말하는 형용사예요.
+w -kubwa | 큰 | 큰; 중요한
+e Nyumba kubwa. | 큰 집.
+e Mtu mkubwa. | 높은 사람, 어른.
+e Tatizo kubwa. | 큰 문제.
+w -pana | 넓은 · 폭 | (폭이) 넓은
+e Barabara pana. | 넓은 길.
+e Mto mpana. | 넓은 강.
+e Kitanda kipana. | 넓은 침대.
+w -refu | 긴, 키 큰, 높은 | 긴; 키 큰; 높은
+e Mtu mrefu. | 키 큰 사람.
+e Safari ndefu. | 긴 여행.
+e Mti mrefu. | 높은 나무.
+w -nene | 두꺼운, 뚱뚱한 | 두꺼운; 살찐
+e Kitabu kinene. | 두꺼운 책.
+e Amekuwa mnene. | 그는 살이 쪘어요.
+e Nguo nene. | 두꺼운 옷.
+w -zito | 무거운 | 무거운; 어려운
+e Mzigo mzito. | 무거운 짐.
+e Kazi nzito. | 힘든 일.
+e Mvua nzito. | 많은 비.
+tp -kubwa는 크기 전체, -pana는 폭, -refu는 길이·키·높이예요.
+tp Mtu mkubwa는 '덩치 큰 사람'보다 '어른, 높은 사람'으로 많이 써요.
+tp -nene는 '두꺼운'이고, 사람에게 쓰면 '살찐'이에요(조심해서!).
+pr -kubwa | 큰 || -dogo | 작은
+pr -pana | 넓은 || -embamba | 좁은
+dl 수아 | Mzigo wako ni mzito? | 짐 무거워요?
+dl 주마 | Ndiyo, sanduku hili ni kubwa. | 네, 이 상자가 커요.
+dl 수아 | Njia hii ni nyembamba. Twende barabara pana. | 이 길은 좁아요. 넓은 길로 가요.
+dl 주마 | Lakini ni ndefu zaidi! | 근데 더 멀어요!
+sm Kubwa, pana, refu, nene, zito. | 크고, 넓고, 길고, 두껍고, 무거워요.
+qz '키 큰 사람'은? | Mtu mrefu
+qz '무거운 짐'은? | Mzigo mzito
+
+@ 3-04-06 | 어렵다·쉽다 | -gumu·rahisi·tabu | 일의 난이도를 말해요.
+w -gumu | 어려운, 딱딱한 | 어려운; 딱딱한
+e Swali gumu. | 어려운 질문.
+e Kazi ngumu. | 힘든 일.
+e Mkate mgumu. | 딱딱한 빵.
+w rahisi | 쉬운, 싼 · 모양 그대로 | 쉬운; 싼
+e Ni rahisi. | 쉬워요.
+e Kiswahili ni rahisi kidogo. | 스와힐리어는 좀 쉬워요.
+e Bei rahisi. | 싼 값.
+w shida | 어려움, 문제 | 어려움, 곤란; 문제
+e Hakuna shida. | 문제없어요.
+e Nina shida kidogo. | 좀 곤란한 일이 있어요.
+e Maisha ya shida. | 힘든 삶.
+w tabu | 고생, 수고 | 고생, 수고
+e Usipate tabu. | 고생하지 마세요.
+e Nilipata tabu kufika. | 오느라 고생했어요.
+e Pole kwa tabu. | 수고 많았어요.
+w -epesi | 가벼운, 쉬운, 빠른 | 가벼운; 쉬운; 빠른
+e Mzigo mwepesi. | 가벼운 짐.
+e Kazi nyepesi. | 쉬운 일.
+e Ni mwepesi wa kuelewa. | 그는 이해가 빨라요.
+tp -gumu ↔ rahisi(쉬운). rahisi는 '값이 싼'도 돼요.
+tp Hakuna shida = 문제없어요. Hakuna matata와 비슷한 말이에요.
+tp 고생한 사람에게 Pole! / Pole kwa tabu!(수고했어요)
+pr -gumu | 어려운 || rahisi | 쉬운
+pr -zito | 무거운 || -epesi | 가벼운
+dl 민준 | Kiswahili ni kigumu? | 스와힐리어 어려워요?
+dl 할리마 | Hapana, ni rahisi! Matamshi ni rahisi. | 아니요, 쉬워요! 발음이 쉬워요.
+dl 민준 | Lakini sarufi ni ngumu kidogo. | 그런데 문법이 좀 어려워요.
+dl 할리마 | Hakuna shida, polepole! | 문제없어요, 천천히 해요!
+sm Ngumu, rahisi, shida, tabu, epesi. | 어렵고, 쉽고, 곤란하고, 고생스럽고, 가벼워요.
+qz '문제없어요'는? | Hakuna shida
+qz '가벼운 짐'은? | Mzigo mwepesi
+
+# P3-E | 부사·연결 표현
+
+@ 3-05-01 | 빨리·천천히 | haraka·upesi·polepole | 빠르기를 말해요.
+w haraka | 빨리, 서두름 | 빨리; 서두름
+e Njoo haraka! | 빨리 와!
+e Nina haraka. | 바빠요(서둘러요).
+e Haraka haraka haina baraka. | 서두르면 복이 없다(속담).
+w upesi | 빨리 · haraka와 같은 말 | 빨리, 금방
+e Rudi upesi. | 금방 돌아와.
+e Alifika upesi. | 그는 금방 도착했어요.
+e Upesi upesi! | 빨리빨리!
+w polepole | 천천히 · 조심히 | 천천히; 조심히
+e Ongea polepole. | 천천히 말해요.
+e Endesha polepole. | 천천히 운전해요.
+e Polepole ndio mwendo. | 천천히 가는 게 제대로 가는 거다(속담).
+w mapema | 일찍 | 일찍
+e Amka mapema. | 일찍 일어나.
+e Tulifika mapema. | 일찍 도착했어요.
+e Ni mapema bado. | 아직 일러요.
+w kuchelewa | 늦다 | 늦다, 지각하다
+e Samahani, nimechelewa. | 늦어서 죄송해요.
+e Usichelewe! | 늦지 마!
+e Basi limechelewa. | 버스가 늦어요.
+tp haraka = upesi(빨리). Nina haraka = 서둘러야 해요(바빠요).
+tp polepole는 '천천히'와 '조심해, 힘내'라는 뜻도 있어요.
+tp 늦었을 때: Samahani, nimechelewa.
+pr haraka | 빨리 || polepole | 천천히
+pr mapema | 일찍 || kuchelewa | 늦다
+dl 운전사 | Haraka! Basi linaondoka! | 빨리요! 버스 떠나요!
+dl 수아 | Subiri! Nimechelewa kidogo. | 기다려요! 좀 늦었어요.
+dl 운전사 | Panda upesi. | 빨리 타요.
+dl 수아 | Asante. Lakini endesha polepole, tafadhali. | 고마워요. 그래도 천천히 운전해 주세요.
+sm Haraka, upesi, polepole, mapema, chelewa. | 빨리, 금방, 천천히, 일찍, 늦게.
+qz '늦어서 죄송해요'는? | Samahani, nimechelewa
+qz '천천히 말해요'는? | Ongea polepole
+
+@ 3-05-02 | 역접 연결 표현 | lakini·ila·bali | 앞말과 반대되는 말을 이어요.
+w lakini | 그러나, 하지만 | 그러나, 하지만
+e Nataka kwenda, lakini sina pesa. | 가고 싶지만 돈이 없어요.
+e Ni ghali, lakini ni nzuri. | 비싸지만 좋아요.
+e Lakini kwa nini? | 그런데 왜요?
+w ila | ~만 빼고, 그런데 | ~을 빼고; 다만
+e Wote wamekuja ila Juma. | 주마만 빼고 다 왔어요.
+e Kila siku ila Jumapili. | 일요일만 빼고 매일.
+e Ni nzuri, ila ni ndogo. | 좋은데 다만 작아요.
+w bali | ~가 아니라 · 글말 | ~이 아니라(오히려)
+e Si mimi bali yeye. | 내가 아니라 그 사람이에요.
+e Siyo leo bali kesho. | 오늘이 아니라 내일이에요.
+e Hakulala, bali alisoma. | 그는 자지 않고 공부했어요.
+w isipokuwa | ~을 제외하고 | ~을 제외하고, ~이 아니면
+e Duka liko wazi isipokuwa Jumapili. | 가게는 일요일만 빼고 열어요.
+e Wote isipokuwa wewe. | 너만 빼고 모두.
+e Sitakuja isipokuwa ukiniita. | 네가 부르지 않으면 안 갈 거야.
+w hata hivyo | 그래도 | 그렇지만, 그래도
+e Ni mbali; hata hivyo tutaenda. | 멀어요. 그래도 갈 거예요.
+e Hata hivyo, asante. | 그래도 고마워요.
+e Ilinyesha, hata hivyo tulicheza. | 비가 왔지만 그래도 놀았어요.
+tp lakini가 가장 흔한 '하지만'이에요.
+tp ila = isipokuwa(~만 빼고). ila는 '다만'으로도 써요.
+tp si A bali B = A가 아니라 B.
+pr lakini | 하지만 || na | 그리고
+pr ila Juma | 주마만 빼고 || na Juma | 주마도
+dl 민준 | Duka linafunguliwa kila siku? | 가게 매일 열어요?
+dl 상인 | Ndiyo, ila Ijumaa mchana. | 네, 금요일 오후만 빼고요.
+dl 민준 | Bei ni nzuri, lakini sina pesa taslimu. | 값은 좋은데 현금이 없어요.
+dl 상인 | Hakuna shida, tumia M-Pesa. | 괜찮아요, 엠페사 쓰세요.
+sm Lakini, ila, bali, isipokuwa, hata hivyo. | 하지만, ~만 빼고, ~가 아니라, ~을 제외하고, 그래도.
+qz '주마만 빼고 다 왔어요'는? | Wote wamekuja ila Juma
+qz '그래도 고마워요'는? | Hata hivyo, asante
+
+@ 3-05-03 | 원인·결과 연결 표현 | kwa sababu·kwa hiyo·ndiyo maana | 이유와 결과를 이어요.
+w kwa sababu | 왜냐하면, ~ 때문에 | ~ 때문에
+e Sikuja kwa sababu nilikuwa naumwa. | 아파서 못 왔어요.
+e Kwa sababu gani? | 무슨 이유로요?
+e Nimefurahi kwa sababu umekuja. | 네가 와서 기뻐.
+w kwa hiyo | 그래서, 따라서 | 그래서
+e Mvua inanyesha, kwa hiyo tutabaki. | 비가 와서 남아 있을게요.
+e Nimechoka, kwa hiyo nitalala. | 피곤해서 잘게요.
+e Kwa hiyo? | 그래서요?
+w ndiyo maana | 그래서 ~한 거예요 | 그래서 ~인 거예요
+e Ndiyo maana nimechelewa. | 그래서 늦은 거예요.
+e Ana homa; ndiyo maana hakuja. | 열이 나요. 그래서 안 온 거예요.
+e Ah, ndiyo maana! | 아, 그래서였구나!
+w kwa nini | 왜 | 왜
+e Kwa nini umechelewa? | 왜 늦었어요?
+e Kwa nini hapana? | 왜 안 돼요?
+e Sijui kwa nini. | 왜인지 몰라요.
+w mbona | 왜 · 놀람, 불만 | 왜(어째서)
+e Mbona hukuja? | 어째서 안 왔어?
+e Mbona bei juu hivi? | 왜 이렇게 비싸요?
+e Mbona umekasirika? | 왜 화났어?
+tp kwa nini(왜, 중립) vs mbona(어째서, 놀람·불만이 섞임).
+tp 원인 → 결과: kwa sababu(때문에), kwa hiyo(그래서), ndiyo maana(그래서 ~인 거야).
+tp Kwa sababu gani? = 무슨 이유로?
+pr kwa nini | 왜 || kwa sababu | 왜냐하면
+pr kwa hiyo | 그래서 || ndiyo maana | 그래서 ~한 거야
+dl 선생님 | Kwa nini umechelewa, Baraka? | 바라카, 왜 늦었니?
+dl 바라카 | Kwa sababu basi liliharibika. | 버스가 고장 나서요.
+dl 선생님 | Mbona hukupiga simu? | 왜 전화 안 했니?
+dl 바라카 | Simu imekwisha chaji. Ndiyo maana. | 휴대폰 배터리가 다 됐어요. 그래서요.
+sm Kwa nini? Kwa sababu... Kwa hiyo... Ndiyo maana. | 왜? 왜냐하면… 그래서… 그래서였어.
+qz '왜 늦었어요?'는? | Kwa nini umechelewa?
+qz '그래서 늦은 거예요'는? | Ndiyo maana nimechelewa
+
+@ 3-05-04 | 아직·벌써 | bado·tayari·-me- | 시간의 흐름을 말해요.
+w bado | 아직 | 아직; 아직 아니다
+e Bado. | 아직이요.
+e Bado niko kazini. | 아직 직장이에요.
+e Bado hajafika. | 아직 안 왔어요.
+w tayari | 벌써, 준비된 | 벌써; 준비된
+e Chakula kiko tayari. | 음식 준비됐어요.
+e Uko tayari? | 준비됐어요?
+e Ameshaondoka tayari. | 벌써 떠났어요.
+w -sha- | 이미 · 동사 안에 | 이미 ~했다
+e Nimeshakula. | 이미 먹었어요.
+e Ameshafika. | 벌써 왔어요.
+e Umeshalipa? | 벌써 계산했어요?
+w sasa hivi | 지금 바로, 곧 | 지금 당장; 곧
+e Nakuja sasa hivi. | 지금 바로 갈게요.
+e Ameondoka sasa hivi. | 방금 떠났어요.
+e Fanya sasa hivi. | 지금 당장 해.
+w bado kidogo | 조금 더 · 곧 | 조금만 더; 거의
+e Bado kidogo tufike. | 조금만 더 가면 도착해요.
+e Subiri bado kidogo. | 조금만 더 기다려요.
+e Bado kidogo nianguke! | 하마터면 넘어질 뻔했어요!
+tp bado는 혼자 '아직이요', 부정 ha-ja-와 함께 '아직 안 했다': hajafika.
+tp -sha-는 '이미': nimeshakula(이미 먹었어). tayari와 같이 쓰기도 해요.
+tp sasa hivi는 '지금 바로'와 '방금' 둘 다 돼요. 동아프리카의 sasa hivi는 조금 걸릴 수도…
+pr Bado. | 아직이요. || Tayari. | 벌써요/준비됐어요.
+pr hajafika | 아직 안 왔어요 || ameshafika | 벌써 왔어요
+dl 수아 | Umeshakula? | 벌써 먹었어?
+dl 주마 | Bado. Chakula kiko tayari? | 아직. 밥 준비됐어?
+dl 수아 | Bado kidogo. Dakika tano. | 조금만 더. 5분.
+dl 주마 | Sawa, nakuja sasa hivi. | 알았어, 바로 갈게.
+sm Bado, tayari, -sha-, sasa hivi. | 아직, 벌써, 이미, 지금 바로.
+qz '아직 안 왔어요'는? | Bado hajafika
+qz '이미 먹었어요'는? | Nimeshakula
+
+@ 3-05-05 | 함께·혼자 | pamoja·peke·wote | 누구와 함께하는지를 말해요.
+w pamoja | 함께 | 함께, 같이
+e Twende pamoja. | 같이 가요.
+e Tunaishi pamoja. | 우리는 함께 살아요.
+e Pamoja tunaweza. | 함께라면 할 수 있어요.
+w peke yangu | 나 혼자 · peke + 소유 | 혼자서
+e Nilisafiri peke yangu. | 혼자 여행했어요.
+e Anaishi peke yake. | 그는 혼자 살아요.
+e Uko peke yako? | 혼자예요?
+w -ote | 모든, 다 · 앞말이 붙음 | 모두, 전부
+e Sote tumefika. | 우리 모두 도착했어요.
+e Watu wote. | 모든 사람.
+e Chakula chote kimekwisha. | 음식이 다 떨어졌어요.
+w kila | 매, 각 · 명사 앞 | 모든, 매(每)
+e Kila siku. | 매일.
+e Kila mtu. | 누구나.
+e Kila kitu ni sawa. | 다 괜찮아요.
+w na | ~와, ~하고 | 그리고; ~와 함께
+e Mimi na wewe. | 나와 너.
+e Chai na maziwa. | 우유 넣은 차.
+e Nilikwenda na rafiki. | 친구와 같이 갔어요.
+tp peke + 소유: peke yangu(나 혼자), peke yako(너 혼자), peke yake(그 혼자), peke yetu(우리끼리).
+tp -ote는 앞말이 붙어요: sote(우리 모두), nyote(너희 모두), wote(그들 모두).
+tp kila는 늘 명사 앞: kila siku, kila mwaka.
+pr pamoja | 함께 || peke yangu | 혼자
+pr wote | 모두 || kila mtu | 각자 모두
+dl 직원 | Uko peke yako? | 혼자세요?
+dl 민준 | Hapana, tuko pamoja wanne. | 아니요, 네 명 같이 왔어요.
+dl 직원 | Sawa. Mnakaa wote chumba kimoja? | 알겠어요. 다 한 방에 묵으세요?
+dl 민준 | Hapana, kila mtu anataka chumba chake. | 아니요, 각자 방을 원해요.
+sm Pamoja, peke yangu, wote, kila, na. | 함께, 혼자, 모두, 매, 그리고.
+qz '혼자 여행했어요'는? | Nilisafiri peke yangu
+qz '같이 가요'는? | Twende pamoja

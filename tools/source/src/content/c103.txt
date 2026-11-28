@@ -1,0 +1,323 @@
+# P5-B | 음식·식당
+
+@ 1-03-01 | 주문하기 | Naomba·Nipe | 식당(hoteli, mgahawa)에서 주문하고 계산할 때 쓰는 말이에요. 동아프리카에서는 작은 식당도 hoteli라고 불러요.
+w Naomba… | ~ 주세요 · '부탁드려요'(공손) | ~ 주세요(공손)
+e Naomba maji, tafadhali. | 물 좀 주세요.
+e Naomba menyu. | 메뉴판 주세요.
+e Naomba chai moja. | 차 한 잔 주세요.
+w Nipe… | ~ 줘요 · ni 나에게 + pe 주다 | ~ 줘요
+e Nipe wali na maharage. | 밥이랑 콩 주세요.
+e Nipe chai ya maziwa. | 밀크티 줘요.
+e Nipe kijiko, tafadhali. | 숟가락 주세요.
+w Nataka… | ~를 원해요 · ninataka의 줄임말 | ~를 원해요, ~하고 싶어요
+e Nataka kula ugali. | 우갈리 먹고 싶어요.
+e Nataka chips mayai. | 칩스 마야이 주세요.
+e Sitaki pilipili. | 고추는 빼 주세요.
+w menyu | 메뉴, 메뉴판 | 메뉴
+e Menyu iko wapi? | 메뉴판 어디 있어요?
+e Leo kuna nini kwenye menyu? | 오늘 메뉴에 뭐가 있어요?
+e Menyu hii ni kwa Kiswahili. | 이 메뉴는 스와힐리어로 돼 있어요.
+w hoteli | 식당 · 원래 '호텔', 동아프리카에서는 작은 식당 | 식당; 호텔
+e Twende hoteli tukale. | 식당 가서 밥 먹자.
+e Hoteli hii ina chakula kizuri. | 이 식당 음식 맛있어요.
+e Hoteli iko karibu na soko. | 식당은 시장 근처에 있어요.
+w mhudumu | 종업원 · 시중드는 사람 | 종업원, 웨이터
+e Mhudumu, samahani! | 저기요(종업원님)!
+e Mhudumu analeta chakula. | 종업원이 음식을 가져와요.
+e Mhudumu huyu ni mkarimu. | 이 종업원은 친절해요.
+w bili | 계산서 · 영어 bill | 계산서
+e Naomba bili, tafadhali. | 계산서 주세요.
+e Bili ni shilingi ngapi? | 계산서 얼마예요?
+e Nitalipa bili kwa M-Pesa. | 엠페사로 계산할게요.
+w kulipa | 내다, 지불하다 | 지불하다, 돈을 내다
+e Nitalipa mimi leo. | 오늘은 제가 낼게요.
+e Ninalipa kwa simu. | 휴대폰으로 낼게요.
+e Umeshalipa? | 벌써 냈어요?
+tp 주문은 Naomba ~(공손), Nipe ~(편하게), Nataka ~(원해요). 끝에 tafadhali를 붙이면 더 부드러워요.
+tp 종업원을 부를 때는 Samahani! 하거나 손을 살짝 들어요. 큰 소리로 부르는 건 실례예요.
+tp 계산: Naomba bili / Hesabu tafadhali. 동아프리카에서는 휴대폰 송금 M-Pesa로 많이 내요.
+pr Naomba menyu. | 메뉴판 주세요. || Naomba bili. | 계산서 주세요.
+pr Nataka chai. | 차 주세요. || Sitaki chai. | 차는 됐어요.
+dl 종업원 | Karibu! Unataka nini? | 어서 오세요! 뭐 드릴까요?
+dl 민준 | Naomba wali na kuku, tafadhali. | 밥이랑 닭고기 주세요.
+dl 종업원 | Na kinywaji? | 음료는요?
+dl 민준 | Nipe maji baridi. | 시원한 물 주세요.
+sm Naomba menyu, nipe chakula, halafu naomba bili. | 메뉴판 주세요, 음식 주세요, 그리고 계산서 주세요.
+qz '계산서 주세요'는? | Naomba bili
+qz mhudumu 는? | 종업원
+
+@ 1-03-02 | 주요 음식 | ugali·wali·chapati | 동아프리카 사람들이 매일 먹는 주식이에요. 우갈리는 옥수숫가루를 쪄서 만든 덩어리예요.
+w ugali | 우갈리 · 옥수숫가루를 끓는 물에 개어 만든 주식 | 우갈리(옥수수 떡)
+e Ugali na sukuma wiki. | 우갈리와 케일 볶음.
+e Tunakula ugali kila siku. | 우리는 매일 우갈리를 먹어요.
+e Ugali unaliwa kwa mkono. | 우갈리는 손으로 먹어요.
+w wali | 밥 | 밥(지은 쌀)
+e Wali na maharage. | 밥이랑 콩.
+e Wali wa nazi ni mtamu. | 코코넛 밥이 맛있어요.
+e Nimepika wali mwingi. | 밥을 많이 지었어요.
+w mchele | 쌀 · 익히기 전 | 쌀
+e Kilo moja ya mchele. | 쌀 1킬로.
+e Mchele wa Kyela ni maarufu. | 키엘라 쌀이 유명해요.
+e Osha mchele kwanza. | 먼저 쌀을 씻어요.
+w chapati | 차파티 · 기름에 구운 밀가루 빵 | 차파티(납작한 밀빵)
+e Chapati mbili, tafadhali. | 차파티 두 장 주세요.
+e Chapati na chai asubuhi. | 아침에 차파티와 차.
+e Mama anapika chapati. | 엄마가 차파티를 구워요.
+w pilau | 필라우 · 향신료를 넣은 볶음밥 | 필라우(향신료 밥)
+e Pilau ya nyama. | 고기 필라우.
+e Kwenye harusi tulikula pilau. | 결혼식에서 필라우를 먹었어요.
+e Pilau ina viungo vingi. | 필라우에는 향신료가 많이 들어가요.
+w mkate | 빵 | 빵
+e Mkate na siagi. | 빵과 버터.
+e Nunua mkate dukani. | 가게에서 빵 사 와.
+e Mkate huu ni laini. | 이 빵은 부드러워요.
+w maharage | 콩 · 붉은 강낭콩 요리 | 콩, 콩 요리
+e Maharage ya nazi. | 코코넛 콩 요리.
+e Wali na maharage ni chakula cha kawaida. | 밥과 콩은 흔한 음식이에요.
+e Maharage yamepikwa vizuri. | 콩이 잘 익었어요.
+w viazi | 감자 · 여럿 | 감자(들)
+e Chips ni viazi vya kukaanga. | 칩스는 튀긴 감자예요.
+e Viazi vitamu. | 고구마('단 감자').
+e Nipe viazi na nyama. | 감자랑 고기 주세요.
+w ndizi | 바나나 · 요리용 바나나(plantain)도 | 바나나
+e Ndizi za kupika. | 요리용 바나나.
+e Ndizi mbivu ni tamu. | 익은 바나나는 달아요.
+e Matoke ni ndizi za kupika. | 마토케는 요리용 바나나예요.
+tp 우갈리는 오른손으로 조금 떼어 둥글게 만든 뒤 반찬을 찍어 먹어요.
+tp chipsi mayai(칩스 마야이)는 감자튀김을 달걀에 부친 탄자니아 길거리 음식이에요.
+tp 쌀은 익히기 전 mchele, 지은 밥은 wali. 한국어 '쌀/밥'처럼 구별해요.
+pr mchele | 쌀 || wali | 밥
+pr ugali | 우갈리 || chapati | 차파티
+dl 수아 | Ugali ni nini? | 우갈리가 뭐예요?
+dl 니에마 | Ni unga wa mahindi uliopikwa. | 옥수숫가루를 익힌 거예요.
+dl 수아 | Unaliwa namna gani? | 어떻게 먹어요?
+dl 니에마 | Kwa mkono, na mboga au nyama. | 손으로, 채소나 고기랑 같이 먹어요.
+sm Ugali, wali, chapati na ndizi — chakula cha kila siku. | 우갈리, 밥, 차파티, 바나나 — 매일 먹는 음식.
+qz '밥'은? | wali
+qz 옥수숫가루로 만든 주식은? | ugali
+
+@ 1-03-03 | 고기·생선·달걀 | nyama·kuku·samaki | 고기는 nyama, 그 뒤에 동물 이름을 붙여요: nyama ya ng'ombe(소고기).
+w nyama | 고기 | 고기
+e Nyama ya ng'ombe. | 소고기.
+e Sili nyama. | 저는 고기를 안 먹어요.
+e Nyama hii ni laini. | 이 고기는 부드러워요.
+w nyama choma | 구운 고기 · 숯불에 구운 고기 | 숯불구이 고기
+e Tunakula nyama choma Jumamosi. | 토요일에 숯불구이를 먹어요.
+e Nyama choma ya mbuzi. | 염소고기 숯불구이.
+e Nyama choma na kachumbari. | 숯불구이와 토마토 양파 샐러드.
+w kuku | 닭, 닭고기 | 닭, 닭고기
+e Kuku wa kienyeji. | 토종닭.
+e Supu ya kuku. | 닭고기 수프.
+e Kuku anataga mayai. | 닭이 알을 낳아요.
+w samaki | 생선, 물고기 | 물고기, 생선
+e Samaki wa kukaanga. | 생선튀김.
+e Samaki wa Ziwa Victoria. | 빅토리아 호수 물고기.
+e Wavuvi wameleta samaki wengi. | 어부들이 물고기를 많이 가져왔어요.
+w mbuzi | 염소 · 고기로 많이 먹음 | 염소
+e Nyama ya mbuzi. | 염소고기.
+e Mbuzi wanakula majani. | 염소들이 풀을 먹어요.
+e Tulichinja mbuzi kwa sherehe. | 잔치를 위해 염소를 잡았어요.
+w yai | 달걀 · 여럿은 mayai | 달걀
+e Yai moja la kuchemsha. | 삶은 달걀 하나.
+e Mayai mawili, tafadhali. | 달걀 두 개 주세요.
+e Chipsi mayai. | 칩스 마야이(감자 달걀부침).
+w supu | 수프 | 수프, 국
+e Supu ya ng'ombe. | 소고기 수프.
+e Supu hii ni moto sana. | 이 수프 아주 뜨거워요.
+e Asubuhi watu wanakunywa supu. | 아침에 사람들이 수프를 먹어요.
+w mchuzi | 국물 요리, 소스 · 스튜 | 스튜, 국물 요리
+e Mchuzi wa samaki. | 생선 스튜.
+e Mchuzi wa nazi. | 코코넛 커리.
+e Ongeza mchuzi kidogo. | 국물 조금 더 주세요.
+tp '~의 고기'는 nyama ya + 동물: nyama ya kuku(닭고기), nyama ya nguruwe(돼지고기), nyama ya mbuzi(염소고기).
+tp 무슬림이 많은 해안 지역에서는 돼지고기를 거의 안 먹어요.
+tp 달걀 하나 yai, 여럿 mayai (ji-ma 부류: 7-05).
+pr yai | 달걀 하나 || mayai | 달걀 여럿
+pr kuku | 닭 || samaki | 생선
+dl 종업원 | Leo tuna kuku, samaki na nyama choma. | 오늘은 닭, 생선, 숯불구이가 있어요.
+dl 수아 | Samaki ni wa wapi? | 생선은 어디 거예요?
+dl 종업원 | Wa Ziwa Victoria, ni mbichi. | 빅토리아 호수 거예요, 신선해요.
+dl 수아 | Sawa, nipe samaki na wali. | 좋아요, 생선이랑 밥 주세요.
+sm Nyama choma, kuku, samaki na mayai — chagua! | 숯불구이, 닭, 생선, 달걀 — 골라요!
+qz '구운 고기'는? | nyama choma
+qz samaki 는? | 생선
+
+@ 1-03-04 | 채소·맛 | mboga·tamu·chumvi | 반찬 채소와 맛을 말해요. 맛있다는 tamu(달다)로 말해요.
+w mboga | 채소, 반찬 | 채소; 반찬
+e Mboga za majani. | 잎채소.
+e Ugali na mboga. | 우갈리와 반찬.
+e Mboga hizi ni freshi. | 이 채소들은 신선해요.
+w sukuma wiki | 케일 볶음 · '한 주를 밀고 가다' | 케일(콜라드) 볶음
+e Sukuma wiki ni bei rahisi. | 케일은 값이 싸요.
+e Ugali na sukuma wiki. | 우갈리와 케일 볶음.
+e Mama anakata sukuma wiki. | 엄마가 케일을 썰어요.
+w nyanya | 토마토 | 토마토
+e Nyanya mbivu. | 익은 토마토.
+e Kata nyanya na kitunguu. | 토마토와 양파를 썰어요.
+e Bei ya nyanya imepanda. | 토마토 값이 올랐어요.
+w kitunguu | 양파 · 마늘은 kitunguu saumu | 양파
+e Kitunguu kimoja. | 양파 하나.
+e Kitunguu saumu. | 마늘.
+e Vitunguu vinanuka sana. | 양파 냄새가 심해요.
+w -tamu | 맛있다, 달다 · kitamu, mtamu처럼 앞이 바뀜 | 맛있다; 달다
+e Chakula hiki ni kitamu. | 이 음식 맛있어요.
+e Chai tamu. | 달달한 차.
+e Embe hili ni tamu sana. | 이 망고 정말 달아요.
+w chumvi | 소금 · 짠: -enye chumvi, ~ ina chumvi | 소금
+e Ongeza chumvi kidogo. | 소금 조금 더 넣어요.
+e Chakula kina chumvi nyingi. | 음식이 너무 짜요.
+e Hakuna chumvi. | 소금이 없어요(싱거워요).
+w pilipili | 고추 · 매운: -kali | 고추
+e Pilipili hoho. | 피망.
+e Sitaki pilipili, tafadhali. | 고추는 빼 주세요.
+e Mchuzi huu una pilipili kali. | 이 스튜는 매워요.
+w sukari | 설탕 | 설탕
+e Chai bila sukari. | 설탕 없는 차.
+e Vijiko viwili vya sukari. | 설탕 두 숟가락.
+e Sukari imeisha. | 설탕이 떨어졌어요.
+tp '맛있다'는 -tamu에 명사 부류 앞말을 붙여요: chakula kitamu, wali mtamu, ndizi tamu.
+tp 매운 정도: pilipili kidogo(조금 맵게), bila pilipili(안 맵게), kali(아주 맵게).
+tp 해안 요리는 코코넛(nazi)과 향신료(viungo)가 많이 들어가요.
+pr tamu | 맛있다·달다 || chumvi nyingi | 짜다
+pr na pilipili | 맵게 || bila pilipili | 안 맵게
+dl 바라카 | Chakula kiko vipi? | 음식 어때요?
+dl 수아 | Kitamu sana, lakini kina pilipili kali! | 정말 맛있는데 매워요!
+dl 바라카 | Kunywa maji. Pole! | 물 마셔요. 저런!
+dl 수아 | Asante. Kesho bila pilipili. | 고마워요. 내일은 고추 없이요.
+sm Mboga, nyanya na kitunguu — kitamu bila pilipili. | 채소, 토마토, 양파 — 고추 없이도 맛있어요.
+qz '맛있다'는? | -tamu (kitamu)
+qz pilipili 는? | 고추
+
+@ 1-03-05 | 음료 | chai·kahawa·maji | 동아프리카 사람들은 하루에 차를 여러 번 마셔요. 우유와 설탕을 넣은 진한 차가 기본이에요.
+w chai | 차 · 보통 우유·설탕을 넣음 | 차
+e Chai ya maziwa. | 밀크티.
+e Chai ya tangawizi. | 생강차.
+e Karibu chai! | 차 드시러 오세요!
+w kahawa | 커피 | 커피
+e Kahawa chungu. | 쓴 커피(블랙).
+e Kahawa ya Kilimanjaro ni maarufu. | 킬리만자로 커피는 유명해요.
+e Wazee wanakunywa kahawa barabarani. | 어르신들이 길에서 커피를 마셔요.
+w maji | 물 | 물
+e Maji baridi. | 찬물.
+e Maji ya kunywa. | 마실 물.
+e Maji ya chupa, tafadhali. | 생수 주세요.
+w maziwa | 우유 | 우유
+e Maziwa ya moto. | 따뜻한 우유.
+e Chai bila maziwa. | 우유 없는 차.
+e Mtoto anakunywa maziwa. | 아이가 우유를 마셔요.
+w juisi | 주스 | 주스
+e Juisi ya embe. | 망고 주스.
+e Juisi ya miwa. | 사탕수수 주스.
+e Juisi hii ni freshi. | 이 주스는 생과일이에요.
+w soda | 탄산음료 | 탄산음료
+e Soda baridi. | 시원한 탄산음료.
+e Soda moja na maji mawili. | 탄산음료 하나, 물 둘.
+e Watoto wanapenda soda. | 아이들은 탄산음료를 좋아해요.
+w kunywa | 마시다 | 마시다
+e Unakunywa nini? | 뭐 마실래요?
+e Ninakunywa chai kila asubuhi. | 매일 아침 차를 마셔요.
+e Kunywa maji mengi. | 물 많이 마셔요.
+w kikombe | 컵, 잔 | 컵, 잔
+e Kikombe cha chai. | 차 한 잔.
+e Vikombe viwili vya kahawa. | 커피 두 잔.
+e Kikombe hiki ni kichafu. | 이 컵이 더러워요.
+tp 동아프리카에서 Karibu chai(차 마셔요)는 '잠깐 쉬어 가요'라는 인사처럼 써요.
+tp 수돗물은 끓여 마시거나 maji ya chupa(병에 든 물)를 사요.
+tp '~ 한 잔'은 kikombe cha ~: kikombe cha chai, kikombe cha kahawa.
+pr chai | 차 || kahawa | 커피
+pr moto | 뜨거운 || baridi | 차가운
+dl 할리마 | Karibu chai, Minjun! | 민준, 차 마시고 가요!
+dl 민준 | Asante. Chai ya maziwa? | 고마워요. 밀크티예요?
+dl 할리마 | Ndiyo, na tangawizi kidogo. Sukari? | 네, 생강도 조금 넣었어요. 설탕은요?
+dl 민준 | Kidogo tu, tafadhali. | 조금만 주세요.
+sm Kikombe cha chai, maji baridi na juisi ya embe. | 차 한 잔, 찬물, 망고 주스.
+qz '물'은? | maji
+qz '차 한 잔'은? | kikombe cha chai
+
+@ 1-03-06 | 식사 예절 | Karibu chakula·Nimeshiba | 밥을 권하고 배부르다고 말하는 표현이에요.
+w Karibu chakula | 같이 드세요 · 밥 먹을 때 옆 사람에게 | 같이 드세요(식사 권유)
+e Karibu chakula, rafiki. | 친구야, 같이 먹자.
+e Karibu chakula! — Asante, nimeshiba. | 같이 드세요! — 고마워요, 배불러요.
+e Wageni, karibuni chakula. | 손님들, 식사하세요.
+w kunawa mikono | 손을 씻다 · 밥 먹기 전 | 손을 씻다
+e Nawa mikono kabla ya kula. | 먹기 전에 손 씻어요.
+e Maji ya kunawa yako hapa. | 손 씻을 물이 여기 있어요.
+e Watoto, nawa mikono! | 얘들아, 손 씻어!
+w njaa | 배고픔 · nina njaa 배고파요 | 배고픔
+e Nina njaa sana. | 너무 배고파요.
+e Una njaa? | 배고파요?
+e Njaa imeisha. | 배고픔이 가셨어요.
+w kiu | 목마름 · nina kiu 목말라요 | 목마름
+e Nina kiu. | 목말라요.
+e Kiu kali. | 심한 갈증.
+e Kunywa maji, una kiu. | 물 마셔, 목마르잖아.
+w Nimeshiba | 배불러요 · ni 나 + me 완료 + shiba 배부르다 | 배불러요
+e Asante, nimeshiba. | 고마워요, 배불러요.
+e Nimeshiba sana. | 아주 배불러요.
+e Bado hujashiba? | 아직 배 안 불러요?
+w kula | 먹다 | 먹다
+e Tule pamoja. | 같이 먹어요.
+e Ninakula wali. | 밥을 먹어요.
+e Umekula? | 밥 먹었어요?
+w pamoja | 함께 | 함께, 같이
+e Tunakula pamoja. | 우리는 함께 먹어요.
+e Twende pamoja. | 같이 가요.
+e Pamoja na familia. | 가족과 함께.
+w kuongeza | 더하다 · 더 먹다 | 더하다, 보태다
+e Ongeza wali? | 밥 더 줄까요?
+e Naomba kuongeza mchuzi. | 국물 더 주세요.
+e Ameongeza chumvi. | 그가 소금을 더 넣었어요.
+tp 손으로 먹을 때는 오른손을 써요. 왼손으로 음식을 건네는 건 실례예요.
+tp 식사 중인 사람은 지나가는 사람에게도 Karibu chakula라고 권해요. 대답은 Asante(고마워요).
+tp 'nina ~'로 몸 상태를 말해요: nina njaa(배고파요), nina kiu(목말라요).
+pr Nina njaa. | 배고파요. || Nimeshiba. | 배불러요.
+pr Nina kiu. | 목말라요. || Kunywa maji. | 물 마셔요.
+dl 할머니 | Karibu chakula, mwanangu. Ongeza ugali! | 얘야, 먹으렴. 우갈리 더 먹어!
+dl 수아 | Asante bibi, nimeshiba sana. | 고마워요 할머니, 정말 배불러요.
+dl 할머니 | Bado! Kula kidogo tena. | 아직이야! 조금만 더 먹으렴.
+dl 수아 | Haya, kidogo tu. Ni kitamu sana. | 네, 조금만요. 정말 맛있어요.
+sm Nawa mikono, karibu chakula, kula pamoja mpaka ushibe. | 손 씻고, 같이 먹고, 배부를 때까지 먹어요.
+qz '배고파요'는? | Nina njaa
+qz '배불러요'는? | Nimeshiba
+
+@ 1-03-07 | 식기·식탁 표현 | kijiko·sahani | 식탁에서 같이 쓰는 말: 그릇, 숟가락, 맛, 뜨겁고 차가운 것.
+w sahani | 접시 | 접시
+e Sahani safi. | 깨끗한 접시.
+e Osha sahani. | 접시를 씻어요.
+e Sahani ya wali. | 밥 한 접시.
+w kijiko | 숟가락 | 숟가락
+e Kijiko na uma. | 숟가락과 포크.
+e Naomba kijiko kingine. | 숟가락 하나 더 주세요.
+e Kijiko kimoja cha sukari. | 설탕 한 숟가락.
+w kisu | 칼 | 칼
+e Kisu kikali. | 잘 드는 칼.
+e Kata nyama kwa kisu. | 칼로 고기를 썰어요.
+e Kisu kiko jikoni. | 칼은 부엌에 있어요.
+w moto | 뜨거운, 불 | 뜨거운; 불
+e Chai ya moto. | 뜨거운 차.
+e Chakula bado ni moto. | 음식이 아직 뜨거워요.
+e Washa moto. | 불을 켜요.
+w baridi | 차가운, 추운 | 차가운; 추위
+e Soda baridi. | 시원한 탄산음료.
+e Chakula kimepoa, ni baridi. | 음식이 식어서 차가워요.
+e Leo kuna baridi. | 오늘 추워요.
+w kupika | 요리하다 | 요리하다, 밥을 짓다
+e Mama anapika jikoni. | 엄마가 부엌에서 요리해요.
+e Ninajua kupika pilau. | 저는 필라우를 만들 줄 알아요.
+e Nani amepika chakula hiki? | 이 음식은 누가 만들었어요?
+w chakula | 음식 | 음식, 밥
+e Chakula cha asubuhi. | 아침밥.
+e Chakula cha jioni. | 저녁밥.
+e Chakula kiko tayari! | 밥 다 됐어요!
+tp 끼니는 chakula cha ~: cha asubuhi(아침), cha mchana(점심), cha jioni/usiku(저녁).
+tp ki- 로 시작하는 말(kijiko, kisu, kikombe)은 여럿이면 vi-: vijiko, visu, vikombe.
+tp moto는 '불'이면서 '뜨겁다'예요: maji ya moto(뜨거운 물).
+pr moto | 뜨거운 || baridi | 차가운
+pr kijiko | 숟가락 || vijiko | 숟가락들
+dl 민준 | Chakula kiko tayari? | 밥 다 됐어요?
+dl 니에마 | Ndiyo! Lete sahani na vijiko. | 네! 접시랑 숟가락 가져와요.
+dl 민준 | Vijiko vingapi? | 숟가락 몇 개요?
+dl 니에마 | Vitano. Tuko watu watano. | 다섯 개요. 우리 다섯 명이에요.
+sm Sahani, kijiko na kisu — chakula cha moto kiko tayari. | 접시, 숟가락, 칼 — 뜨거운 밥이 준비됐어요.
+qz '숟가락'은? | kijiko
+qz '음식'은? | chakula

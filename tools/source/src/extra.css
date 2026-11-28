@@ -1,0 +1,8 @@
+
+/* 글자(P6)·문법(P7) 대분류 colours */
+:root{--p6:#1E7470;--p6-soft:#E0F1F0;--p7:#A24F28;--p7-soft:#F7E8DF}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--p6:#6FCFC9;--p6-soft:#17302F;--p7:#F0A27A;--p7-soft:#3A241A}}
+:root[data-theme="dark"]{--p6:#6FCFC9;--p6-soft:#17302F;--p7:#F0A27A;--p7-soft:#3A241A}
+[data-g="P6"]{--accent:var(--p6);--accent-soft:var(--p6-soft)}
+[data-g="P7"]{--accent:var(--p7);--accent-soft:var(--p7-soft)}
+/* Thai v1.1 RYU: reading on the card front */.face .frd{display:block;margin:2px 0 4px}

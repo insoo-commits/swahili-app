@@ -1,0 +1,597 @@
+# P2-B | 명사 형태 변화
+
+@ 4-02-01 | -tu 사람·것·인간됨 | mtu·kitu·utu | 뿌리 -tu에 앞붙이만 바꾸면 사람(m-), 물건(ki-), 인간됨(u-)이 돼요.
+w mtu | 사람 · 여럿 watu | 사람
+e Mtu mmoja. | 한 사람.
+e Watu wengi. | 많은 사람.
+e Kila mtu. | 모든 사람.
+w kitu | 것, 물건 · 여럿 vitu | 물건, 것
+e Kitu gani? | 무슨 물건?
+e Vitu vyangu. | 내 물건들.
+e Hakuna kitu. | 아무것도 없어요.
+w utu | 인간됨, 인정 · u- 추상 | 인간다움, 인정
+e Ana utu. | 그는 인정이 있어요.
+e Utu ni muhimu. | 사람 됨됨이가 중요해요.
+e Haki na utu. | 정의와 인간다움.
+w mahali | 곳, 장소 · pa- 무리 | 곳, 장소
+e Mahali pazuri. | 좋은 곳.
+e Mahali gani? | 어느 곳?
+e Kila mahali. | 어디든지.
+w watu wote | 모든 사람 | 모든 사람
+e Karibuni watu wote! | 모두 환영해요!
+e Watu wote wamefika. | 모두 도착했어요.
+e Kwa watu wote. | 모든 사람을 위해.
+tp 같은 뿌리 -tu: mtu(사람) / kitu(물건) / utu(인간됨).
+tp 사람 무리는 m-/wa-, 물건 무리는 ki-/vi-, 추상은 u-예요.
+tp mahali는 장소 무리(pa-)라서 꾸미는 말이 pa-로 바뀌어요: mahali pazuri.
+pr mtu | 사람 || watu | 사람들
+pr kitu | 물건 || vitu | 물건들
+dl 수아 | Kuna watu wengi hapa! | 여기 사람 많네요!
+dl 주마 | Ndiyo, kila mtu anakuja sokoni Jumamosi. | 네, 토요일엔 다들 시장에 와요.
+dl 수아 | Ninatafuta kitu cha zawadi. | 선물할 걸 찾고 있어요.
+dl 주마 | Nakujua mahali pazuri. | 좋은 곳 알아요.
+sm Mtu, kitu, utu, mahali. | 사람, 물건, 인간됨, 장소.
+qz '물건들'은? | vitu
+qz '아무것도 없어요'는? | Hakuna kitu
+
+@ 4-02-02 | Ki- 언어 이름 | Kiswahili·Kikorea·Kiingereza | 언어 이름은 Ki-로 시작해요. '~식으로'라는 뜻도 돼요.
+w Kiswahili | 스와힐리어 | 스와힐리어
+e Ninajifunza Kiswahili. | 스와힐리어를 배워요.
+e Kiswahili ni lugha ya Afrika Mashariki. | 스와힐리어는 동아프리카 말이에요.
+e Unasemaje kwa Kiswahili? | 스와힐리어로 어떻게 말해요?
+w Kikorea | 한국어, 한국식 | 한국어; 한국식
+e Unajua Kikorea? | 한국어 알아요?
+e Chakula cha Kikorea. | 한국 음식.
+e Andika kwa Kikorea. | 한국어로 써요.
+w Kiingereza | 영어 | 영어
+e Anaongea Kiingereza vizuri. | 그는 영어를 잘해요.
+e Somo la Kiingereza. | 영어 수업.
+e Kwa Kiingereza ni "water". | 영어로는 "water"예요.
+w Kiarabu | 아랍어 | 아랍어
+e Maneno mengi ya Kiswahili yanatoka Kiarabu. | 스와힐리어 낱말 중 많은 게 아랍어에서 왔어요.
+e Anasoma Kiarabu. | 그는 아랍어를 공부해요.
+e Herufi za Kiarabu. | 아랍 문자.
+w kizungu | 서양식, 유럽식 | 서양식; 영어(입말)
+e Chakula cha kizungu. | 서양 음식.
+e Anaongea kizungu. | 그는 영어(서양말)로 말해요.
+e Nguo za kizungu. | 서양식 옷.
+tp Ki- + 나라/민족 = 언어: Kikorea, Kichina, Kijapani, Kifaransa.
+tp ~ cha Ki~ = ~식: chakula cha Kikorea(한국 음식).
+tp mzungu(백인, 외국인) → kizungu(서양식).
+pr Kiswahili | 스와힐리어 || Kikorea | 한국어
+pr kwa Kiswahili | 스와힐리어로 || kwa Kiingereza | 영어로
+dl 주마 | "Annyeong" ni nini kwa Kiswahili? | "안녕"은 스와힐리어로 뭐예요?
+dl 민준 | Ni "Jambo" au "Habari". | "잠보"나 "하바리"예요.
+dl 주마 | Nifundishe Kikorea kidogo. | 한국어 좀 가르쳐 줘요.
+dl 민준 | Sawa, na wewe unifundishe Kiswahili! | 좋아요, 당신은 스와힐리어 가르쳐 줘요!
+sm Kiswahili, Kikorea, Kiingereza, Kiarabu. | 스와힐리어, 한국어, 영어, 아랍어.
+qz '한국어'는? | Kikorea
+qz '한국 음식'은? | chakula cha Kikorea
+
+@ 4-02-03 | M-/Wa- ~ 사람 | Mtanzania·Mkorea·Wakenya | 나라 이름에 m-(여럿 wa-)를 붙이면 그 나라 사람이에요.
+w Mtanzania | 탄자니아 사람 | 탄자니아 사람
+e Mimi ni Mtanzania. | 저는 탄자니아 사람이에요.
+e Watanzania ni wakarimu. | 탄자니아 사람들은 친절해요.
+e Mtanzania halisi. | 진짜 탄자니아 사람.
+w Mkorea | 한국 사람 | 한국 사람
+e Mimi ni Mkorea. | 저는 한국 사람이에요.
+e Wakorea wengi wanakuja. | 한국 사람이 많이 와요.
+e Ni Mkorea wa Kusini. | 남한 사람이에요.
+w Mkenya | 케냐 사람 | 케냐 사람
+e Rafiki yangu ni Mkenya. | 제 친구는 케냐 사람이에요.
+e Wakenya wanapenda kukimbia. | 케냐 사람들은 달리기를 좋아해요.
+e Je, wewe ni Mkenya? | 케냐 사람이에요?
+w Mwafrika | 아프리카 사람 | 아프리카 사람
+e Waafrika wote. | 모든 아프리카 사람.
+e Mimi ni Mwafrika. | 저는 아프리카 사람이에요.
+e Umoja wa Waafrika. | 아프리카인의 단결.
+w mgeni | 손님, 외국인 · 여럿 wageni | 손님; 낯선 사람
+e Karibu, mgeni! | 어서 와요, 손님!
+e Wageni wamefika. | 손님들이 왔어요.
+e Mimi ni mgeni hapa. | 저는 여기 처음이에요.
+tp m-(한 사람) / wa-(여럿): Mkorea → Wakorea.
+tp 나라: Tanzania, Kenya, Korea. 사람: Mtanzania, Mkenya, Mkorea. 말: Kiswahili, Kikorea.
+tp Mimi ni mgeni = 저는 처음 왔어요(낯설어요).
+pr Mkorea | 한국 사람 || Wakorea | 한국 사람들
+pr Mtanzania | 탄자니아 사람 || Mkenya | 케냐 사람
+dl 경찰 | Wewe ni Mkenya? | 케냐 사람이에요?
+dl 수아 | Hapana, mimi ni Mkorea. Mimi ni mgeni hapa. | 아니요, 한국 사람이에요. 여기 처음이에요.
+dl 경찰 | Karibu Tanzania! Watanzania wanawapenda wageni. | 탄자니아에 잘 왔어요! 탄자니아 사람들은 손님을 좋아해요.
+dl 수아 | Asante sana! | 정말 고마워요!
+sm Mtanzania, Mkorea, Mkenya, Mwafrika, mgeni. | 탄자니아 사람, 한국 사람, 케냐 사람, 아프리카 사람, 손님.
+qz '저는 한국 사람이에요'는? | Mimi ni Mkorea
+qz '한국 사람들'은? | Wakorea
+
+@ 4-02-04 | U- 나라 이름 | Uingereza·Uchina·Ujerumani | 몇몇 나라 이름은 u-로 시작해요.
+w Uingereza | 영국 | 영국
+e Anaishi Uingereza. | 그는 영국에 살아요.
+e Malkia wa Uingereza. | 영국 여왕.
+e Nilisoma Uingereza. | 영국에서 공부했어요.
+w Uchina | 중국 · China라고도 함 | 중국
+e Bidhaa za Uchina. | 중국 물건.
+e Uchina ni nchi kubwa. | 중국은 큰 나라예요.
+e Alienda Uchina. | 그는 중국에 갔어요.
+w Ujerumani | 독일 | 독일
+e Gari la Ujerumani. | 독일 차.
+e Mjerumani. | 독일 사람.
+e Ujerumani iliitawala Tanganyika. | 독일이 탕가니카를 지배했어요.
+w Uarabuni | 아라비아 | 아랍 지역
+e Wafanyabiashara wa Uarabuni. | 아랍 상인들.
+e Tende zinatoka Uarabuni. | 대추야자는 아랍에서 와요.
+e Alikwenda kazi Uarabuni. | 그는 아랍에 일하러 갔어요.
+w Ufaransa | 프랑스 | 프랑스
+e Mji mkuu wa Ufaransa. | 프랑스 수도.
+e Kifaransa ni lugha ya Ufaransa. | 프랑스어는 프랑스 말이에요.
+e Mfaransa. | 프랑스 사람.
+tp U- + 뿌리 = 나라: Uingereza(영국), Ufaransa(프랑스). 사람은 M-: Mwingereza, Mfaransa. 말은 Ki-: Kiingereza.
+tp Korea, Kenya, Tanzania처럼 u-가 없는 나라가 더 많아요.
+tp 같은 뿌리로 나라·사람·말이 다 나와요: Ujerumani / Mjerumani / Kijerumani.
+pr Uingereza | 영국 || Kiingereza | 영어
+pr Ufaransa | 프랑스 || Mfaransa | 프랑스 사람
+dl 주마 | Rafiki yako anatoka wapi? | 친구는 어디서 왔어요?
+dl 민준 | Anatoka Ufaransa, lakini anaishi Uingereza. | 프랑스에서 왔는데 영국에 살아요.
+dl 주마 | Kwa hiyo anaongea Kifaransa na Kiingereza. | 그럼 프랑스어랑 영어 하겠네요.
+dl 민준 | Na Kiswahili kidogo! | 스와힐리어도 조금요!
+sm Uingereza, Uchina, Ujerumani, Ufaransa. | 영국, 중국, 독일, 프랑스.
+qz '영국'은? | Uingereza
+qz '프랑스 사람'은? | Mfaransa
+
+@ 4-02-05 | U- 추상명사 | uhuru·umoja·urafiki | 앞에 u-를 붙이면 '~함, ~임' 같은 추상명사가 돼요.
+w uhuru | 자유, 독립 | 자유; 독립
+e Siku ya uhuru. | 독립 기념일.
+e Uhuru na umoja. | 자유와 단결.
+e Tuna uhuru wa kusema. | 우리는 말할 자유가 있어요.
+w umoja | 단결, 하나됨 · moja(하나) | 단결, 통일
+e Umoja ni nguvu. | 뭉치면 힘이다.
+e Umoja wa Mataifa. | 국제연합(UN).
+e Tunahitaji umoja. | 우리는 단결이 필요해요.
+w urafiki | 우정 · rafiki(친구) | 우정
+e Urafiki wetu ni mrefu. | 우리 우정은 오래됐어요.
+e Kwa urafiki. | 우정으로.
+e Urafiki wa Tanzania na Korea. | 탄자니아와 한국의 우호.
+w uzuri | 아름다움 · -zuri | 아름다움, 좋음
+e Uzuri wa Zanzibar. | 잔지바르의 아름다움.
+e Uzuri wake ni wa ndani. | 그의 아름다움은 마음에 있어요.
+e Kwa uzuri. | 멋지게.
+w ukweli | 진실 · kweli(참) | 진실, 사실
+e Sema ukweli. | 사실을 말해요.
+e Kwa ukweli. | 사실은.
+e Ukweli ni kwamba nimechoka. | 사실은 피곤해요.
+tp u- + 형용사·명사 = 추상: -zuri → uzuri, rafiki → urafiki, kweli → ukweli.
+tp 'Uhuru'(자유)은 탄자니아·케냐 독립 구호였어요.
+tp Umoja ni nguvu, utengano ni udhaifu(뭉치면 살고 흩어지면 죽는다).
+pr urafiki | 우정 || rafiki | 친구
+pr ukweli | 진실 || uongo | 거짓
+dl 선생님 | Leo ni Siku ya Uhuru. | 오늘은 독립 기념일이에요.
+dl 학생 | Uhuru ulipatikana mwaka gani? | 독립은 몇 년에 됐어요?
+dl 선생님 | Mwaka 1961, kwa umoja wa watu. | 1961년, 국민의 단결로요.
+dl 학생 | Umoja ni nguvu! | 뭉치면 힘이다!
+sm Uhuru, umoja, urafiki, uzuri, ukweli. | 자유, 단결, 우정, 아름다움, 진실.
+qz '우정'은? | urafiki
+qz '사실을 말해요'는? | Sema ukweli
+
+@ 4-02-06 | M-…-ji ~하는 사람 | mpiga picha·mchezaji·mwendeshaji | 동사에 m-…-ji(-aji)를 붙이면 '~하는 사람'이 돼요.
+w mwimbaji | 가수 · imba + ji | 노래하는 사람
+e Mwimbaji mzuri. | 좋은 가수.
+e Waimbaji wa taarab. | 타랍 가수들.
+e Anataka kuwa mwimbaji. | 그는 가수가 되고 싶어 해요.
+w mwendeshaji | 운전하는 사람 · endesha + ji | 운전자, 조작하는 사람
+e Mwendeshaji wa bodaboda. | 오토바이 택시 기사.
+e Waendeshaji wa magari. | 운전자들.
+e Mwendeshaji makini. | 조심하는 운전자.
+w msemaji | 대변인 · sema + ji | 말하는 사람, 대변인
+e Msemaji wa serikali. | 정부 대변인.
+e Ni msemaji mzuri. | 말 잘하는 사람이에요.
+e Msemaji wa polisi. | 경찰 대변인.
+w mfanyakazi | 일꾼, 직원 · fanya kazi(일하다) | 직원, 노동자
+e Wafanyakazi wa benki. | 은행 직원들.
+e Mimi ni mfanyakazi. | 저는 직장인이에요.
+e Siku ya wafanyakazi. | 노동절.
+w mpiga picha | 사진사 · piga picha | 사진사
+e Mpiga picha wa harusi. | 결혼식 사진사.
+e Ni mpiga picha hodari. | 실력 좋은 사진사예요.
+e Wapiga picha walikuwa wengi. | 사진사가 많았어요.
+tp 동사 + -aji: imba → mwimbaji, endesha → mwendeshaji, sema → msemaji.
+tp 동사 + 목적어로 사람 이름 만들기: mfanyakazi(일하는 사람), mpiga picha(사진 찍는 사람).
+tp 여럿은 wa-: waimbaji, wafanyakazi.
+pr mwimbaji | 가수 || mchezaji | 선수
+pr mfanyakazi | 직원 || mwajiri | 고용주
+dl 민준 | Mpiga picha yuko wapi? | 사진사 어디 있어요?
+dl 주마 | Yule pale, karibu na mwimbaji. | 저기요, 가수 옆에.
+dl 민준 | Ah, na msemaji wa sherehe? | 아, 행사 진행자는요?
+dl 주마 | Ni mfanyakazi wa hoteli. | 호텔 직원이에요.
+sm Mwimbaji, mwendeshaji, msemaji, mfanyakazi, mpiga picha. | 가수, 운전자, 대변인, 직원, 사진사.
+qz '직원'은? | mfanyakazi
+qz '사진사'는? | mpiga picha
+
+@ 4-02-07 | Ki- 작은 것 | kitoto·kijiji·kijiko | 사람·물건 뿌리에 ki-를 붙여 '작은 ~'를 만드는 경우가 있어요.
+w kitoto | 아기, 꼬마 · m-toto → ki-toto | 작은 아이
+e Kitoto kidogo. | 꼬마 아기.
+e Vitoto vinacheza. | 꼬마들이 놀아요.
+e Ni kitoto bado. | 아직 아기예요.
+w kijiji | 마을 · mji(도시) → kijiji | 마을
+e Ninatoka kijijini. | 시골 마을 출신이에요.
+e Kijiji chetu ni kidogo. | 우리 마을은 작아요.
+e Wanakijiji wote walikuja. | 마을 사람들이 다 왔어요.
+w kijiko | 숟가락 · mwiko(주걱) → kijiko | 숟가락
+e Nipe kijiko. | 숟가락 줘요.
+e Vijiko viwili vya sukari. | 설탕 두 숟갈.
+e Kijiko cha chai. | 찻숟가락.
+w kijito | 개울 · mto(강) → kijito | 작은 시내
+e Kijito kinapita hapa. | 여기 개울이 흘러요.
+e Watoto wanaogelea kijitoni. | 아이들이 개울에서 헤엄쳐요.
+e Kijito kimekauka. | 개울이 말랐어요.
+w kibanda | 오두막, 노점 · banda(헛간) | 오두막; 매점
+e Kibanda cha simu. | 휴대폰 충전 가판대.
+e Anauza chai kibandani. | 그는 가판대에서 차를 팔아요.
+e Kibanda kidogo. | 작은 오두막.
+tp ki-(ji-)를 붙이면 작아지는 낱말: mji → kijiji, mto → kijito, mtoto → kitoto.
+tp 숟가락 kijiko은 '작은 주걱(mwiko)'에서 왔어요.
+tp ki-/vi- 무리라서 꾸미는 말도 ki-/vi-: kijiji kidogo, vijiko viwili.
+pr mji | 도시 || kijiji | 마을
+pr mto | 강 || kijito | 개울
+dl 민준 | Unatoka mji gani? | 어느 도시 출신이에요?
+dl 네에마 | Si mji, ni kijiji kidogo karibu na Iringa. | 도시가 아니라 이링가 근처 작은 마을이에요.
+dl 민준 | Kuna mto? | 강 있어요?
+dl 네에마 | Kijito tu, lakini ni kizuri. | 개울만 있지만 예뻐요.
+sm Kitoto, kijiji, kijiko, kijito, kibanda — vitu vidogo. | 꼬마, 마을, 숟가락, 개울, 오두막 — 작은 것들.
+qz '마을'은? | kijiji
+qz '설탕 두 숟갈'은? | Vijiko viwili vya sukari
+
+@ 4-02-08 | 장소 접미사(-ni) | nyumbani·sokoni·shuleni | 명사 끝에 -ni를 붙이면 '~에(서)'가 돼요.
+w nyumbani | 집에(서) · nyumba + ni | 집에, 집에서
+e Niko nyumbani. | 집에 있어요.
+e Karibu nyumbani! | 집에 온 걸 환영해요!
+e Narudi nyumbani. | 집에 돌아가요.
+w sokoni | 시장에(서) · soko + ni | 시장에
+e Naenda sokoni. | 시장에 가요.
+e Nimenunua sokoni. | 시장에서 샀어요.
+e Sokoni kuna watu wengi. | 시장에 사람이 많아요.
+w shuleni | 학교에(서) · shule + ni | 학교에
+e Watoto wako shuleni. | 아이들은 학교에 있어요.
+e Tulikutana shuleni. | 학교에서 만났어요.
+e Shuleni kuna mtihani. | 학교에 시험이 있어요.
+w kazini | 직장에(서) · kazi + ni | 직장에, 일터에
+e Bado niko kazini. | 아직 회사예요.
+e Anaenda kazini saa moja. | 그는 7시에 출근해요.
+e Kazini kuna shida. | 회사에 문제가 있어요.
+w mjini | 시내에(서) · mji + ni | 시내에
+e Twende mjini. | 시내 가요.
+e Anaishi mjini. | 그는 도시에 살아요.
+e Mjini kuna foleni. | 시내는 차가 막혀요.
+tp 명사 + -ni = ~에, ~에서, ~로: nyumba → nyumbani.
+tp 끝 모음 -a + ni → -ani, -e + ni → -eni, -i + ni → -ini, -o + ni → -oni.
+tp 사람 이름·나라 이름에는 -ni를 붙이지 않아요: Naenda Dodoma.
+pr nyumbani | 집에 || kazini | 직장에
+pr sokoni | 시장에 || mjini | 시내에
+dl 엄마 | Uko wapi? | 어디야?
+dl 바라카 | Bado niko shuleni. | 아직 학교예요.
+dl 엄마 | Ukitoka, pitia sokoni ununue nyanya. | 나오면 시장 들러서 토마토 사.
+dl 바라카 | Sawa, kisha nitakuja nyumbani. | 네, 그리고 집에 갈게요.
+sm Nyumbani, sokoni, shuleni, kazini, mjini. | 집에, 시장에, 학교에, 직장에, 시내에.
+qz '집에 있어요'는? | Niko nyumbani
+qz '시장에 가요'는? | Naenda sokoni
+
+# P2-C | 동사 형태 변화
+
+@ 4-03-01 | -ia/-ea ~에게·~를 위해 | kuandikia·kuletea·kunijia | 동사 끝 -a 앞에 -i-(-e-)를 넣으면 '~에게, ~를 위해'가 돼요.
+w kuandikia | ~에게 쓰다 · andika + ia | ~에게 (글을) 쓰다
+e Niandikie barua. | 나한테 편지 써 줘.
+e Nitakuandikia. | 너한테 쓸게(문자할게).
+e Alimwandikia mama. | 그는 엄마에게 편지를 썼어요.
+w kuletea | 가져다주다 · leta + ea | ~에게 가져다주다
+e Niletee maji. | 물 좀 갖다줘.
+e Nimekuletea zawadi. | 선물 가져왔어.
+e Mletee chai. | 그에게 차 갖다줘.
+w kusomea | ~에게 읽어 주다; ~을 공부하다 · soma + ea | 읽어 주다; ~을 전공하다
+e Nisomee hadithi. | 이야기 읽어 줘.
+e Anasomea udaktari. | 그는 의학을 공부해요.
+e Mama anamsomea mtoto. | 엄마가 아이에게 읽어 줘요.
+w kufungulia | 열어 주다 · fungua + lia | ~에게 열어 주다
+e Nifungulie mlango. | 문 열어 줘.
+e Nitakufungulia. | 열어 줄게.
+e Walimfungulia geti. | 그에게 대문을 열어 줬어요.
+w kulipia | 대신 내다 · lipa + ia | ~의 값을 내 주다
+e Nitakulipia. | 내가 낼게.
+e Alinilipia nauli. | 그가 내 차비를 내 줬어요.
+e Tunalipia shule ya watoto. | 아이들 학비를 내요.
+tp 앞 모음이 a, i, u이면 -ia, e, o이면 -ea: lipa → lipia, leta → letea, soma → somea.
+tp -ua로 끝나면 -ulia: fungua → fungulia, nunua → nunulia.
+tp Nitakulipia = 내가 낼게(대신 계산할게). 식당에서 자주 들려요.
+pr leta | 가져와 || niletee | 나한테 갖다줘
+pr lipa | 내 || nilipie | 대신 내 줘
+dl 민준 | Mhudumu, niletee bili tafadhali. | 웨이터, 계산서 갖다주세요.
+dl 주마 | Usijali, nitakulipia leo. | 걱정 마요, 오늘은 내가 낼게요.
+dl 민준 | Asante! Kesho mimi nitakulipia. | 고마워요! 내일은 내가 낼게요.
+dl 주마 | Sawa, na niandikie ukifika Seoul. | 좋아요, 서울 도착하면 연락해 줘요.
+sm Andikia, letea, somea, fungulia, lipia — kwa ajili ya mtu. | 써 주고, 가져다주고, 읽어 주고, 열어 주고, 내 줘요 — 누군가를 위해.
+qz '물 좀 갖다줘'는? | Niletee maji
+qz '내가 낼게'는? | Nitakulipia
+
+@ 4-03-02 | -isha/-esha ~하게 하다 | kuchelewesha·kulisha·kuamsha | 동사 끝에 -ish-/-esh-를 넣으면 '~하게 하다'가 돼요.
+w kuchelewesha | 늦게 하다 · chelewa + esha | 늦추다, 지연시키다
+e Mvua ilituchelewesha. | 비 때문에 늦었어요.
+e Usinichelewesha! | 나 늦게 만들지 마!
+e Foleni inachelewesha watu. | 정체가 사람들을 늦게 해요.
+w kulisha | 먹이다 · la(먹다) + isha | 먹이다
+e Lisha kuku. | 닭 모이를 줘요.
+e Mama analisha mtoto. | 엄마가 아기에게 밥을 먹여요.
+e Tunalisha ng'ombe majani. | 소에게 풀을 먹여요.
+w kuamsha | 깨우다 · amka + sha | 깨우다
+e Niamshe saa kumi na mbili. | 6시에 깨워 줘.
+e Usimwamshe mtoto. | 아기 깨우지 마.
+e Jogoo anatuamsha. | 수탉이 우리를 깨워요.
+w kuonyesha | 보여 주다 · ona + esha | 보여 주다
+e Nionyeshe njia. | 길 좀 알려 줘요.
+e Nionyeshe picha. | 사진 보여 줘.
+e Alionyesha pasipoti. | 그는 여권을 보여 줬어요.
+w kurudisha | 돌려주다 · rudi + isha | 돌려주다
+e Rudisha kitabu kesho. | 내일 책 돌려줘.
+e Nimerudisha pesa. | 돈을 돌려줬어요.
+e Duka linarudisha pesa? | 가게에서 환불해 줘요?
+tp 동사 + -isha/-esha = 사역: ona(보다) → onyesha(보게 하다 = 보여 주다).
+tp 모양이 조금 바뀌는 것: la → lisha, amka → amsha, -lala → laza(눕히다).
+tp Nionyeshe njia = 길 좀 알려 주세요(보여 주세요).
+pr kuamka | 일어나다 || kuamsha | 깨우다
+pr kurudi | 돌아오다 || kurudisha | 돌려주다
+dl 수아 | Kesho niamshe mapema, tafadhali. | 내일 일찍 깨워 줘요.
+dl 직원 | Saa ngapi? | 몇 시에요?
+dl 수아 | Saa kumi na moja. Na nionyeshe njia ya stendi. | 5시요. 그리고 터미널 가는 길 알려 줘요.
+dl 직원 | Sawa. Usichelewe, basi halisubiri! | 알겠어요. 늦지 마요, 버스는 안 기다려요!
+sm Chelewesha, lisha, amsha, onyesha, rudisha. | 늦추고, 먹이고, 깨우고, 보여 주고, 돌려줘요.
+qz '깨우다'는? | kuamsha
+qz '사진 보여 줘'는? | Nionyeshe picha
+
+@ 4-03-03 | -ana 서로 | kuonana·kujuana·kupigana | 동사 끝에 -an-을 넣으면 '서로 ~하다'가 돼요.
+w kuonana | 서로 만나다 · ona + ana | 서로 보다, 만나다
+e Tutaonana kesho. | 내일 봐요.
+e Tuonane baadaye. | 나중에 만나요.
+e Hatujaonana muda mrefu. | 오랫동안 못 봤네요.
+w kujuana | 서로 알다 · jua + ana | 서로 알다
+e Tunajuana tangu utotoni. | 어릴 때부터 알았어요.
+e Mnajuana? | 서로 아는 사이예요?
+e Tulijuana kazini. | 직장에서 알게 됐어요.
+w kupigana | 싸우다 · piga + ana | 서로 때리다, 싸우다
+e Watoto wanapigana. | 아이들이 싸워요.
+e Msipigane! | 싸우지 마세요!
+e Walipigana vita. | 그들은 전쟁을 했어요.
+w kupendana | 서로 사랑하다 · penda + ana | 서로 사랑하다
+e Wanapendana. | 그들은 서로 사랑해요.
+e Pendaneni. | 서로 사랑하세요.
+e Tulipendana mara ya kwanza. | 첫눈에 서로 반했어요.
+w kuelewana | 서로 이해하다 · elewa + ana | 서로 통하다, 사이좋다
+e Tunaelewana vizuri. | 우리는 잘 통해요.
+e Hawaelewani. | 그들은 사이가 안 좋아요.
+e Tuelewane. | 서로 이해합시다.
+tp -ana를 붙이면 둘 이상이 서로: ona → onana, jua → juana.
+tp 작별 인사: Tutaonana!(또 봐요!), Tuonane kesho!(내일 봐요!)
+tp kupigana(싸우다)는 piga(때리다) + ana(서로)예요.
+pr kuona | 보다 || kuonana | 서로 만나다
+pr kujua | 알다 || kujuana | 서로 알다
+dl 할리마 | Mnajuana na Juma? | 주마랑 서로 아는 사이야?
+dl 수아 | Ndiyo, tulijuana chuoni. Tunaelewana sana. | 응, 대학에서 알았어. 잘 통해.
+dl 할리마 | Mtaonana lini? | 언제 만나?
+dl 수아 | Kesho. Tutaonana sokoni. | 내일. 시장에서 만나기로 했어.
+sm Onana, juana, pigana, pendana, elewana — pamoja. | 만나고, 알고, 싸우고, 사랑하고, 통해요 — 서로.
+qz '내일 봐요'는? | Tutaonana kesho
+qz '싸우지 마세요!'는? | Msipigane!
+
+@ 4-03-04 | -ika/-eka ~할 수 있다·~되다 | kuvunjika·kusikika·kuonekana | 동사 끝에 -ik-/-ek-을 넣으면 '저절로 ~되다, ~할 수 있다'가 돼요.
+w kuvunjika | 깨지다 · vunja + ika | 깨지다, 부러지다
+e Kikombe kimevunjika. | 컵이 깨졌어요.
+e Mguu umevunjika. | 다리가 부러졌어요.
+e Simu imevunjika skrini. | 휴대폰 화면이 깨졌어요.
+w kusikika | 들리다 · sikia → sikika | 들리다
+e Inasikika vizuri. | 잘 들려요.
+e Sauti yako haisikiki. | 목소리가 안 들려요.
+e Muziki unasikika mbali. | 음악이 멀리서 들려요.
+w kuonekana | 보이다 · ona + ekana | 보이다; ~처럼 보이다
+e Mlima unaonekana. | 산이 보여요.
+e Unaonekana umechoka. | 피곤해 보여요.
+e Haonekani siku hizi. | 요즘 그 사람 안 보여요.
+w kupatikana | 구할 수 있다 · pata + ikana | 구할 수 있다; 있다
+e Maji yanapatikana hapa. | 여기 물 있어요.
+e Hapatikani kwa simu. | 그는 전화가 안 돼요.
+e Dawa hii inapatikana wapi? | 이 약 어디서 구해요?
+w kuharibika | 고장 나다 · haribu + ika | 고장 나다, 상하다
+e Gari limeharibika. | 차가 고장 났어요.
+e Chakula kimeharibika. | 음식이 상했어요.
+e Simu imeharibika. | 휴대폰이 고장 났어요.
+tp 끝 -a 앞의 모양이 바뀌어요: sikia → sikika, ona → onekana, vunja → vunjika. -ika는 '저절로 그렇게 되다': vunja(깨다) → vunjika(깨지다), haribu(망치다) → haribika(고장 나다).
+tp -ikana/-ekana는 '~할 수 있다': patikana(구할 수 있다), onekana(보이다).
+tp 고장·파손 신고: ~ imeharibika / imevunjika.
+pr kuvunja | 깨다 || kuvunjika | 깨지다
+pr kuona | 보다 || kuonekana | 보이다
+dl 손님 | Samahani, kiyoyozi kimeharibika. | 실례지만 에어컨이 고장 났어요.
+dl 직원 | Pole! Fundi hapatikani leo. | 죄송해요! 오늘은 기사가 안 돼요.
+dl 손님 | Na chumba kingine kinapatikana? | 다른 방 있어요?
+dl 직원 | Ndiyo, chumba namba tano. | 네, 5호실이요.
+sm Vunjika, sikika, onekana, patikana, haribika. | 깨지고, 들리고, 보이고, 구해지고, 고장 나요.
+qz '차가 고장 났어요'는? | Gari limeharibika
+qz '피곤해 보여요'는? | Unaonekana umechoka
+
+@ 4-03-05 | 재귀 표지(-ji-) | kujipikia·kujiandaa·kujisikia | 동사 앞에 -ji-를 넣으면 '자기 자신을(에게)'이 돼요.
+w kujisikia | 느끼다 · ji + sikia | (몸·기분이) ~하게 느끼다
+e Najisikia vizuri. | 기분이 좋아요.
+e Unajisikiaje? | 몸은 좀 어때요?
+e Najisikia vibaya. | 몸이 안 좋아요.
+w kujiandaa | 준비하다 · ji + andaa | (스스로) 준비하다
+e Jiandae! | 준비해!
+e Tunajiandaa kwa safari. | 여행 준비를 해요.
+e Anajiandaa kwa mtihani. | 그는 시험 준비 중이에요.
+w kujipikia | 자기 밥을 하다 · ji + pikia | 스스로 밥해 먹다
+e Ninajipikia kila siku. | 매일 밥을 해 먹어요.
+e Anajipikia mwenyewe. | 그는 혼자 해 먹어요.
+e Jipikie chai. | 차 끓여 마셔.
+w kujitolea | 자원하다 · ji + tolea | 자원하다, 몸 바치다
+e Ninajitolea hospitali. | 병원에서 봉사해요.
+e Alijitolea kusaidia. | 그는 자원해서 도왔어요.
+e Wanajitolea bure. | 무료로 봉사해요.
+w kujiunga | 가입하다 · ji + unga | 가입하다, 합류하다
+e Nimejiunga na kwaya. | 합창단에 들어갔어요.
+e Jiunge nasi! | 우리와 함께해요!
+e Alijiunga na chuo. | 그는 대학에 입학했어요.
+tp ji-는 동사 바로 앞: najisikia, anajipikia.
+tp Unajisikiaje? = 몸(기분) 어때요? 아픈 사람에게 묻는 말.
+tp kujiunga na ~ = ~에 가입하다.
+pr Najisikia vizuri. | 기분 좋아요. || Najisikia vibaya. | 몸이 안 좋아요.
+pr kuandaa | 준비하다(남을) || kujiandaa | 준비하다(스스로)
+dl 간호사 | Unajisikiaje leo? | 오늘 몸은 좀 어때요?
+dl 민준 | Najisikia vizuri kidogo. | 조금 나아요.
+dl 간호사 | Safi. Jiandae, daktari anakuja. | 좋아요. 준비하세요, 의사 선생님 오세요.
+dl 민준 | Sawa, asante. | 네, 고마워요.
+sm Jisikia, jiandaa, jipikia, jitolea, jiunga. | 느끼고, 준비하고, 해 먹고, 봉사하고, 가입해요.
+qz '몸은 좀 어때요?'는? | Unajisikiaje?
+qz '준비해!'는? | Jiandae!
+
+@ 4-03-06 | 수동형(-wa) | -piga·-pigwa | 동사 끝 -a를 -wa로 바꾸면 '~되다, ~당하다'가 돼요.
+w kupika → kupikwa | 요리하다 → 요리되다 | 요리하다 → 요리되다
+e Mama anapika wali. | 엄마가 밥을 해요.
+e Wali umepikwa na mama. | 밥은 엄마가 했어요.
+e Chakula kinapikwa sasa. | 음식이 지금 만들어지고 있어요.
+w kuandika → kuandikwa | 쓰다 → 쓰이다 | 쓰다 → 쓰이다
+e Ameandika barua. | 그가 편지를 썼어요.
+e Barua imeandikwa kwa Kiswahili. | 편지는 스와힐리어로 쓰였어요.
+e Kitabu hiki kiliandikwa na Shaaban Robert. | 이 책은 샤반 로버트가 썼어요.
+w kula → kuliwa | 먹다 → 먹히다 | 먹다 → 먹히다
+e Paka amekula samaki. | 고양이가 생선을 먹었어요.
+e Samaki ameliwa na paka. | 생선을 고양이가 먹었어요.
+e Ugali unaliwa kwa mkono. | 우갈리는 손으로 먹어요.
+w kujenga → kujengwa | 짓다 → 지어지다 | 짓다 → 지어지다
+e Wanajenga shule. | 학교를 짓고 있어요.
+e Shule imejengwa mwaka huu. | 학교는 올해 지어졌어요.
+e Daraja linajengwa. | 다리가 지어지고 있어요.
+w kuita → kuitwa | 부르다 → 불리다 | 부르다 → 불리다
+e Mama ananiita. | 엄마가 나를 불러요.
+e Ninaitwa Minjun. | 저는 민준이라고 불려요(제 이름은 민준이에요).
+e Unaitwa nani? | 이름이 뭐예요?
+w kupenda → kupendwa | 사랑하다 → 사랑받다 | 사랑하다 → 사랑받다
+e Anapenda watoto. | 그는 아이들을 사랑해요.
+e Anapendwa na wote. | 그는 모두에게 사랑받아요.
+e Mwalimu anapendwa sana. | 선생님은 아주 사랑받아요.
+tp 수동 -wa: pika → pikwa, andika → andikwa, jenga → jengwa. 한 음절 동사는 -liwa/-nywewa: la → liwa.
+tp '~에 의해'는 na: na mama(엄마에 의해).
+tp 이름 묻기 Unaitwa nani?(너는 뭐라고 불리니?) = Jina lako nani?
+pr anapika | 요리해요 || umepikwa | 요리됐어요
+pr anapenda | 사랑해요 || anapendwa | 사랑받아요
+dl 수아 | Chakula hiki kitamu! Kimepikwa na nani? | 이 음식 맛있어요! 누가 만들었어요?
+dl 니에마 | Kimepikwa na bibi yangu. | 우리 할머니가 만드셨어요.
+dl 수아 | Bibi yako anaitwa nani? | 할머니 성함이 뭐예요?
+dl 니에마 | Anaitwa Bibi Zuhura. Anapendwa na kila mtu. | 주후라 할머니예요. 모두가 좋아해요.
+sm Mama anapika — chakula kinapikwa; mtoto anapenda — mtoto anapendwa. | 엄마가 요리해요 — 음식이 요리돼요; 아이가 사랑해요 — 아이가 사랑받아요.
+qz '이름이 뭐예요?(불리다)'는? | Unaitwa nani?
+qz kujenga 의 수동은? | kujengwa
+
+@ 4-03-07 | 사역형(-isha 등) | rudi·rudisha | 동사에 -isha/-esha/-za를 붙이면 '~하게 하다, ~시키다'가 돼요.
+w kulala → kulaza | 자다 → 재우다 | 자다 → 재우다; 눕히다
+e Mtoto analala. | 아이가 자요.
+e Mama anamlaza mtoto. | 엄마가 아이를 재워요.
+e Wamemlaza hospitali. | 그를 병원에 입원시켰어요.
+w kurudi → kurudisha | 돌아오다 → 돌려주다 | 돌아오다 → 돌려주다
+e Nitarudi kesho. | 내일 돌아올게요.
+e Nitarudisha kitabu kesho. | 내일 책을 돌려줄게요.
+e Rudisha pesa zangu! | 내 돈 돌려줘!
+w kuingia → kuingiza | 들어가다 → 들여보내다 | 들어가다 → 넣다, 들여보내다
+e Ingia ndani. | 안으로 들어와.
+e Ingiza gari ndani. | 차를 안에 들여 놔요.
+e Ingiza nenosiri. | 비밀번호를 넣어요.
+w kusoma → kusomesha | 공부하다 → 공부시키다 | 공부하다 → 가르치다, 공부시키다
+e Ninasoma Kiswahili. | 스와힐리어를 공부해요.
+e Anasomesha watoto wake. | 그는 아이들을 학교에 보내요.
+e Mwalimu anasomesha darasa la saba. | 선생님은 7학년을 가르쳐요.
+w kuamka → kuamsha | 깨다 → 깨우다 | 깨다 → 깨우다
+e Ninaamka saa kumi na mbili. | 6시에 일어나요.
+e Niamshe saa kumi na mbili. | 6시에 깨워 줘.
+e Kelele zimeniamsha. | 소음이 나를 깨웠어요.
+w kujua → kujulisha | 알다 → 알리다 | 알다 → 알리다
+e Ninajua. | 알아요.
+e Nijulishe ukifika. | 도착하면 알려 줘.
+e Tumewajulisha wazazi. | 부모님께 알렸어요.
+tp 사역(시키다): lala → laza, rudi → rudisha, ingia → ingiza, amka → amsha, jua → julisha.
+tp 형용사에도 붙어요: safi(깨끗한) → safisha(깨끗하게 하다), bora(좋은) → boresha(개선하다).
+tp Nijulishe(알려 줘), Niamshe(깨워 줘)처럼 ni-(나를) + 사역 + -e를 많이 써요.
+pr kurudi | 돌아오다 || kurudisha | 돌려주다
+pr kuamka | 깨다 || kuamsha | 깨우다
+dl 민준 | Kesho nina safari mapema. Utaniamsha? | 내일 일찍 출발해요. 깨워 줄래요?
+dl 바라카 | Ndiyo. Saa ngapi? | 네. 몇 시에요?
+dl 민준 | Saa kumi na moja. Na nijulishe teksi ikifika. | 5시요. 택시 오면 알려 줘요.
+dl 바라카 | Sawa, usijali. | 네, 걱정 마요.
+sm Lala na laza, rudi na rudisha, amka na amsha. | 자고 재우고, 돌아오고 돌려주고, 깨고 깨워요.
+qz '깨우다'는? | kuamsha
+qz kujua 의 사역은? | kujulisha
+
+@ 4-03-08 | 적용형(-ia/-ea) | pika·pikia | 동사에 -ia/-ea를 붙이면 '~에게 해 주다, ~을 위해 하다'가 돼요.
+w kupika → kupikia | 요리하다 → 요리해 주다 | 요리하다 → (~에게) 요리해 주다
+e Ninapika chakula. | 밥을 해요.
+e Nitakupikia ugali. | 너에게 우갈리 해 줄게.
+e Mama anatupikia kila siku. | 엄마는 매일 우리에게 밥을 해 줘요.
+w kuandika → kuandikia | 쓰다 → 써 주다 | 쓰다 → (~에게) 써 주다
+e Ninaandika barua. | 편지를 써요.
+e Nimekuandikia barua. | 너에게 편지를 썼어.
+e Niandikie namba yako. | 네 번호 적어 줘.
+w kununua → kununulia | 사다 → 사 주다 | 사다 → (~에게) 사 주다
+e Ninanunua zawadi. | 선물을 사요.
+e Nimekununulia zawadi. | 너에게 선물을 사 왔어.
+e Baba amenunulia watoto viatu. | 아빠가 아이들에게 신발을 사 줬어요.
+w kuleta → kuletea | 가져오다 → 가져다주다 | 가져오다 → (~에게) 가져다주다
+e Lete chai. | 차 가져와.
+e Niletee chai. | 나에게 차 가져다줘.
+e Nitakuletea kesho. | 내일 가져다줄게.
+w kusoma → kusomea | 읽다 → 읽어 주다 | 읽다 → (~에게) 읽어 주다
+e Ninasoma kitabu. | 책을 읽어요.
+e Nisomee hadithi. | 이야기 읽어 줘.
+e Bibi anamsomea mjukuu. | 할머니가 손주에게 읽어 줘요.
+w kupigia simu | ~에게 전화하다 · piga + ia | (~에게) 전화하다
+e Nitakupigia simu. | 너에게 전화할게.
+e Mpigie mama simu. | 엄마에게 전화해.
+e Alinipigia simu usiku. | 그가 밤에 전화했어요.
+tp 적용형 -ia/-ea: pika → pikia, soma → somea, leta → letea. -ua로 끝나면 -ulia: nunua → nunulia.
+tp 받는 사람은 동사 안에: nitakupikia(너에게 요리해 줄게), niletee(나에게 가져다줘).
+tp 장소·이유도 나타내요: Kalamu ya kuandikia(쓰는 데 쓰는 펜).
+pr kupika | 요리하다 || kupikia | 요리해 주다
+pr lete | 가져와 || niletee | 나에게 가져다줘
+dl 수아 | Leo ni siku yako ya kuzaliwa! | 오늘 네 생일이지!
+dl 니에마 | Ndiyo! | 응!
+dl 수아 | Nimekununulia zawadi na nitakupikia chakula cha Kikorea. | 선물 사 왔고, 한국 음식 해 줄게.
+dl 니에마 | Asante sana, rafiki! | 정말 고마워, 친구야!
+sm Nipikie, niletee, nisomee, nipigie simu! | 요리해 줘, 가져다줘, 읽어 줘, 전화해 줘!
+qz '너에게 전화할게'는? | Nitakupigia simu
+qz kununua 의 적용형은? | kununulia
+
+@ 4-03-09 | 어근·접사 총정리 | -soma·-penda·-tu | 지금까지 본 뿌리와 붙는 말을 한데 모아 봐요.
+w msomaji | 독자 · m-…-ji | 읽는 사람
+e Msomaji wa vitabu. | 책 읽는 사람.
+e Wasomaji wengi. | 독자가 많아요.
+e Msomaji mpendwa. | 사랑하는 독자님.
+w upendo | 사랑 · u- 추상 | 사랑
+e Upendo wa kweli. | 진짜 사랑.
+e Upendo na amani. | 사랑과 평화.
+e Kwa upendo, Mama. | 사랑을 담아, 엄마가.
+w kitu | 물건 · ki- | 물건
+e Kitu kidogo. | 작은 것.
+e Kila kitu. | 모든 것.
+e Hakuna kitu. | 아무것도 없어요.
+w sokoni | 시장에 · -ni | 시장에(서)
+e Twende sokoni. | 시장 가요.
+e Sokoni ni rahisi. | 시장이 싸요.
+e Nilikutana naye sokoni. | 그를 시장에서 만났어요.
+w kupikia | 요리해 주다 · -ia | ~에게 요리해 주다
+e Nitakupikia. | 해 줄게.
+e Alitupikia ugali. | 그가 우갈리를 해 줬어요.
+e Mafuta ya kupikia. | 식용유.
+w kuonana | 서로 만나다 · -ana | 서로 보다
+e Tutaonana! | 또 봐요!
+e Tuonane wapi? | 어디서 만날까요?
+e Tumeonana tena! | 또 만났네요!
+tp 앞에 붙는 말: m-/wa-(사람), ki-/vi-(물건, 언어), u-(추상, 나라), ma-(여럿, 큰 것).
+tp 뒤에 붙는 말: -ni(~에서), -ia(~에게), -isha(하게 하다), -ana(서로), -wa(받다), -ika(되다).
+tp 뿌리 하나로 낱말 여러 개를 알 수 있는 게 스와힐리어의 재미예요.
+pr soma | 읽다 || msomaji | 독자
+pr penda | 사랑하다 || upendo | 사랑
+dl 선생님 | Neno "mpishi" linatoka wapi? | "mpishi"는 어디서 왔죠?
+dl 수아 | Kutoka "kupika", na "-i" ni mtu. | "kupika"에서요, "-i"는 사람이에요.
+dl 선생님 | Vizuri! Na "kupikia"? | 잘했어요! "kupikia"는요?
+dl 수아 | "Kupika kwa ajili ya mtu". | "누군가를 위해 요리하다"예요.
+sm Mzizi mmoja, maneno mengi. | 뿌리 하나, 낱말 여럿.
+qz '-ana'는 무슨 뜻? | 서로
+qz '-ni'는 무슨 뜻? | ~에, ~에서

@@ -1,0 +1,327 @@
+# P5-C | 쇼핑·시장
+
+@ 1-04-01 | 가격 묻기·흥정 | Bei gani·Punguza | 시장(soko)에서는 값을 깎는 게 자연스러워요. 웃으면서 천천히 흥정해요.
+w Bei gani? | 얼마예요? · bei 값 + gani 어떤 | 얼마예요?
+e Hii ni bei gani? | 이거 얼마예요?
+e Bei gani kwa kilo? | 1킬로에 얼마예요?
+e Embe moja bei gani? | 망고 하나 얼마예요?
+w bei | 값, 가격 | 값, 가격
+e Bei ya mchele imepanda. | 쌀값이 올랐어요.
+e Bei ni nzuri. | 값이 괜찮네요.
+e Bei hizi ni za leo tu. | 이 가격은 오늘만이에요.
+w ghali | 비싸다 | 비싸다
+e Ni ghali sana! | 너무 비싸요!
+e Kitu hiki ni ghali kidogo. | 이건 좀 비싸네요.
+e Nairobi maisha ni ghali. | 나이로비는 생활비가 비싸요.
+w rahisi | 싸다, 쉽다 | 싸다; 쉽다
+e Bei rahisi. | 싼 값.
+e Hapa vitu ni rahisi. | 여기 물건이 싸요.
+e Kiswahili ni rahisi kidogo. | 스와힐리어는 조금 쉬워요.
+w Punguza | 깎아 주세요 · punguza 줄이다 | 깎아 주세요; 줄이다
+e Punguza kidogo, tafadhali. | 조금만 깎아 주세요.
+e Punguza bei, rafiki. | 값 좀 깎아 줘요, 친구.
+e Siwezi kupunguza zaidi. | 더는 못 깎아요.
+w bei ya mwisho | 마지막 가격 · '끝 가격' | 최종 가격
+e Bei ya mwisho ni ngapi? | 마지막 가격이 얼마예요?
+e Hii ndiyo bei ya mwisho. | 이게 마지막 가격이에요.
+e Bei ya mwisho elfu tatu. | 마지막으로 삼천이요.
+w shilingi | 실링 · 탄자니아·케냐·우간다 돈 | 실링(돈 단위)
+e Shilingi elfu mbili. | 이천 실링.
+e Shilingi ya Tanzania. | 탄자니아 실링.
+e Sina shilingi za kutosha. | 실링이 모자라요.
+w chenji | 거스름돈 · 영어 change | 거스름돈, 잔돈
+e Chenji yako hii. | 거스름돈 여기 있어요.
+e Sina chenji. | 잔돈이 없어요.
+e Una chenji ya elfu kumi? | 만 실링 바꿔 줄 수 있어요?
+tp 흥정 순서: Bei gani? → Ghali sana! → Punguza kidogo → Bei ya mwisho?
+tp 외국인에게는 처음에 높은 값을 부르기도 해요. 현지인과 같이 가거나 값을 미리 알아 두면 좋아요.
+tp rahisi는 '싸다'와 '쉽다' 둘 다예요.
+pr ghali | 비싸다 || rahisi | 싸다
+pr Bei gani? | 얼마예요? || Elfu moja. | 천 실링이에요.
+dl 수아 | Nanasi hili bei gani? | 이 파인애플 얼마예요?
+dl 상인 | Elfu tatu, dada. | 삼천 실링이에요, 아가씨.
+dl 수아 | Ghali sana! Punguza kidogo. | 너무 비싸요! 조금 깎아 주세요.
+dl 상인 | Sawa, elfu mbili na nusu. Bei ya mwisho. | 좋아요, 이천오백. 마지막 가격이에요.
+sm Bei gani? Ghali! Punguza kidogo — bei ya mwisho? | 얼마예요? 비싸요! 조금 깎아 줘요 — 마지막 가격은요?
+qz '얼마예요?'는? | Bei gani?
+qz '깎아 주세요'는? | Punguza
+
+@ 1-04-02 | 과일 | embe·nanasi·chungwa | 동아프리카는 과일이 많고 싸요. 망고 철에는 길마다 망고가 쌓여 있어요.
+w embe | 망고 · 여럿은 maembe | 망고
+e Embe bivu. | 잘 익은 망고.
+e Maembe ni mengi msimu huu. | 이번 철에 망고가 많아요.
+e Juisi ya embe, tafadhali. | 망고 주스 주세요.
+w nanasi | 파인애플 · 여럿 mananasi | 파인애플
+e Nanasi tamu. | 달콤한 파인애플.
+e Kata nanasi vipande. | 파인애플을 조각내요.
+e Mananasi yanatoka Bagamoyo. | 파인애플은 바가모요에서 와요.
+w chungwa | 오렌지 · 여럿 machungwa | 오렌지
+e Machungwa matano. | 오렌지 다섯 개.
+e Chungwa hili ni chachu. | 이 오렌지는 시어요.
+e Juisi ya machungwa. | 오렌지 주스.
+w papai | 파파야 · 여럿 mapapai | 파파야
+e Papai limeiva. | 파파야가 익었어요.
+e Asubuhi ninakula papai. | 아침에 파파야를 먹어요.
+e Mti wa papai uko nyuma ya nyumba. | 파파야 나무가 집 뒤에 있어요.
+w parachichi | 아보카도 | 아보카도
+e Parachichi kubwa. | 큰 아보카도.
+e Parachichi na mkate. | 아보카도와 빵.
+e Maparachichi ni rahisi Kenya. | 케냐에서는 아보카도가 싸요.
+w tikiti maji | 수박 · tikiti 멜론 + maji 물 | 수박
+e Tikiti maji baridi. | 시원한 수박.
+e Kipande cha tikiti maji. | 수박 한 조각.
+e Tikiti maji ni zuri wakati wa joto. | 더울 때 수박이 좋아요.
+w nazi | 코코넛 | 코코넛
+e Maji ya nazi. | 코코넛 물.
+e Wali wa nazi. | 코코넛 밥.
+e Mnazi una nazi nyingi. | 야자나무에 코코넛이 많아요.
+w ndimu | 라임 · 레몬은 limau | 라임
+e Ndimu mbili. | 라임 두 개.
+e Weka ndimu kwenye samaki. | 생선에 라임을 뿌려요.
+e Chai ya ndimu. | 라임차.
+w tunda | 과일 · 여럿 matunda | 과일
+e Matunda mabichi. | 덜 익은 과일들.
+e Tunda gani unapenda? | 무슨 과일 좋아해요?
+e Kula matunda kila siku. | 매일 과일을 먹어요.
+tp 과일 이름은 대부분 ji-ma 부류라 여럿이면 ma-가 붙어요: embe → maembe, chungwa → machungwa.
+tp 익은 과일은 -bivu, 덜 익은 과일은 -bichi: embe bivu ↔ embe bichi.
+tp 나무 이름은 m-를 붙여요: mwembe(망고나무), mnazi(야자나무), mchungwa(오렌지나무).
+pr embe | 망고 하나 || maembe | 망고 여럿
+pr bivu | 익은 || bichi | 덜 익은
+dl 상인 | Karibu! Maembe matamu leo! | 어서 와요! 오늘 망고 달아요!
+dl 민준 | Ni bei gani? | 얼마예요?
+dl 상인 | Matatu kwa elfu moja. | 세 개에 천 실링이에요.
+dl 민준 | Nipe sita, na nanasi moja. | 여섯 개랑 파인애플 하나 주세요.
+sm Embe, nanasi, chungwa na nazi — matunda matamu ya pwani. | 망고, 파인애플, 오렌지, 코코넛 — 해안의 달콤한 과일.
+qz '망고'는? | embe
+qz parachichi 는? | 아보카도
+
+@ 1-04-03 | 채소·양념 | mahindi·tangawizi | 시장 채소와 양념이에요. 잔지바르는 '향신료 섬'으로 유명해요.
+w mahindi | 옥수수 | 옥수수
+e Mahindi ya kuchoma. | 구운 옥수수.
+e Unga wa mahindi. | 옥수숫가루.
+e Shamba la mahindi. | 옥수수밭.
+w kabichi | 양배추 | 양배추
+e Kabichi moja kubwa. | 큰 양배추 하나.
+e Kabichi na karoti. | 양배추와 당근.
+e Pika kabichi kwa nyanya. | 양배추를 토마토와 같이 요리해요.
+w karoti | 당근 | 당근
+e Karoti tatu. | 당근 세 개.
+e Kata karoti ndogo ndogo. | 당근을 잘게 썰어요.
+e Juisi ya karoti. | 당근 주스.
+w tango | 오이 · 여럿 matango | 오이
+e Tango baridi. | 시원한 오이.
+e Kachumbari ina tango. | 카춤바리에는 오이가 들어가요.
+e Matango mawili. | 오이 두 개.
+w bamia | 오크라 | 오크라
+e Mchuzi wa bamia. | 오크라 스튜.
+e Bamia ni laini. | 오크라는 부드러워요.
+e Nunua bamia sokoni. | 시장에서 오크라를 사요.
+w biringanya | 가지 | 가지
+e Biringanya za kukaanga. | 가지 튀김.
+e Biringanya hizi ni ndogo. | 이 가지들은 작아요.
+e Mchuzi wa biringanya. | 가지 스튜.
+w tangawizi | 생강 | 생강
+e Chai ya tangawizi. | 생강차.
+e Tangawizi ni nzuri kwa mafua. | 생강은 감기에 좋아요.
+e Ongeza tangawizi kidogo. | 생강을 조금 더 넣어요.
+w viungo | 향신료, 양념 · 원래 '몸의 마디' | 향신료, 양념
+e Viungo vya pilau. | 필라우 양념.
+e Zanzibar ni kisiwa cha viungo. | 잔지바르는 향신료 섬이에요.
+e Mdalasini na karafuu ni viungo. | 계피와 정향은 향신료예요.
+tp kachumbari = 토마토·양파·오이·고추를 잘게 썬 샐러드. 숯불구이에 꼭 곁들여요.
+tp 잔지바르 향신료: karafuu(정향), mdalasini(계피), iliki(카다멈), pilipili manga(후추).
+tp viungo는 '양념'이자 '관절, 부품'이라는 뜻도 있어요.
+pr tango | 오이 하나 || matango | 오이 여럿
+pr kabichi | 양배추 || karoti | 당근
+dl 수아 | Ninataka kupika pilau. Nahitaji nini? | 필라우를 만들고 싶어요. 뭐가 필요해요?
+dl 니에마 | Mchele, nyama, kitunguu na viungo vya pilau. | 쌀, 고기, 양파, 필라우 양념이요.
+dl 수아 | Viungo vinapatikana wapi? | 양념은 어디서 사요?
+dl 니에마 | Sokoni, kwa mama yule. | 시장에서, 저 아주머니한테서요.
+sm Mahindi, kabichi, karoti na tangawizi — vyote viko sokoni. | 옥수수, 양배추, 당근, 생강 — 다 시장에 있어요.
+qz '생강'은? | tangawizi
+qz '옥수수'는? | mahindi
+
+@ 1-04-04 | 옷·천 | kanga·kitenge | 동아프리카 여성의 천 kanga와 kitenge는 옷, 치마, 아기 띠로 두루 써요.
+w kanga | 캉가 · 글귀가 쓰인 얇은 면천 | 캉가(글귀가 적힌 천)
+e Kanga mbili. | 캉가 한 벌(두 장).
+e Kanga hii ina maneno mazuri. | 이 캉가에는 좋은 글귀가 있어요.
+e Mama amevaa kanga. | 엄마가 캉가를 둘렀어요.
+w kitenge | 키텡게 · 무늬가 굵은 두꺼운 천 | 키텡게(무늬 천)
+e Gauni la kitenge. | 키텡게 원피스.
+e Fundi anashona kitenge. | 재봉사가 키텡게를 바느질해요.
+e Vitenge vya rangi nyingi. | 알록달록한 키텡게들.
+w nguo | 옷, 천 | 옷; 천
+e Nguo mpya. | 새 옷.
+e Fua nguo. | 빨래해요.
+e Duka la nguo. | 옷 가게.
+w shati | 셔츠 | 셔츠
+e Shati jeupe. | 흰 셔츠.
+e Shati hili ni dogo. | 이 셔츠는 작아요.
+e Nataka shati la mikono mifupi. | 반팔 셔츠 주세요.
+w gauni | 원피스 | 원피스, 드레스
+e Gauni zuri. | 예쁜 원피스.
+e Gauni la harusi. | 웨딩드레스.
+e Gauni hili ni bei gani? | 이 원피스 얼마예요?
+w suruali | 바지 | 바지
+e Suruali ndefu. | 긴바지.
+e Suruali hii inanibana. | 이 바지는 끼어요.
+e Nunua suruali mbili. | 바지 두 벌 사요.
+w viatu | 신발 · 하나는 kiatu | 신발
+e Viatu vipya. | 새 신발.
+e Vua viatu, tafadhali. | 신발 벗어 주세요.
+e Viatu hivi ni vikubwa. | 이 신발은 커요.
+w kofia | 모자 | 모자
+e Kofia ya jua. | 햇빛 가리는 모자.
+e Vaa kofia. | 모자 써요.
+e Kofia nyeupe ya Kiislamu. | 이슬람식 흰 모자.
+tp '입다/쓰다/신다'는 모두 kuvaa 하나로 말해요. '벗다'는 kuvua.
+tp kanga 글귀(jina)는 속담이나 메시지예요. 선물할 때 글귀를 골라요.
+tp 시장에서 천을 사서 재봉사(fundi)에게 맞춰 입는 일이 흔해요.
+pr kuvaa | 입다 || kuvua | 벗다
+pr kiatu | 신발 한 짝 || viatu | 신발
+dl 수아 | Ninataka kanga nzuri. | 예쁜 캉가 사고 싶어요.
+dl 상인 | Hii ina maneno 'Upendo ni subira'. | 이건 '사랑은 인내'라는 글귀가 있어요.
+dl 수아 | Nzuri sana! Bei gani? | 정말 좋아요! 얼마예요?
+dl 상인 | Elfu kumi na tano. | 만오천 실링이에요.
+sm Kanga, kitenge, shati na viatu — nguo za sokoni. | 캉가, 키텡게, 셔츠, 신발 — 시장 옷들.
+qz '입다'는? | kuvaa
+qz '신발'은? | viatu
+
+@ 1-04-05 | 수량·단위 | kilo·fungu·lita | 시장에서는 킬로 말고도 '한 무더기(fungu)'로 많이 팔아요.
+w kilo | 킬로그램 | 킬로그램
+e Kilo moja ya nyanya. | 토마토 1킬로.
+e Kilo mbili za mchele. | 쌀 2킬로.
+e Bei kwa kilo ni ngapi? | 1킬로에 얼마예요?
+w nusu kilo | 반 킬로, 500그램 | 반 킬로
+e Nusu kilo ya nyama. | 고기 반 킬로.
+e Nusu kilo inatosha. | 반 킬로면 충분해요.
+e Nipe nusu kilo tu. | 반 킬로만 주세요.
+w fungu | 무더기 · 시장에서 쌓아 파는 단위 | 무더기, 한 묶음
+e Fungu moja la nyanya. | 토마토 한 무더기.
+e Mafungu matatu kwa elfu moja. | 세 무더기에 천 실링.
+e Fungu hili ni dogo. | 이 무더기는 작아요.
+w mfuko | 봉지, 가방 | 봉지; 가방
+e Mfuko wa plastiki. | 비닐봉지.
+e Una mfuko? | 봉지 있어요?
+e Weka kwenye mfuko. | 봉지에 넣어요.
+w lita | 리터 | 리터
+e Lita moja ya maziwa. | 우유 1리터.
+e Lita tano za maji. | 물 5리터.
+e Mafuta lita mbili. | 기름 2리터.
+w kipande | 조각 | 조각
+e Kipande cha mkate. | 빵 한 조각.
+e Vipande vitatu vya samaki. | 생선 세 토막.
+e Nipe kipande kidogo. | 작은 조각 주세요.
+w -ote | 모두, 전부 · yote, wote, vyote | 모두, 전부
+e Nitachukua yote. | 전부 가져갈게요.
+e Matunda yote ni mazuri. | 과일이 다 좋아요.
+e Watu wote wamefika. | 사람들이 다 왔어요.
+w kutosha | 충분하다 | 충분하다
+e Inatosha, asante. | 충분해요, 고마워요.
+e Pesa hazitoshi. | 돈이 모자라요.
+e Chakula kinatosha kwa wote. | 음식이 모두에게 충분해요.
+tp '~의 ~'는 수량 + ya/za + 물건: kilo moja ya nyanya, lita tano za maji.
+tp '전부'는 -ote에 앞말을 맞춰요: yote(것들), wote(사람들), vyote(ki-vi 물건들).
+tp 탄자니아는 2019년부터 비닐봉지가 금지됐어요. 천 가방(mfuko wa kitambaa)을 들고 가요.
+pr kilo moja | 1킬로 || nusu kilo | 반 킬로
+pr inatosha | 충분해요 || haitoshi | 모자라요
+dl 민준 | Nipe kilo moja ya nyanya. | 토마토 1킬로 주세요.
+dl 상인 | Hatuuzi kwa kilo, tunauza kwa fungu. | 킬로로 안 팔고 무더기로 팔아요.
+dl 민준 | Sawa, mafungu mawili. Inatosha? | 그럼 두 무더기요. 충분할까요?
+dl 상인 | Inatosha kabisa. | 충분하고말고요.
+sm Kilo, nusu kilo, fungu na lita — nunua inayotosha. | 킬로, 반 킬로, 무더기, 리터 — 충분한 만큼 사요.
+qz '조각'은? | kipande
+qz fungu 는? | 무더기
+
+@ 1-04-06 | 가게·사고팔기 | duka·kununua·kuuza | 가게와 시장, 사고파는 사람에 대한 말이에요.
+w duka | 가게 · 여럿 maduka | 가게
+e Duka la dawa. | 약국.
+e Duka liko wazi. | 가게가 열려 있어요.
+e Maduka mengi yamefungwa Jumapili. | 일요일엔 가게가 많이 닫혀요.
+w soko | 시장 | 시장
+e Soko la Kariakoo. | 카리아쿠 시장.
+e Ninakwenda sokoni. | 시장에 가요.
+e Soko la samaki. | 생선 시장.
+w kununua | 사다 | 사다
+e Ninataka kununua matunda. | 과일을 사고 싶어요.
+e Ulinunua wapi? | 어디서 샀어요?
+e Nimenunua kitenge. | 키텡게를 샀어요.
+w kuuza | 팔다 | 팔다
+e Unauza nini? | 뭐 팔아요?
+e Anauza samaki sokoni. | 그는 시장에서 생선을 팔아요.
+e Nyumba hii inauzwa. | 이 집은 팔려고 내놓았어요.
+w mteja | 손님, 고객 | 손님, 고객
+e Karibu mteja! | 어서 오세요, 손님!
+e Wateja wengi leo. | 오늘 손님이 많아요.
+e Mteja ni mfalme. | 손님은 왕이다.
+w muuzaji | 파는 사람, 상인 | 상인, 판매자
+e Muuzaji wa matunda. | 과일 장수.
+e Muuzaji huyu ni mwaminifu. | 이 상인은 정직해요.
+e Wauzaji wanaita wateja. | 상인들이 손님을 불러요.
+w wazi | 열린 · 분명한 | 열려 있다; 분명하다
+e Duka liko wazi saa ngapi? | 가게는 몇 시에 열어요?
+e Mlango uko wazi. | 문이 열려 있어요.
+e Ni wazi kabisa. | 아주 분명해요.
+w kufungwa | 닫히다 | 닫히다
+e Duka limefungwa. | 가게가 닫혔어요.
+e Soko linafungwa saa kumi na mbili. | 시장은 저녁 6시에 닫아요.
+e Benki zimefungwa leo. | 오늘 은행들이 닫았어요.
+tp 동사 뒤에 -wa를 붙이면 '~되다'(수동): kuuza 팔다 → kuuzwa 팔리다, kufunga 닫다 → kufungwa 닫히다.
+tp '~에 가요'는 장소 + -ni: soko → sokoni, duka → dukani.
+tp 다르에스살람의 Kariakoo는 동아프리카에서 가장 큰 시장 가운데 하나예요.
+pr kununua | 사다 || kuuza | 팔다
+pr wazi | 열려 있다 || imefungwa | 닫혔다
+dl 수아 | Duka la dawa liko wazi? | 약국 열었어요?
+dl 주마 | Hapana, limefungwa. Ni Jumapili. | 아니요, 닫았어요. 일요일이잖아요.
+dl 수아 | Ninaweza kununua dawa wapi? | 약은 어디서 살 수 있어요?
+dl 주마 | Kuna duka jingine karibu na hospitali. | 병원 근처에 다른 가게가 있어요.
+sm Muuzaji anauza, mteja ananunua — soko liko wazi. | 상인은 팔고 손님은 사요 — 시장이 열렸어요.
+qz '사다'는? | kununua
+qz '팔다'는? | kuuza
+
+@ 1-04-07 | 기념품·쇼핑 소품 | zawadi·kikapu | 기념품 가게와 시장에서 같이 쓰는 말이에요.
+w zawadi | 선물 | 선물
+e Zawadi kwa mama. | 엄마께 드릴 선물.
+e Asante kwa zawadi! | 선물 고마워요!
+e Nataka kununua zawadi. | 선물을 사고 싶어요.
+w kikapu | 바구니 · 풀로 엮은 | 바구니
+e Kikapu cha ukili. | 야자잎 바구니.
+e Weka matunda kwenye kikapu. | 바구니에 과일을 담아요.
+e Vikapu hivi ni vya mkono. | 이 바구니들은 손으로 만든 거예요.
+w shanga | 구슬 · 마사이 구슬 장식 | 구슬, 구슬 장신구
+e Shanga za Kimasai. | 마사이 구슬 장식.
+e Bangili ya shanga. | 구슬 팔찌.
+e Mama anatengeneza shanga. | 엄마가 구슬 장신구를 만들어요.
+w kinyago | 조각상, 탈 · 나무 조각 | 나무 조각상; 탈
+e Kinyago cha mpingo. | 흑단 조각상.
+e Vinyago vya Makonde. | 마콘데 조각.
+e Kinyago hiki ni kizito. | 이 조각상은 무거워요.
+w kuchagua | 고르다 | 고르다, 선택하다
+e Chagua unachopenda. | 좋아하는 걸 골라요.
+e Nimechagua hii. | 이걸로 골랐어요.
+e Ni vigumu kuchagua. | 고르기 어려워요.
+w -dogo | 작은 · kidogo, mdogo, ndogo | 작은
+e Mfuko mdogo. | 작은 가방.
+e Kitu kidogo. | 작은 물건.
+e Nyumba ndogo. | 작은 집.
+w -kubwa | 큰 · kikubwa, mkubwa, kubwa | 큰
+e Soko kubwa. | 큰 시장.
+e Kikapu kikubwa. | 큰 바구니.
+e Mtu mkubwa. | 어른, 높은 사람.
+w rangi | 색, 페인트 | 색깔; 페인트
+e Rangi gani? | 무슨 색이요?
+e Kuna rangi nyingine? | 다른 색 있어요?
+e Rangi nyekundu ni nzuri. | 빨간색이 예뻐요.
+tp 크다·작다도 앞말이 바뀌어요: kikapu kikubwa(큰 바구니), mtu mkubwa(큰 사람), nyumba kubwa(큰 집).
+tp 마콘데(Makonde) 사람들의 흑단(mpingo) 조각은 탄자니아 대표 기념품이에요.
+tp 다른 색을 원하면 Kuna rangi nyingine?(다른 색 있어요?)
+pr kubwa | 큰 || ndogo | 작은
+pr Kuna rangi nyingine? | 다른 색 있어요? || Ndiyo, kuna nyekundu. | 네, 빨간색 있어요.
+dl 민준 | Ninatafuta zawadi kwa mama yangu. | 엄마께 드릴 선물을 찾고 있어요.
+dl 상인 | Chagua: shanga, kikapu au kanga. | 고르세요: 구슬 장식, 바구니, 캉가.
+dl 민준 | Kikapu hiki kidogo ni kizuri. Kuna rangi nyingine? | 이 작은 바구니가 예쁘네요. 다른 색 있어요?
+dl 상인 | Ndiyo, kuna bluu na kijani. | 네, 파란색이랑 초록색이요.
+sm Chagua zawadi: kikapu, shanga au kinyago. | 선물을 골라요: 바구니, 구슬 장식, 조각상.
+qz '선물'은? | zawadi
+qz '고르다'는? | kuchagua

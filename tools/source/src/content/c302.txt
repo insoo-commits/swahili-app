@@ -1,0 +1,419 @@
+# P3-B | 기본 동사 뜻 비교
+
+@ 3-02-06 | 보다 | kuona·kutazama·kuangalia | 모두 '보다'지만 느낌이 달라요.
+w kuona | 보다, 보이다 · 눈에 들어옴 | 보다; 보이다; 만나다
+e Ninaona mlima. | 산이 보여요.
+e Sijakuona siku nyingi! | 오랫동안 못 봤네요!
+e Umeona simu yangu? | 내 휴대폰 봤어요?
+w kutazama | 바라보다, 시청하다 · 일부러 봄 | 바라보다; 시청하다
+e Tunatazama televisheni. | 우리는 텔레비전을 봐요.
+e Tazama juu! | 위를 봐!
+e Alimtazama kwa muda mrefu. | 그는 그녀를 오래 바라봤어요.
+w kuangalia | 살펴보다, 확인하다 · 주의해서 봄 | 살펴보다; 확인하다; 조심하다
+e Angalia gari! | 차 조심해!
+e Ngoja niangalie. | 잠깐 확인해 볼게요.
+e Daktari anaangalia mgonjwa. | 의사가 환자를 진찰해요.
+w kuchungulia | 엿보다, 들여다보다 | 들여다보다, 엿보다
+e Usichungulie dirishani. | 창문으로 엿보지 마.
+e Alichungulia mlangoni. | 그는 문으로 들여다봤어요.
+e Chungulia chini ya kitanda. | 침대 밑을 들여다봐요.
+w kukagua | 검사하다, 점검하다 | 검사하다, 점검하다
+e Polisi wanakagua magari. | 경찰이 차를 검문해요.
+e Kagua tiketi. | 표를 검사해요.
+e Mwalimu anakagua kazi. | 선생님이 숙제를 검사해요.
+tp kuona(저절로 보이다) vs kutazama(일부러 보다): Ninaona ndege(새가 보여요) / Ninatazama ndege(새를 바라봐요).
+tp kuangalia는 '살펴보다, 조심하다': Angalia! = 조심해!
+tp 영화·텔레비전은 kutazama(케냐) 또는 kuangalia(탄자니아) 둘 다 써요.
+pr Ninaona. | 보여요. || Ninatazama. | 보고 있어요.
+pr Angalia! | 조심해! || Tazama! | 봐!
+dl 아이 | Mama, tazama! Twiga! | 엄마, 봐요! 기린!
+dl 엄마 | Wapi? Sioni. | 어디? 안 보여.
+dl 아이 | Pale, karibu na mti. | 저기, 나무 옆에.
+dl 엄마 | Sasa nimemwona. Angalia, usikaribie sana. | 이제 보인다. 조심해, 너무 가까이 가지 마.
+sm Ona, tazama, angalia, chungulia, kagua. | 보이고, 바라보고, 살피고, 들여다보고, 검사해요.
+qz '차 조심해!'는? | Angalia gari!
+qz '텔레비전을 봐요'는? | Tunatazama televisheni
+
+@ 3-02-07 | 말하다 | kusema·kuongea·kuzungumza | 모두 '말하다'예요.
+w kusema | 말하다 · 내용을 말함 | 말하다
+e Sema tena. | 다시 말해 줘요.
+e Alisema nini? | 그가 뭐라고 했어요?
+e Unasema Kiswahili? | 스와힐리어 해요?
+w kuongea | 이야기하다 · 입말 | 이야기하다, 수다 떨다
+e Tuongee kidogo. | 잠깐 얘기해요.
+e Anaongea sana. | 그는 말이 많아요.
+e Ongea polepole. | 천천히 말해요.
+w kuzungumza | 대화하다 · 공손한 말 | 대화하다, 이야기하다
+e Tulizungumza kwa saa moja. | 한 시간 동안 이야기했어요.
+e Unazungumza Kiingereza? | 영어 할 줄 알아요?
+e Tunahitaji kuzungumza. | 우리 얘기 좀 해야 해요.
+w kuambia | (~에게) 말하다 · 받는 사람이 붙음 | ~에게 말하다, 알려 주다
+e Niambie ukweli. | 사실대로 말해 줘.
+e Alikuambia nini? | 그가 너한테 뭐라고 했어?
+e Mwambie aje. | 그에게 오라고 말해.
+w kunong'ona | 속삭이다 | 속삭이다
+e Usinong'one darasani. | 교실에서 속닥이지 마.
+e Alininong'oneza siri. | 그가 비밀을 속삭였어요.
+e Wanong'ona nyuma. | 뒤에서 수군거려요.
+w kupiga kelele | 소리 지르다 · 시끄럽게 | 떠들다, 소리 지르다
+e Msipige kelele! | 떠들지 마세요!
+e Watoto wanapiga kelele. | 아이들이 떠들어요.
+e Alipiga kelele kuomba msaada. | 그는 도와 달라고 소리쳤어요.
+tp kusema(무엇을 말하다), kuambia(누구에게 말하다): Alisema ndiyo / Aliniambia ndiyo.
+tp kuongea는 입말, kuzungumza는 조금 더 공손해요. 언어를 할 줄 아는지 물을 때 둘 다 써요.
+tp kelele는 '소음': kelele nyingi = 시끄러워요.
+pr Sema! | 말해! || Niambie! | 나한테 말해!
+pr kunong'ona | 속삭이다 || kupiga kelele | 소리 지르다
+dl 민준 | Samahani, unazungumza Kiingereza? | 실례지만, 영어 하세요?
+dl 주마 | Kidogo tu. Sema Kiswahili polepole. | 조금만요. 스와힐리어로 천천히 말해 봐요.
+dl 민준 | Niambie, stendi iko wapi? | 알려 주세요, 터미널이 어디예요?
+dl 주마 | Nimekuelewa! Iko karibu na soko. | 알아들었어요! 시장 옆이에요.
+sm Sema, ambia, ongea, zungumza — maneno kwa mdomo. | 말하고, 알려 주고, 이야기하고, 대화해요 — 입으로 하는 말.
+qz '사실대로 말해 줘'는? | Niambie ukweli
+qz '천천히 말해요'는? | Ongea polepole
+
+@ 3-02-08 | 듣다·알아듣다 | kusikia·kusikiliza·kuelewa | 소리를 듣는 것과 귀 기울이는 것, 이해하는 것.
+w kusikia | 듣다, 들리다 · 저절로 | 듣다, 들리다; 느끼다
+e Unanisikia? | 내 말 들려요?
+e Nimesikia habari. | 소식 들었어요.
+e Nasikia baridi. | 추워요(추위를 느껴요).
+w kusikiliza | 귀 기울이다, 경청하다 · 일부러 | (주의해서) 듣다
+e Sikiliza! | 잘 들어!
+e Ninasikiliza redio. | 라디오를 들어요.
+e Msikilize mwalimu. | 선생님 말씀 잘 들어.
+w kuelewa | 이해하다, 알아듣다 | 이해하다, 알아듣다
+e Umeelewa? | 이해했어요?
+e Sielewi. | 이해가 안 돼요.
+e Nimekuelewa. | 무슨 말인지 알겠어요.
+w kutii | 따르다, 순종하다 | (말을) 따르다, 순종하다
+e Tii sheria. | 법을 지켜요.
+e Mtoto anatii wazazi. | 아이가 부모 말을 잘 들어요.
+e Askari wanatii amri. | 군인들은 명령을 따라요.
+w kusikika | 들리다 · sikia → sikika | 들리다, 들려오다
+e Sauti inasikika vizuri. | 소리가 잘 들려요.
+e Haisikiki. | 안 들려요.
+e Inasikika kama mvua. | 비 오는 소리 같아요.
+tp kusikia(들리다) vs kusikiliza(귀 기울여 듣다): Nasikia muziki / Ninasikiliza muziki.
+tp kusikia는 '느끼다'에도 써요: nasikia njaa(배고파요), nasikia baridi(추워요).
+tp 수업에서 자주 하는 말: Sielewi(이해 안 돼요), Rudia tafadhali(다시 해 주세요).
+pr Nasikia. | 들려요. || Ninasikiliza. | 듣고 있어요.
+pr Nimeelewa. | 이해했어요. || Sielewi. | 이해 안 돼요.
+dl 선생님 | Sikilizeni vizuri. Umeelewa, Sua? | 잘 들어요. 이해했어요, 수아?
+dl 수아 | Hapana, sielewi neno la mwisho. | 아니요, 마지막 단어를 모르겠어요.
+dl 선생님 | Neno ni "kusikika". | 단어는 "쿠시키카"예요.
+dl 수아 | Sasa nimesikia. Asante! | 이제 들려요. 고마워요!
+sm Sikia, sikiliza, elewa, tii. | 듣고, 귀 기울이고, 이해하고, 따라요.
+qz '잘 들어!'는? | Sikiliza!
+qz '이해가 안 돼요'는? | Sielewi
+
+@ 3-02-09 | 알다 | kujua·kufahamu·kutambua | '알다'에도 여러 말이 있어요.
+w kujua | 알다 · 가장 흔함 | 알다; 할 줄 알다
+e Najua. | 알아요.
+e Sijui. | 몰라요.
+e Unajua kuogelea? | 수영할 줄 알아요?
+w kufahamu | 알다, 이해하다 · 공손함 | 알다, 이해하다
+e Unamfahamu? | 그 사람 알아요?
+e Nimefahamu. | 알겠습니다.
+e Sifahamu Kiarabu. | 아랍어는 몰라요.
+w kutambua | 알아보다, 깨닫다 | 알아보다; 인정하다
+e Sikukutambua! | 못 알아봤어요!
+e Alitambua kosa lake. | 그는 자기 잘못을 깨달았어요.
+e Serikali inatambua shule hii. | 정부가 이 학교를 인가했어요.
+w kugundua | 알아내다, 발견하다 | 발견하다, 알아차리다
+e Niligundua tatizo. | 문제를 발견했어요.
+e Wanasayansi waligundua dawa. | 과학자들이 약을 발견했어요.
+e Aligundua kuwa amesahau ufunguo. | 그는 열쇠를 잊은 걸 알아차렸어요.
+w kujulisha | 알리다 · jua + isha | 알리다
+e Nijulishe ukifika. | 도착하면 알려 줘.
+e Tumejulishwa mapema. | 미리 연락받았어요.
+e Wajulishe wazazi. | 부모님께 알려 드려요.
+tp kujua는 사실을 알거나 '할 줄 알다', kufahamu는 사람을 알거나 공손하게 '이해하다'.
+tp kutambua는 얼굴을 '알아보다', kugundua는 새로 '알아내다'.
+tp '알려 줘'는 Nijulishe 또는 Niambie.
+pr Najua. | 알아요. || Sijui. | 몰라요.
+pr kutambua | 알아보다 || kugundua | 발견하다
+dl 주마 | Unamfahamu yule mwanamke? | 저 여자분 알아요?
+dl 민준 | Hapana, simjui. Ni nani? | 아니요, 몰라요. 누구예요?
+dl 주마 | Ni mwalimu wetu wa zamani! Sikumtambua mwanzoni. | 우리 옛날 선생님이에요! 처음엔 못 알아봤어요.
+dl 민준 | Hebu tumsalimie. | 가서 인사해요.
+sm Jua, fahamu, tambua, gundua, julisha. | 알고, 이해하고, 알아보고, 발견하고, 알려요.
+qz '못 알아봤어요!'는? | Sikukutambua!
+qz '도착하면 알려 줘'는? | Nijulishe ukifika
+
+@ 3-02-10 | 생각하다·기억하다 | kufikiri·kudhani·kukumbuka | 머릿속에서 하는 일이에요.
+w kufikiri | 생각하다 · 깊이 | 생각하다, 사고하다
+e Nafikiri ni sawa. | 괜찮다고 생각해요.
+e Fikiri kwanza. | 먼저 생각해 봐.
+e Anafikiri sana. | 그는 생각이 많아요.
+w kudhani | ~인 줄 알다, 짐작하다 | 생각하다, 짐작하다
+e Nilidhani umeondoka. | 네가 간 줄 알았어.
+e Unadhani atakuja? | 그가 올 거라고 생각해?
+e Nadhani hivyo. | 그런 것 같아요.
+w kufikiria | 곰곰이 생각하다 · fikiri + ia | ~에 대해 생각하다
+e Nitafikiria. | 생각해 볼게요.
+e Ninakufikiria. | 네 생각을 해.
+e Fikiria familia yako. | 가족을 생각해.
+w kukumbuka | 기억하다 | 기억하다
+e Unanikumbuka? | 나 기억해요?
+e Kumbuka kufunga mlango. | 문 잠그는 거 기억해.
+e Nakumbuka siku ile. | 그날을 기억해요.
+w kusahau | 잊다 | 잊다, 잊어버리다
+e Nimesahau jina lake. | 그의 이름을 잊었어요.
+e Usisahau! | 잊지 마!
+e Nilisahau simu nyumbani. | 집에 휴대폰을 두고 왔어요.
+w kuota | 꿈꾸다 | 꿈꾸다
+e Niliota ndoto nzuri. | 좋은 꿈을 꿨어요.
+e Naota kwenda Zanzibar. | 잔지바르에 가는 꿈을 꿔요.
+e Usiku huu nimeota mvua. | 지난밤에 비 꿈을 꿨어요.
+tp kufikiri(생각하다), kudhani(~라고 짐작하다): Nilidhani...는 '~인 줄 알았는데 아니었다'에 잘 써요.
+tp Nitafikiria = 생각해 볼게요(곧바로 답하지 않을 때).
+tp 물건을 두고 왔을 때도 kusahau: nimesahau ~ nyumbani.
+pr kukumbuka | 기억하다 || kusahau | 잊다
+pr Nafikiri... | ~라고 생각해요 || Nilidhani... | ~인 줄 알았어요
+dl 민준 | Unanikumbuka? Tulikutana Arusha. | 저 기억해요? 아루샤에서 만났잖아요.
+dl 네에마 | Ah, nakumbuka! Nilidhani umerudi Korea. | 아, 기억나요! 한국에 돌아간 줄 알았어요.
+dl 민준 | Bado. Unataka kunywa chai? | 아직이요. 차 한잔할래요?
+dl 네에마 | Nitafikiria... ndiyo, twende! | 생각해 보고… 네, 가요!
+sm Fikiri, dhani, kumbuka, sahau, ota. | 생각하고, 짐작하고, 기억하고, 잊고, 꿈꿔요.
+qz '네가 간 줄 알았어'는? | Nilidhani umeondoka
+qz '잊지 마!'는? | Usisahau!
+
+@ 3-02-11 | 원하다·좋아하다 | kutaka·kupenda·kuhitaji | 바람과 필요를 말해요.
+w kutaka | 원하다, ~하고 싶다 | 원하다; ~하고 싶다
+e Nataka maji. | 물 주세요(원해요).
+e Unataka kwenda wapi? | 어디 가고 싶어요?
+e Sitaki. | 싫어요.
+w kupenda | 좋아하다, 사랑하다 | 좋아하다; 사랑하다
+e Napenda chai. | 차를 좋아해요.
+e Nakupenda. | 사랑해요.
+e Ningependa kahawa. | 커피 주시면 좋겠어요.
+w kuhitaji | 필요하다 | 필요하다
+e Nahitaji msaada. | 도움이 필요해요.
+e Unahitaji nini? | 뭐가 필요해요?
+e Hatuhitaji gari. | 차는 필요 없어요.
+w kutamani | 바라다, 부러워하다 | 몹시 바라다; 탐내다
+e Natamani kusafiri. | 여행하고 싶어 죽겠어요.
+e Usitamani mali ya mwenzako. | 남의 재산을 탐내지 마.
+e Natamani ningekuwa nawe. | 너와 함께 있으면 좋겠어.
+w kuomba | 청하다, 부탁하다 | 부탁하다, 청하다; 기도하다
+e Naomba maji. | 물 좀 주세요.
+e Naomba msamaha. | 용서를 빌어요.
+e Tunaomba kwa Mungu. | 우리는 하나님께 기도해요.
+tp Nataka(원해요)는 직접적이에요. 가게에서는 Naomba ~ 또는 Ningependa ~ 가 공손해요.
+tp kupenda는 '좋아하다'와 '사랑하다' 둘 다예요.
+tp Sitaki = 싫어요, 원하지 않아요.
+pr Nataka chai. | 차 원해요. || Naomba chai. | 차 좀 주세요.
+pr Napenda. | 좋아해요. || Nahitaji. | 필요해요.
+dl 웨이터 | Karibu! Unahitaji nini? | 어서 오세요! 뭐 드릴까요?
+dl 수아 | Naomba chai ya tangawizi. | 생강차 주세요.
+dl 웨이터 | Unataka sukari? | 설탕 넣어요?
+dl 수아 | Sitaki sukari, asante. Napenda chai chungu. | 설탕은 됐어요. 쓴 차가 좋아요.
+sm Taka, penda, hitaji, tamani, omba. | 원하고, 좋아하고, 필요하고, 바라고, 청해요.
+qz 가게에서 공손하게 '물 주세요'는? | Naomba maji
+qz '도움이 필요해요'는? | Nahitaji msaada
+
+@ 3-02-12 | 기다림·탐색 동사 | kungoja·kusubiri·kutafuta | 기다리는 말 둘과 찾는 말.
+w kungoja | 기다리다 · 입말 | 기다리다
+e Ngoja kidogo. | 잠깐만 기다려.
+e Ninakungoja hapa. | 여기서 기다릴게.
+e Tulingoja basi saa moja. | 버스를 한 시간 기다렸어요.
+w kusubiri | 기다리다 · 조금 공손 | 기다리다
+e Subiri tafadhali. | 기다려 주세요.
+e Tafadhali subiri kidogo. | 잠시만 기다려 주세요.
+e Tunasubiri matokeo. | 결과를 기다리고 있어요.
+w kutafuta | 찾다 · 찾는 중 | 찾다
+e Ninatafuta hoteli. | 호텔을 찾고 있어요.
+e Unatafuta nini? | 뭘 찾아요?
+e Anatafuta kazi. | 그는 일을 찾고 있어요.
+w kupata | 얻다, 찾아내다 | 얻다, 구하다; 찾아내다
+e Nimepata ufunguo! | 열쇠 찾았어요!
+e Amepata kazi. | 그는 일자리를 구했어요.
+e Utapata wapi pesa? | 돈을 어디서 구할 거야?
+w kupoteza | 잃다 | 잃다, 잃어버리다; 낭비하다
+e Nimepoteza pochi. | 지갑을 잃어버렸어요.
+e Usipoteze muda. | 시간 낭비하지 마.
+e Timu ilipoteza mechi. | 팀이 경기에서 졌어요.
+tp kungoja = kusubiri. Subiri는 아랍어에서 온 말로 안내 방송·가게에서 자주 들려요.
+tp kutafuta(찾는 중) → kupata(찾아냄): Ninatafuta... Nimepata!
+tp kupoteza ↔ kupata: 잃다 ↔ 얻다.
+pr Ngoja! | 기다려! || Subiri tafadhali. | 기다려 주세요.
+pr Ninatafuta. | 찾고 있어요. || Nimepata! | 찾았어요!
+dl 민준 | Unatafuta nini? | 뭘 찾아요?
+dl 수아 | Nimepoteza pasipoti yangu! | 여권을 잃어버렸어요!
+dl 민준 | Ngoja, angalia kwenye mkoba. | 잠깐, 가방 안에 봐요.
+dl 수아 | Ah, nimeipata! Asante. | 아, 찾았어요! 고마워요.
+sm Ngoja, subiri, tafuta, pata, poteza. | 기다리고, 기다리고, 찾고, 얻고, 잃어요.
+qz '잠시만 기다려 주세요'는? | Tafadhali subiri kidogo
+qz '열쇠 찾았어요!'는? | Nimepata ufunguo!
+
+# P3-C | 이동·생활 동사
+
+@ 3-03-01 | 가다·떠나다 | kwenda·kuondoka·kuhama | 떠나는 방식에 따라 말이 달라요.
+w kwenda | 가다 | 가다
+e Naenda sokoni. | 시장에 가요.
+e Nenda salama. | 잘 가요.
+e Unaenda wapi? | 어디 가요?
+w kuondoka | 떠나다, 출발하다 | 떠나다, 출발하다
+e Basi linaondoka saa tatu. | 버스는 9시에 출발해요.
+e Ninaondoka kesho. | 내일 떠나요.
+e Ondoka hapa! | 여기서 나가!
+w kuhama | 이사하다, 옮기다 | 이사하다; 이주하다
+e Tumehamia Mwanza. | 므완자로 이사했어요.
+e Anahama nyumba. | 그는 집을 옮겨요.
+e Ndege wanahama. | 새들이 이동해요.
+w kusafiri | 여행하다, 길을 떠나다 | 여행하다; 이동하다
+e Ninasafiri kwenda Mombasa. | 몸바사로 가요.
+e Safari njema! | 좋은 여행 되세요!
+e Tulisafiri kwa basi. | 버스로 갔어요.
+w kutoka | 나가다, ~에서 오다 | 나가다; ~에서 오다
+e Natoka Korea. | 한국에서 왔어요.
+e Toka nje. | 밖으로 나가.
+e Ametoka. | 그는 나갔어요.
+tp kwenda(가다) vs kuondoka(지금 있는 곳을 떠나다): Naenda Dodoma / Naondoka sasa.
+tp kuhama는 사는 곳을 옮기는 것, kusafiri는 멀리 가는 것.
+tp Natoka Korea = 한국 출신이에요(한국에서 와요).
+pr kwenda | 가다 || kuja | 오다
+pr kuondoka | 떠나다 || kufika | 도착하다
+dl 손님 | Basi la Moshi linaondoka saa ngapi? | 모시행 버스는 몇 시에 출발해요?
+dl 직원 | Saa mbili asubuhi. Unasafiri peke yako? | 아침 8시요. 혼자 가세요?
+dl 손님 | Ndiyo. Natoka Korea, naenda kuona Kilimanjaro. | 네. 한국에서 왔는데 킬리만자로 보러 가요.
+dl 직원 | Safari njema! | 좋은 여행 되세요!
+sm Kwenda, kuondoka, kuhama, kusafiri, kutoka. | 가다, 떠나다, 이사하다, 여행하다, 나가다.
+qz '내일 떠나요'는? | Ninaondoka kesho
+qz '한국에서 왔어요'는? | Natoka Korea
+
+@ 3-03-02 | 도착하다·돌아오다 | kufika·kurudi·kuwasili | 오는 것을 말하는 동사예요.
+w kufika | 도착하다, 닿다 | 도착하다; 이르다
+e Tumefika! | 다 왔어요!
+e Ulifika lini? | 언제 도착했어요?
+e Maji yamefika magotini. | 물이 무릎까지 찼어요.
+w kuwasili | 도착하다 · 공식적, 안내 방송 | 도착하다(공식)
+e Ndege imewasili. | 비행기가 도착했습니다.
+e Rais atawasili kesho. | 대통령이 내일 도착합니다.
+e Wageni wamewasili salama. | 손님들이 무사히 도착했습니다.
+w kurudi | 돌아오다, 돌아가다 | 돌아가다·오다; 돌려주다
+e Nitarudi kesho. | 내일 돌아올게요.
+e Rudi nyumbani mapema. | 일찍 집에 와.
+e Rudisha kitabu. | 책 돌려줘.
+w kuja | 오다 | 오다
+e Njoo hapa. | 이리 와.
+e Atakuja kesho. | 그는 내일 와요.
+e Mvua inakuja. | 비가 와요(오려고 해요).
+w kukaribia | 다가오다 · karibu + ia | 다가가다, 가까워지다
+e Tunakaribia Arusha. | 아루샤에 거의 다 왔어요.
+e Mtihani unakaribia. | 시험이 다가와요.
+e Usikaribie mbwa. | 개한테 가까이 가지 마.
+tp kufika는 일상, kuwasili는 뉴스·공항 안내 방송 말투예요.
+tp kurudi는 '돌아오다/가다' 모두, kurudisha는 '돌려주다'.
+tp Njoo! = 와!(kuja의 명령은 불규칙)
+pr Njoo! | 와! || Nenda! | 가!
+pr Nimefika. | 도착했어요. || Nimerudi. | 돌아왔어요.
+dl 엄마 | Umefika? | 도착했니?
+dl 민준 | Bado, tunakaribia Dar. | 아직요, 다르에 거의 다 왔어요.
+dl 엄마 | Utarudi lini? | 언제 돌아와?
+dl 민준 | Nitarudi Jumapili. Nitakujulisha nikifika. | 일요일에 가요. 도착하면 알릴게요.
+sm Fika, wasili, rudi, kuja, karibia. | 도착하고, 도착하고, 돌아오고, 오고, 다가와요.
+qz '다 왔어요!'는? | Tumefika!
+qz '이리 와'는? | Njoo hapa
+
+@ 3-03-03 | 걷다·뛰다 | kutembea·kukimbia·kuruka | 몸을 움직이는 말이에요.
+w kutembea | 걷다, 돌아다니다 | 걷다; 돌아다니다, 놀러 가다
+e Tunatembea kwenda shule. | 걸어서 학교에 가요.
+e Twende kutembea. | 산책 가요.
+e Nimetembea Zanzibar. | 잔지바르에 놀러 갔었어요.
+w kukimbia | 뛰다, 도망가다 | 달리다; 도망치다
+e Usikimbie! | 뛰지 마!
+e Anakimbia kila asubuhi. | 그는 매일 아침 달려요.
+e Mwizi alikimbia. | 도둑이 도망갔어요.
+w kuruka | 뛰어오르다, 날다 | 뛰다(점프); 날다; 건너뛰다
+e Ruka juu! | 높이 뛰어!
+e Ndege anaruka. | 새가 날아요.
+e Umeruka ukurasa. | 한 쪽을 건너뛰었어.
+w kutambaa | 기다 | 기어가다
+e Mtoto anatambaa. | 아기가 기어요.
+e Nyoka anatambaa. | 뱀이 기어가요.
+e Tulitambaa chini ya waya. | 철조망 밑으로 기어갔어요.
+w kuogelea | 수영하다 | 수영하다, 헤엄치다
+e Unajua kuogelea? | 수영할 줄 알아요?
+e Tunaogelea baharini. | 바다에서 수영해요.
+e Samaki wanaogelea. | 물고기가 헤엄쳐요.
+tp kutembea는 '걷다'뿐 아니라 '놀러 다니다, 구경하다'로도 많이 써요.
+tp kukimbia는 '뛰다'와 '도망치다' 둘 다.
+tp kuruka는 점프, 날기, 건너뛰기 모두예요.
+pr kutembea | 걷다 || kukimbia | 뛰다
+pr kuruka | 뛰어오르다 || kutambaa | 기다
+dl 바라카 | Twende kutembea ufukweni? | 바닷가로 산책 갈래?
+dl 민준 | Sawa, halafu tuogelee! | 좋아, 그리고 수영하자!
+dl 바라카 | Tukimbie mpaka pale! | 저기까지 뛰자!
+dl 민준 | Polepole, nimechoka! | 천천히, 나 지쳤어!
+sm Tembea, kimbia, ruka, tambaa, ogelea. | 걷고, 뛰고, 날고, 기고, 헤엄쳐요.
+qz '뛰지 마!'는? | Usikimbie!
+qz '수영할 줄 알아요?'는? | Unajua kuogelea?
+
+@ 3-03-04 | 앉다·머물다 | kukaa·kuketi·kuishi | 앉다, 머물다, 살다.
+w kukaa | 앉다, 머물다, 살다 · 뜻이 넓음 | 앉다; 머물다; 살다
+e Kaa hapa. | 여기 앉아.
+e Utakaa siku ngapi? | 며칠 머물러요?
+e Anakaa Mbezi. | 그는 음베지에 살아요.
+w kuketi | 앉다 · 공손한 말 | 앉다
+e Karibu, keti. | 어서 오세요, 앉으세요.
+e Tafadhali keti. | 앉아 주세요.
+e Waliketi chini ya mti. | 그들은 나무 아래 앉았어요.
+w kuishi | 살다 | 살다, 생활하다
+e Ninaishi Dar es Salaam. | 다르에스살람에 살아요.
+e Anaishi peke yake. | 그는 혼자 살아요.
+e Aishi miaka mingi! | 오래 사세요!
+w kusimama | 서다, 멈추다 | 서다, 일어서다; 멈추다
+e Simama! | 일어서!
+e Gari limesimama. | 차가 멈췄어요.
+e Tulisimama kwenye foleni. | 줄을 서 있었어요.
+w kulala | 눕다, 자다 | 자다; 눕다
+e Lala salama. | 잘 자.
+e Nililala mapema. | 일찍 잤어요.
+e Lala chali. | 반듯이 누워요.
+tp kukaa는 앉다·머물다·살다 모두 돼요. kuketi는 '앉다'만, 더 공손해요.
+tp 사는 곳: Ninaishi ~ 또는 Ninakaa ~ 둘 다 써요.
+tp Lala salama(잘 자), Lala unono(푹 자).
+pr Keti. | 앉으세요. || Simama. | 일어서세요.
+pr kukaa | 머물다 || kuondoka | 떠나다
+dl 주인 | Karibu! Keti hapa. | 어서 와요! 여기 앉아요.
+dl 수아 | Asante. Mnaishi hapa muda gani? | 고마워요. 여기 사신 지 얼마나 됐어요?
+dl 주인 | Tumekaa hapa miaka kumi. | 여기서 10년 살았어요.
+dl 수아 | Ni pazuri sana. | 정말 좋은 곳이에요.
+sm Kaa, keti, ishi, simama, lala. | 앉고, 앉고, 살고, 서고, 자요.
+qz 공손하게 '앉으세요'는? | Keti
+qz '잘 자'는? | Lala salama
+
+@ 3-03-05 | 시작하다·끝내다 | kuanza·kumaliza·kwisha | 시작과 끝을 말해요.
+w kuanza | 시작하다 | 시작하다
+e Tuanze. | 시작해요.
+e Darasa limeanza. | 수업이 시작됐어요.
+e Nilianza kazi mwaka jana. | 작년에 일을 시작했어요.
+w kumaliza | 끝내다, 마치다 · 일부러 | 끝내다, 다 하다
+e Nimemaliza kazi. | 일 다 했어요.
+e Maliza chakula chako. | 밥 다 먹어.
+e Tutamaliza saa kumi. | 4시에 끝낼 거예요.
+w kwisha | 끝나다, 다 떨어지다 · 저절로 | 끝나다; 다 떨어지다
+e Mchezo umekwisha. | 경기가 끝났어요.
+e Sukari imekwisha. | 설탕이 다 떨어졌어요.
+e Imeisha! | 끝났어요!
+w kumalizika | 끝나다 · maliza + ika | 끝나다(일이)
+e Mkutano umemalizika. | 회의가 끝났어요.
+e Mvua imemalizika. | 비가 그쳤어요.
+e Likizo inamalizika kesho. | 휴가가 내일 끝나요.
+w kuendelea | 계속하다 | 계속하다; 지내다
+e Endelea! | 계속해!
+e Mvua inaendelea. | 비가 계속 와요.
+e Unaendeleaje? | 어떻게 지내요?
+tp kumaliza(사람이 끝내다) vs kwisha(저절로 끝나다, 다 떨어지다).
+tp 음식·물건이 다 떨어졌을 때: ~ imekwisha / imeisha.
+tp kuendelea = 계속하다. Unaendeleaje?는 안부 인사예요.
+pr kuanza | 시작하다 || kumaliza | 끝내다
+pr Imeanza. | 시작했어요. || Imekwisha. | 끝났어요.
+dl 수아 | Filamu imeanza? | 영화 시작했어요?
+dl 주마 | Ndiyo, imeanza dakika kumi zilizopita. | 네, 10분 전에 시작했어요.
+dl 수아 | Ah! Na popcorn imekwisha? | 아! 팝콘도 다 떨어졌어요?
+dl 주마 | Bado ipo. Endelea kuangalia! | 아직 있어요. 계속 봐요!
+sm Anza, maliza, isha, endelea. | 시작하고, 끝내고, 끝나고, 계속해요.
+qz '설탕이 다 떨어졌어요'는? | Sukari imekwisha
+qz '일 다 했어요'는? | Nimemaliza kazi

@@ -1,0 +1,277 @@
+# P5-E | 길찾기·교통
+
+@ 1-05-01 | 대중교통·탈것 | daladala·bodaboda | 동아프리카의 대중교통: 작은 버스 daladala(탄자니아)·matatu(케냐), 오토바이 택시 bodaboda, 삼륜차 bajaji.
+w daladala | 달라달라 · 탄자니아의 미니버스 | 달라달라(미니버스)
+e Daladala ya Posta. | 포스타 가는 달라달라.
+e Daladala imejaa watu. | 달라달라가 사람으로 꽉 찼어요.
+e Ninakwenda kazini kwa daladala. | 달라달라로 출근해요.
+w matatu | 마타투 · 케냐의 미니버스 | 마타투(케냐 미니버스)
+e Matatu ya Westlands. | 웨스트랜즈 가는 마타투.
+e Matatu za Nairobi zina muziki mkubwa. | 나이로비 마타투는 음악을 크게 틀어요.
+e Tulipanda matatu mpaka mjini. | 마타투를 타고 시내까지 갔어요.
+w bodaboda | 보다보다 · 오토바이 택시 | 오토바이 택시
+e Bodaboda ni haraka. | 보다보다는 빨라요.
+e Vaa kofia ngumu kwenye bodaboda. | 보다보다 탈 때는 헬멧을 써요.
+e Nilichukua bodaboda kwenda sokoni. | 보다보다를 타고 시장에 갔어요.
+w bajaji | 바자지 · 세 바퀴 택시(툭툭) | 삼륜 택시
+e Bajaji ni rahisi kuliko teksi. | 바자지는 택시보다 싸요.
+e Bajaji tatu ziko nje. | 바자지 세 대가 밖에 있어요.
+e Twende kwa bajaji. | 바자지 타고 가요.
+w basi | 버스 · 여럿 mabasi | 버스
+e Basi la Arusha. | 아루샤행 버스.
+e Mabasi yanaondoka alfajiri. | 버스들은 새벽에 떠나요.
+e Basi limefika kituoni. | 버스가 정류장에 도착했어요.
+w teksi | 택시 | 택시
+e Niitie teksi, tafadhali. | 택시 좀 불러 주세요.
+e Teksi ni ghali usiku. | 밤에는 택시가 비싸요.
+e Dereva wa teksi. | 택시 기사.
+w gari | 차 · 여럿 magari | 차, 자동차
+e Gari jekundu. | 빨간 차.
+e Una gari? | 차 있어요?
+e Magari mengi barabarani. | 길에 차가 많아요.
+w treni | 기차 · 표준어 garimoshi도 | 기차
+e Treni ya SGR. | SGR 기차(신철도).
+e Treni inakwenda Dodoma. | 기차가 도도마로 가요.
+e Tulisafiri kwa treni usiku. | 밤기차로 여행했어요.
+tp '~로(타고)'는 kwa + 탈것: kwa basi, kwa bodaboda, kwa miguu(걸어서).
+tp 다르에스살람에는 빠른 버스 전용차로 BRT(mwendokasi)도 있어요.
+tp bodaboda는 빠르지만 위험해요. 꼭 헬멧(kofia ngumu)을 쓰세요.
+pr daladala | 탄자니아 미니버스 || matatu | 케냐 미니버스
+pr basi | 버스 하나 || mabasi | 버스 여럿
+dl 수아 | Ninakwenda Kariakoo. Nipande nini? | 카리아쿠에 가요. 뭘 타야 해요?
+dl 주마 | Daladala au bajaji. | 달라달라나 바자지요.
+dl 수아 | Ipi ni rahisi zaidi? | 어느 게 더 싸요?
+dl 주마 | Daladala, lakini bajaji ni haraka. | 달라달라요, 그런데 바자지가 빨라요.
+sm Daladala, bodaboda, bajaji au teksi — chagua usafiri wako. | 달라달라, 보다보다, 바자지, 택시 — 교통수단을 골라요.
+qz 오토바이 택시는? | bodaboda
+qz 케냐의 미니버스는? | matatu
+
+@ 1-05-02 | 길 묻기 | Iko wapi·kulia·kushoto | 길을 묻고 방향을 말해요.
+w … iko wapi? | ~ 어디 있어요? · 장소에 따라 iko, liko, kiko | ~ 어디 있어요?
+e Benki iko wapi? | 은행이 어디 있어요?
+e Kituo cha basi kiko wapi? | 버스 정류장이 어디 있어요?
+e Soko liko wapi? | 시장이 어디 있어요?
+w moja kwa moja | 똑바로 · '하나에서 하나로' | 곧장, 똑바로
+e Nenda moja kwa moja. | 곧장 가세요.
+e Moja kwa moja mpaka taa. | 신호등까지 곧장 가요.
+e Basi linakwenda moja kwa moja Mwanza. | 버스가 므완자까지 바로 가요.
+w kulia | 오른쪽 · '울다'라는 뜻도 | 오른쪽; 울다
+e Geuka kulia. | 오른쪽으로 도세요.
+e Upande wa kulia. | 오른편.
+e Duka liko kulia kwako. | 가게는 오른쪽에 있어요.
+w kushoto | 왼쪽 | 왼쪽
+e Geuka kushoto. | 왼쪽으로 도세요.
+e Kushoto kwa benki. | 은행 왼쪽.
+e Usiende kushoto. | 왼쪽으로 가지 마요.
+w kona | 모퉁이 | 모퉁이, 코너
+e Kona ya kwanza. | 첫 번째 모퉁이.
+e Geuka kwenye kona. | 모퉁이에서 도세요.
+e Duka liko kona ile. | 가게는 저 모퉁이에 있어요.
+w mbali | 멀다 | 멀다, 멀리
+e Ni mbali? | 멀어요?
+e Si mbali sana. | 그렇게 멀지 않아요.
+e Mbali na mji. | 시내에서 멀리.
+w karibu na | ~ 가까이 · karibu 가까이 | ~ 근처에
+e Karibu na soko. | 시장 근처.
+e Ninaishi karibu na bahari. | 바다 근처에 살아요.
+e Hoteli iko karibu na uwanja wa ndege. | 호텔은 공항 근처에 있어요.
+w njia | 길 | 길, 방법
+e Njia ya kwenda stendi. | 터미널 가는 길.
+e Nimepotea njia. | 길을 잃었어요.
+e Hii ni njia fupi. | 이게 지름길이에요.
+tp 길 안내 순서: Nenda moja kwa moja → geuka kulia/kushoto → kwenye kona ya pili.
+tp kulia는 '오른쪽'과 '울다' 둘 다예요. 문맥으로 구별해요.
+tp '~ 어디 있어요?'는 장소 이름에 맞춰 iko/liko/kiko가 바뀌어요. 모르면 iko를 써도 통해요.
+pr kulia | 오른쪽 || kushoto | 왼쪽
+pr karibu | 가까워요 || mbali | 멀어요
+dl 민준 | Samahani, posta iko wapi? | 실례지만 우체국이 어디예요?
+dl 아주머니 | Nenda moja kwa moja, halafu geuka kulia. | 곧장 가다가 오른쪽으로 도세요.
+dl 민준 | Ni mbali? | 멀어요?
+dl 아주머니 | Hapana, ni dakika tano kwa miguu. | 아니요, 걸어서 5분이에요.
+sm Nenda moja kwa moja, geuka kushoto kwenye kona — si mbali. | 곧장 가서 모퉁이에서 왼쪽으로 돌아요 — 멀지 않아요.
+qz '오른쪽'은? | kulia
+qz '똑바로'는? | moja kwa moja
+
+@ 1-05-03 | 승하차·요금 | kituo·nauli·shusha | 버스를 타고, 요금을 내고, 내리고 싶은 곳에서 말해요.
+w kituo | 정류장 · kituo cha basi | 정류장, 역
+e Kituo cha basi. | 버스 정류장.
+e Kituo kinachofuata. | 다음 정류장.
+e Vituo vingi njiani. | 가는 길에 정류장이 많아요.
+w stendi | 터미널 · 영어 stand | 버스 터미널
+e Stendi kuu ya mabasi. | 시외버스 터미널.
+e Tukutane stendi. | 터미널에서 만나요.
+e Stendi iko mbali na mjini. | 터미널은 시내에서 멀어요.
+w nauli | 요금, 차비 | 차비, 요금
+e Nauli ni shilingi ngapi? | 차비가 얼마예요?
+e Nauli ya daladala ni mia saba. | 달라달라 요금은 700실링이에요.
+e Nimelipa nauli. | 차비 냈어요.
+w kupanda | 타다 · '오르다, 심다'도 | (차를) 타다; 오르다; 심다
+e Panda basi hili. | 이 버스 타요.
+e Tulipanda Mlima Kilimanjaro. | 킬리만자로산에 올랐어요.
+e Wapi ninapanda daladala? | 달라달라는 어디서 타요?
+w kushuka | 내리다 | (차에서) 내리다
+e Nitashuka hapa. | 여기서 내릴게요.
+e Shuka kituo kinachofuata. | 다음 정류장에서 내려요.
+e Abiria wanashuka. | 승객들이 내려요.
+w Shusha! | 내려 주세요! · 버스에서 기사에게 | 내려 주세요!
+e Shusha hapa, tafadhali! | 여기서 내려 주세요!
+e Konda, shusha! | 차장님, 내려요!
+e Shusha kwenye kona. | 모퉁이에서 내려 주세요.
+w kondakta | 차장 · 줄여서 konda | 차장(요금 받는 사람)
+e Kondakta anapokea nauli. | 차장이 요금을 받아요.
+e Uliza kondakta. | 차장에게 물어봐요.
+e Konda anaita abiria. | 차장이 손님을 불러요.
+w dereva | 운전기사 | 운전기사
+e Dereva wa basi. | 버스 기사.
+e Dereva, endesha polepole! | 기사님, 천천히 가 주세요!
+e Dereva huyu ni mzuri. | 이 기사님은 운전을 잘해요.
+tp 달라달라는 차장(konda)이 문가에서 행선지를 외치며 손님을 모아요. 요금도 차장에게 내요.
+tp 내릴 곳에서는 Shusha!(내려 주세요) 하거나 천장을 두드려요.
+tp kupanda는 '타다, 오르다, 심다'를 모두 뜻해요.
+pr kupanda | 타다 || kushuka | 내리다
+pr kituo | 정류장 || stendi | 터미널
+dl 차장 | Posta! Posta! Panda! | 포스타요! 포스타! 타세요!
+dl 민준 | Unakwenda Kariakoo? | 카리아쿠 가요?
+dl 차장 | Ndiyo, panda. Nauli mia saba. | 네, 타세요. 700실링이에요.
+dl 민준 | Asante. Nishushe Kariakoo, tafadhali. | 고마워요. 카리아쿠에서 내려 주세요.
+sm Panda daladala, lipa nauli kwa konda, shuka kituoni. | 달라달라를 타고, 차장에게 요금을 내고, 정류장에서 내려요.
+qz '내려 주세요!'는? | Shusha!
+qz nauli 는? | 차비, 요금
+
+@ 1-05-04 | 비행기·배 | ndege·meli·pasipoti | 공항과 항구에서 쓰는 말이에요. 잔지바르에는 다르에스살람에서 배(boti)로도 가요.
+w uwanja wa ndege | 공항 · '비행기의 마당' | 공항
+e Uwanja wa ndege wa Julius Nyerere. | 줄리어스 니에레레 공항.
+e Nipeleke uwanja wa ndege. | 공항으로 가 주세요.
+e Tulifika uwanja wa ndege mapema. | 공항에 일찍 도착했어요.
+w ndege | 비행기 · 원래 '새' | 비행기; 새
+e Ndege inaruka. | 비행기가 날아요.
+e Ndege imechelewa saa mbili. | 비행기가 두 시간 늦었어요.
+e Ndege wanaimba mtini. | 새들이 나무에서 지저귀어요.
+w boti | 보트, 배 | 배(여객선), 보트
+e Boti ya Zanzibar. | 잔지바르 가는 배.
+e Boti inaondoka saa tatu. | 배가 9시에 떠나요.
+e Nililewa kwenye boti. | 배에서 멀미했어요.
+w meli | 큰 배 | (큰) 배, 선박
+e Meli kubwa bandarini. | 항구의 큰 배.
+e Meli ya mizigo. | 화물선.
+e Tulisafiri kwa meli. | 배로 여행했어요.
+w pasipoti | 여권 | 여권
+e Pasipoti yako, tafadhali. | 여권 주세요.
+e Nimesahau pasipoti! | 여권을 잊어버렸어요!
+e Pasipoti iko kwenye mfuko. | 여권은 가방에 있어요.
+w mzigo | 짐 · 여럿 mizigo | 짐
+e Mzigo mzito. | 무거운 짐.
+e Mizigo yangu imepotea. | 제 짐이 없어졌어요.
+e Weka mzigo hapa. | 짐을 여기 두세요.
+w tiketi | 표, 티켓 | 표
+e Tiketi ya ndege. | 비행기표.
+e Nimekata tiketi. | 표를 끊었어요.
+e Tiketi moja kwenda Mombasa. | 몸바사행 표 한 장.
+w kusafiri | 여행하다 · 먼 길을 가다 | 여행하다, 떠나다
+e Tunasafiri kesho. | 내일 떠나요.
+e Anapenda kusafiri. | 그는 여행을 좋아해요.
+e Umesafiri wapi? | 어디를 여행했어요?
+tp ndege는 '새'이면서 '비행기'예요. 비행기는 '쇠로 된 새'라는 뜻에서 왔어요.
+tp '표를 사다'는 kukata tiketi(표를 끊다)라고 해요.
+tp 배 멀미는 kulewa(취하다)로 말해요: nimelewa(멀미 났어요).
+pr ndege | 비행기 || boti | 배
+pr kuondoka | 떠나다 || kufika | 도착하다
+dl 직원 | Pasipoti na tiketi, tafadhali. | 여권과 표 주세요.
+dl 수아 | Hizi hapa. | 여기 있어요.
+dl 직원 | Una mizigo mingapi? | 짐이 몇 개예요?
+dl 수아 | Mzigo mmoja tu. | 한 개뿐이에요.
+sm Tiketi, pasipoti na mzigo — tuko tayari kusafiri. | 표, 여권, 짐 — 여행 준비 끝.
+qz '공항'은? | uwanja wa ndege
+qz ndege 의 두 뜻은? | 비행기, 새
+
+@ 1-05-05 | 길·운전 | barabara·foleni | 도로와 운전에 관한 말이에요. 다르에스살람과 나이로비는 출퇴근 정체(foleni)가 심해요.
+w barabara | 도로 | 도로, 큰길
+e Barabara kuu. | 큰길, 간선 도로.
+e Barabara hii ni mbaya. | 이 길은 험해요.
+e Vuka barabara kwa uangalifu. | 길을 조심해서 건너요.
+w foleni | 교통 체증, 줄 · 영어 file | 교통 체증; 줄
+e Kuna foleni kubwa. | 차가 엄청 막혀요.
+e Panga foleni. | 줄을 서요.
+e Foleni ya asubuhi. | 아침 정체.
+w taa za barabarani | 신호등 · '길의 등' | 신호등
+e Simama kwenye taa. | 신호등에서 서요.
+e Taa nyekundu. | 빨간불.
+e Taa za barabarani hazifanyi kazi. | 신호등이 안 돼요.
+w kuendesha | 운전하다 | 운전하다, 몰다
+e Unajua kuendesha gari? | 운전할 줄 알아요?
+e Anaendesha polepole. | 그는 천천히 운전해요.
+e Usiendeshe ukiwa umelewa. | 술 마시고 운전하지 마요.
+w mafuta | 기름 · 연료와 식용유 둘 다 | 기름; 연료
+e Kituo cha mafuta. | 주유소.
+e Mafuta yameisha. | 기름이 떨어졌어요.
+e Mafuta ya kupikia. | 식용유.
+w ajali | 사고 | 사고
+e Kumetokea ajali. | 사고가 났어요.
+e Ajali ya barabarani. | 교통사고.
+e Endesha vizuri, epuka ajali. | 운전 잘해서 사고를 피해요.
+w kuvuka | 건너다 | 건너다
+e Vuka barabara hapa. | 여기서 길을 건너요.
+e Tulivuka mto kwa boti. | 배로 강을 건넜어요.
+e Watoto wanavuka barabara. | 아이들이 길을 건너요.
+w kusimama | 서다, 멈추다 | 서다; 멈추다
+e Simama hapa! | 여기 서요!
+e Gari limesimama. | 차가 멈췄어요.
+e Basi linasimama kila kituo. | 버스는 정류장마다 서요.
+tp 탄자니아·케냐는 차가 왼쪽으로 다녀요(한국과 반대). 길 건널 때 오른쪽부터 보세요.
+tp mafuta는 '기름' 전부예요: 연료, 식용유, 로션까지.
+tp foleni는 '줄'이라서 은행 줄에도 써요: panga foleni(줄 서요).
+pr kusimama | 서다 || kuendesha | 운전하다
+pr taa nyekundu | 빨간불 || taa ya kijani | 초록불
+dl 민준 | Kwa nini tumesimama? | 왜 섰어요?
+dl 택시 기사 | Kuna foleni kubwa mbele. | 앞이 많이 막혀요.
+dl 민준 | Ajali? | 사고예요?
+dl 택시 기사 | Hapana, ni foleni ya kawaida ya jioni. | 아니요, 늘 있는 저녁 정체예요.
+sm Barabarani kuna foleni, taa nyekundu — simama! | 길이 막히고 빨간불 — 멈춰요!
+qz '교통 체증'은? | foleni
+qz '사고'는? | ajali
+
+@ 1-05-06 | 위치·출발·도착 | mbele·nyuma·kufika | 위치와 도착·출발에 같이 쓰는 말이에요.
+w mbele | 앞 | 앞, 앞에
+e Mbele ya benki. | 은행 앞.
+e Kaa mbele. | 앞에 앉아요.
+e Nenda mbele kidogo. | 조금 앞으로 가요.
+w nyuma | 뒤 | 뒤, 뒤에
+e Nyuma ya nyumba. | 집 뒤.
+e Kaa nyuma. | 뒤에 앉아요.
+e Rudi nyuma. | 뒤로 가요.
+w kando | 옆, 가장자리 | 옆, 길가
+e Kando ya barabara. | 길가.
+e Simama kando. | 옆으로 비켜 서요.
+e Kando ya mto. | 강가.
+w kufika | 도착하다 | 도착하다
+e Tumefika! | 다 왔어요!
+e Utafika saa ngapi? | 몇 시에 도착해요?
+e Basi linafika jioni. | 버스는 저녁에 도착해요.
+w kuondoka | 떠나다, 출발하다 | 떠나다, 출발하다
+e Basi linaondoka sasa. | 버스가 지금 떠나요.
+e Tuliondoka alfajiri. | 새벽에 떠났어요.
+e Usiondoke bado. | 아직 가지 마요.
+w kwa miguu | 걸어서 · '발로' | 걸어서
+e Twende kwa miguu. | 걸어가요.
+e Ni dakika kumi kwa miguu. | 걸어서 10분이에요.
+e Watoto wanakwenda shuleni kwa miguu. | 아이들이 걸어서 학교에 가요.
+w ramani | 지도 | 지도
+e Ramani ya mji. | 시내 지도.
+e Nionyeshe kwenye ramani. | 지도에서 보여 줘요.
+e Ramani ya simu. | 휴대폰 지도.
+w kurudi | 돌아오다, 돌아가다 | 돌아오다; 돌아가다
+e Nitarudi kesho. | 내일 돌아올게요.
+e Rudi nyumbani salama. | 집에 무사히 돌아가요.
+e Umerudi lini? | 언제 돌아왔어요?
+tp '~의 앞/뒤'는 mbele ya ~, nyuma ya ~: mbele ya shule(학교 앞).
+tp Tumefika!(다 왔다!)는 버스나 차에서 자주 들어요.
+tp kurudi는 '돌아오다/돌아가다' 둘 다예요.
+pr mbele | 앞 || nyuma | 뒤
+pr kufika | 도착하다 || kuondoka | 떠나다
+dl 수아 | Tumefika? | 다 왔어요?
+dl 기사 | Bado. Hoteli iko mbele kidogo. | 아직요. 호텔은 조금 앞에 있어요.
+dl 수아 | Simama kando ya barabara, tafadhali. | 길가에 세워 주세요.
+dl 기사 | Sawa. Tumefika! | 네. 다 왔어요!
+sm Mbele, nyuma, kando — tumefika salama! | 앞, 뒤, 옆 — 무사히 도착했어요!
+qz '도착하다'는? | kufika
+qz '걸어서'는? | kwa miguu

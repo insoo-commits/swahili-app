@@ -1,0 +1,203 @@
+# P4-B | 위치·방향·시간
+
+@ 2-03-01 | 위·아래 | juu·chini | 위와 아래. '~의 위'는 juu ya ~.
+w juu | 위 · juu ya ~의 위 | 위, 위에
+e Juu ya meza. | 탁자 위.
+e Panda juu. | 위로 올라가요.
+e Juu ya mlima kuna theluji. | 산 위에 눈이 있어요.
+w chini | 아래 · chini ya ~의 아래 | 아래, 밑에
+e Chini ya kitanda. | 침대 밑.
+e Kaa chini. | 앉아요.
+e Shuka chini. | 아래로 내려와요.
+w ghorofa | 층 · 위층 | 층; 위층
+e Ghorofa ya pili. | 2층(위로 둘째).
+e Chumba kiko ghorofani. | 방은 위층에 있어요.
+e Jengo la ghorofa kumi. | 10층 건물.
+w sakafu | 바닥 | 바닥, 마루
+e Sakafu safi. | 깨끗한 바닥.
+e Kaa sakafuni. | 바닥에 앉아요.
+e Deki sakafu. | 바닥을 닦아요.
+w kupanda | 오르다 | 오르다, 올라가다
+e Panda ngazi. | 계단을 올라가요.
+e Tulipanda mlima. | 산에 올랐어요.
+e Bei imepanda. | 값이 올랐어요.
+w kushuka | 내려가다 | 내려가다; 내리다
+e Shuka ngazi polepole. | 계단을 천천히 내려가요.
+e Bei imeshuka. | 값이 내렸어요.
+e Jua linashuka. | 해가 기울어요.
+w juu kabisa | 맨 위 · kabisa 완전히 | 맨 위, 꼭대기
+e Juu kabisa ya mlima. | 산꼭대기.
+e Kitabu kiko juu kabisa. | 책은 맨 위에 있어요.
+e Chini kabisa. | 맨 아래.
+tp '~의 위/아래'는 juu ya / chini ya: juu ya meza(탁자 위), chini ya mti(나무 아래).
+tp Kaa chini(앉아요)는 '아래에 앉아요'예요. 의자에 앉을 때도 써요.
+tp 값이 오르다 bei imepanda ↔ 내리다 bei imeshuka.
+pr juu | 위 || chini | 아래
+pr kupanda | 오르다 || kushuka | 내려가다
+dl 수아 | Ufunguo uko wapi? | 열쇠 어디 있어요?
+dl 니에마 | Juu ya meza. | 탁자 위에요.
+dl 수아 | Sioni. Labda chini? | 안 보여요. 밑에 있나?
+dl 니에마 | Ndiyo, umeanguka chini ya meza! | 네, 탁자 밑에 떨어졌네요!
+sm Juu ya meza au chini ya meza? Panda juu, shuka chini. | 탁자 위? 탁자 밑? 위로 올라가고 아래로 내려가요.
+qz '아래'는? | chini
+qz '탁자 위'는? | juu ya meza
+
+@ 2-03-02 | 안·밖 | ndani·nje | 안과 밖. '~의 안'은 ndani ya ~.
+w ndani | 안 · ndani ya ~의 안 | 안, 안에
+e Ndani ya nyumba. | 집 안.
+e Ingia ndani. | 안으로 들어와요.
+e Ndani kuna baridi. | 안은 시원해요.
+w nje | 밖 · nje ya ~의 밖 | 밖, 밖에
+e Nje ya nyumba. | 집 밖.
+e Watoto wanacheza nje. | 아이들이 밖에서 놀아요.
+e Toka nje. | 밖으로 나가요.
+w kuingia | 들어가다 | 들어가다, 들어오다
+e Karibu, ingia! | 어서 들어와요!
+e Usiingie bila kubisha hodi. | 계세요 하지 않고 들어가지 마요.
+e Aliingia darasani. | 그는 교실에 들어갔어요.
+w kutoka | 나가다 | 나가다, 나오다; ~에서
+e Toka hapa! | 여기서 나가!
+e Ametoka nje. | 그는 밖에 나갔어요.
+e Natoka Korea. | 한국에서 왔어요.
+w nchi za nje | 외국 · '밖의 나라들' | 외국
+e Anasoma nchi za nje. | 그는 외국에서 공부해요.
+e Watalii kutoka nchi za nje. | 외국 관광객.
+e Bidhaa za nchi za nje. | 외국 상품.
+w mlangoni | 문 앞에 · mlango + ni | 문 앞에, 문간에
+e Kuna mtu mlangoni. | 문 앞에 누가 있어요.
+e Simama mlangoni. | 문가에 서요.
+e Viatu viko mlangoni. | 신발은 문 앞에 있어요.
+tp ndani(안) ↔ nje(밖), kuingia(들어가다) ↔ kutoka(나가다).
+tp kutoka는 '나가다'와 '~에서(출신)' 둘 다예요: Natoka Korea(한국에서 왔어요).
+tp 외국은 nchi za nje(밖의 나라들), 외국인은 mgeni(손님)라고도 해요.
+pr ndani | 안 || nje | 밖
+pr kuingia | 들어가다 || kutoka | 나가다
+dl 엄마 | Watoto, ingieni ndani! Mvua inakuja. | 얘들아, 안으로 들어와! 비 온다.
+dl 아이 | Tunataka kucheza nje! | 밖에서 놀고 싶어요!
+dl 엄마 | Hapana, chezeni ndani leo. | 안 돼, 오늘은 안에서 놀아.
+dl 아이 | Sawa, mama. | 네, 엄마.
+sm Ingia ndani, toka nje — mlangoni kuna viatu. | 안으로 들어가고 밖으로 나가요 — 문 앞에 신발이 있어요.
+qz '밖'은? | nje
+qz '들어가다'는? | kuingia
+
+@ 2-03-03 | 가까이·멀리 | karibu·mbali | 거리와 위치. karibu는 '어서 와요'이자 '가까이'예요.
+w karibu | 가까이 · karibu na ~ 근처 | 가까이; 거의
+e Karibu na nyumbani. | 집 가까이.
+e Ni karibu sana. | 아주 가까워요.
+e Karibu saa tano. | 거의 11시.
+w mbali | 멀리 · mbali na ~에서 멀리 | 멀리, 멀다
+e Ni mbali sana. | 아주 멀어요.
+e Anaishi mbali. | 그는 멀리 살아요.
+e Mbali na mji. | 시내에서 먼.
+w kando | 옆, 가 | 옆, 가장자리
+e Kando ya mto. | 강가.
+e Kaa kando yangu. | 내 옆에 앉아.
+e Weka kando. | 옆으로 치워 둬요.
+w katikati | 가운데 | 가운데, 중간
+e Katikati ya mji. | 시내 한가운데.
+e Kaa katikati. | 가운데 앉아요.
+e Katikati ya wiki. | 주중.
+w pembeni | 구석에, 옆에 · pembe 모서리 | 구석에; 한쪽에
+e Weka pembeni. | 구석에 둬요.
+e Simama pembeni. | 옆으로 비켜요.
+e Pembeni ya chumba. | 방 구석.
+w upande | 쪽, 편 · 여럿 pande | 쪽, 편
+e Upande wa kulia. | 오른쪽.
+e Upande wa pili wa barabara. | 길 건너편.
+e Pande zote. | 사방.
+tp 가까이 karibu ↔ 멀리 mbali. 둘 다 na와 같이 써요: karibu na shule, mbali na shule.
+tp '건너편'은 upande wa pili(두 번째 편): upande wa pili wa barabara(길 건너편).
+tp katikati(가운데)는 kati(사이)를 두 번 쓴 말이에요.
+pr karibu | 가까이 || mbali | 멀리
+pr kando | 가장자리 || katikati | 가운데
+dl 민준 | Hoteli iko karibu na bahari? | 호텔이 바다 가까이 있어요?
+dl 직원 | Ndiyo, upande wa pili wa barabara. | 네, 길 건너편이에요.
+dl 민준 | Na soko? Ni mbali? | 시장은요? 멀어요?
+dl 직원 | Hapana, liko katikati ya mji, dakika kumi. | 아니요, 시내 가운데에 있어요, 10분이요.
+sm Karibu au mbali, kando au katikati — upande gani? | 가까이 아니면 멀리, 가장자리 아니면 가운데 — 어느 쪽?
+qz '가운데'는? | katikati
+qz '길 건너편'은? | upande wa pili wa barabara
+
+@ 2-03-04 | 앞·뒤 순서 | kabla·baada | 시간의 앞뒤. '~ 전에' kabla ya, '~ 후에' baada ya.
+w kabla ya | ~ 전에 | ~ 전에
+e Kabla ya kula. | 먹기 전에.
+e Kabla ya saa tatu. | 9시 전에.
+e Nawa mikono kabla ya chakula. | 밥 먹기 전에 손 씻어요.
+w baada ya | ~ 후에 | ~ 후에
+e Baada ya kazi. | 일 끝나고.
+e Baada ya wiki moja. | 일주일 후.
+e Tutaonana baada ya darasa. | 수업 끝나고 봐요.
+w zamani | 옛날 | 옛날, 예전
+e Zamani niliishi Dodoma. | 예전에 도도마에 살았어요.
+e Hadithi za zamani. | 옛날 이야기.
+e Tangu zamani. | 옛날부터.
+w siku hizi | 요즘 · '이 날들' | 요즘
+e Siku hizi kuna joto sana. | 요즘 아주 더워요.
+e Siku hizi ninasoma Kiswahili. | 요즘 스와힐리어를 공부해요.
+e Watoto wa siku hizi. | 요즘 아이들.
+w mapema | 일찍 | 일찍
+e Amka mapema. | 일찍 일어나요.
+e Mapema asubuhi. | 이른 아침.
+e Tulifika mapema. | 일찍 도착했어요.
+w kuchelewa | 늦다 | 늦다
+e Nimechelewa! | 늦었어요!
+e Usichelewe. | 늦지 마.
+e Ndege imechelewa. | 비행기가 지연됐어요.
+w mwanzo | 처음 · anza 시작하다 | 처음, 시작
+e Mwanzo wa mwaka. | 연초.
+e Tangu mwanzo. | 처음부터.
+e Mwanzo ni mgumu. | 시작이 어려워요.
+w mwisho | 끝 | 끝, 마지막
+e Mwisho wa mwaka. | 연말.
+e Mpaka mwisho. | 끝까지.
+e Mwisho wa safari. | 여행의 끝.
+tp kabla ya(~ 전에) ↔ baada ya(~ 후에). 동사는 ku-형으로: kabla ya kula(먹기 전), baada ya kusoma(공부한 후).
+tp 처음 mwanzo ↔ 끝 mwisho: tangu mwanzo mpaka mwisho(처음부터 끝까지).
+tp 옛날 zamani ↔ 요즘 siku hizi.
+pr kabla ya | ~ 전에 || baada ya | ~ 후에
+pr mwanzo | 처음 || mwisho | 끝
+dl 니에마 | Tutakutana kabla ya darasa au baada? | 수업 전에 만나요, 후에 만나요?
+dl 민준 | Baada ya darasa, saa nane. | 수업 끝나고 2시에요.
+dl 니에마 | Usichelewe! | 늦지 마요!
+dl 민준 | Nitafika mapema. | 일찍 갈게요.
+sm Kabla ya kula nawa mikono, baada ya kula osha vyombo. | 먹기 전에 손 씻고, 먹은 후에 그릇을 씻어요.
+qz '~ 후에'는? | baada ya
+qz '요즘'은? | siku hizi
+
+@ 2-03-05 | 오른쪽·왼쪽·방향 | kulia·kushoto | 좌우와 동서남북이에요.
+w kulia | 오른쪽 | 오른쪽
+e Mkono wa kulia. | 오른손.
+e Geuka kulia. | 오른쪽으로 돌아요.
+e Upande wa kulia. | 오른편.
+w kushoto | 왼쪽 | 왼쪽
+e Mkono wa kushoto. | 왼손.
+e Geuka kushoto. | 왼쪽으로 돌아요.
+e Kushoto kwa mlango. | 문 왼쪽.
+w kaskazini | 북쪽 | 북쪽
+e Kaskazini mwa Tanzania. | 탄자니아 북부.
+e Upepo wa kaskazini. | 북풍.
+e Arusha iko kaskazini. | 아루샤는 북쪽에 있어요.
+w kusini | 남쪽 | 남쪽
+e Kusini mwa nchi. | 나라 남부.
+e Korea Kusini. | 한국(남한).
+e Mtwara iko kusini. | 음트와라는 남쪽에 있어요.
+w mashariki | 동쪽 | 동쪽
+e Afrika Mashariki. | 동아프리카.
+e Jua linachomoza mashariki. | 해는 동쪽에서 떠요.
+e Upande wa mashariki. | 동쪽 편.
+w magharibi | 서쪽 · 해 지는 때 | 서쪽; 해 질 녘
+e Jua linazama magharibi. | 해는 서쪽으로 져요.
+e Kigoma iko magharibi. | 키고마는 서쪽에 있어요.
+e Sala ya magharibi. | 해 질 녘 기도.
+tp 방위: kaskazini(북) kusini(남) mashariki(동) magharibi(서).
+tp '~의 북부'는 kaskazini mwa ~: kaskazini mwa Tanzania.
+tp 동아프리카는 Afrika Mashariki, 그 공동체는 Jumuiya ya Afrika Mashariki(EAC)예요.
+pr kulia | 오른쪽 || kushoto | 왼쪽
+pr mashariki | 동쪽 || magharibi | 서쪽
+dl 수아 | Moshi iko upande gani? | 모시는 어느 쪽에 있어요?
+dl 주마 | Kaskazini, karibu na Kilimanjaro. | 북쪽, 킬리만자로 근처예요.
+dl 수아 | Na Zanzibar? | 잔지바르는요?
+dl 주마 | Mashariki, baharini. | 동쪽, 바다에 있어요.
+sm Kaskazini, kusini, mashariki, magharibi; kulia na kushoto. | 북, 남, 동, 서; 오른쪽과 왼쪽.
+qz '동쪽'은? | mashariki
+qz '왼쪽'은? | kushoto

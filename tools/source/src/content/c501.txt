@@ -1,0 +1,559 @@
+# P1-A | 헷갈리는 자음
+
+@ 5-01-01 | r·l | kula·kura·kalamu·karamu | 한국어는 ㄹ 하나지만 스와힐리어는 r(혀를 한 번 튕김)과 l(혀를 붙임)이 다른 소리예요.
+w kula | 먹다 · l | 먹다
+e Tunakula wali. | 밥을 먹어요.
+e Umekula? | 밥 먹었어요?
+e Twende kula. | 먹으러 가요.
+w kura | 투표, 표 · r | 투표; 표
+e Piga kura. | 투표해요.
+e Kura nyingi. | 많은 표.
+e Siku ya kura. | 투표일.
+w kalamu | 펜 · l | 펜
+e Nipe kalamu. | 펜 좀 줘요.
+e Kalamu ya bluu. | 파란 펜.
+e Kalamu yangu imepotea. | 내 펜이 없어졌어요.
+w karamu | 잔치 · r | 잔치, 연회
+e Karamu ya harusi. | 결혼 잔치.
+e Tunafanya karamu. | 잔치를 열어요.
+e Karibu karamuni. | 잔치에 오세요.
+w kulia | 울다; 오른쪽 · l | 울다; 오른쪽
+e Mtoto analia. | 아기가 울어요.
+e Usilie. | 울지 마.
+e Mkono wa kulia. | 오른손.
+tp r는 혀끝을 윗잇몸에 한 번 '탁' 튕겨요(한국어 '아라'의 ㄹ과 비슷).
+tp l은 혀끝을 붙인 채 소리 내요(영어 l, '알라'의 ㄹㄹ 느낌).
+tp kula(먹다) / kura(투표), kalamu(펜) / karamu(잔치) — 한 소리로 뜻이 바뀌어요.
+pr kula | 먹다 || kura | 투표
+pr kalamu | 펜 || karamu | 잔치
+dl 민준 | Kesho ni siku ya kura? | 내일이 투표일이에요?
+dl 주마 | Ndiyo! Halafu tutakula karamu. | 네! 그다음에 잔치에서 먹어요.
+dl 민준 | Karamu au kalamu? | 카라무예요, 칼라무예요?
+dl 주마 | Karamu — chakula na muziki! | 카라무 — 음식이랑 음악!
+sm Kula na kura, kalamu na karamu. | 먹다와 투표, 펜과 잔치.
+qz '투표'는? | kura
+qz '잔치'는? | karamu
+
+@ 5-01-02 | p·b | paka·baka·pasi·basi | p는 숨을 거의 안 내는 ㅃ, b는 목을 울리는 ㅂ이에요.
+w paka | 고양이 · p | 고양이
+e Paka mweusi. | 검은 고양이.
+e Paka analala. | 고양이가 자요.
+e Nina paka wawili. | 고양이가 두 마리 있어요.
+w baka | 얼룩, 반점 · b | 얼룩
+e Kuna baka shatini. | 셔츠에 얼룩이 있어요.
+e Baka jeupe. | 흰 반점.
+e Ondoa baka hili. | 이 얼룩 지워요.
+w pasi | 다리미; 패스 · p | 다리미; (공) 패스
+e Piga pasi shati. | 셔츠 다려요.
+e Pasi ya umeme. | 전기다리미.
+e Pasi nzuri! | 좋은 패스!
+w basi | 버스; 그럼 · b | 버스; 그럼, 됐어
+e Basi limefika. | 버스 왔어요.
+e Basi, twende. | 그럼 가자.
+e Basi! | 됐어!
+w baba | 아버지 · b | 아버지
+e Baba yangu. | 우리 아버지.
+e Baba yuko kazini. | 아빠는 회사에 계세요.
+e Shikamoo, baba. | 안녕하세요, 아저씨.
+w papa | 상어 · p | 상어
+e Papa ni samaki mkubwa. | 상어는 큰 물고기예요.
+e Kuna papa baharini? | 바다에 상어 있어요?
+e Supu ya papa. | 상어 수프.
+tp p는 '빠'에 가깝고 숨이 거의 안 나와요. b는 목이 떨리는 '바'예요.
+tp 한국 사람은 b를 'ㅂ', p를 'ㅃ'로 생각하면 쉬워요.
+tp baba(아빠)와 papa(상어)를 헷갈리면 큰일!
+pr paka | 고양이 || baka | 얼룩
+pr pasi | 다리미 || basi | 버스
+dl 수아 | Nimepoteza pasi yangu. | 다리미를 잃어버렸어요.
+dl 직원 | Pasi au basi? | 다리미요, 버스요?
+dl 수아 | Pasi ya kupiga nguo! | 옷 다리는 다리미요!
+dl 직원 | Ah, nitakuletea moja. | 아, 하나 갖다 드릴게요.
+sm Paka na baka, pasi na basi, baba na papa. | 고양이와 얼룩, 다리미와 버스, 아빠와 상어.
+qz '버스'는? | basi
+qz '상어'는? | papa
+
+@ 5-01-03 | t·d | tamu·damu·toa·doa | t는 ㄸ, d는 목을 울리는 ㄷ이에요.
+w tamu | 달다, 맛있다 · t | 단; 맛있는
+e Chai tamu. | 단 차.
+e Embe ni tamu. | 망고가 달아요.
+e Chakula kitamu! | 음식이 맛있어요!
+w damu | 피 · d | 피
+e Damu nyekundu. | 빨간 피.
+e Toa damu. | 헌혈해요.
+e Kipimo cha damu. | 피검사.
+w toa | 꺼내다, 주다 · t | 꺼내다; 내주다
+e Toa pesa. | 돈을 꺼내요.
+e Toa kiatu. | 신발 벗어요.
+e Toa takataka. | 쓰레기 내놔요.
+w doa | 얼룩, 흠 · d | 얼룩, 점
+e Doa la mafuta. | 기름 얼룩.
+e Hana doa. | 그는 흠이 없어요.
+e Doa jeusi. | 검은 점.
+w tatu | 셋 · t | 3
+e Vitu vitatu. | 물건 세 개.
+e Saa tatu. | 9시(스와힐리 시간 3시).
+e Watu watatu. | 세 사람.
+tp t는 숨을 거의 안 내는 'ㄸ', d는 목이 떨리는 'ㄷ'예요.
+tp tamu(달다) / damu(피), toa(꺼내다) / doa(얼룩).
+tp 끝 모음까지 또렷이 말해요: ta-mu, da-mu.
+pr tamu | 달다 || damu | 피
+pr toa | 꺼내다 || doa | 얼룩
+dl 간호사 | Tutapima damu yako. | 피검사를 할게요.
+dl 민준 | Tamu? | 달아요?
+dl 간호사 | Hapana! Damu, d — siyo tamu! | 아니요! 피, d요 — 달다가 아니고요!
+dl 민준 | Samahani, sikusikia vizuri. | 죄송해요, 잘 못 들었어요.
+sm Tamu na damu, toa na doa. | 달다와 피, 꺼내다와 얼룩.
+qz '피'는? | damu
+qz '달다'는? | tamu
+
+@ 5-01-04 | k·g | koti·goti·kesi·gesi | k는 ㄲ, g는 목을 울리는 ㄱ이에요.
+w koti | 코트, 외투 · k | 코트
+e Vaa koti. | 코트 입어요.
+e Koti jeusi. | 검은 코트.
+e Koti hili ni zito. | 이 코트는 무거워요.
+w goti | 무릎 · g | 무릎
+e Goti linauma. | 무릎이 아파요.
+e Piga magoti. | 무릎 꿇어요.
+e Maji mpaka magotini. | 물이 무릎까지.
+w kesi | 소송, 사건 · k | 사건; 소송
+e Kesi ya mahakamani. | 법정 사건.
+e Kesi imekwisha. | 사건은 끝났어요.
+e Kesi gani? | 무슨 사건이요?
+w gesi | 가스 · g | 가스
+e Jiko la gesi. | 가스레인지.
+e Gesi imekwisha. | 가스가 다 떨어졌어요.
+e Mtungi wa gesi. | 가스통.
+w kuku | 닭 · k | 닭
+e Kuku wa kienyeji. | 토종닭.
+e Supu ya kuku. | 닭고기 수프.
+e Kuku anataga. | 닭이 알을 낳아요.
+tp k는 숨을 안 내는 'ㄲ', g는 목이 떨리는 'ㄱ'예요.
+tp koti(코트) / goti(무릎), kesi(사건) / gesi(가스).
+tp 여럿은 ma-: goti → magoti.
+pr koti | 코트 || goti | 무릎
+pr kesi | 사건 || gesi | 가스
+dl 수아 | Gesi imekwisha jikoni. | 부엌에 가스가 떨어졌어요.
+dl 주인 | Kesi? | 사건이요?
+dl 수아 | Hapana, GESI ya kupikia! | 아니요, 요리하는 가스요!
+dl 주인 | Ah, nitaleta mtungi mpya. | 아, 새 통 가져올게요.
+sm Koti na goti, kesi na gesi. | 코트와 무릎, 사건과 가스.
+qz '무릎'은? | goti
+qz '가스'는? | gesi
+
+@ 5-01-05 | f·p·v·b | fua·pua·vua·bua | f와 v는 윗니를 아랫입술에 대고 내는 소리예요. 한국어에 없어요.
+w fua | 빨래하다 · f | 빨다(옷)
+e Fua nguo. | 빨래해요.
+e Ninafua Jumamosi. | 토요일에 빨래해요.
+e Nguo zimefuliwa. | 옷이 빨렸어요.
+w pua | 코 · p | 코
+e Pua inatoka damu. | 코피가 나요.
+e Pua ndefu. | 높은 코.
+e Pua imeziba. | 코가 막혔어요.
+w vua | 벗다; 고기 잡다 · v | 벗다; (물고기를) 잡다
+e Vua viatu. | 신발 벗어요.
+e Wanavua samaki. | 물고기를 잡아요.
+e Vua kofia. | 모자 벗어요.
+w panya | 쥐 · p | 쥐
+e Panya mdogo. | 작은 쥐.
+e Paka amekamata panya. | 고양이가 쥐를 잡았어요.
+e Kuna panya jikoni! | 부엌에 쥐가 있어요!
+w fanya | 하다 · f | 하다
+e Fanya haraka. | 빨리 해.
+e Unafanya nini? | 뭐 해요?
+e Usifanye hivyo. | 그러지 마.
+tp f는 '프'가 아니라 윗니를 아랫입술에 살짝 대고 바람을 내요. v는 같은 자리에서 목을 울려요.
+tp fua(빨다) / pua(코), fanya(하다) / panya(쥐). 한글 독음은 같지만 f /f/는 윗니+아랫입술, p /p/는 두 입술을 붙였다 떼요. 녹음으로 구별해서 들어요.
+tp 한글로 f는 'ㅍ', v는 'ㅂ'로 적지만 입 모양이 달라요.
+pr fua | 빨래하다 || pua | 코
+pr fanya | 하다 || panya | 쥐
+dl 민준 | Unafanya nini? | 뭐 해요?
+dl 할리마 | Ninafua nguo. Na wewe? | 빨래해요. 당신은요?
+dl 민준 | Kuna panya jikoni! | 부엌에 쥐가 있어요!
+dl 할리마 | Ah! Nitamwita paka! | 아! 고양이 부를게요!
+sm Fua na pua, fanya na panya, vua viatu. | 빨래와 코, 하다와 쥐, 신발 벗기.
+qz '쥐'는? | panya
+qz '빨래해요'는? | Fua nguo
+
+@ 5-01-06 | s·sh | saba·shaba·sindano·shindano | s는 ㅅ, sh는 '쉬' 쪽 소리예요.
+w saba | 일곱 · s | 7
+e Siku saba. | 7일.
+e Saa saba. | 1시(스와힐리 시간 7시).
+e Watoto saba. | 아이 일곱.
+w shaba | 구리 · sh | 구리
+e Waya wa shaba. | 구리선.
+e Medali ya shaba. | 동메달.
+e Rangi ya shaba. | 구릿빛.
+w sindano | 바늘, 주사 · s | 바늘; 주사
+e Sindano na uzi. | 바늘과 실.
+e Nimechomwa sindano. | 주사 맞았어요.
+e Naogopa sindano. | 주사가 무서워요.
+w shindano | 대회, 경쟁 · sh | 대회, 경연
+e Shindano la kuimba. | 노래 대회.
+e Ameshinda shindano. | 그는 대회에서 이겼어요.
+e Mashindano ya mpira. | 축구 대회.
+w shule | 학교 · sh | 학교
+e Naenda shule. | 학교 가요.
+e Shule ya msingi. | 초등학교.
+e Shule imefungwa. | 학교가 쉬어요.
+tp s는 'ㅅ', sh는 입술을 둥글게 내밀고 '쉬'.
+tp saba(7) / shaba(구리), sindano(주사) / shindano(대회). s /s/는 혀끝 ㅅ, sh /ʃ/는 입술을 내민 '쉬' 소리예요(독음 신다노 / 쉰다노).
+tp 한국어 '시'는 sh에 가까워요. si는 혀를 조금 앞에 두세요.
+pr saba | 일곱 || shaba | 구리
+pr sindano | 주사 || shindano | 대회
+dl 의사 | Utapata sindano moja. | 주사 한 대 맞을 거예요.
+dl 바라카 | Shindano? Nimeshinda? | 대회요? 제가 이겼어요?
+dl 의사 | Hapana, sindano! | 아니, 주사!
+dl 바라카 | Aa, naogopa! | 아, 무서워요!
+sm Saba na shaba, sindano na shindano. | 일곱과 구리, 주사와 대회.
+qz '주사'는? | sindano
+qz '대회'는? | shindano
+
+@ 5-01-07 | h·gh | hali·ghali·habari·ghafla | gh는 목 안쪽에서 긁는 소리예요(아랍어에서 옴).
+w hali | 상태 · h | 상태, 형편
+e Hali yako? | 잘 지내요?(형편이 어때요)
+e Hali ya hewa. | 날씨.
+e Hali ni nzuri. | 상황이 좋아요.
+w ghali | 비싼 · gh | 비싼
+e Ni ghali sana. | 너무 비싸요.
+e Bei ghali. | 비싼 값.
+e Gari ghali. | 비싼 차.
+w habari | 소식; 안녕 · h | 소식; 안부
+e Habari gani? | 잘 지내요?
+e Habari za leo. | 오늘 뉴스.
+e Nina habari njema. | 좋은 소식 있어요.
+w ghafla | 갑자기 · gh | 갑자기
+e Ghafla mvua ilinyesha. | 갑자기 비가 왔어요.
+e Alifika ghafla. | 그는 갑자기 왔어요.
+e Kifo cha ghafla. | 갑작스러운 죽음.
+w lugha | 언어 · gh | 언어
+e Lugha ya Kiswahili. | 스와힐리 말.
+e Unaongea lugha ngapi? | 몇 개 언어 해요?
+e Lugha ni muhimu. | 언어는 중요해요.
+tp h는 가벼운 'ㅎ', gh는 목 안쪽에서 '그흐' 하고 긁는 소리(아랍어 غ).
+tp hali(상태) / ghali(비싼)를 잘 구별해야 시장에서 안 헷갈려요.
+tp 입말에서는 gh를 g처럼 말하는 사람도 있어요.
+pr hali | 상태 || ghali | 비싼
+pr habari | 소식 || ghafla | 갑자기
+dl 상인 | Habari? Hali yako? | 안녕하세요? 잘 지내요?
+dl 수아 | Nzuri. Lakini bei ni ghali! | 좋아요. 그런데 값이 비싸요!
+dl 상인 | Ghali? Hali ya uchumi, dada! | 비싸요? 경제 사정 때문이에요, 언니!
+dl 수아 | Punguza kidogo. | 좀 깎아 줘요.
+sm Hali na ghali, habari na ghafla, lugha. | 상태와 비싼, 소식과 갑자기, 언어.
+qz '비싼'은? | ghali
+qz '상태'는? | hali
+
+@ 5-01-08 | th·dh 아랍어 소리 | thamani·thelathini·dhahabu·dhambi | th는 영어 think의 th, dh는 this의 th예요.
+w thamani | 가치, 값어치 · th | 가치
+e Thamani kubwa. | 큰 가치.
+e Ina thamani gani? | 얼마짜리예요?
+e Thamani ya pesa. | 돈의 가치.
+w thelathini | 서른 · th | 30
+e Miaka thelathini. | 서른 살.
+e Thelathini na tano. | 35.
+e Dakika thelathini. | 30분.
+w dhahabu | 금 · dh | 금
+e Pete ya dhahabu. | 금반지.
+e Dhahabu ni ghali. | 금은 비싸요.
+e Medali ya dhahabu. | 금메달.
+w dhambi | 죄 · dh | 죄
+e Ni dhambi. | 죄예요.
+e Msamaha wa dhambi. | 죄의 용서.
+e Usifanye dhambi. | 죄짓지 마.
+w samahani | 죄송해요 · s(th 아님) | 실례합니다, 죄송해요
+e Samahani, nimechelewa. | 늦어서 죄송해요.
+e Samahani, choo kiko wapi? | 실례지만 화장실 어디예요?
+e Samahani sana. | 정말 죄송해요.
+tp th는 혀끝을 이 사이에 살짝 물고 '쓰', dh는 같은 자리에서 목을 울려 '드'.
+tp 한글로는 th = ㅆ, dh = ㄷ으로 적었어요. 그냥 s, z로 말하는 사람도 많아요.
+tp 대부분 아랍어에서 온 낱말이에요: thamani, dhahabu, dhambi.
+pr thamani | 가치 || samahani | 죄송해요
+pr dhahabu | 금 || zamani | 옛날
+dl 민준 | Pete hii ni ya dhahabu? | 이 반지 금이에요?
+dl 상인 | Ndiyo, dhahabu safi. | 네, 순금이에요.
+dl 민준 | Thamani yake ni kiasi gani? | 얼마짜리예요?
+dl 상인 | Shilingi laki tatu. | 30만 실링이요.
+sm Thamani, thelathini, dhahabu, dhambi. | 가치, 서른, 금, 죄.
+qz '금'은? | dhahabu
+qz '서른'은? | thelathini
+
+@ 5-01-09 | ng·ng' | ngoma·ng'ombe·ngazi·ng'ambo | ng는 '응그'처럼 g가 들리고, ng'는 g 없이 콧소리만 나요(받침 ㅇ).
+w ngoma | 북, 전통춤 · ng | 북; 전통 춤
+e Piga ngoma. | 북을 쳐요.
+e Ngoma za asili. | 전통 춤.
+e Tunacheza ngoma. | 전통 춤을 춰요.
+w ng'ombe | 소 · ng' | 소
+e Ng'ombe wanakula majani. | 소가 풀을 먹어요.
+e Maziwa ya ng'ombe. | 우유.
+e Wamasai wana ng'ombe wengi. | 마사이족은 소가 많아요.
+w ngazi | 계단, 사다리 · ng | 계단
+e Panda ngazi. | 계단을 올라가요.
+e Ngazi ni ndefu. | 계단이 길어요.
+e Ngazi ya pili. | 2층(두 번째 단계).
+w ng'ambo | 건너편, 외국 · ng' | 건너편; 외국
+e Ng'ambo ya mto. | 강 건너편.
+e Anaishi ng'ambo. | 그는 외국에 살아요.
+e Wageni kutoka ng'ambo. | 외국에서 온 손님.
+w kung'aa | 빛나다 · ng' | 빛나다
+e Nyota zinang'aa. | 별이 빛나요.
+e Viatu vinang'aa. | 신발이 반짝여요.
+e Uso wake unang'aa. | 그의 얼굴이 환해요.
+tp ng /ŋg/: '응고마'처럼 g 소리가 들려요(영어 finger). ng' /ŋ/: '응옴베'처럼 g 없이 콧소리만(영어 singer).
+tp 철자에 따옴표(')가 있으면 g 소리를 내지 마세요.
+tp 한글로 ng'a = 응아, ng'o = 응오처럼 적었어요.
+pr ngoma | 북 || ng'ombe | 소
+pr ngazi | 계단 || ng'ambo | 건너편
+dl 민준 | Nasikia ngoma! | 북소리가 들려요!
+dl 주마 | Ni harusi ng'ambo ya barabara. | 길 건너편에 결혼식이 있어요.
+dl 민준 | Wanachinja ng'ombe? | 소를 잡나요?
+dl 주마 | Ndiyo, karamu kubwa! | 네, 큰 잔치예요!
+sm Ngoma, ng'ombe, ngazi, ng'ambo, ng'aa. | 북, 소, 계단, 건너편, 빛나다.
+qz '소'는? | ng'ombe
+qz '북'은? | ngoma
+
+@ 5-01-10 | 콧소리로 시작: m·n | mtu·mbwa·ndege·nchi | 낱말이 m이나 n으로 시작하고 바로 자음이 오면 m·n이 한 소리마디가 돼요('음', '은').
+w mtu | 사람 · m-tu | 사람
+e Mtu mzuri. | 좋은 사람.
+e Mtu gani? | 누구?(어떤 사람)
+e Hakuna mtu. | 아무도 없어요.
+w mbwa | 개 · m-bwa | 개
+e Mbwa mkali. | 사나운 개.
+e Mbwa anabweka. | 개가 짖어요.
+e Tahadhari na mbwa! | 개 조심!
+w ndege | 새, 비행기 · n-de-ge | 새; 비행기
+e Ndege anaimba. | 새가 노래해요.
+e Ndege imeondoka. | 비행기가 떠났어요.
+e Kwa ndege. | 비행기로.
+w nchi | 나라 · n-chi | 나라
+e Nchi yangu ni Korea. | 우리나라는 한국이에요.
+e Nchi nzuri. | 좋은 나라.
+e Nchi za Afrika. | 아프리카 나라들.
+w mzee | 어르신 · m-ze-e | 어르신, 노인
+e Shikamoo, mzee. | 안녕하세요, 어르신.
+e Mzee wa kijiji. | 마을 원로.
+e Wazee wanakaa chini ya mti. | 어르신들이 나무 아래 앉아 계세요.
+tp mtu는 '음-투'(두 마디), nchi는 '은-치'(두 마디). m·n을 짧게 하지만 분명히 소리 내요.
+tp 이 m·n은 '무, 누'가 아니에요. 입을 다문 채 콧소리만.
+tp 강세는 뒤에서 두 번째 마디: M-tu, M-bwa, Nde-ge.
+pr mtu | 사람 || watu | 사람들
+pr mbwa | 개 || mbuzi | 염소
+dl 수아 | Ndege ile ni kubwa! | 저 새 크네요!
+dl 할리마 | Si ndege wa kawaida, ni tai. | 보통 새가 아니라 독수리예요.
+dl 수아 | Katika nchi yangu hakuna tai wengi. | 우리나라엔 독수리가 많지 않아요.
+dl 할리마 | Mzee wangu anasema tai ni bahati. | 우리 할아버지가 독수리는 행운이래요.
+sm Mtu, mbwa, ndege, nchi, mzee. | 사람, 개, 새, 나라, 어르신.
+qz '나라'는? | nchi
+qz '개'는? | mbwa
+
+# P1-B | 낱말 발음·강세
+
+@ 5-02-01 | 연속 모음 읽기 | kufa·kufaa·kua·kuwa | 같은 모음이 둘이면 두 마디로 길게 말해요. 짧게 하면 뜻이 바뀌어요.
+w kufa | 죽다 · fa 짧게 | 죽다
+e Mmea umekufa. | 식물이 죽었어요.
+e Simu imekufa. | 휴대폰이 꺼졌어요(죽었어요).
+e Usife moyo. | 낙심하지 마.
+w kufaa | 알맞다, 쓸모 있다 · faa 길게 | 알맞다; 쓸모 있다
+e Inafaa. | 괜찮아요(맞아요).
+e Haifai. | 안 돼요(맞지 않아요).
+e Nguo hii inakufaa. | 이 옷이 너한테 잘 맞아.
+w kua | 자라다 · ku-a | 자라다
+e Mtoto amekua. | 아이가 컸어요.
+e Mti unakua haraka. | 나무가 빨리 자라요.
+e Umekua mkubwa! | 많이 컸구나!
+w kuwa | ~이 되다, ~이다 · ku-wa | ~이다; ~이 되다
+e Nataka kuwa daktari. | 의사가 되고 싶어요.
+e Alikuwa nyumbani. | 그는 집에 있었어요.
+e Kuwa makini. | 조심해.
+w juu | 위 · ju-u 길게 | 위
+e Juu ya meza. | 탁자 위.
+e Panda juu. | 위로 올라가요.
+e Bei iko juu. | 값이 높아요.
+w saa | 시계, 시 · sa-a | 시계; 시간
+e Saa ngapi? | 몇 시예요?
+e Saa moja. | 한 시간; 7시.
+e Saa yangu ni mpya. | 내 시계는 새것이에요.
+tp 모음 둘은 두 마디예요: sa-a, ju-u, mze-e. 강세도 앞 모음에 와요.
+tp kufa(죽다) / kufaa(알맞다): Inafaa(괜찮아) vs Imekufa(죽었어).
+tp kua(자라다) / kuwa(~이다)는 w 하나 차이예요.
+pr kufa | 죽다 || kufaa | 알맞다
+pr kua | 자라다 || kuwa | 되다
+dl 수아 | Shati hili linanifaa? | 이 셔츠 나한테 맞아?
+dl 네에마 | Ndiyo, linakufaa sana! | 응, 아주 잘 맞아!
+dl 수아 | Simu yangu imekufa, siwezi kupiga picha. | 휴대폰이 꺼져서 사진을 못 찍어.
+dl 네에마 | Tumia yangu. | 내 거 써.
+sm Kufa na kufaa, kua na kuwa, juu na saa. | 죽다와 알맞다, 자라다와 되다, 위와 시.
+qz '알맞다'는? | kufaa
+qz '자라다'는? | kua
+
+@ 5-02-02 | 같은 소리, 다른 뜻 | kaa·jua·panda·ota | 철자도 소리도 같은데 뜻이 여러 개인 낱말이에요. 문장으로 구별해요.
+w kaa | 앉다; 게; 숯 | 앉다; 게; 숯
+e Kaa hapa. | 여기 앉아.
+e Kaa wa baharini. | 바다 게.
+e Kaa la moto. | 숯불.
+w jua | 해; 알다 | 해; 알다
+e Jua kali. | 강한 햇볕.
+e Najua. | 알아요.
+e Jua linachomoza. | 해가 떠요.
+w panda | 타다; 심다; 오르다 | 타다; 심다; 오르다
+e Panda basi. | 버스 타요.
+e Panda mti. | 나무를 심어요(또는 나무에 올라가요).
+e Bei imepanda. | 값이 올랐어요.
+w ota | 꿈꾸다; 자라다(싹) | 꿈꾸다; 싹트다
+e Niliota ndoto. | 꿈을 꿨어요.
+e Mbegu imeota. | 씨앗이 싹텄어요.
+e Nywele zimeota. | 머리카락이 자랐어요.
+w paa | 지붕; 영양; 날아오르다 | 지붕; 작은 영양
+e Paa la nyumba. | 집 지붕.
+e Paa ni mnyama mdogo. | 파아는 작은 영양이에요.
+e Ndege imepaa. | 비행기가 이륙했어요.
+tp 같은 모양이라도 꾸미는 말이 달라요: kaa la moto(숯, ji-/ma- 무리), kaa wa baharini(게, 동물 무리).
+tp panda는 '타다, 심다, 오르다' 모두. 문장 속에서 뜻이 정해져요.
+tp jua는 명사 '해'와 동사 '알다'예요.
+pr Kaa! | 앉아! || kaa | 게
+pr Jua kali. | 햇볕이 강해요. || Najua. | 알아요.
+dl 민준 | Jua kali leo! | 오늘 햇볕 세네요!
+dl 주마 | Kaa hapa kivulini. | 여기 그늘에 앉아요.
+dl 민준 | Asante. Unajua mahali pa kula kaa? | 고마워요. 게 먹는 곳 알아요?
+dl 주마 | Najua! Tupande bajaji twende ufukweni. | 알아요! 바자지 타고 바닷가로 가요.
+sm Kaa, jua, panda, ota, paa — neno moja, maana nyingi. | 앉다·게, 해·알다, 타다·심다, 꿈·싹, 지붕 — 한 낱말, 여러 뜻.
+qz '게'는? | kaa
+qz '버스 타요'는? | Panda basi
+
+@ 5-02-03 | 한 소리 차이 | nazi·nzi·mbu·mbuzi | 소리가 비슷한 짧은 명사들이에요.
+w nazi | 코코넛 | 코코넛
+e Maji ya nazi. | 코코넛 물.
+e Wali wa nazi. | 코코넛 밥.
+e Mnazi ni mrefu. | 코코넛 나무는 키가 커요.
+w nzi | 파리 · n-zi | 파리
+e Nzi wengi. | 파리가 많아요.
+e Funika chakula, kuna nzi. | 음식 덮어요, 파리 있어요.
+e Nzi anaruka. | 파리가 날아요.
+w mbu | 모기 · m-bu | 모기
+e Mbu wanauma. | 모기가 물어요.
+e Chandarua cha mbu. | 모기장.
+e Mbu wanaleta malaria. | 모기가 말라리아를 옮겨요.
+w mbuzi | 염소 | 염소
+e Nyama ya mbuzi. | 염소 고기.
+e Mbuzi wanakula majani. | 염소가 풀을 먹어요.
+e Mchungaji wa mbuzi. | 염소 치는 사람.
+w nyuki | 벌 | 벌
+e Asali ya nyuki. | 벌꿀.
+e Nyuki ameniuma! | 벌이 쏘았어요!
+e Nyuki wengi. | 벌이 많아요.
+tp nazi(나-지) / nzi(은-지), mbu(음-부) / mbuzi(음부-지).
+tp 동아프리카에서 mbu(모기)는 아주 중요한 낱말이에요. 모기장은 chandarua.
+tp 동물·벌레는 하나든 여럿이든 모양이 같아요: nzi, mbu, mbuzi.
+pr nazi | 코코넛 || nzi | 파리
+pr mbu | 모기 || mbuzi | 염소
+dl 수아 | Kuna mbu wengi chumbani! | 방에 모기가 많아요!
+dl 직원 | Tumia chandarua. Na usiache chakula, nzi watakuja. | 모기장 쓰세요. 음식도 두지 마세요, 파리 와요.
+dl 수아 | Sawa. Kesho nataka wali wa nazi. | 알았어요. 내일은 코코넛 밥 먹고 싶어요.
+dl 직원 | Na nyama ya mbuzi? | 염소 고기도요?
+sm Nazi, nzi, mbu, mbuzi, nyuki. | 코코넛, 파리, 모기, 염소, 벌.
+qz '모기'는? | mbu
+qz '파리'는? | nzi
+
+@ 5-02-04 | 뒤에서 둘째 음절의 강세 | asante·Tanzania·samahani | 스와힐리어 강세는 거의 늘 뒤에서 두 번째 마디에 와요.
+w asante | 고마워요 · a-SAN-te | 고마워요
+e Asante sana. | 정말 고마워요.
+e Asante kwa chakula. | 밥 고마워요.
+e Asanteni! | (여러분) 고마워요!
+w Tanzania | 탄자니아 · Tan-za-NI-a | 탄자니아
+e Karibu Tanzania. | 탄자니아에 오신 걸 환영해요.
+e Tanzania ni nchi nzuri. | 탄자니아는 좋은 나라예요.
+e Mji mkuu wa Tanzania ni Dodoma. | 탄자니아 수도는 도도마예요.
+w samahani | 실례합니다 · sa-ma-HA-ni | 실례합니다; 죄송해요
+e Samahani, mzee. | 실례합니다, 어르신.
+e Samahani kwa kuchelewa. | 늦어서 죄송해요.
+e Samahani, rudia. | 죄송한데 다시 말해 주세요.
+w habari | 안부 · ha-BA-ri | 안부; 소식
+e Habari za asubuhi? | 좋은 아침이에요?
+e Habari yako? | 잘 지내요?
+e Habari nzuri. | 좋은 소식.
+w chakula | 음식 · cha-KU-la | 음식
+e Chakula kitamu. | 맛있는 음식.
+e Chakula cha jioni. | 저녁밥.
+e Chakula kiko tayari. | 밥 다 됐어요.
+tp 강세 자리: 뒤에서 두 번째 마디. a-SAN-te, cha-KU-la, ha-BA-ri.
+tp 꼬리가 붙어 마디가 늘면 강세도 옮겨가요: a-SAN-te → a-san-TE-ni.
+tp m·n 마디도 세요: M-tu(첫 마디 m에 강세).
+pr asante | 고마워요 || asanteni | 여러분 고마워요
+pr habari | 안부 || habari zenu | 여러분 안부
+dl 민준 | Asante kwa chakula! | 밥 잘 먹었어요!
+dl 엄마 | Karibu tena! Habari ya Korea? | 또 와요! 한국은 어때요?
+dl 민준 | Nzuri, lakini napenda Tanzania pia. | 좋아요, 근데 탄자니아도 좋아요.
+dl 엄마 | Samahani, chakula kilikuwa kidogo. | 미안해요, 음식이 적었죠.
+sm a-SAN-te, cha-KU-la, ha-BA-ri. | 아산테, 차쿨라, 하바리 — 뒤에서 둘째 마디.
+qz asante의 강세는? | SAN
+qz asanteni의 강세는? | TE
+
+@ 5-02-05 | w가 결합된 소리 | mwana·mwalimu·kwenda·kwa | m·k 뒤의 w는 한 마디로 붙여 '뫄·콰'처럼 말해요.
+w mwana | 자식 · mwa- | 자식, 아이
+e Mwana wangu. | 내 아이.
+e Mwana wa mfalme. | 왕자.
+e Wana wawili. | 두 아이.
+w mwalimu | 선생님 | 선생님
+e Mwalimu mzuri. | 좋은 선생님.
+e Shikamoo, mwalimu. | 안녕하세요, 선생님.
+e Mwalimu wa Kiswahili. | 스와힐리어 선생님.
+w kwenda | 가다 · kwe- | 가다
+e Nataka kwenda. | 가고 싶어요.
+e Kwenda na kurudi. | 왕복.
+e Ni wakati wa kwenda. | 갈 시간이에요.
+w kwa | ~로, ~에게 | ~로; ~에게; ~의 집에
+e Kwa basi. | 버스로.
+e Kwa heri. | 안녕히(잘 가요).
+e Naenda kwa mama. | 엄마 집에 가요.
+w mwezi | 달; 월 | 달; 월(月)
+e Mwezi ujao. | 다음 달.
+e Mwezi mpevu. | 보름달.
+e Mwezi wa kwanza. | 1월.
+tp mwa = '뫄', kwe = '퀘'처럼 한 마디로 붙여요. '무와'처럼 둘로 나누지 마세요.
+tp mwalimu는 '뫌-리-무'(세 마디).
+tp Kwa heri(잘 가요)도 '콰 헤리'.
+pr mwana | 자식 || wana | 자식들
+pr kwa heri | 잘 가요 || kwa herini | 여러분 잘 가요
+dl 학생 | Shikamoo, mwalimu! | 안녕하세요, 선생님!
+dl 선생님 | Marahaba. Mnakwenda wapi? | 그래. 어디 가니?
+dl 학생 | Tunakwenda kwa bibi. | 할머니 댁에 가요.
+dl 선생님 | Haya, kwa herini! | 그래, 잘 가렴!
+sm Mwana, mwalimu, mwezi, kwenda, kwa. | 자식, 선생님, 달, 가다, ~로.
+qz '선생님'은? | mwalimu
+qz '잘 가요'는? | Kwa heri
+
+@ 5-02-06 | 헷갈리는 발음 총정리 | kula·kura·ng'ombe·kufaa | 지금까지 본 헷갈리는 소리를 다시 들어 봐요.
+w kura | 투표 · r | 투표
+e Kura ni siri. | 투표는 비밀이에요.
+e Kura moja. | 한 표.
+e Hesabu kura. | 표를 세요.
+w pasi | 다리미 · p | 다리미
+e Pasi imepata moto. | 다리미가 뜨거워졌어요.
+e Nipe pasi. | 다리미 줘.
+e Pasi ya mkaa. | 숯 다리미.
+w damu | 피 · d | 피
+e Damu ni nzito kuliko maji. | 피는 물보다 진하다(속담).
+e Kundi la damu. | 혈액형.
+e Shinikizo la damu. | 혈압.
+w ng'ombe | 소 · ng' | 소
+e Ng'ombe mmoja. | 소 한 마리.
+e Nyama ya ng'ombe. | 소고기.
+e Ng'ombe wa maziwa. | 젖소.
+w kufaa | 알맞다 · aa | 알맞다
+e Inafaa kabisa. | 딱 맞아요.
+e Haifai kwa watoto. | 아이들한테는 안 맞아요.
+e Itafaa. | 괜찮을 거예요.
+w ghali | 비싼 · gh | 비싼
+e Si ghali. | 안 비싸요.
+e Ghali kidogo. | 좀 비싸요.
+e Kwa nini ghali? | 왜 비싸요?
+tp r/l, p/b, t/d, k/g, f/p, s/sh, h/gh, ng/ng' — 한 소리로 뜻이 바뀌어요.
+tp 긴 모음(aa, uu)은 두 마디로, m·n 시작 마디는 콧소리로.
+tp 강세는 뒤에서 둘째 마디.
+pr kula | 먹다 || kura | 투표
+pr pasi | 다리미 || basi | 버스
+dl 선생님 | Sema "ng'ombe". | "응옴베"라고 해 봐요.
+dl 수아 | Ngombe? | 응곰베?
+dl 선생님 | Bila "g": ng'ombe. | "g" 없이: 응옴베.
+dl 수아 | Ng'ombe! Sasa inafaa? | 응옴베! 이제 맞아요?
+sm Sikiliza vizuri, sema polepole. | 잘 듣고, 천천히 말해요.
+qz '피'는? | damu
+qz '알맞다'는? | kufaa

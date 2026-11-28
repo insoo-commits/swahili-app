@@ -1,0 +1,517 @@
+# P5-L | 수업
+
+@ 1-07-01 | 수업 지시 표현 | Simameni·Kaeni·Sikilizeni | 선생님이 반 전체에게 말할 때는 명령형 끝에 -eni를 붙여요: simama(일어서) → simameni(다들 일어서요).
+w Simameni | 일어서세요 · simama + eni(여럿에게) | (다들) 일어서세요
+e Simameni, tafadhali. | 다들 일어서세요.
+e Wanafunzi, simameni! | 학생 여러분, 일어서요!
+e Simameni na msalimie mgeni. | 일어서서 손님께 인사해요.
+w Kaeni | 앉으세요 · kaa + eni | (다들) 앉으세요
+e Kaeni chini. | 앉으세요.
+e Kaeni kimya. | 조용히 앉아 있어요.
+e Kaeni kwenye vikundi. | 모둠별로 앉아요.
+w Sikilizeni | 잘 들으세요 · sikiliza + eni | (다들) 들으세요
+e Sikilizeni kwa makini. | 집중해서 들어요.
+e Sikilizeni wimbo huu. | 이 노래를 들어 봐요.
+e Sikilizeni mwalimu. | 선생님 말씀 들어요.
+w Angalieni | 보세요 · angalia + eni | (다들) 보세요
+e Angalieni ubao. | 칠판을 보세요.
+e Angalieni picha hii. | 이 그림을 보세요.
+e Angalieni hapa mbele. | 여기 앞을 보세요.
+w Rudieni | 반복하세요 · rudia 되풀이하다 + eni, Rudieni baada yangu = 저를 따라 하세요 | (다들) 반복하세요
+e Rudieni baada yangu. | 저를 따라 하세요.
+e Rudieni tena. | 한 번 더 따라 해요.
+e Rudieni kwa sauti kubwa. | 큰 소리로 따라 해요.
+w Nyamazeni | 조용히 하세요 · nyamaza + eni | (다들) 조용히 하세요
+e Nyamazeni, tafadhali. | 조용히 해 주세요.
+e Nyamazeni, tunaanza. | 조용히 해요, 시작해요.
+e Watoto, nyamazeni kidogo. | 얘들아, 좀 조용히 하자.
+w Inueni mikono | 손 드세요 · inua 들다 + mikono 손들 | 손 드세요
+e Mwenye jibu, inueni mikono. | 답 아는 사람 손 들어요.
+e Inueni mikono juu. | 손을 위로 들어요.
+e Nani anajua? Inueni mikono. | 누가 알아요? 손 들어요.
+w Fungueni vitabu | 책을 펴세요 · fungua 열다 | 책을 펴세요
+e Fungueni vitabu ukurasa wa kumi. | 10쪽을 펴세요.
+e Fungueni madaftari. | 공책을 펴요.
+e Fungeni vitabu sasa. | 이제 책을 덮어요.
+tp 한 명에게: simama, kaa, sikiliza, angalia. 여러 명에게: simameni, kaeni, sikilizeni, angalieni.
+tp '열다' fungua ↔ '닫다' funga: fungueni vitabu(책 펴요) ↔ fungeni vitabu(책 덮어요).
+tp '집중해서'는 kwa makini.
+pr Simameni. | 일어서세요. || Kaeni. | 앉으세요.
+pr Fungueni vitabu. | 책을 펴세요. || Fungeni vitabu. | 책을 덮으세요.
+dl 선생님 | Habari za asubuhi, wanafunzi! Simameni. | 학생 여러분, 좋은 아침! 일어서요.
+dl 학생들 | Nzuri, mwalimu! | 좋아요, 선생님!
+dl 선생님 | Asanteni. Kaeni. Fungueni vitabu. | 고마워요. 앉아요. 책을 펴요.
+dl 학생들 | Ukurasa gani, mwalimu? | 몇 쪽이요, 선생님?
+sm Simameni, kaeni, sikilizeni na rudieni! | 일어서요, 앉아요, 들어요, 따라 해요!
+qz 반 전체에게 '앉으세요'는? | Kaeni
+qz Rudieni 는? | 반복하세요
+
+@ 1-07-02 | 한글 지도 | Hangul·herufi | 한글을 가르칠 때 쓰는 말이에요.
+w herufi | 글자, 자모 | 글자(자모)
+e Herufi za Kikorea. | 한글 자모.
+e Herufi kubwa na ndogo. | 대문자와 소문자.
+e Andika herufi hii mara tano. | 이 글자를 다섯 번 써요.
+w Hangul | 한글 | 한글
+e Hangul ina herufi ishirini na nne. | 한글은 자모가 스물네 개예요.
+e Tunajifunza Hangul leo. | 오늘 한글을 배워요.
+e Hangul ni rahisi kusoma. | 한글은 읽기 쉬워요.
+w irabu | 모음 | 모음
+e Irabu ni a, e, i, o, u. | 모음은 a, e, i, o, u예요.
+e Irabu ya Kikorea 'ㅏ'. | 한글 모음 'ㅏ'.
+e Kila silabi ina irabu. | 음절마다 모음이 있어요.
+w konsonanti | 자음 | 자음
+e Konsonanti 'ㄱ'. | 자음 'ㄱ'.
+e Konsonanti na irabu. | 자음과 모음.
+e Konsonanti kumi na nne. | 자음 열네 개.
+w silabi | 음절 | 음절
+e Neno 'mama' lina silabi mbili. | 'mama'는 두 음절이에요.
+e Soma silabi kwa silabi. | 한 음절씩 읽어요.
+e Silabi moja ni herufi moja ya Hangul. | 한글 한 글자가 한 음절이에요.
+w kutamka | 발음하다 | 발음하다
+e Tamka neno hili. | 이 단어를 발음해 봐요.
+e Unatamka vizuri sana! | 발음 정말 좋아요!
+e Ni vigumu kutamka 'ㄹ'. | 'ㄹ'은 발음하기 어려워요.
+w matamshi | 발음 | 발음
+e Matamshi mazuri. | 좋은 발음.
+e Matamshi ya Kikorea. | 한국어 발음.
+e Fanya mazoezi ya matamshi. | 발음 연습을 해요.
+tp 스와힐리어 모음 a e i o u는 한국어 ㅏ ㅔ ㅣ ㅗ ㅜ와 거의 같아요. 그래서 한국어 모음 일부는 쉽게 배워요.
+tp 학생들이 어려워하는 소리: ㅓ, ㅡ, 된소리(ㄲ ㄸ ㅃ), 받침.
+tp kutamka(발음하다) → matamshi(발음)처럼 동사에서 명사가 나와요.
+pr irabu | 모음 || konsonanti | 자음
+pr kutamka | 발음하다 || matamshi | 발음
+dl 선생님 | Hii ni herufi gani? | 이건 무슨 글자예요?
+dl 학생 | Ni 'ㅁ', kama 'm' ya 'mama'. | 'ㅁ'이에요, 'mama'의 m 같아요.
+dl 선생님 | Safi! Sasa tamka 'ㅁㅏ'. | 좋아요! 이제 '마'를 발음해 봐요.
+dl 학생 | Ma! | 마!
+sm Hangul ina konsonanti na irabu; tunasoma silabi kwa silabi. | 한글에는 자음과 모음이 있어요. 한 음절씩 읽어요.
+qz '모음'은? | irabu
+qz '발음하다'는? | kutamka
+
+@ 1-07-03 | 수업 중 표현 | Mmeelewa·Nina swali | 수업 중에 선생님과 학생이 자주 하는 말이에요.
+w Mmeelewa? | 이해했어요? · m 너희 + me 완료 + elewa | (다들) 이해했어요?
+e Mmeelewa, wanafunzi? | 학생 여러분, 이해했어요?
+e Ndiyo, tumeelewa! | 네, 이해했어요!
+e Hamjaelewa? Nitarudia. | 아직 이해 못 했어요? 다시 할게요.
+w Nina swali | 질문 있어요 | 질문 있어요
+e Mwalimu, nina swali. | 선생님, 질문 있어요.
+e Nina swali moja tu. | 질문 하나만요.
+e Una swali? Uliza. | 질문 있어요? 물어보세요.
+w Tena! | 한 번 더! · 다시 | 다시, 한 번 더
+e Sema tena! | 다시 말해요!
+e Tena, kwa sauti kubwa! | 한 번 더, 큰 소리로!
+e Soma tena polepole. | 천천히 다시 읽어요.
+w Vizuri sana! | 아주 잘했어요! · 칭찬 | 아주 잘했어요!
+e Vizuri sana, Amani! | 아마니, 아주 잘했어요!
+e Umejibu vizuri sana. | 대답 아주 잘했어요.
+e Vizuri sana, endelea! | 아주 좋아요, 계속해요!
+w Jaribu | 해 봐요 · jaribu 시도하다 | 해 봐요, 시도해요
+e Jaribu tena. | 다시 해 봐요.
+e Jaribu kusoma neno hili. | 이 단어를 읽어 봐요.
+e Usiogope, jaribu! | 겁내지 말고 해 봐요!
+w Sauti kubwa | 큰 소리로 · sauti 소리 + kubwa | 큰 소리
+e Ongea kwa sauti kubwa. | 큰 소리로 말해요.
+e Sauti kubwa zaidi! | 더 크게!
+e Sauti ndogo, tafadhali. | 작게 말해 주세요.
+w Tayari? | 준비됐어요? | 준비됐어요?; 이미
+e Mko tayari? | 다들 준비됐어요?
+e Tuko tayari! | 준비됐어요!
+e Chakula kiko tayari. | 밥 다 됐어요.
+w Hongereni! | (다들) 축하해요, 잘했어요! · hongera + ni | (여럿에게) 축하해요, 잘했어요!
+e Hongereni, mmefaulu! | 다들 축하해요, 합격했어요!
+e Hongereni kwa kazi nzuri. | 다들 수고했어요.
+e Hongereni wote! | 모두 잘했어요!
+tp 여럿에게 하는 말은 -ni를 붙여요: Asanteni(다들 고마워요), Hongereni, Karibuni.
+tp 부정 완료 '아직 ~ 안 했다'는 ha- + -ja-: hamjaelewa(너희 아직 이해 못 했다), sijamaliza(나 아직 못 끝냈다).
+tp 칭찬: Vizuri sana!, Safi!, Hodari!(잘한다!)
+pr Mmeelewa? | 이해했어요? || Tumeelewa. | 이해했어요.
+pr Sauti kubwa! | 크게! || Sauti ndogo. | 작게.
+dl 선생님 | Mmeelewa? | 다들 이해했어요?
+dl 학생 | Hapana, mwalimu. Nina swali. | 아니요, 선생님. 질문 있어요.
+dl 선생님 | Uliza. | 물어보세요.
+dl 학생 | 'Annyeong' maana yake ni 'habari'? | '안녕'이 'habari'라는 뜻이에요?
+sm Jaribu tena kwa sauti kubwa — vizuri sana, hongereni! | 큰 소리로 다시 해 봐요 — 아주 잘했어요, 다들 축하해요!
+qz '질문 있어요'는? | Nina swali
+qz '아주 잘했어요!'는? | Vizuri sana!
+
+@ 1-07-04 | 말하기 연습 | mazungumzo·zamu | 짝 활동과 말하기 연습에 쓰는 말이에요.
+w mazungumzo | 대화 | 대화
+e Mazungumzo mafupi. | 짧은 대화.
+e Soma mazungumzo haya. | 이 대화를 읽어요.
+e Fanya mazungumzo na mwenzako. | 짝과 대화해 봐요.
+w mwenzako | 네 짝, 동료 · mwenzi + ako | 네 짝, 네 동료
+e Kaa na mwenzako. | 짝과 앉아요.
+e Muulize mwenzako jina lake. | 짝에게 이름을 물어봐요.
+e Mwenzako yuko wapi? | 네 짝은 어디 있어?
+w zamu | 차례 | 차례
+e Ni zamu yako. | 네 차례야.
+e Zamu yangu sasa. | 이제 내 차례예요.
+e Subiri zamu yako. | 네 차례를 기다려.
+w mazoezi | 연습, 운동 | 연습; 운동
+e Mazoezi ya kuongea. | 말하기 연습.
+e Fanya mazoezi kila siku. | 매일 연습해요.
+e Mazoezi yanasaidia. | 연습이 도움이 돼요.
+w kuongea | 말하다, 이야기하다 | 말하다, 이야기하다
+e Ongea Kikorea. | 한국어로 말해요.
+e Tunaongea na marafiki. | 친구들과 이야기해요.
+e Usiongee darasani. | 수업 중에 떠들지 마요.
+w kuuliza | 묻다 | 묻다, 질문하다
+e Uliza mwalimu. | 선생님께 물어봐요.
+e Aliniuliza jina langu. | 그가 내 이름을 물었어요.
+e Usiogope kuuliza. | 묻는 걸 두려워하지 마요.
+w kujibu | 대답하다 | 대답하다
+e Jibu swali. | 질문에 대답해요.
+e Alijibu vizuri. | 그는 잘 대답했어요.
+e Nani atajibu? | 누가 대답할래요?
+w kikundi | 모둠, 그룹 | 모둠, 무리
+e Vikundi vinne. | 네 모둠.
+e Fanyeni kazi kwa vikundi. | 모둠별로 활동해요.
+e Kikundi cha kwanza, anzeni. | 첫째 모둠, 시작해요.
+tp '네 짝'은 mwenzako, '내 짝'은 mwenzangu, '그의 짝'은 mwenzake.
+tp '그에게 물어봐'는 동사 앞에 m(그를)을 넣어요: muulize(그에게 물어봐).
+tp 말하기 활동 순서: kikundi(모둠) → zamu(차례) → kuuliza(묻기) → kujibu(답하기).
+pr kuuliza | 묻다 || kujibu | 대답하다
+pr zamu yangu | 내 차례 || zamu yako | 네 차례
+dl 선생님 | Fanyeni mazungumzo kwa jozi. Uliza jina na umri. | 짝끼리 대화해요. 이름과 나이를 물어봐요.
+dl 학생A | Jina lako nani? | 이름이 뭐야?
+dl 학생B | Jina langu ni Baraka. Zamu yangu: una umri gani? | 내 이름은 바라카야. 내 차례: 몇 살이야?
+dl 학생A | Nina miaka kumi na mbili. | 열두 살이야.
+sm Uliza, jibu, subiri zamu yako — mazoezi ya mazungumzo. | 묻고, 답하고, 차례를 기다려요 — 대화 연습.
+qz '차례'는? | zamu
+qz '대답하다'는? | kujibu
+
+@ 1-07-05 | 문법·질문 | sentensi·maana | 문장과 뜻, 맞고 틀림을 물을 때 써요.
+w sentensi | 문장 · 표준어 sentensi | 문장
+e Andika sentensi tatu. | 문장 세 개를 써요.
+e Sentensi hii ni ndefu. | 이 문장은 길어요.
+e Tunga sentensi kwa neno hili. | 이 단어로 문장을 만들어요.
+w maana | 뜻 | 뜻, 의미
+e Maana ya neno hili. | 이 단어의 뜻.
+e Ina maana gani? | 무슨 뜻이에요?
+e Sijui maana yake. | 뜻을 몰라요.
+w sahihi | 맞다, 올바르다 | 맞다, 정확하다
+e Jibu sahihi. | 맞는 답.
+e Ni sahihi? | 맞아요?
+e Sentensi hii ni sahihi. | 이 문장은 맞아요.
+w si sahihi | 틀리다 · '맞지 않다' | 틀리다
+e Jibu hili si sahihi. | 이 답은 틀려요.
+e Neno hili si sahihi hapa. | 여기서 이 단어는 맞지 않아요.
+e Kama si sahihi, nisahihishe. | 틀리면 고쳐 줘요.
+w mfano | 예, 보기 · 여럿 mifano | 예, 보기
+e Kwa mfano. | 예를 들어.
+e Toa mfano mmoja. | 예를 하나 들어 봐요.
+e Mifano mingi. | 예가 많아요.
+w kutafsiri | 번역하다 | 번역하다
+e Tafsiri kwa Kiswahili. | 스와힐리어로 번역해요.
+e Neno hili linatafsiriwa vipi? | 이 단어는 어떻게 번역해요?
+e Ninatafsiri kitabu. | 책을 번역하고 있어요.
+w sarufi | 문법 | 문법
+e Sarufi ya Kiswahili. | 스와힐리어 문법.
+e Somo la sarufi. | 문법 수업.
+e Sarufi ya Kikorea ni ngumu. | 한국어 문법은 어려워요.
+tp '예를 들어'는 kwa mfano. 말할 때도 글에서도 아주 자주 써요.
+tp '맞다' sahihi ↔ '틀리다' si sahihi / kosa(실수).
+tp kutunga sentensi = 문장을 짓다(만들다).
+pr sahihi | 맞다 || si sahihi | 틀리다
+pr swali | 질문 || mfano | 예
+dl 학생 | Mwalimu, sentensi hii ni sahihi? | 선생님, 이 문장 맞아요?
+dl 선생님 | Karibu. Neno moja si sahihi. | 거의요. 한 단어가 틀렸어요.
+dl 학생 | Lipi? Nipe mfano. | 어느 거요? 예를 들어 주세요.
+dl 선생님 | Sema 'ninakula', si 'nakulaa'. | 'nakulaa'가 아니라 'ninakula'라고 해요.
+sm Tunga sentensi, toa mfano, na utafsiri kwa Kikorea. | 문장을 짓고, 예를 들고, 한국어로 번역해요.
+qz '예를 들어'는? | kwa mfano
+qz '뜻'은? | maana
+
+@ 1-07-06 | 한국 소개 | Korea·Seoul | 한국을 소개할 때 쓰는 말이에요.
+w Korea Kusini | 남한, 대한민국 · kusini 남쪽 | 한국(남한)
+e Korea Kusini iko Asia. | 한국은 아시아에 있어요.
+e Mji mkuu wa Korea Kusini ni Seoul. | 한국의 수도는 서울이에요.
+e Korea Kusini ni nchi ndogo. | 한국은 작은 나라예요.
+w Kikorea | 한국어 | 한국어
+e Ninazungumza Kikorea. | 한국어를 해요.
+e Unajua Kikorea? | 한국어 알아요?
+e Kikorea kina herufi za Hangul. | 한국어는 한글로 써요.
+w mji mkuu | 수도 · '큰 도시' | 수도
+e Mji mkuu wa Tanzania ni Dodoma. | 탄자니아의 수도는 도도마예요.
+e Mji mkuu wa Kenya ni Nairobi. | 케냐의 수도는 나이로비예요.
+e Seoul ni mji mkuu mkubwa. | 서울은 큰 수도예요.
+w nchi | 나라 · 땅 | 나라; 땅
+e Nchi yangu ni Korea. | 우리나라는 한국이에요.
+e Nchi za Afrika Mashariki. | 동아프리카 나라들.
+e Nchi nzuri. | 아름다운 나라.
+w majira manne | 사계절 · majira 계절 + manne 넷 | 사계절
+e Korea ina majira manne. | 한국은 사계절이 있어요.
+e Majira ya baridi kuna theluji. | 겨울에는 눈이 와요.
+e Tanzania haina majira manne. | 탄자니아는 사계절이 없어요.
+w theluji | 눈 | 눈(雪)
+e Theluji nyeupe. | 하얀 눈.
+e Theluji iko juu ya Kilimanjaro. | 킬리만자로 꼭대기에 눈이 있어요.
+e Watoto wanacheza na theluji. | 아이들이 눈을 가지고 놀아요.
+w kimchi | 김치 | 김치
+e Kimchi ni chakula cha Korea. | 김치는 한국 음식이에요.
+e Kimchi ni chachu na kali. | 김치는 시고 매워요.
+e Tunakula kimchi kila siku. | 우리는 매일 김치를 먹어요.
+tp 방위: kaskazini(북), kusini(남), mashariki(동), magharibi(서). 북한은 Korea Kaskazini.
+tp 탄자니아에는 사계절 대신 비 오는 철(masika, vuli)과 마른 철(kiangazi)이 있어요.
+tp '우리나라'는 nchi yangu(내 나라) 또는 nchi yetu(우리 나라).
+pr Korea Kusini | 남한 || Korea Kaskazini | 북한
+pr Seoul | 한국의 수도 || Dodoma | 탄자니아의 수도
+dl 학생 | Mwalimu, Korea iko wapi? | 선생님, 한국은 어디 있어요?
+dl 선생님 | Iko Asia mashariki, karibu na Japani na China. | 동아시아에, 일본과 중국 근처에 있어요.
+dl 학생 | Kuna theluji Korea? | 한국에 눈이 와요?
+dl 선생님 | Ndiyo, wakati wa baridi kuna theluji nyingi. | 네, 겨울에는 눈이 많이 와요.
+sm Korea Kusini ina majira manne, theluji, kimchi na Hangul. | 한국에는 사계절, 눈, 김치, 한글이 있어요.
+qz '한국어'는? | Kikorea
+qz '수도'는? | mji mkuu
+
+@ 1-07-07 | K-팝·드라마 | muziki·tamthilia | 한국 노래와 드라마에 대해 이야기해요.
+w muziki | 음악 | 음악
+e Muziki wa Korea. | 한국 음악.
+e Napenda muziki wa bongo fleva. | 봉고 플레바 음악을 좋아해요.
+e Sikiliza muziki huu. | 이 음악 들어 봐요.
+w tamthilia | 드라마, 연극 | 드라마, 연극
+e Tamthilia za Kikorea. | 한국 드라마.
+e Unaangalia tamthilia gani? | 무슨 드라마 봐요?
+e Tamthilia hii ina sehemu kumi na sita. | 이 드라마는 16부작이에요.
+w mwimbaji | 가수 · imba 노래하다 | 가수
+e Mwimbaji maarufu. | 유명한 가수.
+e Waimbaji wa K-pop. | 케이팝 가수들.
+e Diamond ni mwimbaji wa Tanzania. | 다이아몬드는 탄자니아 가수예요.
+w kucheza ngoma | 춤추다 · ngoma 북, 춤 | 춤추다
+e Tunacheza ngoma pamoja. | 같이 춤춰요.
+e Anajua kucheza ngoma ya K-pop. | 그는 케이팝 춤을 출 줄 알아요.
+e Watoto wanacheza ngoma shuleni. | 아이들이 학교에서 춤춰요.
+w maarufu | 유명하다 | 유명하다
+e Ni maarufu sana. | 아주 유명해요.
+e Wimbo maarufu. | 유명한 노래.
+e Mji maarufu kwa utalii. | 관광으로 유명한 도시.
+w kuangalia | 보다, 지켜보다 | 보다, 시청하다
+e Ninaangalia televisheni. | 텔레비전을 봐요.
+e Angalia video hii. | 이 영상 봐요.
+e Tuliangalia filamu jana. | 어제 영화를 봤어요.
+w shabiki | 팬 · 여럿 mashabiki | 팬, 열성 지지자
+e Mimi ni shabiki wa BTS. | 저는 BTS 팬이에요.
+e Mashabiki wengi. | 많은 팬들.
+e Shabiki wa Simba. | 심바(축구팀) 팬.
+tp 탄자니아 대중음악은 bongo fleva, 케냐·콩고 쪽은 benga, 해안 지역 전통 음악은 taarab이에요.
+tp kucheza는 '놀다, 춤추다, 경기하다' 모두예요: kucheza mpira(공 차다), kucheza ngoma(춤추다).
+tp '팬'은 shabiki. 축구팀 Simba와 Yanga 팬들의 경쟁이 유명해요.
+pr mwimbaji | 가수 || shabiki | 팬
+pr muziki | 음악 || tamthilia | 드라마
+dl 학생 | Mwalimu, unapenda K-pop? | 선생님, 케이팝 좋아해요?
+dl 선생님 | Ndiyo! Wewe unapenda mwimbaji gani? | 응! 너는 어떤 가수 좋아해?
+dl 학생 | Napenda BTS na Diamond Platnumz. | BTS랑 다이아몬드 플랫넘즈 좋아해요.
+dl 선생님 | Safi! Tutacheza ngoma ya K-pop Ijumaa. | 좋아! 금요일에 케이팝 춤 추자.
+sm Muziki wa Korea na tamthilia za Kikorea ni maarufu Afrika. | 한국 음악과 드라마는 아프리카에서 유명해요.
+qz '가수'는? | mwimbaji
+qz '드라마'는? | tamthilia
+
+@ 1-07-08 | 동아프리카 문화 | utamaduni·Kimasai | 스와힐리 문화와 동아프리카 여러 민족의 문화예요.
+w utamaduni | 문화 | 문화
+e Utamaduni wa Kiswahili. | 스와힐리 문화.
+e Utamaduni wa Korea na Tanzania. | 한국과 탄자니아 문화.
+e Tunaheshimu utamaduni wa wengine. | 다른 사람의 문화를 존중해요.
+w kabila | 민족, 부족 · 여럿 makabila | 민족, 부족
+e Tanzania ina makabila zaidi ya mia moja. | 탄자니아에는 백 개가 넘는 민족이 있어요.
+e Kabila lako ni lipi? | 어느 민족이에요?
+e Wamasai ni kabila maarufu. | 마사이는 유명한 민족이에요.
+w Wamasai | 마사이 사람들 | 마사이족
+e Wamasai wanafuga ng'ombe. | 마사이 사람들은 소를 키워요.
+e Mavazi ya Kimasai ni mekundu. | 마사이 옷은 빨개요.
+e Wamasai wanaruka juu sana. | 마사이 사람들은 아주 높이 뛰어요.
+w lugha | 언어, 말 | 언어
+e Lugha ya taifa. | 국어.
+e Unazungumza lugha ngapi? | 몇 개 언어를 해요?
+e Kiswahili ni lugha ya Afrika Mashariki. | 스와힐리어는 동아프리카의 언어예요.
+w Waswahili | 스와힐리 사람들 · 해안 사람들 | 스와힐리 사람들
+e Waswahili wa pwani. | 해안의 스와힐리 사람들.
+e Waswahili husema, 'Haba na haba hujaza kibaba.' | 스와힐리 사람들은 '조금씩 모이면 됫박을 채운다'고 말해요.
+e Utamaduni wa Waswahili. | 스와힐리 사람들의 문화.
+w methali | 속담 | 속담
+e Methali za Kiswahili. | 스와힐리 속담.
+e Methali hii ina maana gani? | 이 속담은 무슨 뜻이에요?
+e Bibi anapenda methali. | 할머니는 속담을 좋아해요.
+w mila | 풍습, 전통 | 풍습, 관습
+e Mila na desturi. | 풍습과 관습.
+e Mila za harusi. | 결혼 풍습.
+e Ni mila yetu. | 우리 풍습이에요.
+tp 스와힐리어는 탄자니아·케냐의 국어이자 동아프리카 여러 나라의 공용어예요. 사용자는 1억 명이 넘어요.
+tp 민족 이름: m-(한 사람) / wa-(사람들) / ki-(언어, 방식): Mmasai, Wamasai, Kimasai.
+tp 스와힐리 사람들은 속담(methali)을 즐겨 써요: Haraka haraka haina baraka(서두르면 복이 없다).
+pr Mmasai | 마사이 한 사람 || Wamasai | 마사이 사람들
+pr mila | 풍습 || methali | 속담
+dl 민준 | Kiswahili kinazungumzwa nchi ngapi? | 스와힐리어는 몇 나라에서 써요?
+dl 아마니 | Tanzania, Kenya, Uganda, Rwanda na Kongo pia. | 탄자니아, 케냐, 우간다, 르완다, 콩고에서도요.
+dl 민준 | Na wewe ni kabila gani? | 당신은 어느 민족이에요?
+dl 아마니 | Mimi ni Mchaga, kutoka Kilimanjaro. | 저는 킬리만자로에서 온 차가족이에요.
+sm Lugha, mila, methali na makabila — utamaduni wa Afrika Mashariki. | 언어, 풍습, 속담, 민족 — 동아프리카 문화.
+qz '문화'는? | utamaduni
+qz '속담'은? | methali
+
+@ 1-07-09 | 예절·명절 | heshima·sikukuu | 예절과 공휴일·명절에 대한 말이에요.
+w heshima | 존경, 예의 | 존경, 예의
+e Heshima kwa wazee. | 어른 공경.
+e Ni heshima kubwa. | 큰 영광이에요.
+e Ongea kwa heshima. | 예의 바르게 말해요.
+w adabu | 예절, 버릇 | 예절, 예의범절
+e Mtoto mwenye adabu. | 예의 바른 아이.
+e Hana adabu. | 버릇이 없어요.
+e Adabu njema. | 좋은 예절.
+w sikukuu | 명절, 공휴일 | 명절, 공휴일
+e Sikukuu njema! | 즐거운 명절 보내세요!
+e Kesho ni sikukuu. | 내일은 공휴일이에요.
+e Sikukuu ya Uhuru. | 독립기념일.
+w Idd | 이드 · 라마단 끝 명절 | 이드(이슬람 명절)
+e Idd Mubarak! | 이드 축하해요!
+e Sikukuu ya Idd. | 이드 명절.
+e Watoto wanavaa nguo mpya siku ya Idd. | 이드에는 아이들이 새 옷을 입어요.
+w Krismasi | 크리스마스 | 크리스마스
+e Krismasi njema! | 메리 크리스마스!
+e Tunakwenda kijijini kwa Krismasi. | 크리스마스에 고향 마을에 가요.
+e Mti wa Krismasi. | 크리스마스트리.
+w kusalimia | 인사하다 | 인사하다
+e Salimia wazee kwanza. | 어른께 먼저 인사해요.
+e Nisalimie mama yako. | 어머니께 안부 전해 줘.
+e Alinisalimia kwa Kikorea. | 그가 한국어로 인사했어요.
+w mzee | 어르신 · 여럿 wazee | 어르신, 노인
+e Shikamoo, mzee. | 어르신, 안녕하세요.
+e Wazee wanakaa chini ya mti. | 어르신들이 나무 아래 앉아 있어요.
+e Mzee huyu ana hekima. | 이 어르신은 지혜로워요.
+tp mzee는 '늙은이'가 아니라 존경을 담은 '어르신'이에요. 이름 앞에 붙이기도 해요: Mzee Juma.
+tp 명절 인사는 ~ njema(좋은 ~): Sikukuu njema, Krismasi njema. 이드에는 Idd Mubarak / Eid Mubarak.
+tp 한국의 설날은 Mwaka Mpya wa Kikorea, 추석은 Chuseok — sikukuu ya mavuno(추수 명절)로 설명해요.
+pr Krismasi njema! | 메리 크리스마스! || Idd Mubarak! | 이드 축하해요!
+pr heshima | 존경 || adabu | 예절
+dl 학생 | Mwalimu, Korea mna sikukuu gani? | 선생님, 한국에는 무슨 명절이 있어요?
+dl 선생님 | Seollal, mwaka mpya, na Chuseok, sikukuu ya mavuno. | 설날(새해)하고 추석(추수 명절)이요.
+dl 학생 | Mnafanya nini? | 뭐 해요?
+dl 선생님 | Tunawasalimia wazee kwa heshima na tunakula pamoja. | 어른께 공손히 절하고 함께 밥을 먹어요.
+sm Siku ya sikukuu tunawasalimia wazee kwa heshima na adabu. | 명절에는 예의 바르게 어른들께 인사해요.
+qz '명절'은? | sikukuu
+qz '어르신'은? | mzee
+
+@ 1-07-10 | 생활 문화·여행 | utalii·mbuga | 관광과 여행지, 생활 문화에 대한 말이에요.
+w utalii | 관광 | 관광
+e Utalii ni muhimu Tanzania. | 탄자니아에서 관광은 중요해요.
+e Kampuni ya utalii. | 여행사.
+e Mji wa utalii. | 관광 도시.
+w mtalii | 관광객 · 여럿 watalii | 관광객
+e Watalii wengi wanakuja Zanzibar. | 관광객이 잔지바르에 많이 와요.
+e Mtalii kutoka Korea. | 한국에서 온 관광객.
+e Watalii wanapiga picha. | 관광객들이 사진을 찍어요.
+w mbuga ya wanyama | 국립공원, 동물 보호구역 | 동물 보호구역, 국립공원
+e Mbuga ya Serengeti. | 세렝게티 국립공원.
+e Tulikwenda mbuga ya wanyama. | 국립공원에 갔어요.
+e Mbuga hii ina simba wengi. | 이 공원에는 사자가 많아요.
+w safari | 여행 · 영어 safari의 어원 | 여행
+e Safari ya Serengeti. | 세렝게티 여행.
+e Safari ndefu. | 긴 여행.
+e Safari yako ilikuwaje? | 여행 어땠어요?
+w kupiga picha | 사진 찍다 · picha 사진 | 사진을 찍다
+e Naweza kupiga picha? | 사진 찍어도 돼요?
+e Tupige picha pamoja. | 같이 사진 찍어요.
+e Usipige picha hapa. | 여기서는 사진 찍지 마요.
+w kisiwa | 섬 · 여럿 visiwa | 섬
+e Kisiwa cha Zanzibar. | 잔지바르섬.
+e Visiwa vya Komoro. | 코모로 제도.
+e Tulikaa kisiwani siku tatu. | 섬에서 사흘 머물렀어요.
+w pwani | 해안, 바닷가 | 해안, 바닷가
+e Mji wa pwani. | 해안 도시.
+e Tunaishi pwani. | 우리는 해안에 살아요.
+e Pwani kuna joto. | 해안은 더워요.
+tp safari는 스와힐리어로 그냥 '여행'이에요. 동물 구경만이 아니라 버스 여행도 safari예요.
+tp 사람 사진을 찍기 전에는 꼭 물어보세요: Naweza kukupiga picha?(사진 찍어도 될까요?)
+tp 유명 여행지: Serengeti, Ngorongoro, Kilimanjaro, Zanzibar, Maasai Mara(케냐), Lamu(케냐).
+pr mtalii | 관광객 || watalii | 관광객들
+pr kisiwa | 섬 || visiwa | 섬들
+dl 수아 | Ninataka kwenda safari. Wapi ni pazuri? | 여행 가고 싶어요. 어디가 좋아요?
+dl 주마 | Serengeti kwa wanyama, Zanzibar kwa pwani. | 동물은 세렝게티, 바닷가는 잔지바르요.
+dl 수아 | Naweza kupiga picha za simba? | 사자 사진 찍을 수 있어요?
+dl 주마 | Ndiyo, lakini kaa ndani ya gari! | 네, 하지만 차 안에 있어야 해요!
+sm Watalii wanakwenda mbuga ya wanyama na visiwa vya pwani. | 관광객들은 국립공원과 해안 섬에 가요.
+qz '관광객'은? | mtalii
+qz '섬'은? | kisiwa
+
+@ 1-07-11 | 음악 | wimbo·kuimba | 음악 시간에 쓰는 말이에요.
+w wimbo | 노래 · 여럿 nyimbo | 노래
+e Wimbo wa taifa. | 국가(나라 노래).
+e Nyimbo za Kikorea. | 한국 노래들.
+e Imba wimbo huu. | 이 노래를 불러요.
+w kuimba | 노래하다 | 노래하다
+e Tunaimba pamoja. | 같이 노래해요.
+e Anaimba vizuri sana. | 그는 노래를 아주 잘해요.
+e Imbeni kwa sauti! | 다들 크게 불러요!
+w sauti | 소리, 목소리 | 소리, 목소리
+e Sauti nzuri. | 좋은 목소리.
+e Sauti ya juu. | 높은 소리.
+e Punguza sauti. | 소리를 줄여요.
+w mdundo | 리듬, 박자 | 리듬, 박자
+e Mdundo wa haraka. | 빠른 리듬.
+e Fuata mdundo. | 박자를 맞춰요.
+e Piga makofi kwa mdundo. | 박자에 맞춰 손뼉 쳐요.
+w kupiga makofi | 손뼉 치다 | 손뼉 치다
+e Pigeni makofi! | 다들 손뼉 쳐요!
+e Watu walipiga makofi mengi. | 사람들이 박수를 많이 쳤어요.
+e Piga makofi mara tatu. | 손뼉 세 번 쳐요.
+w maneno ya wimbo | 노랫말, 가사 | 가사
+e Andika maneno ya wimbo. | 가사를 써요.
+e Maneno ya wimbo huu ni mazuri. | 이 노래 가사가 좋아요.
+e Sijui maneno ya wimbo. | 가사를 몰라요.
+w kusikiliza | 듣다, 귀 기울이다 | 듣다
+e Sikiliza muziki. | 음악을 들어요.
+e Ninapenda kusikiliza redio. | 라디오 듣는 걸 좋아해요.
+e Sikilizeni kwanza, halafu imbeni. | 먼저 듣고, 그다음에 불러요.
+tp 노래 하나 wimbo → 여럿 nyimbo (u- 부류 → n 부류).
+tp '손뼉 치다' kupiga makofi처럼 kupiga(치다)는 쓰임이 많아요: kupiga simu(전화하다), kupiga picha(사진 찍다).
+tp 동아프리카 학교에서는 아침 조회 때 국가(wimbo wa taifa)를 불러요.
+pr wimbo | 노래 || nyimbo | 노래들
+pr kuimba | 노래하다 || kusikiliza | 듣다
+dl 선생님 | Leo tutajifunza wimbo wa Kikorea. | 오늘은 한국 노래를 배워요.
+dl 학생들 | Wimbo gani, mwalimu? | 무슨 노래요, 선생님?
+dl 선생님 | 'Arirang'. Sikilizeni kwanza, halafu imbeni pamoja. | '아리랑'이요. 먼저 듣고 같이 불러요.
+dl 학생들 | Sauti yake ni nzuri sana! | 소리가 정말 아름다워요!
+sm Sikilizeni, pigeni makofi kwa mdundo na imbeni wimbo! | 듣고, 박자에 맞춰 손뼉 치고, 노래해요!
+qz '노래'는? | wimbo
+qz '손뼉 치다'는? | kupiga makofi
+
+@ 1-07-12 | 악기·합창 | ngoma·kwaya | 악기와 합창에 쓰는 말이에요. ngoma는 '북'이면서 '춤, 춤 잔치'예요.
+w ngoma | 북 · 춤, 춤 잔치 | 북; 춤
+e Piga ngoma. | 북을 쳐요.
+e Ngoma za asili. | 전통 북.
+e Kuna ngoma kijijini usiku huu. | 오늘 밤 마을에 춤 잔치가 있어요.
+w kwaya | 합창단 · 영어 choir | 합창단
+e Kwaya ya shule. | 학교 합창단.
+e Kwaya ya kanisa. | 교회 성가대.
+e Ninaimba kwenye kwaya. | 합창단에서 노래해요.
+w gitaa | 기타 | 기타
+e Piga gitaa. | 기타를 쳐요.
+e Gitaa la umeme. | 전자 기타.
+e Anajifunza gitaa. | 그는 기타를 배워요.
+w filimbi | 피리, 호루라기 | 피리; 호루라기
+e Piga filimbi. | 피리를 불어요.
+e Mwamuzi alipiga filimbi. | 심판이 호루라기를 불었어요.
+e Filimbi ya mianzi. | 대나무 피리.
+w kinanda | 건반 악기, 피아노 | 피아노, 키보드
+e Kinanda cha kanisa. | 교회 오르간.
+e Anapiga kinanda vizuri. | 그는 피아노를 잘 쳐요.
+e Darasa la kinanda. | 피아노 수업.
+w ala za muziki | 악기 · ala 도구 | 악기
+e Ala za muziki za asili. | 전통 악기.
+e Shule ina ala nyingi za muziki. | 학교에 악기가 많아요.
+e Ala gani unapiga? | 무슨 악기 해요?
+w kufanya mazoezi | 연습하다 | 연습하다
+e Kwaya inafanya mazoezi Jumamosi. | 합창단은 토요일에 연습해요.
+e Fanya mazoezi kila siku. | 매일 연습해요.
+e Tunafanya mazoezi ya wimbo mpya. | 새 노래를 연습해요.
+tp 악기를 '치다·불다·켜다'는 모두 kupiga: kupiga ngoma, kupiga gitaa, kupiga filimbi.
+tp 교회(kanisa)와 학교마다 kwaya가 있고, 합창 대회도 많아요.
+tp ngoma 한 단어로 '북 / 춤 / 춤 잔치'를 다 말해요.
+pr ngoma | 북 || filimbi | 피리
+pr gitaa | 기타 || kinanda | 피아노
+dl 선생님 | Nani anajua kupiga ala ya muziki? | 악기 할 줄 아는 사람?
+dl 학생 | Mimi napiga ngoma, mwalimu. | 저는 북 쳐요, 선생님.
+dl 선생님 | Safi! Utapiga ngoma kwenye kwaya. | 좋아! 합창할 때 북을 쳐 줘.
+dl 학생 | Tutafanya mazoezi lini? | 언제 연습해요?
+sm Kwaya inaimba, mtoto anapiga ngoma na mwalimu anapiga gitaa. | 합창단이 노래하고, 아이가 북을 치고, 선생님이 기타를 쳐요.
+qz '합창단'은? | kwaya
+qz 악기를 '치다·불다'는? | kupiga

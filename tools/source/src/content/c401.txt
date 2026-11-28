@@ -1,0 +1,545 @@
+# P2-A | 어근별 단어 가족
+
+@ 4-01-01 | -soma 읽다·배우다 | kusoma·mwanafunzi·somo | 뿌리 -soma(읽다, 공부하다)에서 사람·물건·장소 낱말이 나와요.
+w kusoma | 읽다, 공부하다 | 읽다; 공부하다
+e Ninasoma kitabu. | 책을 읽어요.
+e Anasoma chuo kikuu. | 그는 대학에서 공부해요.
+e Soma kwa sauti. | 소리 내어 읽어요.
+w somo | 과(課), 수업 · ma- 여럿 masomo | 과목; 수업, 교훈
+e Somo la leo ni hesabu. | 오늘 수업은 수학이에요.
+e Masomo yameanza. | 수업이 시작됐어요.
+e Hili ni somo zuri. | 이건 좋은 교훈이에요.
+w msomaji | 독자 · m-…-ji = ~하는 사람 | 읽는 사람, 독자
+e Wasomaji wa gazeti. | 신문 독자들.
+e Yeye ni msomaji mzuri. | 그는 책을 잘 읽어요.
+e Asante, msomaji. | 독자 여러분, 고맙습니다.
+w kusomesha | 가르치다 · soma + esha | 가르치다; 공부시키다
+e Anasomesha Kiingereza. | 그는 영어를 가르쳐요.
+e Wazazi wanamsomesha mtoto. | 부모가 아이를 공부시켜요.
+e Nani anakusomesha? | 누가 너를 가르치니?
+w msomi | 학자, 배운 사람 | 지식인, 학자
+e Yeye ni msomi. | 그는 배운 사람이에요.
+e Wasomi wa Afrika. | 아프리카의 학자들.
+e Msomi mkubwa. | 큰 학자.
+tp m-…-ji는 '~하는 사람': soma → msomaji(독자).
+tp -esha/-isha는 '~하게 하다': soma(배우다) → somesha(배우게 하다 = 가르치다).
+tp 과목 이름: somo la hesabu(수학), somo la historia(역사).
+pr kusoma | 공부하다 || kusomesha | 가르치다
+pr msomaji | 독자 || msomi | 학자
+dl 민준 | Unasoma nini? | 무슨 공부 해요?
+dl 할리마 | Nasoma sheria. Na wewe? | 법학 공부해요. 당신은요?
+dl 민준 | Mimi ninasomesha Kikorea. | 저는 한국어를 가르쳐요.
+dl 할리마 | Ah, wewe ni mwalimu! Nifundishe kidogo. | 아, 선생님이군요! 조금 가르쳐 줘요.
+sm Soma, somo, msomaji, somesha, msomi. | 읽다, 수업, 독자, 가르치다, 학자.
+qz '독자'는? | msomaji
+qz '가르치다(공부시키다)'는? | kusomesha
+
+@ 4-01-02 | -fundisha 가르치다 | kufundisha·mwalimu·funzo | '배우다'(kujifunza)와 '가르치다'(kufundisha)가 같은 뿌리 -funz-예요.
+w kufundisha | 가르치다 | 가르치다
+e Ananifundisha kupika. | 그가 요리를 가르쳐 줘요.
+e Anafundisha shule ya msingi. | 그는 초등학교에서 가르쳐요.
+e Nifundishe Kiswahili. | 스와힐리어 가르쳐 줘요.
+w kujifunza | 배우다 · ji(자기) + funza | 배우다, 익히다
+e Ninajifunza Kiswahili. | 스와힐리어를 배워요.
+e Tunajifunza kila siku. | 매일 배워요.
+e Umejifunza wapi? | 어디서 배웠어요?
+w mafunzo | 교육, 훈련 | 교육, 연수, 훈련
+e Mafunzo ya kompyuta. | 컴퓨터 교육.
+e Nipo kwenye mafunzo. | 연수 중이에요.
+e Mafunzo yanaanza Jumatatu. | 교육은 월요일에 시작해요.
+w mkufunzi | 강사, 훈련 지도자 · m-…-i | 강사, 교관
+e Mkufunzi wa walimu. | 교사 연수 강사.
+e Wakufunzi wa jeshi. | 군 교관들.
+e Mkufunzi wetu ni mkali. | 우리 강사는 엄해요.
+w mwanafunzi | 학생 · mwana(아이) + funzi | 학생
+e Mimi ni mwanafunzi. | 저는 학생이에요.
+e Wanafunzi wamefika. | 학생들이 도착했어요.
+e Mwanafunzi hodari. | 우수한 학생.
+tp ji-는 '자기 자신을': jifunza = 자기를 가르치다 = 배우다.
+tp mwana(아이) + funzi → mwanafunzi(배우는 사람, 학생).
+tp '선생님'은 같은 뿌리가 아닌 mwalimu예요(아랍어에서 옴).
+pr kufundisha | 가르치다 || kujifunza | 배우다
+pr mwalimu | 선생님 || mwanafunzi | 학생
+dl 수아 | Ulijifunza Kiingereza wapi? | 영어 어디서 배웠어요?
+dl 바라카 | Shuleni. Mwalimu wetu alitufundisha vizuri. | 학교에서요. 선생님이 잘 가르쳐 주셨어요.
+dl 수아 | Mimi ni mwanafunzi wa Kiswahili. | 저는 스와힐리어 학생이에요.
+dl 바라카 | Karibu! Nitakufundisha. | 환영해요! 가르쳐 줄게요.
+sm Fundisha, jifunza, mafunzo, mwanafunzi. | 가르치다, 배우다, 교육, 학생.
+qz '배우다'는? | kujifunza
+qz '학생'은? | mwanafunzi
+
+@ 4-01-03 | -pika 요리하다 | kupika·mpishi·jiko | 요리하다(-pika)의 가족이에요.
+w kupika | 요리하다 | 요리하다, 밥하다
+e Mama anapika wali. | 엄마가 밥을 하세요.
+e Unajua kupika? | 요리할 줄 알아요?
+e Tutapika pilau. | 필라우를 만들 거예요.
+w mpishi | 요리사 · m-…-i | 요리사
+e Mpishi wa hoteli. | 호텔 요리사.
+e Yeye ni mpishi hodari. | 그는 솜씨 좋은 요리사예요.
+e Wapishi wanapika jikoni. | 요리사들이 부엌에서 요리해요.
+w mapishi | 요리법 · ma- | 요리법, 요리
+e Mapishi ya Kiswahili. | 스와힐리 요리.
+e Kitabu cha mapishi. | 요리책.
+e Napenda mapishi yake. | 그의 요리를 좋아해요.
+w kupikia | ~로 요리하다 · pika + ia | ~에게/~로 요리하다
+e Nitakupikia chakula. | 너한테 밥해 줄게.
+e Sufuria ya kupikia. | 요리용 냄비.
+e Mafuta ya kupikia. | 식용유.
+w kupikwa | 요리되다 · pika + wa | 요리되다
+e Chakula kimepikwa. | 음식이 다 됐어요.
+e Wali umepikwa vizuri. | 밥이 잘 됐어요.
+e Kilipikwa na nani? | 누가 만들었어요?
+tp 동사 + -i: pika → mpishi(요리사). k가 sh로 바뀌어요.
+tp -ia는 '~에게, ~로': pikia(해 주다), mafuta ya kupikia(요리용 기름).
+tp -wa는 '~되다': pikwa(요리되다).
+pr kupika | 요리하다 || mpishi | 요리사
+pr kupikia | 해 주다 || kupikwa | 요리되다
+dl 손님 | Chakula hiki kimepikwa na nani? | 이 음식 누가 만들었어요?
+dl 직원 | Na mpishi wetu, Mama Rehema. | 우리 요리사 레헤마 아주머니요.
+dl 손님 | Ni kitamu sana! Mapishi yake ni mazuri. | 정말 맛있어요! 요리 솜씨가 좋네요.
+dl 직원 | Atafurahi kusikia. | 들으면 좋아하실 거예요.
+sm Pika, mpishi, mapishi, pikia, pikwa. | 요리하다, 요리사, 요리법, 해 주다, 요리되다.
+qz '요리사'는? | mpishi
+qz '너한테 밥해 줄게'는? | Nitakupikia chakula
+
+@ 4-01-04 | -andika 쓰다 | kuandika·mwandishi·maandishi | 쓰다(-andika)의 가족이에요.
+w kuandika | 쓰다 | (글을) 쓰다; 등록하다
+e Andika jina lako. | 이름을 써요.
+e Ninaandika barua. | 편지를 써요.
+e Andika hapa. | 여기 쓰세요.
+w mwandishi | 작가, 기자 · m-…-i | 작가; 기자
+e Mwandishi wa habari. | 기자.
+e Shaaban Robert ni mwandishi maarufu. | 샤반 로버트는 유명한 작가예요.
+e Waandishi wamefika. | 기자들이 왔어요.
+w maandishi | 글, 글씨 · ma- | 글; 글씨
+e Maandishi ni madogo. | 글씨가 작아요.
+e Kwa maandishi. | 글로(서면으로).
+e Soma maandishi haya. | 이 글을 읽어요.
+w kuandikisha | 등록하다 · andika + isha | 등록하다(시키다)
+e Andikisha mtoto shuleni. | 아이를 학교에 등록해요.
+e Nimejiandikisha. | 등록했어요.
+e Wapi naandikisha? | 어디서 등록해요?
+w mwandiko | 글씨체 · m-…-o | 글씨(체)
+e Mwandiko wako ni mzuri. | 글씨가 예뻐요.
+e Siwezi kusoma mwandiko huu. | 이 글씨를 못 읽겠어요.
+e Mwandiko wa daktari! | 의사 글씨네요!
+tp 동사 + -i = 사람(mwandishi), + -o = 결과물(mwandiko).
+tp jiandikisha = 자기를 등록하다 = 등록하다(가입하다).
+tp maandishi는 '글, 쓰인 것', 서면: kwa maandishi.
+pr kuandika | 쓰다 || kusoma | 읽다
+pr mwandishi | 작가 || msomaji | 독자
+dl 직원 | Andika jina na namba ya simu. | 이름과 전화번호를 써 주세요.
+dl 민준 | Hapa? Maandishi ni madogo sana. | 여기요? 글씨가 너무 작아요.
+dl 직원 | Ndiyo, hapo. Sasa umejiandikisha. | 네, 거기요. 이제 등록됐어요.
+dl 민준 | Asante. Mwandiko wangu ni mbaya! | 고마워요. 제 글씨가 엉망이네요!
+sm Andika, mwandishi, maandishi, jiandikisha, mwandiko. | 쓰다, 작가, 글, 등록하다, 글씨.
+qz '기자'는? | mwandishi wa habari
+qz '글씨가 예뻐요'는? | Mwandiko wako ni mzuri
+
+@ 4-01-05 | -penda 사랑하다 | kupenda·upendo·mpenzi | 좋아하다·사랑하다(-penda)의 가족이에요.
+w kupenda | 좋아하다, 사랑하다 | 좋아하다; 사랑하다
+e Napenda muziki. | 음악을 좋아해요.
+e Nakupenda. | 사랑해.
+e Unapenda nini? | 뭘 좋아해요?
+w upendo | 사랑 · u- 추상명사 | 사랑
+e Upendo ni kila kitu. | 사랑이 전부예요.
+e Kwa upendo. | 사랑을 담아.
+e Upendo wa mama. | 어머니의 사랑.
+w mpenzi | 연인, 사랑하는 사람 | 연인; 사랑하는 ~
+e Mpenzi wangu. | 내 사랑.
+e Ana mpenzi? | 그 사람 애인 있어요?
+e Wapenzi wa mpira. | 축구 팬들.
+w kupendana | 서로 사랑하다 · penda + ana | 서로 사랑하다
+e Wanapendana sana. | 그들은 서로 많이 사랑해요.
+e Pendaneni. | 서로 사랑하세요.
+e Tulipendana zamani. | 옛날에 서로 좋아했어요.
+w kupendeza | 보기 좋다 · penda + eza | 보기 좋다, 마음에 들다
+e Unapendeza! | 멋져요!(옷차림)
+e Rangi hii inapendeza. | 이 색 보기 좋아요.
+e Mji unapendeza. | 도시가 아름다워요.
+tp u-는 추상명사를 만들어요: penda → upendo(사랑).
+tp -ana는 '서로': pendana(서로 사랑하다).
+tp Unapendeza!는 옷 잘 입은 사람에게 하는 칭찬이에요.
+pr kupenda | 사랑하다 || kuchukia | 미워하다
+pr upendo | 사랑 || chuki | 미움
+dl 할리마 | Leo unapendeza sana! | 오늘 정말 멋지네요!
+dl 수아 | Asante! Napenda kanga hii. | 고마워요! 이 캉가가 좋아요.
+dl 할리마 | Imeandikwa "Upendo ni amani". | "사랑은 평화"라고 쓰여 있어요.
+dl 수아 | Maneno mazuri! | 좋은 말이네요!
+sm Penda, upendo, mpenzi, pendana, pendeza. | 사랑하다, 사랑, 연인, 서로 사랑하다, 보기 좋다.
+qz '사랑'은? | upendo
+qz '멋져요!(옷차림)'는? | Unapendeza!
+
+@ 4-01-06 | -cheza 놀다 | kucheza·mchezo·mchezaji | 놀다·경기하다·춤추다(-cheza)의 가족이에요.
+w kucheza | 놀다, 경기하다, 춤추다 | 놀다; (운동을) 하다; 춤추다
+e Watoto wanacheza nje. | 아이들이 밖에서 놀아요.
+e Tunacheza mpira. | 축구 해요.
+e Anacheza ngoma. | 그는 전통춤을 춰요.
+w mchezo | 놀이, 경기 · m-…-o | 놀이; 경기; 연극
+e Mchezo wa leo. | 오늘 경기.
+e Michezo ya watoto. | 아이들 놀이.
+e Si mchezo! | 장난 아니에요!
+w mchezaji | 선수 · m-…-ji | 선수; 연주자
+e Mchezaji wa Simba. | 심바 팀 선수.
+e Ni mchezaji hodari. | 실력 좋은 선수예요.
+e Wachezaji wameingia uwanjani. | 선수들이 경기장에 들어왔어요.
+w kuchezea | 가지고 놀다 · cheza + ea | ~를 가지고 놀다; 놀리다
+e Usichezee simu. | 휴대폰 만지작거리지 마.
+e Wanachezea mpira. | 공을 가지고 놀아요.
+e Usinichezee! | 나 놀리지 마!
+w uwanja wa michezo | 운동장 | 운동장, 경기장
+e Twende uwanja wa michezo. | 운동장 가자.
+e Uwanja wa michezo ni mkubwa. | 운동장이 커요.
+e Kuna mechi uwanja wa michezo. | 경기장에서 경기가 있어요.
+tp kucheza는 놀이·운동·춤 모두예요: cheza mpira(공 차다), cheza muziki(음악에 맞춰 춤추다).
+tp m-…-o = 그 행동(mchezo 놀이), m-…-ji = 하는 사람(mchezaji 선수).
+tp Si mchezo! = 장난 아니다(대단하다)!
+pr mchezo | 경기 || mchezaji | 선수
+pr kucheza | 놀다 || kuchezea | 가지고 놀다
+dl 바라카 | Leo kuna mchezo wa Simba na Yanga! | 오늘 심바와 양가 경기 있어!
+dl 민준 | Kweli? Wachezaji gani wazuri? | 진짜? 어느 선수가 잘해?
+dl 바라카 | Wote! Si mchezo! | 다! 장난 아니야!
+dl 민준 | Twende tukaangalie! | 보러 가자!
+sm Cheza, mchezo, mchezaji, chezea. | 놀다, 경기, 선수, 가지고 놀다.
+qz '선수'는? | mchezaji
+qz '장난 아니에요!'는? | Si mchezo!
+
+@ 4-01-07 | -imba 노래하다 | kuimba·wimbo·mwimbaji | 노래하다(-imba)의 가족이에요.
+w kuimba | 노래하다 | 노래하다
+e Anaimba vizuri. | 그는 노래를 잘해요.
+e Tuimbe pamoja. | 같이 노래해요.
+e Ndege wanaimba. | 새가 지저귀어요.
+w wimbo | 노래 · 여럿 nyimbo | 노래
+e Wimbo huu ni mzuri. | 이 노래 좋아요.
+e Nyimbo za Bongo Flava. | 봉고 플라바 노래들.
+e Wimbo wa taifa. | 국가(國歌).
+w mwimbaji | 가수 · m-…-ji | 가수
+e Mwimbaji maarufu. | 유명한 가수.
+e Diamond ni mwimbaji wa Tanzania. | 다이아몬드는 탄자니아 가수예요.
+e Waimbaji wa kwaya. | 합창단원들.
+w kuimbia | ~에게 노래해 주다 · imba + ia | ~에게 노래해 주다
+e Nitakuimbia. | 노래 불러 줄게.
+e Mama anamwimbia mtoto. | 엄마가 아기에게 노래해 줘요.
+e Tuliwaimbia wageni. | 손님들에게 노래해 드렸어요.
+w kwaya | 합창단 · 영어 choir | 합창단
+e Kwaya ya kanisa. | 교회 합창단.
+e Anaimba kwaya. | 그는 합창단에서 노래해요.
+e Kwaya ilishinda. | 합창단이 우승했어요.
+tp wimbo(하나) → nyimbo(여럿). w가 ny로 바뀌는 낱말이에요.
+tp kuimba → mwimbaji(가수), kuimbia(~에게 불러 주다).
+tp 동아프리카 교회 합창(kwaya)은 아주 인기 있어요.
+pr wimbo | 노래 || nyimbo | 노래들
+pr kuimba | 노래하다 || kuimbia | 불러 주다
+dl 수아 | Wimbo huu ni wa nani? | 이 노래 누구 거예요?
+dl 주마 | Ni wa mwimbaji wa Kenya, Sauti Sol. | 케냐 가수 사우티 솔 노래예요.
+dl 수아 | Unajua kuuimba? | 부를 줄 알아요?
+dl 주마 | Ndiyo! Nitakuimbia. | 네! 불러 줄게요.
+sm Imba, wimbo, nyimbo, mwimbaji, imbia. | 노래하다, 노래, 노래들, 가수, 불러 주다.
+qz '가수'는? | mwimbaji
+qz '노래들'은? | nyimbo
+
+@ 4-01-08 | -uza 팔다 | kuuza·muuzaji·mauzo | 팔다(-uza)의 가족이에요. 묻다(-uliza)는 모양이 비슷하지만 다른 뿌리예요.
+w kuuza | 팔다 | 팔다
+e Anauza matunda. | 그는 과일을 팔아요.
+e Unauza bei gani? | 얼마에 팔아요?
+e Wanauza samaki sokoni. | 시장에서 생선을 팔아요.
+w muuzaji | 파는 사람 · m-…-ji | 판매원, 장수
+e Muuzaji wa samaki. | 생선 장수.
+e Wauzaji wa sokoni. | 시장 상인들.
+e Muuzaji ni mkarimu. | 판매원이 친절해요.
+w mauzo | 판매 · ma- | 판매, 매출
+e Mauzo yamepanda. | 매출이 올랐어요.
+e Duka la mauzo. | 판매점.
+e Mauzo ya leo. | 오늘 판매.
+w kuuzwa | 팔리다 · uza + wa | 팔리다
+e Nyumba imeuzwa. | 집이 팔렸어요.
+e Maembe yote yameuzwa. | 망고가 다 팔렸어요.
+e Inauzwa! | 팝니다!(팔림)
+w kuuzia | ~에게 팔다 · uza + ia | ~에게 팔다
+e Niuzie kwa elfu mbili. | 2천에 파세요.
+e Alituuzia matunda. | 그가 우리에게 과일을 팔았어요.
+e Usimuuzie ghali. | 그에게 비싸게 팔지 마.
+tp kuuza(팔다) ↔ kununua(사다). 팔린 건 -uzwa.
+tp -wa(받다/되다): uzwa = 팔리다. -ia(~에게): uzia = ~에게 팔다.
+tp kuuliza(묻다)는 kuuza와 모양이 비슷하지만 뿌리가 달라요(-uliza). 헷갈리지 마세요.
+pr kuuza | 팔다 || kununua | 사다
+pr kuuza | 팔다 || kuuzwa | 팔리다
+dl 민준 | Unauza maembe bei gani? | 망고 얼마에 팔아요?
+dl 상인 | Elfu moja kwa matatu. | 세 개에 천 실링이요.
+dl 민준 | Niuzie sita kwa elfu moja na nusu. | 여섯 개 1,500에 파세요.
+dl 상인 | Haya, mauzo ya kwanza leo! | 좋아요, 오늘 첫 판매예요!
+sm Uza, muuzaji, mauzo, uzwa, uzia. | 팔다, 판매원, 판매, 팔리다, ~에게 팔다.
+qz '팔다'는? | kuuza
+qz '팔리다'는? | kuuzwa
+
+@ 4-01-09 | -nunua 사다 | kununua·mnunuzi·manunuzi | 사다(-nunua)의 가족이에요.
+w kununua | 사다 | 사다
+e Nataka kununua viatu. | 신발 사고 싶어요.
+e Umenunua nini? | 뭐 샀어요?
+e Nunua mkate. | 빵 사.
+w mnunuzi | 사는 사람 · m-…-zi | 구매자, 손님
+e Mnunuzi ni mfalme. | 손님이 왕이다.
+e Wanunuzi wengi leo. | 오늘 손님이 많아요.
+e Mnunuzi wa kwanza. | 첫 손님.
+w manunuzi | 장보기, 쇼핑 · ma- | 장보기, 쇼핑
+e Naenda manunuzi. | 장 보러 가요.
+e Manunuzi ya Krismasi. | 크리스마스 쇼핑.
+e Orodha ya manunuzi. | 장보기 목록.
+w kununulia | ~에게 사 주다 · nunua + ia | ~에게 사 주다
+e Nimekununulia zawadi. | 너한테 선물 사 왔어.
+e Baba alininunulia baiskeli. | 아빠가 자전거를 사 주셨어요.
+e Nununulie maji. | 물 좀 사다 줘.
+w kununuliwa | 사 받다 · + wa | (누가) 사 주다(받는 쪽)
+e Nimenunuliwa simu. | 휴대폰을 선물 받았어요.
+e Alinunuliwa gari. | 그는 차를 사 받았어요.
+e Watoto wamenunuliwa nguo. | 아이들이 옷을 사 받았어요.
+tp kununua → kununulia(~에게 사 주다), -ua 동사는 -ulia가 돼요.
+tp m-…-zi = 하는 사람: mnunuzi(손님, 구매자).
+tp manunuzi = 장보기. Naenda manunuzi = 장 보러 가요.
+pr kununua | 사다 || kuuza | 팔다
+pr mnunuzi | 손님 || muuzaji | 판매원
+dl 엄마 | Unaenda manunuzi? | 장 보러 가니?
+dl 바라카 | Ndiyo. Nikununulie nini? | 네. 뭐 사다 드릴까요?
+dl 엄마 | Ninunulie sukari na mchele. | 설탕이랑 쌀 사다 줘.
+dl 바라카 | Sawa, mama. | 알겠어요, 엄마.
+sm Nunua, mnunuzi, manunuzi, nunulia. | 사다, 손님, 장보기, 사 주다.
+qz '장 보러 가요'는? | Naenda manunuzi
+qz '너한테 선물 사 왔어'는? | Nimekununulia zawadi
+
+@ 4-01-10 | -lima 농사짓다 | kulima·mkulima·kilimo | 밭을 갈다(-lima)의 가족이에요.
+w kulima | 농사짓다, 밭을 갈다 | 밭을 갈다, 농사짓다
+e Wanalima mahindi. | 옥수수 농사를 지어요.
+e Tunalima kwa jembe. | 괭이로 밭을 갈아요.
+e Babu analima shambani. | 할아버지는 밭에서 일하세요.
+w mkulima | 농부 · m-…-a | 농부
+e Mkulima wa kahawa. | 커피 농부.
+e Wakulima wanasubiri mvua. | 농부들이 비를 기다려요.
+e Baba yangu ni mkulima. | 아버지는 농부예요.
+w kilimo | 농업 · ki-…-o | 농업, 농사
+e Kilimo ni uti wa mgongo. | 농업은 (나라의) 등뼈예요.
+e Wizara ya Kilimo. | 농업부.
+e Kilimo cha chai. | 차 농사.
+w shamba | 밭, 농장 · ma- 여럿 mashamba | 밭, 농장
+e Shamba la mahindi. | 옥수수밭.
+e Tunaenda shambani. | 밭에 가요.
+e Mashamba ya chai. | 차 밭들.
+w mavuno | 수확 · vuna(거두다) + o | 수확, 추수
+e Mavuno mazuri. | 좋은 수확.
+e Wakati wa mavuno. | 추수 때.
+e Tunavuna mahindi. | 옥수수를 거둬요.
+tp lima → mkulima(농부, k가 들어가요), kilimo(농업).
+tp Kilimo ni uti wa mgongo = 농업은 나라 경제의 기둥(탄자니아 표어).
+tp vuna(거두다) → mavuno(수확).
+pr kulima | 밭 갈다 || kuvuna | 거두다
+pr mkulima | 농부 || kilimo | 농업
+dl 민준 | Baba yako anafanya kazi gani? | 아버지는 무슨 일 하세요?
+dl 네에마 | Ni mkulima. Analima kahawa huko Moshi. | 농부세요. 모시에서 커피 농사 지으세요.
+dl 민준 | Mavuno ni lini? | 수확은 언제예요?
+dl 네에마 | Mwezi wa kumi. Karibu shambani! | 10월이요. 밭에 놀러 와요!
+sm Lima, mkulima, kilimo, shamba, mavuno. | 농사짓다, 농부, 농업, 밭, 수확.
+qz '농부'는? | mkulima
+qz '수확'은? | mavuno
+
+@ 4-01-11 | -tibu 치료하다 | kutibu·tiba·matibabu | 치료하다(-tibu, 아랍어)의 가족이에요.
+w kutibu | 치료하다 | 치료하다
+e Daktari anatibu wagonjwa. | 의사가 환자를 치료해요.
+e Dawa hii inatibu malaria. | 이 약은 말라리아를 고쳐요.
+e Walimtibu haraka. | 그를 빨리 치료했어요.
+w tiba | 치료, 치료법 | 치료(법)
+e Tiba ya asili. | 전통 치료.
+e Hakuna tiba. | 치료법이 없어요.
+e Tiba bora. | 좋은 치료.
+w matibabu | 치료 · ma- | 치료, 진료
+e Anapata matibabu. | 그는 치료를 받고 있어요.
+e Gharama ya matibabu. | 치료비.
+e Matibabu ni bure. | 치료가 무료예요.
+w kutibiwa | 치료받다 · tibu + iwa | 치료받다
+e Ametibiwa hospitali. | 그는 병원에서 치료받았어요.
+e Watoto wametibiwa bure. | 아이들은 무료로 치료받았어요.
+e Unaweza kutibiwa hapa. | 여기서 치료받을 수 있어요.
+w daktari | 의사 · 여럿 madaktari | 의사
+e Nenda kwa daktari. | 의사한테 가 봐.
+e Daktari wa meno. | 치과 의사.
+e Madaktari wako kazini. | 의사들이 근무 중이에요.
+tp 아랍어에서 온 뿌리: tibu(치료하다) → tiba(치료) → matibabu(진료).
+tp -iwa = 받다: tibiwa(치료받다).
+tp 의사는 daktari(영어 doctor).
+pr kutibu | 치료하다 || kutibiwa | 치료받다
+pr tiba | 치료 || dawa | 약
+dl 간호사 | Umekuja kwa matibabu gani? | 무슨 진료 받으러 왔어요?
+dl 수아 | Nina homa. Nataka kumwona daktari. | 열이 나요. 의사 선생님 뵙고 싶어요.
+dl 간호사 | Subiri hapa. Utatibiwa sasa hivi. | 여기서 기다려요. 곧 진료받을 거예요.
+dl 수아 | Asante sana. | 정말 고마워요.
+sm Tibu, tiba, matibabu, tibiwa, daktari. | 치료하다, 치료, 진료, 치료받다, 의사.
+qz '치료받다'는? | kutibiwa
+qz '치료비'는? | gharama ya matibabu
+
+@ 4-01-12 | -gonjwa 아프다 | mgonjwa·ugonjwa·kuugua | 뿌리 -gonjwa(mgonjwa, ugonjwa, magonjwa)와, 뿌리는 다르지만 함께 쓰는 병 관련 말(kuugua, kupona, kuambukiza)이에요.
+w mgonjwa | 환자, 아픈 · m- 사람 | 환자; 아픈
+e Mgonjwa amepona. | 환자가 나았어요.
+e Wagonjwa wengi. | 환자가 많아요.
+e Mimi ni mgonjwa. | 저 아파요.
+w ugonjwa | 병 · u- 추상 | 병
+e Ugonjwa wa moyo. | 심장병.
+e Ugonjwa huu unaambukiza. | 이 병은 전염돼요.
+e Magonjwa ya watoto. | 어린이 병들.
+w kuugua | 병이 나다 | 앓다, 병나다
+e Ameugua wiki mbili. | 그는 2주 동안 앓았어요.
+e Usiugue! | 아프지 마!
+e Aliugua ghafla. | 그는 갑자기 병이 났어요.
+w kupona | 낫다 | 낫다, 회복하다
+e Pona haraka! | 빨리 나아!
+e Nimepona. | 나았어요.
+e Uponyaji wa Mungu. | 하나님의 치유.
+w kuambukiza | 옮기다, 전염시키다 | 전염시키다
+e Mafua yanaambukiza. | 감기는 옮아요.
+e Usiniambukize! | 나한테 옮기지 마!
+e Ameambukizwa. | 그는 감염됐어요.
+tp 같은 뿌리: mgonjwa(사람) ↔ ugonjwa(병), 앞붙이 m-/u-만 달라요. kuugua(-ugua), kupona(-pona)는 다른 뿌리예요.
+tp 아픈 사람에게: Pole! Pona haraka! (안됐어요, 빨리 나아요)
+tp kupona(낫다) → uponyaji(치유).
+pr mgonjwa | 환자 || ugonjwa | 병
+pr kuugua | 앓다 || kupona | 낫다
+dl 주마 | Mbona hukuja kazini? | 왜 출근 안 했어요?
+dl 수아 | Niliugua. Nilikuwa na mafua. | 아팠어요. 감기였어요.
+dl 주마 | Pole sana! Umepona sasa? | 많이 아팠겠네요! 이제 나았어요?
+dl 수아 | Kidogo. Usikaribie, yanaambukiza! | 조금요. 가까이 오지 마요, 옮아요!
+sm Mgonjwa, ugonjwa, ugua, pona, ambukiza. | 환자, 병, 앓다, 낫다, 옮기다.
+qz '병'은? | ugonjwa
+qz '빨리 나아!'는? | Pona haraka!
+
+@ 4-01-13 | -jenga 짓다 | kujenga·jengo·mjenzi | 짓다(-jenga)의 가족이에요.
+w kujenga | 짓다 | 짓다, 세우다
+e Wanajenga shule. | 학교를 지어요.
+e Tunajenga nyumba. | 집을 짓고 있어요.
+e Jenga taifa. | 나라를 세워요.
+w jengo | 건물 · ma- 여럿 majengo | 건물
+e Jengo refu. | 높은 건물.
+e Majengo ya serikali. | 정부 건물들.
+e Jengo hili ni jipya. | 이 건물은 새것이에요.
+w mjenzi | 건축가, 짓는 사람 · m-…-zi | 건설 노동자, 짓는 사람
+e Mjenzi wa nyumba. | 집 짓는 사람.
+e Wajenzi wanafanya kazi. | 일꾼들이 일해요.
+e Ni mjenzi hodari. | 솜씨 좋은 목수예요.
+w ujenzi | 건설 · u- 추상 | 건설, 공사
+e Ujenzi wa barabara. | 도로 공사.
+e Ujenzi unaendelea. | 공사가 진행 중이에요.
+e Vifaa vya ujenzi. | 건축 자재.
+w kujengwa | 지어지다 · jenga + wa | 지어지다
+e Daraja limejengwa. | 다리가 지어졌어요.
+e Shule ilijengwa mwaka jana. | 학교는 작년에 지어졌어요.
+e Inajengwa na Wachina. | 중국 사람들이 짓고 있어요.
+tp jenga → jengo(건물, ma-류), mjenzi(사람), ujenzi(건설).
+tp 공사 현장 표지판: Ujenzi unaendelea(공사 중).
+tp -wa: jengwa(지어지다).
+pr kujenga | 짓다 || kubomoa | 허물다
+pr jengo | 건물 || ujenzi | 건설
+dl 민준 | Jengo hili ni jipya? | 이 건물 새것이에요?
+dl 주마 | Ndiyo, lilijengwa mwaka jana. | 네, 작년에 지었어요.
+dl 민준 | Na pale? Kuna ujenzi. | 저기는요? 공사 중이네요.
+dl 주마 | Wanajenga hospitali mpya. | 새 병원을 짓고 있어요.
+sm Jenga, jengo, mjenzi, ujenzi, jengwa. | 짓다, 건물, 짓는 사람, 건설, 지어지다.
+qz '건물'은? | jengo
+qz '도로 공사'는? | Ujenzi wa barabara
+
+@ 4-01-14 | -safiri 여행하다 | kusafiri·safari·msafiri | 여행하다(-safiri, 아랍어)의 가족이에요. 'safari'는 원래 '여행'이에요.
+w kusafiri | 여행하다 | 여행하다
+e Ninapenda kusafiri. | 여행을 좋아해요.
+e Tutasafiri kesho. | 내일 떠나요.
+e Anasafiri kwa ndege. | 그는 비행기로 가요.
+w safari | 여행 · 영어 safari의 뿌리 | 여행
+e Safari njema! | 좋은 여행 되세요!
+e Safari ya Serengeti. | 세렝게티 여행.
+e Safari ilikuwa ndefu. | 긴 여정이었어요.
+w msafiri | 여행자 · m- 사람 | 여행자, 승객
+e Wasafiri wanasubiri basi. | 승객들이 버스를 기다려요.
+e Msafiri kafiri. | 여행자는 낯선 이(속담).
+e Karibu, msafiri! | 어서 와요, 나그네!
+w usafiri | 교통 · u- 추상 | 교통(수단)
+e Usafiri wa umma. | 대중교통.
+e Usafiri ni ghali. | 교통비가 비싸요.
+e Hakuna usafiri usiku. | 밤에는 교통편이 없어요.
+w kusafirisha | 운송하다 · safiri + isha | 실어 나르다, 운송하다
+e Wanasafirisha mizigo. | 짐을 운송해요.
+e Kampuni ya kusafirisha. | 운송 회사.
+e Nimesafirisha gari. | 차를 실어 보냈어요.
+tp '사파리'는 원래 '여행' 전체예요. 동물 구경은 safari ya mbugani.
+tp u- 추상: usafiri(교통), -isha: safirisha(운송하다).
+tp msafiri(여행자), wasafiri(승객들).
+pr kusafiri | 여행하다 || safari | 여행
+pr msafiri | 여행자 || usafiri | 교통
+dl 직원 | Wasafiri wa Arusha, basi limefika! | 아루샤행 승객 여러분, 버스 왔습니다!
+dl 수아 | Safari ni saa ngapi? | 몇 시간 걸려요?
+dl 직원 | Saa tisa. Safari njema! | 9시간이요. 좋은 여행 되세요!
+dl 수아 | Asante! | 고마워요!
+sm Safiri, safari, msafiri, usafiri, safirisha. | 여행하다, 여행, 여행자, 교통, 운송하다.
+qz '대중교통'은? | usafiri wa umma
+qz '여행자'는? | msafiri
+
+@ 4-01-15 | -kumbuka 기억하다 | kukumbuka·kumbukumbu·kukumbusha | 기억하다(-kumbuka)의 가족이에요.
+w kukumbuka | 기억하다 | 기억하다
+e Nakumbuka. | 기억나요.
+e Kumbuka jina langu. | 내 이름 기억해.
+e Sikumbuki. | 기억 안 나요.
+w kumbukumbu | 기억, 기념 · 겹친 말 | 기억; 기념; 기록
+e Kumbukumbu nzuri. | 좋은 추억.
+e Picha za kumbukumbu. | 기념사진.
+e Kumbukumbu ya mkutano. | 회의록.
+w kukumbusha | 일깨우다 · kumbuka + isha | 상기시키다, 일깨워 주다
+e Nikumbushe kesho. | 내일 나한테 일깨워 줘.
+e Asante kwa kunikumbusha. | 일깨워 줘서 고마워.
+e Picha hii inanikumbusha nyumbani. | 이 사진 보니 집 생각나요.
+w ukumbusho | 기념(물) · u- 추상 | 기념; 기념물
+e Ukumbusho wa uhuru. | 독립 기념.
+e Mnara wa ukumbusho. | 기념탑.
+e Siku ya ukumbusho. | 기념일.
+w kukumbukwa | 기억되다 · + wa | 기억되다
+e Atakumbukwa daima. | 그는 영원히 기억될 거예요.
+e Siku hii itakumbukwa. | 이날은 기억될 거예요.
+e Nyerere anakumbukwa sana. | 니에레레는 많이 기억돼요.
+tp -isha(하게 하다): kumbusha = 기억하게 하다 = 일깨우다.
+tp 말을 두 번 겹친 kumbukumbu는 '추억, 기록'.
+tp Sikumbuki = 기억 안 나요.
+pr kukumbuka | 기억하다 || kusahau | 잊다
+pr kukumbusha | 일깨우다 || kukumbukwa | 기억되다
+dl 민준 | Nikumbushe kununua zawadi. | 선물 사는 거 일깨워 줘.
+dl 수아 | Sawa. Unakumbuka mama yako anapenda nini? | 알았어. 어머니가 뭐 좋아하시는지 기억나?
+dl 민준 | Sikumbuki vizuri... chai labda. | 잘 기억 안 나는데… 아마 차.
+dl 수아 | Chai ya Tanzania itakuwa kumbukumbu nzuri. | 탄자니아 차면 좋은 추억이 될 거야.
+sm Kumbuka, kumbukumbu, kumbusha, ukumbusho. | 기억하다, 추억, 일깨우다, 기념.
+qz '일깨워 줘'는? | Nikumbushe
+qz '기억 안 나요'는? | Sikumbuki
+
+@ 4-01-16 | -saidia 돕다 | kusaidia·msaada·msaidizi | 돕다(-saidia)의 가족이에요.
+w kusaidia | 돕다 | 돕다
+e Nisaidie! | 도와줘요!
+e Naweza kukusaidia? | 도와드릴까요?
+e Alinisaidia sana. | 그가 많이 도와줬어요.
+w msaada | 도움 · m-…-a | 도움; 원조
+e Asante kwa msaada. | 도와줘서 고마워요.
+e Msaada! | 도와주세요!(급할 때)
+e Nahitaji msaada. | 도움이 필요해요.
+w msaidizi | 조수, 도우미 · m-…-zi | 조수, 보조원
+e Msaidizi wa daktari. | 의사 보조.
+e Msaidizi wa nyumbani. | 가사 도우미.
+e Ni msaidizi wangu. | 제 조수예요.
+w kusaidiana | 서로 돕다 · + ana | 서로 돕다
+e Tusaidiane. | 서로 도와요.
+e Majirani wanasaidiana. | 이웃끼리 서로 도와요.
+e Kusaidiana ni muhimu. | 서로 돕는 건 중요해요.
+w kusaidiwa | 도움받다 · + wa | 도움받다
+e Nilisaidiwa na rafiki. | 친구에게 도움받았어요.
+e Anahitaji kusaidiwa. | 그는 도움이 필요해요.
+e Tulisaidiwa sana. | 많은 도움을 받았어요.
+tp Msaada!은 위급할 때 외치는 '도와주세요!'예요.
+tp -ana(서로): saidiana. -wa(받다): saidiwa.
+tp 공손하게 도움 청하기: Naomba msaada.
+pr kusaidia | 돕다 || kusaidiwa | 도움받다
+pr msaada | 도움 || msaidizi | 조수
+dl 수아 | Samahani, naomba msaada. Nimepotea. | 실례지만, 도와주세요. 길을 잃었어요.
+dl 주마 | Usijali, nitakusaidia. Unaenda wapi? | 걱정 마요, 도와줄게요. 어디 가요?
+dl 수아 | Hoteli ya Serena. | 세레나 호텔이요.
+dl 주마 | Twende, nitakupeleka. Tunasaidiana! | 가요, 데려다줄게요. 서로 돕는 거죠!
+sm Saidia, msaada, msaidizi, saidiana, saidiwa. | 돕다, 도움, 조수, 서로 돕다, 도움받다.
+qz '도와줘서 고마워요'는? | Asante kwa msaada
+qz '서로 도와요'는? | Tusaidiane

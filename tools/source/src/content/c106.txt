@@ -1,0 +1,253 @@
+# P5-A | 학교생활
+
+@ 1-06-01 | 교실·학용품 | darasa·ubao·kalamu | 교실과 학용품이에요. 탄자니아 초등학교는 스와힐리어로 가르쳐요.
+w shule | 학교 | 학교
+e Shule yetu ni kubwa. | 우리 학교는 커요.
+e Ninakwenda shuleni. | 학교에 가요.
+e Shule inaanza saa moja na nusu. | 학교는 7시 반에 시작해요.
+w darasa | 교실, 반 · 여럿 madarasa | 교실; 반, 학년
+e Darasa letu lina wanafunzi arobaini. | 우리 반은 마흔 명이에요.
+e Ingia darasani. | 교실에 들어가요.
+e Madarasa mapya. | 새 교실들.
+w mwalimu | 선생님 · 여럿 walimu | 선생님
+e Mwalimu wetu ni mkarimu. | 우리 선생님은 친절해요.
+e Mwalimu anafundisha Kiswahili. | 선생님이 스와힐리어를 가르쳐요.
+e Walimu wako ofisini. | 선생님들은 교무실에 있어요.
+w ubao | 칠판 · 원래 '널빤지' | 칠판
+e Andika ubaoni. | 칠판에 써요.
+e Futa ubao. | 칠판을 지워요.
+e Ubao mweusi. | 검은 칠판.
+w dawati | 책상 | 책상
+e Kaa kwenye dawati lako. | 네 책상에 앉아.
+e Madawati mapya yamefika. | 새 책상들이 왔어요.
+e Weka kitabu juu ya dawati. | 책을 책상 위에 놓아요.
+w kalamu | 펜, 연필 | 펜, 필기구
+e Kalamu ya wino. | 볼펜.
+e Kalamu ya risasi. | 연필.
+e Naomba kalamu. | 펜 좀 빌려줘요.
+w daftari | 공책 | 공책
+e Daftari jipya. | 새 공책.
+e Andika kwenye daftari. | 공책에 써요.
+e Nimesahau daftari langu. | 공책을 깜빡했어요.
+w kitabu | 책 · 여럿 vitabu | 책
+e Fungua kitabu. | 책을 펴요.
+e Vitabu vya Kiswahili. | 스와힐리어 책들.
+e Kitabu hiki ni cha nani? | 이 책 누구 거예요?
+tp 연필은 kalamu ya risasi(납 펜), 볼펜은 kalamu ya wino(잉크 펜)예요.
+tp 탄자니아에서 초등학교는 스와힐리어, 중학교부터는 주로 영어로 수업해요.
+tp 장소 + -ni = '~에서/에': darasani(교실에서), ubaoni(칠판에).
+pr kitabu | 책 || vitabu | 책들
+pr mwalimu | 선생님 || walimu | 선생님들
+dl 선생님 | Fungueni vitabu, ukurasa wa tano. | 책 펴세요, 5쪽이요.
+dl 민준 | Mwalimu, nimesahau kitabu changu. | 선생님, 책을 깜빡했어요.
+dl 선생님 | Soma pamoja na rafiki yako. | 친구랑 같이 봐요.
+dl 민준 | Asante, mwalimu. | 고맙습니다, 선생님.
+sm Darasani kuna ubao, madawati, vitabu na kalamu. | 교실에는 칠판, 책상, 책, 펜이 있어요.
+qz '칠판'은? | ubao
+qz '공책'은? | daftari
+
+@ 1-06-02 | 학교 생활 | kengele·sare·likizo | 종, 교복, 쉬는 시간, 방학. 동아프리카 학생들은 교복을 입어요.
+w kengele | 종 | 종, 벨
+e Kengele imelia. | 종이 울렸어요.
+e Kengele ya mapumziko. | 쉬는 시간 종.
+e Piga kengele. | 종을 쳐요.
+w mapumziko | 쉬는 시간 | 휴식, 쉬는 시간
+e Mapumziko ya saa nne. | 10시 쉬는 시간.
+e Wakati wa mapumziko tunacheza. | 쉬는 시간에 놀아요.
+e Mapumziko ya mchana. | 점심시간.
+w sare | 교복 · 원래 '같은 모양' | 교복, 제복
+e Sare ya shule. | 교복.
+e Sare yetu ni bluu na nyeupe. | 우리 교복은 파란색과 흰색이에요.
+e Vaa sare safi. | 깨끗한 교복을 입어요.
+w likizo | 방학, 휴가 | 방학; 휴가
+e Likizo ya Desemba. | 12월 방학.
+e Tuko likizoni. | 우리는 방학 중이에요.
+e Likizo ndefu. | 긴 방학.
+w ratiba | 시간표, 일정 | 시간표, 일정
+e Ratiba ya masomo. | 수업 시간표.
+e Ratiba imebadilika. | 일정이 바뀌었어요.
+e Angalia ratiba ubaoni. | 칠판의 시간표를 봐요.
+w mwanafunzi | 학생 · 여럿 wanafunzi | 학생
+e Mwanafunzi mpya. | 새 학생.
+e Wanafunzi wanasimama. | 학생들이 일어서요.
+e Yeye ni mwanafunzi hodari. | 그는 우수한 학생이에요.
+w kuchelewa shule | 학교에 늦다 | 지각하다
+e Usichelewe shule. | 학교에 늦지 마.
+e Alichelewa shule leo. | 그는 오늘 지각했어요.
+e Kwa nini umechelewa shule? | 왜 지각했어요?
+tp 학교 하루: kengele(종) → masomo(수업) → mapumziko(쉬는 시간) → masomo → kurudi nyumbani.
+tp 방학은 likizo, 그 기간에 있다는 likizoni(방학 중).
+tp 교복은 학교마다 색이 정해져 있어요.
+pr likizo | 방학 || masomo | 수업
+pr kengele imelia | 종이 울렸어요 || twende darasani | 교실로 가자
+dl 수아 | Kengele imelia! | 종이 울렸어!
+dl 친구 | Ni mapumziko. Twende tukacheze. | 쉬는 시간이야. 놀러 가자.
+dl 수아 | Likizo inaanza lini? | 방학은 언제 시작해?
+dl 친구 | Wiki ijayo! | 다음 주에!
+sm Kengele inalia, wanafunzi wenye sare wanakwenda mapumziko. | 종이 울리고, 교복 입은 학생들이 쉬는 시간에 나가요.
+qz '방학'은? | likizo
+qz sare 는? | 교복
+
+@ 1-06-03 | 학교 종류·학년 | msingi·sekondari·chuo | 초등학교부터 대학까지. 학년은 darasa(반) + 순서로 말해요.
+w shule ya msingi | 초등학교 · msingi 기초 | 초등학교
+e Mtoto wangu yuko shule ya msingi. | 우리 아이는 초등학교에 다녀요.
+e Shule ya msingi ni miaka saba. | 초등학교는 7년이에요.
+e Walimu wa shule ya msingi. | 초등학교 선생님들.
+w sekondari | 중·고등학교 | 중등학교
+e Shule ya sekondari. | 중등학교.
+e Amemaliza sekondari. | 그는 중등학교를 마쳤어요.
+e Kidato cha kwanza. | 중학교 1학년(1단계).
+w chuo kikuu | 대학교 · '큰 학교' | 대학교
+e Chuo Kikuu cha Dar es Salaam. | 다르에스살람 대학교.
+e Ninasoma chuo kikuu. | 대학교에 다녀요.
+e Wanafunzi wa chuo kikuu. | 대학생들.
+w darasa la kwanza | 1학년 | 1학년
+e Yuko darasa la kwanza. | 그 아이는 1학년이에요.
+e Darasa la saba. | 7학년(초등 마지막).
+e Darasa la nne wana mtihani. | 4학년은 시험이 있어요.
+w mkuu wa shule | 교장 · mkuu 우두머리 | 교장 선생님
+e Mkuu wa shule anaongea. | 교장 선생님이 말씀하세요.
+e Ofisi ya mkuu wa shule. | 교장실.
+e Mkuu wa shule ni mkali. | 교장 선생님은 엄해요.
+w kusoma | 공부하다, 읽다 | 읽다; 공부하다, 학교 다니다
+e Ninasoma Kiswahili. | 스와힐리어를 공부해요.
+e Anasoma kitabu. | 그는 책을 읽어요.
+e Unasoma wapi? | 어느 학교 다녀요?
+tp kusoma는 '읽다'이면서 '공부하다, 학교에 다니다'예요: Unasoma wapi?(어디서 공부해요?)
+tp 중등학교 학년은 kidato(단계): kidato cha kwanza ~ kidato cha sita.
+tp 대학은 chuo kikuu, 전문대·학원은 chuo(학교).
+pr shule ya msingi | 초등학교 || chuo kikuu | 대학교
+pr darasa la kwanza | 1학년 || darasa la saba | 7학년
+dl 할리마 | Mtoto wako anasoma darasa gani? | 아이가 몇 학년이에요?
+dl 민준 | Darasa la tatu, shule ya msingi. | 초등학교 3학년이에요.
+dl 할리마 | Na wewe, unasoma? | 당신은요, 공부해요?
+dl 민준 | Ndiyo, ninasoma Kiswahili chuo kikuu. | 네, 대학에서 스와힐리어를 공부해요.
+sm Shule ya msingi, sekondari, halafu chuo kikuu. | 초등학교, 중등학교, 그리고 대학교.
+qz '대학교'는? | chuo kikuu
+qz '1학년'은? | darasa la kwanza
+
+@ 1-06-04 | 과목 | hisabati·sayansi | 학교에서 배우는 과목이에요.
+w hisabati | 수학 | 수학
+e Somo la hisabati. | 수학 과목.
+e Hisabati ni ngumu kidogo. | 수학은 조금 어려워요.
+e Mwalimu wa hisabati. | 수학 선생님.
+w Kiingereza | 영어 | 영어
+e Unazungumza Kiingereza? | 영어 해요?
+e Somo la Kiingereza ni Jumanne. | 영어 수업은 화요일이에요.
+e Ninajua Kiingereza kidogo. | 영어를 조금 알아요.
+w sayansi | 과학 | 과학
+e Maabara ya sayansi. | 과학 실험실.
+e Anapenda sayansi. | 그는 과학을 좋아해요.
+e Mtihani wa sayansi. | 과학 시험.
+w historia | 역사 | 역사
+e Historia ya Afrika. | 아프리카 역사.
+e Somo la historia linavutia. | 역사 수업은 재미있어요.
+e Historia ya Zanzibar ni ndefu. | 잔지바르 역사는 길어요.
+w jiografia | 지리 | 지리
+e Jiografia ya Tanzania. | 탄자니아 지리.
+e Tunasoma milima katika jiografia. | 지리 시간에 산에 대해 배워요.
+e Ramani ya jiografia. | 지리 지도.
+w somo | 과목, 수업 · 여럿 masomo | 수업, 과목; 공과
+e Somo la kwanza. | 첫 수업.
+e Masomo yameisha. | 수업이 끝났어요.
+e Somo gani unapenda? | 무슨 과목 좋아해요?
+tp 언어 과목은 Ki- + 나라: Kiswahili, Kiingereza(영어), Kifaransa(프랑스어), Kiarabu(아랍어), Kichina(중국어).
+tp '~ 과목'은 somo la ~: somo la hisabati.
+tp 많이 쓰는 과목: uraia(시민), michezo(체육), muziki(음악), sanaa(미술).
+pr hisabati | 수학 || sayansi | 과학
+pr historia | 역사 || jiografia | 지리
+dl 선생님 | Somo gani unapenda zaidi? | 어떤 과목을 제일 좋아해요?
+dl 수아 | Napenda historia na Kiswahili. | 역사랑 스와힐리어 좋아해요.
+dl 선생님 | Na hisabati? | 수학은요?
+dl 수아 | Hisabati ni ngumu kwangu. | 수학은 저한테 어려워요.
+sm Leo tuna masomo ya hisabati, sayansi na Kiingereza. | 오늘 수학, 과학, 영어 수업이 있어요.
+qz '수학'은? | hisabati
+qz '영어'는? | Kiingereza
+
+@ 1-06-05 | 숙제·시험 | mtihani·swali·jibu | 숙제를 내고 시험을 보고 점수를 받아요.
+w kazi ya nyumbani | 숙제 · '집의 일' | 숙제
+e Nina kazi nyingi ya nyumbani. | 숙제가 많아요.
+e Umemaliza kazi ya nyumbani? | 숙제 다 했어요?
+e Mwalimu ametoa kazi ya nyumbani. | 선생님이 숙제를 내 주셨어요.
+w mtihani | 시험 · 여럿 mitihani | 시험
+e Mtihani wa mwisho. | 기말 시험.
+e Kesho tuna mtihani. | 내일 시험이 있어요.
+e Mitihani imeanza. | 시험이 시작됐어요.
+w swali | 질문, 문제 · 여럿 maswali | 질문; 문제
+e Nina swali. | 질문 있어요.
+e Maswali kumi. | 문제 열 개.
+e Uliza swali. | 질문하세요.
+w jibu | 대답, 답 · 여럿 majibu | 대답, 답
+e Jibu sahihi. | 맞는 답.
+e Andika jibu lako. | 네 답을 써.
+e Sijui jibu. | 답을 몰라요.
+w kufaulu | 합격하다 | 합격하다, 통과하다
+e Nimefaulu mtihani! | 시험에 합격했어요!
+e Wanafunzi wote wamefaulu. | 학생들이 모두 붙었어요.
+e Soma kwa bidii ili ufaulu. | 붙으려면 열심히 공부해요.
+w alama | 점수, 표시 | 점수; 표시
+e Alama za mtihani. | 시험 점수.
+e Nimepata alama nzuri. | 좋은 점수를 받았어요.
+e Weka alama hapa. | 여기에 표시해요.
+w kusahihisha | 고치다, 채점하다 · sahihi 바른 | 바로잡다; 채점하다
+e Mwalimu anasahihisha mitihani. | 선생님이 시험지를 채점해요.
+e Nisahihishe nikikosea. | 제가 틀리면 고쳐 주세요.
+e Sahihisha makosa yako. | 틀린 데를 고쳐요.
+w kosa | 실수, 틀림 · 여럿 makosa | 실수, 잘못
+e Kosa dogo. | 작은 실수.
+e Hakuna makosa. | 틀린 게 없어요.
+e Ni kosa langu. | 제 잘못이에요.
+tp 질문 swali → 여럿 maswali, 답 jibu → 여럿 majibu (ji-ma 부류).
+tp '열심히'는 kwa bidii: soma kwa bidii(열심히 공부해).
+tp 선생님께 Nisahihishe(고쳐 주세요)라고 하면 배우려는 마음을 좋게 봐요.
+pr swali | 질문 || jibu | 대답
+pr kufaulu | 붙다 || kushindwa | 떨어지다
+dl 엄마 | Mtihani ulikuwaje? | 시험 어땠어?
+dl 아이 | Maswali yalikuwa magumu kidogo. | 문제가 조금 어려웠어요.
+dl 엄마 | Umefaulu? | 붙었어?
+dl 아이 | Ndiyo! Nimepata alama tisini! | 네! 90점 받았어요!
+sm Soma kwa bidii, jibu maswali yote, ufaulu mtihani. | 열심히 공부하고, 문제를 다 풀고, 시험에 붙어요.
+qz '시험'은? | mtihani
+qz '질문'은? | swali
+
+@ 1-06-06 | 학습 도구·활동 | karatasi·kuandika | 학교에서 같이 쓰는 말: 종이, 쓰기, 배우기, 가르치기.
+w karatasi | 종이 | 종이
+e Karatasi nyeupe. | 흰 종이.
+e Nipe karatasi moja. | 종이 한 장 주세요.
+e Karatasi ya mtihani. | 시험지.
+w kuandika | 쓰다 | 쓰다
+e Andika jina lako. | 이름을 써요.
+e Ninaandika barua. | 편지를 써요.
+e Mwandiko wako ni mzuri. | 글씨가 예뻐요.
+w kujifunza | 배우다 · ji 자기 + funza 가르치다 | 배우다
+e Ninajifunza Kiswahili. | 스와힐리어를 배워요.
+e Tunajifunza kila siku. | 우리는 매일 배워요.
+e Umejifunza nini leo? | 오늘 뭐 배웠어요?
+w kufundisha | 가르치다 | 가르치다
+e Mwalimu anafundisha hisabati. | 선생님이 수학을 가르쳐요.
+e Nifundishe neno hili. | 이 단어 가르쳐 줘요.
+e Anafundisha watoto wadogo. | 그는 어린아이들을 가르쳐요.
+w neno | 단어, 말 · 여럿 maneno | 단어, 말
+e Neno jipya. | 새 단어.
+e Maneno mengi. | 많은 말.
+e Neno hili linamaanisha nini? | 이 단어는 무슨 뜻이에요?
+w kufuta | 지우다, 닦다 | 지우다; 닦다
+e Futa ubao. | 칠판을 지워요.
+e Kifutio cha kufuta. | 지우개.
+e Futa meza. | 책상을 닦아요.
+w mkoba | 가방 | 가방
+e Mkoba wa shule. | 책가방.
+e Weka vitabu mkobani. | 책을 가방에 넣어요.
+e Mkoba wangu ni mzito. | 내 가방은 무거워요.
+tp kujifunza(배우다)와 kufundisha(가르치다)는 같은 뿌리 -funz-에서 왔어요(6-xx 말뿌리).
+tp '~을 가르쳐 줘'는 ni(나에게) + 동사 + -e: Nifundishe!
+tp 종이 한 장은 karatasi moja, 여럿도 karatasi(모양 같음).
+pr kujifunza | 배우다 || kufundisha | 가르치다
+pr kuandika | 쓰다 || kufuta | 지우다
+dl 민준 | Nifundishe neno moja jipya. | 새 단어 하나 가르쳐 줘요.
+dl 니에마 | 'Kifutio' — ni kitu cha kufuta. | 'kifutio' — 지우는 물건이에요.
+dl 민준 | Ah, kama 'eraser'! | 아, 'eraser' 같은 거네요!
+dl 니에마 | Ndiyo! Umejifunza neno jipya. | 맞아요! 새 단어를 배웠네요.
+sm Tunajifunza maneno mapya, tunaandika kwenye karatasi. | 새 단어를 배우고 종이에 써요.
+qz '배우다'는? | kujifunza
+qz '가르치다'는? | kufundisha

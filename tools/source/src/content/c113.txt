@@ -1,0 +1,491 @@
+# P5-M | 공항·여행
+
+@ 1-13-01 | 입국 심사 | pasipoti·viza·uhamiaji | 공항에 내려서 입국 심사를 받을 때 쓰는 말이에요.
+w pasipoti | 여권 | 여권
+e Pasipoti yako, tafadhali. | 여권 주세요.
+e Pasipoti yangu iko mkobani. | 여권은 가방에 있어요.
+e Nimesahau pasipoti hotelini. | 여권을 호텔에 두고 왔어요.
+w viza | 비자 | 비자
+e Una viza? | 비자 있어요?
+e Nimepata viza mtandaoni. | 온라인으로 비자를 받았어요.
+e Viza ya utalii. | 관광 비자.
+w uhamiaji | 출입국 관리 | 출입국 관리(소)
+e Ofisi ya uhamiaji. | 출입국 관리 사무소.
+e Afisa wa uhamiaji. | 출입국 심사관.
+e Panga foleni ya uhamiaji. | 입국 심사 줄을 서요.
+w madhumuni ya safari | 여행 목적 · madhumuni 목적 | 방문 목적
+e Madhumuni ya safari ni nini? | 방문 목적이 뭐예요?
+e Madhumuni ni utalii. | 관광이에요.
+e Madhumuni ni kazi. | 일 때문이에요.
+w utalii | 관광 | 관광
+e Nimekuja kwa utalii. | 관광하러 왔어요.
+e Utalii ni muhimu Tanzania. | 탄자니아에서 관광은 중요해요.
+e Wizara ya Utalii. | 관광부.
+w nitakaa | 머물 거예요 · kaa + ta | 머물 거예요
+e Nitakaa wiki mbili. | 2주 머물 거예요.
+e Nitakaa hoteli ya Kariakoo. | 카리아쿠 호텔에 묵을 거예요.
+e Nitakaa kwa rafiki. | 친구 집에 묵을 거예요.
+tp 입국 심사에서 흔한 질문: Madhumuni ya safari?(목적), Utakaa muda gani?(기간), Utakaa wapi?(숙소).
+tp 탄자니아 비자는 온라인(e-Visa)이나 도착 비자로 받을 수 있어요.
+tp 공손하게 대답하고 마지막에 Asante.
+pr pasipoti | 여권 || viza | 비자
+pr kuingia | 들어가다(입국) || kutoka | 나가다(출국)
+dl 심사관 | Karibu Tanzania. Pasipoti na viza, tafadhali. | 탄자니아에 오신 걸 환영해요. 여권과 비자 주세요.
+dl 민준 | Hizi hapa. | 여기 있어요.
+dl 심사관 | Madhumuni ya safari? Utakaa muda gani? | 방문 목적은요? 얼마나 머물러요?
+dl 민준 | Utalii. Nitakaa siku kumi. | 관광이요. 열흘 있을 거예요.
+sm Pasipoti, viza, uhamiaji, utalii. | 여권, 비자, 출입국 관리, 관광.
+qz '방문 목적이 뭐예요?'는? | Madhumuni ya safari ni nini?
+qz '관광하러 왔어요'는? | Nimekuja kwa utalii
+
+@ 1-13-02 | 짐 찾기·세관 | mizigo·forodha·kupotea | 짐을 찾고 세관을 지날 때 쓰는 말이에요.
+w mizigo | 짐 · 여럿 | 짐, 수하물
+e Mizigo yangu iko wapi? | 제 짐은 어디 있어요?
+e Mizigo mingi. | 짐이 많아요.
+e Beba mizigo yako. | 짐 들어요.
+w forodha | 세관 | 세관
+e Pita forodha. | 세관을 지나요.
+e Afisa wa forodha. | 세관원.
+e Hakuna cha kutangaza forodhani. | 세관에 신고할 게 없어요.
+w kutangaza | 신고하다, 알리다 | 알리다; 신고하다
+e Una kitu cha kutangaza? | 신고할 물건 있어요?
+e Sina kitu cha kutangaza. | 신고할 게 없어요.
+e Redio inatangaza habari. | 라디오가 뉴스를 전해요.
+w sanduku | 여행 가방, 상자 | 상자; 여행 가방
+e Sanduku langu ni jeusi. | 제 가방은 까만색이에요.
+e Sanduku limevunjika. | 가방이 부서졌어요.
+e Fungua sanduku, tafadhali. | 가방 열어 주세요.
+w mzigo umepotea | 짐이 없어졌어요 · potea | 짐이 분실됐어요
+e Mzigo wangu umepotea. | 제 짐이 없어졌어요.
+e Ripoti mzigo uliopotea. | 분실 짐을 신고해요.
+e Mzigo umepotea Dubai. | 두바이에서 짐이 없어졌어요.
+w toroli | 카트 | (짐) 카트
+e Toroli ziko wapi? | 카트 어디 있어요?
+e Weka mizigo kwenye toroli. | 짐을 카트에 실어요.
+e Toroli ni bure. | 카트는 무료예요.
+tp 짐 하나는 mzigo, 여럿은 mizigo.
+tp 세관 질문 Una kitu cha kutangaza? → Sina(없어요) / Ndiyo, nina ~(네, ~ 있어요).
+tp 짐이 안 나오면 Mzigo wangu haujafika(아직 안 왔어요) 또는 umepotea(분실).
+pr mzigo | 짐 || mizigo | 짐들
+pr kutangaza | 신고하다 || kuficha | 숨기다
+dl 세관원 | Una kitu cha kutangaza? | 신고할 것 있어요?
+dl 수아 | Hapana, sina. Nina nguo na zawadi tu. | 아니요, 없어요. 옷이랑 선물뿐이에요.
+dl 세관원 | Sawa. Fungua sanduku hili, tafadhali. | 좋아요. 이 가방 열어 주세요.
+dl 수아 | Haya. Ni chai na ramyeon. | 네. 차하고 라면이에요.
+sm Mizigo, forodha, sanduku, toroli. | 짐, 세관, 가방, 카트.
+qz '제 짐이 없어졌어요'는? | Mzigo wangu umepotea
+qz '신고할 게 없어요'는? | Sina kitu cha kutangaza
+
+@ 1-13-03 | 공항 교통·환전 | teksi·kubadilisha pesa·laini | 공항을 나와 시내로 갈 때 쓰는 말이에요.
+w teksi | 택시 | 택시
+e Teksi mpaka mjini ni bei gani? | 시내까지 택시 얼마예요?
+e Nimeagiza teksi. | 택시를 불렀어요.
+e Teksi iko nje. | 택시가 밖에 있어요.
+w kubadilisha pesa | 환전하다 | 돈을 바꾸다, 환전하다
+e Ninataka kubadilisha pesa. | 환전하고 싶어요.
+e Wapi naweza kubadilisha pesa? | 어디서 환전할 수 있어요?
+e Kubadilisha dola kuwa shilingi. | 달러를 실링으로 바꿔요.
+w kiwango cha kubadilisha | 환율 | 환율
+e Kiwango cha leo ni kipi? | 오늘 환율이 얼마예요?
+e Kiwango ni kizuri hapa. | 여기 환율이 좋아요.
+e Kiwango kimepanda. | 환율이 올랐어요.
+w laini | 유심 · line | 유심(SIM)
+e Nataka laini ya simu. | 유심 사고 싶어요.
+e Laini mpya. | 새 유심.
+e Sajili laini kwa pasipoti. | 여권으로 유심을 등록해요.
+w kifurushi | 묶음, 요금제 | 꾸러미; (통신) 요금제
+e Kifurushi cha intaneti. | 인터넷 요금제.
+e Nunua kifurushi cha wiki. | 1주일 요금제 사요.
+e Kifurushi kimekwisha. | 데이터가 다 떨어졌어요.
+w uwanja wa ndege | 공항 | 공항
+e Uwanja wa ndege wa Julius Nyerere. | 줄리어스 니에레레 공항.
+e Nipeleke uwanja wa ndege. | 공항으로 가 주세요.
+e Uwanja wa ndege uko mbali? | 공항 멀어요?
+tp 공항 택시는 타기 전에 값을 먼저 정해요: Bei gani mpaka ~?
+tp 유심은 여권으로 등록해야 해요(kusajili laini).
+tp 통신 요금제는 kifurushi(꾸러미)라고 해요. 엠페사(M-Pesa)도 같이 쓰면 편해요.
+pr kubadilisha pesa | 환전하다 || kutoa pesa | 돈을 뽑다
+pr laini | 유심 || kifurushi | 요금제
+dl 운전사 | Teksi, dada? | 택시요, 언니?
+dl 수아 | Ndiyo. Mpaka Posta ni bei gani? | 네. 포스타까지 얼마예요?
+dl 운전사 | Elfu arobaini. | 4만이요.
+dl 수아 | Elfu thelathini, sawa? | 3만, 괜찮아요?
+sm Teksi, pesa, laini, kifurushi, uwanja wa ndege. | 택시, 돈, 유심, 요금제, 공항.
+qz '환전하고 싶어요'는? | Ninataka kubadilisha pesa
+qz '유심'은? | laini
+
+@ 1-13-04 | 사파리 | mbuga·mnyama·gari la safari | 국립공원에서 동물을 보러 갈 때 쓰는 말이에요.
+w mbuga | 초원, 국립공원 | 초원; 국립공원
+e Mbuga ya Serengeti. | 세렝게티 국립공원.
+e Mbuga za wanyama. | 동물 공원들.
+e Tunaenda mbugani kesho. | 내일 공원에 가요.
+w mnyama | 동물 · 여럿 wanyama | 동물
+e Wanyama wengi. | 동물이 많아요.
+e Mnyama gani yule? | 저건 무슨 동물이에요?
+e Usiwalishe wanyama. | 동물에게 먹이 주지 마세요.
+w simba | 사자 | 사자
+e Simba amelala chini ya mti. | 사자가 나무 아래 자고 있어요.
+e Simba wawili! | 사자 두 마리!
+e Simba ni mfalme wa porini. | 사자는 초원의 왕이에요.
+w tembo | 코끼리 | 코끼리
+e Tembo ni mkubwa sana. | 코끼리는 아주 커요.
+e Kundi la tembo. | 코끼리 떼.
+e Tembo wanakunywa maji. | 코끼리가 물을 마셔요.
+w kiongozi | 안내인, 가이드 | 안내인; 지도자
+e Kiongozi wetu anaitwa Juma. | 우리 가이드 이름은 주마예요.
+e Sikiliza kiongozi. | 가이드 말 들어요.
+e Kiongozi wa safari. | 사파리 가이드.
+w gari la safari | 사파리 차 | 사파리 차량
+e Panda gari la safari. | 사파리 차에 타요.
+e Gari la safari lina paa wazi. | 사파리 차는 지붕이 열려요.
+e Usishuke garini! | 차에서 내리지 마세요!
+tp 사파리 '빅 파이브': simba(사자), tembo(코끼리), chui(표범), nyati(물소), kifaru(코뿔소).
+tp 동물 이름은 하나든 여럿이든 대부분 모양이 같아요: simba mmoja, simba wawili.
+tp 공원에서는 차에서 내리면 안 돼요: Usishuke!
+pr simba | 사자 || chui | 표범
+pr tembo | 코끼리 || kifaru | 코뿔소
+dl 가이드 | Angalieni kulia! Simba watatu. | 오른쪽 보세요! 사자 세 마리.
+dl 민준 | Wow! Wako karibu sana. | 와! 아주 가까이 있네요.
+dl 가이드 | Kaeni kimya, msishuke garini. | 조용히 하세요, 차에서 내리지 마세요.
+dl 민준 | Sawa. Na tembo tutawaona? | 알겠어요. 코끼리도 볼 수 있을까요?
+sm Mbuga, wanyama, simba, tembo, kiongozi. | 공원, 동물, 사자, 코끼리, 가이드.
+qz '코끼리'는? | tembo
+qz '차에서 내리지 마세요'는? | Usishuke garini
+
+@ 1-13-05 | 해변·섬 여행 | ufukwe·kuogelea·boti | 잔지바르 같은 바닷가에서 쓰는 말이에요.
+w ufukwe | 해변 | 해변, 바닷가
+e Ufukwe wa Nungwi. | 능위 해변.
+e Tunaenda ufukweni. | 바닷가에 가요.
+e Ufukwe ni safi. | 해변이 깨끗해요.
+w bahari | 바다 | 바다
+e Bahari ya Hindi. | 인도양.
+e Bahari ni tulivu leo. | 오늘 바다가 잔잔해요.
+e Samaki wa baharini. | 바닷물고기.
+w boti | 보트 | 보트, 배
+e Panda boti. | 보트 타요.
+e Boti ya kwenda Pemba. | 펨바 가는 배.
+e Boti inaondoka saa nne. | 배는 10시에 떠나요.
+w maji kupwa | 썰물 · kupwa 빠지다 | 썰물
+e Maji kupwa asubuhi. | 아침에 썰물이에요.
+e Wakati wa maji kupwa tunatembea mbali. | 썰물 때는 멀리까지 걸어요.
+e Maji kujaa jioni. | 저녁에 밀물이에요.
+w jua kali | 강한 햇볕 | 강한 햇볕
+e Jua kali sana leo. | 오늘 햇볕이 아주 세요.
+e Paka mafuta ya jua. | 선크림 발라요.
+e Kaa kivulini, jua ni kali. | 햇볕이 세니까 그늘에 앉아요.
+w mji mkongwe | 구시가지, 스톤타운 | 구시가지(스톤타운)
+e Tembelea Mji Mkongwe. | 스톤타운을 구경해요.
+e Mji Mkongwe una milango mizuri. | 스톤타운에는 예쁜 문이 많아요.
+e Tulipotea Mji Mkongwe. | 스톤타운에서 길을 잃었어요.
+tp 잔지바르 바다는 maji kupwa(썰물)와 maji kujaa(밀물) 차이가 커요.
+tp 이슬람 문화가 강해서 시내에서는 어깨와 무릎을 가리는 게 예의예요.
+tp 햇볕: jua kali, 선크림: mafuta ya jua.
+pr maji kupwa | 썰물 || maji kujaa | 밀물
+pr ufukwe | 해변 || bahari | 바다
+dl 수아 | Twende ufukweni leo? | 오늘 바닷가 갈래?
+dl 네에마 | Sawa, lakini maji kupwa mpaka saa sita. | 좋아, 근데 12시까지는 썰물이야.
+dl 수아 | Basi tutembelee Mji Mkongwe kwanza. | 그럼 먼저 스톤타운 구경하자.
+dl 네에마 | Ndiyo, na upake mafuta ya jua! | 그래, 그리고 선크림 발라!
+sm Ufukwe, bahari, boti, maji kupwa, jua kali. | 해변, 바다, 보트, 썰물, 강한 햇볕.
+qz '썰물'은? | maji kupwa
+qz '바닷가에 가요'는? | Tunaenda ufukweni
+
+@ 1-13-06 | 여행 인사·기념 | karibu·safari njema·kumbukumbu | 여행 중에 자주 듣는 말을 모아 봐요.
+w karibu tena | 또 오세요 | 또 오세요
+e Asante, karibu tena! | 고마워요, 또 오세요!
+e Karibu tena Tanzania. | 탄자니아에 또 오세요.
+e Nitakuja tena! | 또 올게요!
+w safari njema | 좋은 여행 되세요 · njema 좋은 | 좋은 여행 되세요
+e Safari njema, rafiki! | 친구, 좋은 여행 돼!
+e Asante, safari njema kwako pia. | 고마워요, 당신도요.
+e Safari njema na urudi salama. | 좋은 여행 하고 무사히 돌아와요.
+w picha | 사진 | 사진
+e Naweza kupiga picha? | 사진 찍어도 돼요?
+e Tupige picha pamoja. | 같이 사진 찍어요.
+e Usipige picha hapa. | 여기서 사진 찍지 마세요.
+w kumbukumbu | 기념, 추억 · kumbuka 기억하다 | 기념; 추억
+e Zawadi ya kumbukumbu. | 기념품.
+e Picha za kumbukumbu. | 기념사진.
+e Kumbukumbu nzuri ya Zanzibar. | 잔지바르의 좋은 추억.
+w mtalii | 관광객 · 여럿 watalii | 관광객
+e Watalii wengi wanakuja Agosti. | 8월에 관광객이 많이 와요.
+e Mimi ni mtalii. | 저는 관광객이에요.
+e Bei ya watalii! | 관광객 가격이네요!
+tp 사람을 찍을 때는 꼭 먼저 물어봐요: Naweza kukupiga picha?
+tp 기념품 가게에서는 값을 깎아도 돼요: Punguza kidogo.
+tp 헤어질 때: Safari njema!(좋은 여행) / Karibu tena!(또 와요)
+pr karibu | 어서 와요 || karibu tena | 또 와요
+pr mtalii | 관광객 || mwenyeji | 현지인
+dl 상인 | Karibu! Zawadi ya kumbukumbu? | 어서 와요! 기념품이요?
+dl 민준 | Ndiyo. Lakini hii ni bei ya watalii! | 네. 근데 이건 관광객 가격이네요!
+dl 상인 | Haha, nitakupunguzia. Elfu kumi. | 하하, 깎아 줄게요. 만 실링.
+dl 민준 | Sawa, asante. Naweza kukupiga picha? | 좋아요, 고마워요. 사진 찍어도 돼요?
+sm Karibu tena, safari njema, picha, kumbukumbu. | 또 와요, 좋은 여행, 사진, 추억.
+qz '사진 찍어도 돼요?'는? | Naweza kupiga picha?
+qz '관광객'은? | mtalii
+
+# P5-N | 직업·직장
+
+@ 1-14-01 | 직업 묻고 답하기 | kazi gani·ofisi·kampuni | 무슨 일을 하는지 묻고 답해요.
+w unafanya kazi gani? | 무슨 일 해요? | 무슨 일 하세요?
+e Unafanya kazi gani? | 무슨 일 하세요?
+e Baba yako anafanya kazi gani? | 아버지는 무슨 일 하세요?
+e Mnafanya kazi gani hapa? | 여기서 무슨 일 하세요?
+w ofisi | 사무실 | 사무실
+e Ofisi yangu iko Posta. | 제 사무실은 포스타에 있어요.
+e Niko ofisini. | 사무실이에요.
+e Ofisi inafunguliwa saa mbili. | 사무실은 8시에 열어요.
+w kampuni | 회사 | 회사
+e Ninafanya kazi kampuni ya simu. | 통신 회사에서 일해요.
+e Kampuni ya Kikorea. | 한국 회사.
+e Kampuni yetu ni ndogo. | 우리 회사는 작아요.
+w mhandisi | 기술자, 엔지니어 | 엔지니어
+e Mimi ni mhandisi. | 저는 엔지니어예요.
+e Mhandisi wa ujenzi. | 건축 기사.
+e Wahandisi wa barabara. | 도로 기술자들.
+w mfanyabiashara | 상인, 사업가 · biashara 장사 | 상인, 사업가
+e Mama ni mfanyabiashara. | 엄마는 장사하세요.
+e Wafanyabiashara wa Kariakoo. | 카리아쿠 상인들.
+e Ni mfanyabiashara mkubwa. | 큰 사업가예요.
+w nimestaafu | 은퇴했어요 · staafu | 은퇴했어요
+e Babu amestaafu. | 할아버지는 은퇴하셨어요.
+e Nimestaafu mwaka jana. | 작년에 은퇴했어요.
+e Atastaafu mwakani. | 그는 내년에 은퇴해요.
+tp '직업이 뭐예요?'는 Unafanya kazi gani? 또는 Kazi yako ni nini?
+tp 대답: Mimi ni ~(저는 ~예요) / Ninafanya kazi ~(~에서 일해요).
+tp 학생은 Mimi ni mwanafunzi, 일이 없으면 Sina kazi kwa sasa(지금은 일이 없어요).
+pr Mimi ni mwalimu. | 저는 선생님이에요. || Ninafanya kazi benki. | 은행에서 일해요.
+pr mfanyakazi | 직원 || mwajiri | 고용주
+dl 주마 | Unafanya kazi gani, Minjun? | 민준 씨는 무슨 일 해요?
+dl 민준 | Mimi ni mhandisi. Ninafanya kazi kampuni ya Kikorea. | 엔지니어예요. 한국 회사에서 일해요.
+dl 주마 | Ofisi iko wapi? | 사무실은 어디예요?
+dl 민준 | Iko Masaki, karibu na bahari. | 마사키에 있어요, 바다 근처요.
+sm Kazi, ofisi, kampuni, mhandisi, mfanyabiashara. | 일, 사무실, 회사, 엔지니어, 상인.
+qz '무슨 일 하세요?'는? | Unafanya kazi gani?
+qz '엔지니어'는? | mhandisi
+
+@ 1-14-02 | 회의·약속 | mkutano·miadi·ratiba | 회의와 약속을 잡을 때 쓰는 말이에요.
+w mkutano | 회의 | 회의, 모임
+e Tuna mkutano saa nne. | 10시에 회의 있어요.
+e Mkutano umeahirishwa. | 회의가 미뤄졌어요.
+e Yuko mkutanoni. | 그는 회의 중이에요.
+w miadi | 약속(시간) | (만날) 약속
+e Nina miadi na daktari. | 의사와 약속 있어요.
+e Tuweke miadi. | 약속 잡아요.
+e Samahani, nimechelewa miadi. | 약속에 늦어서 죄송해요.
+w ratiba | 일정 | 일정, 시간표
+e Ratiba ya wiki hii. | 이번 주 일정.
+e Ratiba imebadilika. | 일정이 바뀌었어요.
+e Ratiba yako ikoje kesho? | 내일 일정 어때요?
+w kuahirisha | 미루다 | 미루다, 연기하다
+e Tuahirishe mkutano. | 회의를 미뤄요.
+e Usiahirishe kazi. | 일을 미루지 마.
+e Safari imeahirishwa. | 여행이 연기됐어요.
+w barua pepe | 이메일 · pepe 바람 | 이메일
+e Nitumie barua pepe. | 이메일 보내 줘요.
+e Nimepokea barua pepe yako. | 이메일 받았어요.
+e Barua pepe yako ni ipi? | 이메일 주소가 뭐예요?
+w kuchelewa kazini | 지각하다 | 회사에 늦다
+e Leo nimechelewa kazini. | 오늘 지각했어요.
+e Foleni ilinifanya nichelewe kazini. | 차가 막혀서 지각했어요.
+e Usichelewe kazini kesho. | 내일 지각하지 마.
+tp 다르에스살람은 차가 많이 막혀서(foleni) 약속 시간보다 일찍 출발하는 게 좋아요.
+tp 미루다 kuahirisha, 취소하다 kufuta / kughairi.
+tp '~와 약속 있어요' = Nina miadi na ~.
+pr mkutano | 회의 || miadi | 약속
+pr kuahirisha | 미루다 || kufuta | 취소하다
+dl 비서 | Mkurugenzi yuko mkutanoni. | 대표님은 회의 중이세요.
+dl 수아 | Nina miadi naye saa tano. | 11시에 그분과 약속이 있어요.
+dl 비서 | Samahani, ratiba imebadilika. Tuahirishe mpaka saa saba? | 죄송해요, 일정이 바뀌었어요. 1시로 미룰까요?
+dl 수아 | Sawa, nitumie barua pepe tafadhali. | 좋아요, 이메일 보내 주세요.
+sm Mkutano, miadi, ratiba, kuahirisha, barua pepe. | 회의, 약속, 일정, 미루다, 이메일.
+qz '이메일'은? | barua pepe
+qz '회의가 미뤄졌어요'는? | Mkutano umeahirishwa
+
+@ 1-14-03 | 월급·휴가 | mshahara·likizo·ruhusa | 월급, 휴가, 허락에 관한 말이에요.
+w mshahara | 월급 | 월급, 급여
+e Mshahara unalipwa mwisho wa mwezi. | 월급은 월말에 나와요.
+e Mshahara mdogo. | 적은 월급.
+e Nimepata mshahara leo. | 오늘 월급 받았어요.
+w likizo | 휴가 | 휴가, 방학
+e Niko likizo. | 휴가 중이에요.
+e Likizo ya mwaka. | 연차 휴가.
+e Likizo ya shule. | 학교 방학.
+w ruhusa | 허락 | 허락, 허가
+e Naomba ruhusa. | 허락해 주세요(조퇴·외출).
+e Nimepata ruhusa ya kwenda. | 가도 된다는 허락을 받았어요.
+e Bila ruhusa. | 허락 없이.
+w kuajiri | 고용하다 | 고용하다
+e Kampuni inaajiri watu kumi. | 회사가 열 명을 뽑아요.
+e Nimeajiriwa! | 취직했어요!
+e Wanaajiri madereva. | 운전기사를 뽑아요.
+w kufukuzwa kazi | 해고되다 · fukuza 쫓다 | 해고되다
+e Amefukuzwa kazi. | 그는 해고됐어요.
+e Usichelewe, utafukuzwa kazi! | 늦지 마, 잘려!
+e Hakufukuzwa, aliacha. | 해고가 아니라 그만뒀어요.
+w kuacha kazi | 일을 그만두다 | 일을 그만두다
+e Nimeacha kazi. | 일을 그만뒀어요.
+e Kwa nini umeacha kazi? | 왜 그만뒀어요?
+e Ataacha kazi mwezi ujao. | 그는 다음 달에 그만둬요.
+tp 휴가 중: Niko likizo. 휴가를 받다: kupata likizo.
+tp 잠깐 나가거나 조퇴할 때 상사에게 Naomba ruhusa.
+tp 취직했다 = Nimeajiriwa(고용됐다) / Nimepata kazi(일을 구했다).
+pr kuajiri | 고용하다 || kufukuza | 해고하다
+pr kuanza kazi | 일을 시작하다 || kuacha kazi | 일을 그만두다
+dl 직원 | Bosi, naomba ruhusa kesho. Mtoto anaumwa. | 사장님, 내일 하루 쉬어도 될까요? 아이가 아파요.
+dl 사장 | Pole. Sawa, pumzika. | 안됐네. 그래, 쉬어.
+dl 직원 | Asante. Na likizo yangu ya mwaka ni lini? | 고맙습니다. 그리고 제 연차는 언제예요?
+dl 사장 | Desemba. Baada ya mshahara! | 12월. 월급 나온 다음에!
+sm Mshahara, likizo, ruhusa, kuajiri, kuacha kazi. | 월급, 휴가, 허락, 고용하다, 그만두다.
+qz '휴가 중이에요'는? | Niko likizo
+qz '취직했어요!'는? | Nimeajiriwa!
+
+@ 1-14-04 | 직장 인사·격려 | hongera·pole na kazi·kazi njema | 직장에서 서로 주고받는 인사예요.
+w pole na kazi | 수고하세요 · 일하는 사람에게 | 수고 많아요
+e Pole na kazi, mama! | 수고 많으세요, 아주머니!
+e Pole na kazi — Asante! | 수고 많아요 — 고마워요!
+e Pole na kazi ngumu. | 힘든 일 하느라 수고 많아요.
+w kazi njema | 일 잘하세요 · 헤어질 때 | 좋은 하루 일하세요
+e Kazi njema leo! | 오늘 일 잘하세요!
+e Haya, kazi njema. | 그럼 수고하세요.
+e Kazi njema na Mungu akubariki. | 일 잘하시고 축복받으세요.
+w hongera | 축하해요 | 축하해요
+e Hongera kwa kazi mpya! | 새 직장 축하해요!
+e Hongera sana! | 정말 축하해요!
+e Hongera kwa kupandishwa cheo. | 승진 축하해요.
+w kupandishwa cheo | 승진하다 · cheo 직위 | 승진하다
+e Amepandishwa cheo. | 그는 승진했어요.
+e Nimepandishwa cheo kuwa meneja. | 매니저로 승진했어요.
+e Utapandishwa cheo mwakani. | 내년에 승진할 거예요.
+w mwenzangu | 동료 · mwenzi + angu | 내 동료, 내 친구
+e Huyu ni mwenzangu wa kazi. | 이분은 제 직장 동료예요.
+e Wenzangu wanapenda chai. | 제 동료들은 차를 좋아해요.
+e Mwenzangu yuko likizo. | 동료가 휴가 중이에요.
+tp 일하는 사람을 보면 Pole na kazi!(수고하세요) 하고 인사해요. 대답은 Asante / Tumeshapoa.
+tp 기쁜 일에는 Hongera!, 안 좋은 일에는 Pole!
+tp mwenzangu = mwenzi(친구·동료) + -angu(나의).
+pr hongera | 축하해요 || pole | 안됐어요
+pr pole na kazi | 수고하세요 || kazi njema | 일 잘하세요
+dl 할리마 | Pole na kazi, Sua! | 수고 많아, 수아!
+dl 수아 | Asante! Nina habari njema: nimepandishwa cheo. | 고마워! 좋은 소식 있어: 나 승진했어.
+dl 할리마 | Hongera sana, mwenzangu! | 정말 축하해, 동료님!
+dl 수아 | Twende tunywe chai baada ya kazi. | 일 끝나고 차 마시러 가자.
+sm Pole na kazi, kazi njema, hongera, mwenzangu. | 수고해요, 일 잘해요, 축하해요, 동료.
+qz '수고 많아요'는? | Pole na kazi
+qz '승진하다'는? | kupandishwa cheo
+
+# P5-O | 집·이웃
+
+@ 1-15-01 | 집안일 | kufagia·kupiga deki·kuosha vyombo | 집안일을 할 때 쓰는 말이에요.
+w kufagia | 쓸다 | (빗자루로) 쓸다
+e Fagia uani. | 마당을 쓸어요.
+e Nimefagia chumba. | 방을 쓸었어요.
+e Fagia kila asubuhi. | 아침마다 쓸어요.
+w kupiga deki | 걸레질하다 · deki 갑판 | 바닥을 닦다
+e Piga deki sebuleni. | 거실 바닥 닦아요.
+e Nimepiga deki jikoni. | 부엌 바닥 닦았어요.
+e Usikanyage, nimepiga deki! | 밟지 마, 바닥 닦았어!
+w kuosha vyombo | 설거지하다 · vyombo 그릇 | 설거지하다
+e Osha vyombo baada ya kula. | 밥 먹고 설거지해요.
+e Nani ataosha vyombo? | 누가 설거지할 거야?
+e Vyombo vimeoshwa. | 설거지 다 했어요.
+w kutandika kitanda | 침대를 정리하다, 침구를 펴서 정돈하다 | 침대를 정리하다
+e Tandika kitanda chako. | 침대 정리해.
+e Nimetandika kitanda. | 침대 정리했어요.
+e Tandika vizuri. | 잘 정리해요.
+w kuanika nguo | 빨래를 널다 | 빨래를 널다
+e Anika nguo juani. | 햇볕에 빨래 널어요.
+e Nimeanika nguo nje. | 밖에 빨래 널었어요.
+e Anua nguo, mvua inakuja! | 빨래 걷어, 비 온다!
+w takataka | 쓰레기 | 쓰레기
+e Toa takataka. | 쓰레기 내놔요.
+e Pipa la takataka. | 쓰레기통.
+e Usitupe takataka barabarani. | 길에 쓰레기 버리지 마.
+tp 바닥 걸레질은 kupiga deki(배 갑판을 닦던 말에서 왔어요).
+tp 빨래: kufua(빨다) → kuanika(널다) → kuanua(걷다) → kupiga pasi(다리다).
+tp 짝: kuanika ↔ kuanua, kutandika ↔ kutandua.
+pr kuanika | 널다 || kuanua | 걷다
+pr kufagia | 쓸다 || kupiga deki | 닦다
+dl 엄마 | Baraka, fagia uani na toa takataka. | 바라카, 마당 쓸고 쓰레기 내놔.
+dl 바라카 | Sawa. Na Neema? | 알았어요. 네에마는요?
+dl 엄마 | Neema ataosha vyombo. | 네에마는 설거지할 거야.
+dl 네에마 | Lakini mvua inakuja, nianue nguo kwanza! | 근데 비 와요, 빨래 먼저 걷을게요!
+sm Fagia, piga deki, osha vyombo, anika nguo. | 쓸고, 닦고, 설거지하고, 빨래 널어요.
+qz '설거지하다'는? | kuosha vyombo
+qz '빨래 걷어!'는? | Anua nguo!
+
+@ 1-15-02 | 집 구하기·임대 | kupanga·kodi·mwenye nyumba | 집을 빌릴 때 쓰는 말이에요.
+w kupanga nyumba | 집을 세내다 · panga 빌리다 | 집을 빌리다(세 들다)
+e Ninapanga nyumba Sinza. | 신자에 세 들어 살아요.
+e Tunatafuta nyumba ya kupanga. | 세 들 집을 찾고 있어요.
+e Nyumba ya kupanga ni ghali mjini. | 시내 셋집은 비싸요.
+w kodi | 집세; 세금 | 집세; 세금
+e Kodi ni laki tatu kwa mwezi. | 집세는 한 달에 30만이에요.
+e Lipa kodi ya miezi sita. | 6개월치 집세를 내요.
+e Kodi ya mapato. | 소득세.
+w mwenye nyumba | 집주인 | 집주인
+e Mwenye nyumba anaishi hapa. | 집주인이 여기 살아요.
+e Nimemlipa mwenye nyumba. | 집주인에게 냈어요.
+e Mwenye nyumba ni mkarimu. | 집주인이 친절해요.
+w vyumba viwili | 방 두 개 | 방 두 개
+e Nyumba ina vyumba viwili. | 집에 방이 두 개예요.
+e Nataka vyumba viwili na sebule. | 방 두 개에 거실 하나 원해요.
+e Vyumba viwili vya kulala. | 침실 두 개.
+w sebule | 거실 | 거실
+e Sebule ni kubwa. | 거실이 커요.
+e Tunakaa sebuleni. | 거실에 앉아 있어요.
+e Televisheni iko sebuleni. | 텔레비전은 거실에 있어요.
+w umeme na maji | 전기와 물 | 전기와 수도
+e Umeme na maji ni tofauti na kodi. | 전기·수도는 집세와 따로예요.
+e Kuna umeme na maji? | 전기, 물 다 나와요?
+e Maji yanakatika mara kwa mara. | 물이 자주 끊겨요.
+tp 탄자니아에서는 집세를 여러 달치(3~6개월) 미리 내는 경우가 많아요.
+tp 집 소개해 주는 사람은 dalali(중개인)예요.
+tp 확인할 것: umeme(전기), maji(물), usalama(안전), geti(대문).
+pr mwenye nyumba | 집주인 || mpangaji | 세입자
+pr kodi | 집세 || amana | 보증금
+dl 민준 | Nyumba hii ina vyumba vingapi? | 이 집 방 몇 개예요?
+dl 중개인 | Vyumba viwili, sebule, jiko na choo. | 방 두 개, 거실, 부엌, 화장실이요.
+dl 민준 | Kodi ni bei gani? | 집세는 얼마예요?
+dl 중개인 | Laki nne kwa mwezi, miezi sita mbele. | 한 달 40만, 6개월 선불이에요.
+sm Kupanga, kodi, mwenye nyumba, sebule. | 세 들다, 집세, 집주인, 거실.
+qz '집주인'은? | mwenye nyumba
+qz '거실'은? | sebule
+
+@ 1-15-03 | 이웃과 인사 | jirani·hodi·shikamoo | 이웃집에 찾아가거나 이웃과 인사할 때 쓰는 말이에요.
+w jirani | 이웃 · 여럿 majirani | 이웃
+e Jirani yangu ni mwema. | 우리 이웃은 착해요.
+e Majirani wanasaidiana. | 이웃끼리 서로 도와요.
+e Jirani wa karibu. | 바로 옆집.
+w hodi | 계세요? · 남의 집 앞에서 | 계세요?(노크 대신)
+e Hodi! Hodi! | 계세요! 계세요!
+e Alibisha hodi. | 그는 '호디' 하고 불렀어요.
+e Hodi — Karibu! | 계세요? — 들어오세요!
+w shikamoo | 안녕하세요 · 어른께 | (어른께) 안녕하세요
+e Shikamoo, bibi. | 할머니, 안녕하세요.
+e Shikamoo, mzee. | 어르신, 안녕하세요.
+e Watoto wanasema shikamoo. | 아이들이 '시카무' 하고 인사해요.
+w marahaba | 그래 · 어른의 대답 | (shikamoo에 대한 대답) 그래
+e Marahaba, mwanangu. | 그래, 얘야.
+e Shikamoo — Marahaba. | 안녕하세요 — 그래.
+e Alijibu marahaba. | 그는 '마라하바' 하고 대답했어요.
+w kutembeleana | 서로 찾아가다 · tembelea + ana | 서로 방문하다
+e Tunatembeleana kila Jumapili. | 일요일마다 서로 찾아가요.
+e Majirani wanatembeleana. | 이웃끼리 서로 방문해요.
+e Tutembeleane! | 서로 놀러 가요!
+w pole kwa msiba | 조의를 표해요 · msiba 초상 | 삼가 조의를 표해요
+e Pole kwa msiba, jirani. | 이웃님, 삼가 조의를 표해요.
+e Tumekuja kuwapa pole. | 위로하러 왔어요.
+e Msiba mkubwa. | 큰 슬픔.
+tp 남의 집 앞에서는 문을 두드리기보다 Hodi!라고 불러요. 주인은 Karibu!라고 해요.
+tp 나이 많은 사람에게 Shikamoo, 어른은 Marahaba로 대답해요.
+tp 이웃에 초상이 나면 찾아가 Pole kwa msiba라고 위로해요.
+pr Hodi! | 계세요! || Karibu! | 들어오세요!
+pr Shikamoo | (어른께) 안녕하세요 || Marahaba | 그래
+dl 수아 | Hodi! | 계세요!
+dl 이웃 할머니 | Karibu, mwanangu! | 들어오렴, 얘야!
+dl 수아 | Shikamoo, bibi. Nimekuletea maandazi. | 안녕하세요, 할머니. 만다지 가져왔어요.
+dl 이웃 할머니 | Marahaba! Asante sana, jirani mwema. | 그래! 정말 고맙다, 착한 이웃아.
+sm Jirani, hodi, shikamoo, marahaba. | 이웃, 계세요, 안녕하세요, 그래.
+qz 남의 집 앞에서 '계세요?'는? | Hodi!
+qz shikamoo에 대한 대답은? | Marahaba

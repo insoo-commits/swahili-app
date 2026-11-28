@@ -1,0 +1,231 @@
+# P5-F | 숙박·생활
+
+@ 1-08-01 | 예약·체크인 | chumba·ufunguo | 숙소(nyumba ya wageni, hoteli)에 들어갈 때 쓰는 말이에요. 작은 게스트하우스는 gesti라고도 해요.
+w nyumba ya wageni | 게스트하우스 · '손님의 집' | 게스트하우스, 여관
+e Nyumba ya wageni karibu na stendi. | 터미널 근처 게스트하우스.
+e Tulilala kwenye nyumba ya wageni. | 게스트하우스에서 잤어요.
+e Nyumba ya wageni ni rahisi. | 게스트하우스는 싸요.
+w chumba | 방 · 여럿 vyumba | 방
+e Kuna chumba wazi? | 빈방 있어요?
+e Chumba cha watu wawili. | 2인실.
+e Vyumba vyote vimejaa. | 방이 다 찼어요.
+w kuweka nafasi | 예약하다 · '자리를 두다' | 예약하다
+e Nimeweka nafasi kwa jina la Kim. | 김 이름으로 예약했어요.
+e Naweza kuweka nafasi kwa simu? | 전화로 예약할 수 있어요?
+e Weka nafasi mapema. | 일찍 예약해요.
+w usiku mmoja | 하룻밤 · 숙박 단위 | 하룻밤
+e Ni shilingi ngapi kwa usiku mmoja? | 하룻밤에 얼마예요?
+e Nitakaa usiku mmoja tu. | 하룻밤만 묵을게요.
+e Usiku tatu. | 사흘 밤.
+w ufunguo | 열쇠 · 여럿 funguo | 열쇠
+e Ufunguo wa chumba. | 방 열쇠.
+e Nimepoteza ufunguo. | 열쇠를 잃어버렸어요.
+e Funguo ziko mapokezi. | 열쇠들은 프런트에 있어요.
+w mapokezi | 프런트, 접수처 · pokea 받다 | 접수처, 프런트
+e Uliza mapokezi. | 프런트에 물어봐요.
+e Mapokezi yako wazi saa ishirini na nne. | 프런트는 24시간 열려 있어요.
+e Acha ufunguo mapokezi. | 열쇠는 프런트에 맡겨요.
+w kifungua kinywa | 아침 식사 · '입을 여는 것' | 아침 식사
+e Kifungua kinywa ni saa ngapi? | 아침 식사는 몇 시예요?
+e Bei inajumuisha kifungua kinywa. | 값에 아침이 포함돼요.
+e Kifungua kinywa: chai, mkate na mayai. | 아침: 차, 빵, 달걀.
+w kitanda | 침대 · 여럿 vitanda | 침대
+e Kitanda kikubwa. | 큰 침대.
+e Vitanda viwili. | 침대 두 개.
+e Kitanda hiki ni laini. | 이 침대는 푹신해요.
+tp 빈방을 물을 때: Kuna chumba wazi?(빈방 있어요?) 하룻밤 값: kwa usiku mmoja.
+tp kifungua kinywa = fungua(열다) + kinywa(입). 밤새 닫았던 입을 여는 '아침밥'이에요.
+tp 열쇠 하나 ufunguo → 여럿 funguo.
+pr chumba kimoja | 방 하나 || vyumba viwili | 방 둘
+pr ufunguo | 열쇠 || funguo | 열쇠들
+dl 직원 | Karibu! Nikusaidie nini? | 어서 오세요! 무엇을 도와드릴까요?
+dl 수아 | Nimeweka nafasi kwa jina la Sua Kim. | 김수아 이름으로 예약했어요.
+dl 직원 | Ndiyo, usiku tatu. Huu ni ufunguo wako, chumba namba kumi. | 네, 3박이요. 열쇠 여기 있어요, 10호실이에요.
+dl 수아 | Asante. Kifungua kinywa ni saa ngapi? | 고마워요. 아침 식사는 몇 시예요?
+sm Weka nafasi, chukua ufunguo mapokezi, lala kitandani. | 예약하고, 프런트에서 열쇠 받고, 침대에서 자요.
+qz '빈방 있어요?'는? | Kuna chumba wazi?
+qz '아침 식사'는? | kifungua kinywa
+
+@ 1-08-02 | 객실 문제·수리 요청 | haifanyi kazi·maji ya moto | 방에 문제가 있을 때 말해요.
+w haifanyi kazi | 안 돼요, 고장이에요 · '일을 안 한다' | 작동하지 않아요
+e Feni haifanyi kazi. | 선풍기가 안 돼요.
+e Taa haifanyi kazi. | 불이 안 켜져요.
+e Bomba haifanyi kazi. | 수도가 안 돼요.
+w maji ya moto | 온수 | 뜨거운 물, 온수
+e Hakuna maji ya moto. | 뜨거운 물이 안 나와요.
+e Maji ya moto yanapatikana asubuhi. | 온수는 아침에 나와요.
+e Nahitaji maji ya moto. | 뜨거운 물이 필요해요.
+w feni | 선풍기 | 선풍기
+e Washa feni. | 선풍기를 켜요.
+e Feni ya dari. | 천장 선풍기.
+e Bila feni kuna joto sana. | 선풍기 없이는 너무 더워요.
+w kiyoyozi | 에어컨 | 에어컨
+e Chumba kina kiyoyozi? | 방에 에어컨 있어요?
+e Kiyoyozi kinavuja. | 에어컨에서 물이 새요.
+e Zima kiyoyozi usiku. | 밤에는 에어컨을 꺼요.
+w chandarua | 모기장 | 모기장
+e Lala ndani ya chandarua. | 모기장 안에서 자요.
+e Chandarua kina tundu. | 모기장에 구멍이 있어요.
+e Naomba chandarua kipya. | 새 모기장 주세요.
+w mbu | 모기 | 모기
+e Kuna mbu wengi. | 모기가 많아요.
+e Mbu ananiuma. | 모기가 물어요.
+e Dawa ya mbu. | 모기약.
+w choo | 화장실 | 화장실
+e Choo kimeziba. | 화장실이 막혔어요.
+e Choo kiko nje. | 화장실은 밖에 있어요.
+e Choo ni kisafi? | 화장실 깨끗해요?
+w kurekebisha | 고치다 · rekebisha 바로잡다 | 고치다, 수리하다
+e Tafadhali rekebisha feni. | 선풍기 좀 고쳐 주세요.
+e Fundi atarekebisha kesho. | 기술자가 내일 고칠 거예요.
+e Imerekebishwa. | 고쳐졌어요.
+tp 고장 났을 때 가장 쉬운 말: ~ haifanyi kazi(~가 안 돼요).
+tp 말라리아 예방: 꼭 모기장(chandarua) 안에서 자세요.
+tp kiyoyozi는 '바람을 시원하게 하는 것'이라는 뜻이에요.
+pr kinafanya kazi | 돼요 || haifanyi kazi | 안 돼요
+pr washa feni | 선풍기 켜요 || zima feni | 선풍기 꺼요
+dl 민준 | Samahani, feni haifanyi kazi chumbani. | 실례지만, 방에 선풍기가 안 돼요.
+dl 직원 | Pole! Nitamwita fundi. | 죄송해요! 기술자를 부를게요.
+dl 민준 | Pia chandarua kina tundu. | 모기장에도 구멍이 있어요.
+dl 직원 | Nitakuletea kipya sasa hivi. | 지금 바로 새 걸 갖다드릴게요.
+sm Feni haifanyi kazi, hakuna maji ya moto — tafadhali rekebisha. | 선풍기가 안 되고 뜨거운 물도 없어요 — 고쳐 주세요.
+qz '모기장'은? | chandarua
+qz '안 돼요(고장)'는? | haifanyi kazi
+
+@ 1-08-03 | 홈스테이 예절 | familia·mgeni | 현지 가정에 머물 때의 예절이에요.
+w familia | 가족 | 가족
+e Familia yangu. | 우리 가족.
+e Familia kubwa. | 대가족.
+e Karibu katika familia yetu. | 우리 가족이 된 걸 환영해요.
+w mgeni | 손님, 낯선 사람 · 여럿 wageni | 손님; 외국인
+e Mgeni njoo, mwenyeji apone. | 손님이 오면 주인이 낫는다. (속담)
+e Tuna wageni leo. | 오늘 손님이 와요.
+e Mimi ni mgeni hapa. | 저는 여기 처음이에요.
+w mwenyeji | 집주인, 현지인 · 여럿 wenyeji | 집주인; 현지 사람
+e Mwenyeji wangu ni mkarimu. | 집주인이 친절해요.
+e Wenyeji wa Zanzibar. | 잔지바르 현지인.
+e Uliza wenyeji. | 현지 사람에게 물어봐요.
+w kuvua viatu | 신발을 벗다 | 신발을 벗다
+e Vua viatu mlangoni. | 문 앞에서 신발을 벗어요.
+e Tunavua viatu ndani ya nyumba. | 집 안에서는 신발을 벗어요.
+e Vua viatu msikitini. | 모스크에서는 신발을 벗어요.
+w kusaidia | 돕다 | 돕다
+e Nikusaidie? | 도와줄까요?
+e Nitasaidia kupika. | 요리하는 거 도울게요.
+e Asante kwa kunisaidia. | 도와줘서 고마워요.
+w mkono wa kulia | 오른손 | 오른손
+e Kula kwa mkono wa kulia. | 오른손으로 먹어요.
+e Pokea kwa mkono wa kulia. | 오른손으로 받아요.
+e Salimia kwa mkono wa kulia. | 오른손으로 악수해요.
+w kuheshimu | 존중하다 | 존경하다, 존중하다
+e Heshimu wazee. | 어른을 공경해요.
+e Tunaheshimu dini zote. | 우리는 모든 종교를 존중해요.
+e Anaheshimiwa sana. | 그는 아주 존경받아요.
+w mavazi ya heshima | 단정한 옷 · 어깨·무릎을 가리는 옷 | 단정한 옷차림
+e Vaa mavazi ya heshima mjini. | 시내에서는 단정하게 입어요.
+e Zanzibar, vaa mavazi ya heshima. | 잔지바르에서는 단정한 옷을 입어요.
+e Mavazi ya heshima kanisani. | 교회에서의 단정한 옷.
+tp 물건을 주고받거나 악수할 때는 오른손. 더 공손하게는 왼손으로 오른팔을 받쳐요.
+tp 잔지바르와 해안 마을은 무슬림이 많아서 어깨·무릎을 가리는 옷이 예의예요.
+tp mgeni는 '손님'과 '낯선 사람, 외국인' 둘 다예요.
+pr mgeni | 손님 || mwenyeji | 주인
+pr mkono wa kulia | 오른손 || mkono wa kushoto | 왼손
+dl 엄마 | Karibu, Minjun! Hapa ni nyumbani kwako. | 어서 와요, 민준! 여기가 당신 집이에요.
+dl 민준 | Asante sana, mama. Nivue viatu? | 정말 고마워요, 어머니. 신발 벗을까요?
+dl 엄마 | Ndiyo, tafadhali. Chakula kiko tayari. | 네, 부탁해요. 밥 다 됐어요.
+dl 민준 | Nikusaidie kuweka meza? | 상 차리는 거 도와드릴까요?
+sm Mgeni anavua viatu, anaheshimu wazee na anasaidia familia. | 손님은 신발을 벗고, 어른을 존중하고, 가족을 도와요.
+qz '손님'은? | mgeni
+qz '돕다'는? | kusaidia
+
+@ 1-08-04 | 생활 | kufua·kuoga·kulala | 숙소에서 하루를 보내며 쓰는 말이에요.
+w kuoga | 씻다, 샤워하다 | 목욕하다, 씻다
+e Ninaoga asubuhi. | 아침에 샤워해요.
+e Bafu la kuogea. | 욕실.
+e Oga kabla ya kulala. | 자기 전에 씻어요.
+w kufua nguo | 빨래하다 | 빨래하다
+e Ninafua nguo Jumamosi. | 토요일에 빨래해요.
+e Fua kwa mkono. | 손빨래해요.
+e Nguo zimefuliwa. | 옷이 빨아졌어요.
+w kuanika | 널다, 말리다 | (빨래를) 널다, 말리다
+e Anika nguo juani. | 빨래를 햇볕에 널어요.
+e Nguo zimekauka. | 빨래가 말랐어요.
+e Usianike usiku. | 밤에는 널지 마요.
+w kulala | 자다 | 자다; 눕다
+e Ninalala saa nne. | 10시에 자요.
+e Umelala vizuri? | 잘 잤어요?
+e Mtoto amelala. | 아이가 잠들었어요.
+w kuamka | 일어나다(잠에서) | 잠에서 깨다, 일어나다
+e Ninaamka saa kumi na mbili. | 새벽 6시에 일어나요.
+e Amka! Ni asubuhi. | 일어나! 아침이야.
+e Niliamka mapema leo. | 오늘 일찍 일어났어요.
+w kufagia | 쓸다 | (빗자루로) 쓸다
+e Fagia chumba. | 방을 쓸어요.
+e Ufagio uko wapi? | 빗자루 어디 있어요?
+e Tunafagia uwanja asubuhi. | 아침에 마당을 쓸어요.
+w kusafisha | 청소하다 · safi 깨끗한 | 청소하다, 깨끗하게 하다
+e Safisha chumba chako. | 네 방 청소해.
+e Ninasafisha jikoni. | 부엌을 청소해요.
+e Chumba kimesafishwa. | 방이 청소됐어요.
+w ndoo | 양동이 | 양동이
+e Ndoo ya maji. | 물 한 양동이.
+e Jaza ndoo. | 양동이를 채워요.
+e Kuoga kwa ndoo. | 양동이 물로 씻기.
+tp safi(깨끗한) → kusafisha(깨끗하게 하다): 형용사 + -isha = '~하게 만들다'.
+tp 수도가 없을 때는 양동이 물(ndoo)로 씻어요. 물을 아껴 써요.
+tp '잘 잤어요?'는 Umelala salama? / Umeamkaje?(어떻게 일어났어요?)
+pr kulala | 자다 || kuamka | 일어나다
+pr kufua | 빨다 || kuanika | 널다
+dl 니에마 | Umeamkaje, Sua? | 수아, 잘 잤어요?
+dl 수아 | Salama. Nataka kufua nguo leo. | 잘 잤어요. 오늘 빨래하고 싶어요.
+dl 니에마 | Chukua ndoo hii na sabuni. | 이 양동이랑 비누 가져가요.
+dl 수아 | Asante. Nitaanika juani. | 고마워요. 햇볕에 널게요.
+sm Amka, oga, fua nguo, anika juani, safisha chumba, lala salama. | 일어나서, 씻고, 빨래해서 햇볕에 널고, 방 청소하고, 잘 자요.
+qz '빨래하다'는? | kufua nguo
+qz '자다'는? | kulala
+
+@ 1-08-05 | 객실·생활용품 | dirisha·mlango | 숙소에서 같이 쓰는 말이에요.
+w mlango | 문 · 여럿 milango | 문
+e Funga mlango. | 문을 닫아요.
+e Mlango umefungwa. | 문이 잠겼어요.
+e Mtu anagonga mlango. | 누가 문을 두드려요.
+w dirisha | 창문 · 여럿 madirisha | 창문
+e Fungua dirisha. | 창문을 열어요.
+e Dirisha limevunjika. | 창문이 깨졌어요.
+e Madirisha yana nyavu. | 창문에 방충망이 있어요.
+w sabuni | 비누 | 비누, 세제
+e Sabuni ya kuogea. | 목욕 비누.
+e Sabuni ya kufulia. | 빨래 세제.
+e Nawa kwa sabuni. | 비누로 씻어요.
+w taulo | 수건 | 수건
+e Taulo safi. | 깨끗한 수건.
+e Naomba taulo nyingine. | 수건 하나 더 주세요.
+e Taulo liko bafuni. | 수건은 욕실에 있어요.
+w mto | 베개 · '강'이라는 뜻도 | 베개; 강
+e Mto laini. | 푹신한 베개.
+e Naomba mto mwingine. | 베개 하나 더 주세요.
+e Mto Rufiji ni mrefu. | 루피지강은 길어요.
+w shuka | 시트, 침대보 | 시트, 침대보
+e Shuka safi. | 깨끗한 시트.
+e Badilisha shuka. | 시트를 갈아요.
+e Shuka mbili. | 시트 두 장.
+w kelele | 소음, 시끄러움 | 시끄러움, 소음
+e Kuna kelele nyingi. | 너무 시끄러워요.
+e Usipige kelele. | 떠들지 마요.
+e Kelele za magari. | 차 소리.
+w salama | 안전하다, 평안 | 안전하다; 평안
+e Hapa ni salama? | 여기 안전해요?
+e Weka pesa mahali salama. | 돈을 안전한 곳에 두세요.
+e Fika salama! | 잘 도착해!
+tp mto는 '베개'와 '강' 둘 다예요(m-mi 부류: 여럿 mito).
+tp 밤에 소리가 크면: Kuna kelele nyingi(너무 시끄러워요).
+tp salama는 '안전'과 '평안'이에요: Fika salama(잘 도착해), Lala salama(잘 자).
+pr fungua mlango | 문 열어 || funga mlango | 문 닫아
+pr mto | 베개 || shuka | 시트
+dl 수아 | Naomba taulo na sabuni. | 수건이랑 비누 주세요.
+dl 직원 | Sawa. Unahitaji kingine? | 네. 다른 거 필요해요?
+dl 수아 | Ndiyo, mto mwingine. Na kuna kelele nyingi nje. | 네, 베개 하나 더요. 그리고 밖이 너무 시끄러워요.
+dl 직원 | Pole. Funga dirisha, itasaidia. | 죄송해요. 창문 닫으면 나아질 거예요.
+sm Funga mlango na dirisha, chukua taulo na sabuni, lala salama. | 문과 창문을 닫고, 수건과 비누를 챙기고, 편히 자요.
+qz '창문'은? | dirisha
+qz mto 의 두 뜻은? | 베개, 강

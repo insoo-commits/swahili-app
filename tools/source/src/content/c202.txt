@@ -1,0 +1,381 @@
+# P4-D | 단수·복수와 호응
+
+@ 2-02-01 | 사람: m- → wa- | mtu·watu | 사람을 뜻하는 말은 하나일 때 m-(mw-), 여럿일 때 wa-로 시작해요.
+w mtu | 사람 하나 · 여럿 watu | 사람
+e Mtu mmoja. | 한 사람.
+e Mtu huyu ni nani? | 이 사람은 누구예요?
+e Kila mtu. | 모든 사람.
+w watu | 사람들 · 하나 mtu | 사람들
+e Watu wengi sokoni. | 시장에 사람이 많아요.
+e Watu wawili. | 두 사람.
+e Watu wote wamefika. | 사람들이 다 왔어요.
+w mgeni → wageni | 손님 → 손님들 | 손님(들)
+e Mgeni mmoja amefika. | 손님 한 명이 왔어요.
+e Wageni wengi wanakuja. | 손님이 많이 와요.
+e Karibuni, wageni! | 손님 여러분, 어서 오세요!
+w mkulima → wakulima | 농부 → 농부들 | 농부(들)
+e Mkulima analima shamba. | 농부가 밭을 갈아요.
+e Wakulima wanapanda mahindi. | 농부들이 옥수수를 심어요.
+e Baba ni mkulima. | 아빠는 농부예요.
+w mwanafunzi → wanafunzi | 학생 → 학생들 · mw- → wa- | 학생(들)
+e Mwanafunzi mpya. | 새 학생.
+e Wanafunzi wapya. | 새 학생들.
+e Wanafunzi wote wamefaulu. | 학생들이 다 합격했어요.
+w mwalimu → walimu | 선생님 → 선생님들 · mwa- → wa- | 선생님(들)
+e Mwalimu mmoja. | 선생님 한 분.
+e Walimu watatu. | 선생님 세 분.
+e Walimu wanakutana. | 선생님들이 모여요.
+tp 1·2 부류(m-wa): 사람. mtu/watu, mtoto/watoto, mkulima/wakulima, mwalimu/walimu.
+tp 꾸미는 말도 같이 바뀌어요: mtu mzuri(좋은 사람) → watu wazuri(좋은 사람들).
+tp 동사도 맞춰요: Mtu anakuja(한 사람이 와요) → Watu wanakuja(사람들이 와요).
+pr mtu mmoja | 한 사람 || watu wawili | 두 사람
+pr mwalimu mzuri | 좋은 선생님 || walimu wazuri | 좋은 선생님들
+dl 선생님 | Darasa lina wanafunzi wangapi? | 반에 학생이 몇 명이에요?
+dl 민준 | Wanafunzi thelathini, na mwanafunzi mmoja mpya. | 서른 명이고, 새 학생이 한 명 있어요.
+dl 선생님 | Na walimu? | 선생님은요?
+dl 민준 | Walimu wawili, mimi na mwalimu Amani. | 두 명이요, 저랑 아마니 선생님이요.
+sm Mtu mmoja, watu wengi; mwalimu mmoja, walimu wengi. | 한 사람, 많은 사람; 선생님 한 분, 선생님 여러 분.
+qz mtoto 의 여럿은? | watoto
+qz walimu 의 하나는? | mwalimu
+
+@ 2-02-02 | 나무·몸: m- → mi- | mti·miti | 나무, 몸의 일부, 자연의 많은 말은 하나 m-, 여럿 mi-예요.
+w mti → miti | 나무 → 나무들 | 나무(들)
+e Mti mmoja mrefu. | 큰 나무 한 그루.
+e Miti mingi. | 나무 많이.
+e Panda miti. | 나무를 심어요.
+w mkono → mikono | 손 → 손들 | 손(들), 팔(들)
+e Mkono mmoja. | 한 손.
+e Nawa mikono. | 손 씻어요.
+e Mikono yangu ni michafu. | 손이 더러워요.
+w mguu → miguu | 다리 → 다리들 | 다리(들), 발(들)
+e Mguu wa kushoto. | 왼다리.
+e Miguu yangu inauma. | 다리가 아파요.
+e Kwa miguu. | 걸어서.
+w mji → miji | 도시 → 도시들 | 도시(들)
+e Mji mkubwa. | 큰 도시.
+e Miji ya pwani. | 해안 도시들.
+e Mji mkuu. | 수도.
+w mlango → milango | 문 → 문들 | 문(들)
+e Mlango wa mbele. | 앞문.
+e Milango yote imefungwa. | 문이 다 잠겼어요.
+e Fungua mlango. | 문 열어요.
+w mwezi → miezi | 달 → 달들 | 달(들), 월(들)
+e Mwezi mmoja. | 한 달.
+e Miezi sita. | 여섯 달.
+e Mwezi unang'aa. | 달이 빛나요.
+tp 3·4 부류(m-mi): 나무, 몸, 자연, 물건. mti/miti, mkono/mikono, mto/mito.
+tp 형용사·동사 모양: mti mrefu umeanguka(큰 나무가 쓰러졌다) → miti mirefu imeanguka.
+tp 사람이 아닌데 m-로 시작하면 대부분 여기예요.
+pr mti mmoja | 나무 한 그루 || miti miwili | 나무 두 그루
+pr mkono | 손 || mikono | 손들
+dl 아이 | Mama, mti huu una miaka mingapi? | 엄마, 이 나무 몇 살이에요?
+dl 엄마 | Miaka hamsini. Babu aliupanda. | 쉰 살이야. 할아버지가 심으셨어.
+dl 아이 | Tupande miti mingine! | 우리 나무 더 심어요!
+dl 엄마 | Sawa, nawa mikono kwanza. | 좋아, 먼저 손 씻어.
+sm Mti mmoja, miti mingi; mkono mmoja, mikono miwili. | 나무 한 그루, 나무 많이; 손 하나, 손 둘.
+qz mti 의 여럿은? | miti
+qz miezi 의 하나는? | mwezi
+
+@ 2-02-03 | 물건: ki- → vi- | kitabu·vitabu | 물건과 도구 이름은 하나 ki-(ch-), 여럿 vi-(vy-)가 많아요.
+w kitabu → vitabu | 책 → 책들 | 책(들)
+e Kitabu kimoja. | 책 한 권.
+e Vitabu vitatu. | 책 세 권.
+e Vitabu vyangu viko wapi? | 내 책들 어디 있어?
+w kiti → viti | 의자 → 의자들 | 의자(들)
+e Kiti kimoja. | 의자 하나.
+e Viti vingi. | 의자 많이.
+e Kaa kwenye kiti. | 의자에 앉아요.
+w kikombe → vikombe | 컵 → 컵들 | 컵(들)
+e Kikombe cha chai. | 찻잔.
+e Vikombe vitano. | 컵 다섯 개.
+e Osha vikombe. | 컵들을 씻어요.
+w chumba → vyumba | 방 → 방들 · ch- → vy- | 방(들)
+e Chumba changu. | 내 방.
+e Vyumba vitatu. | 방 세 개.
+e Nyumba ina vyumba vinne. | 집에 방이 넷 있어요.
+w chakula → vyakula | 음식 → 음식들 · ch- → vy- | 음식(들)
+e Chakula kitamu. | 맛있는 음식.
+e Vyakula vya Kikorea. | 한국 음식들.
+e Vyakula vingi. | 여러 가지 음식.
+w kitu → vitu | 물건 → 물건들 | 물건(들), 것
+e Kitu gani? | 무슨 물건이요?
+e Vitu vingi. | 물건 많이.
+e Nimenunua vitu sokoni. | 시장에서 물건을 샀어요.
+tp 7·8 부류(ki-vi): 물건, 도구, 언어(Kiswahili). 모음 앞에서는 ch-/vy-: chumba/vyumba, chakula/vyakula.
+tp 형용사·동사도 ki-/vi-: kitabu kizuri kimepotea → vitabu vizuri vimepotea.
+tp '~의'는 cha/vya: kikombe cha chai(찻잔), vitabu vya Kiswahili.
+pr kitabu kimoja | 책 한 권 || vitabu vingi | 책 많이
+pr chumba | 방 || vyumba | 방들
+dl 수아 | Nyumba yako ina vyumba vingapi? | 집에 방이 몇 개예요?
+dl 니에마 | Vyumba vitatu. Na chako? | 세 개요. 당신 집은요?
+dl 수아 | Chumba kimoja tu, na viti viwili. | 방 하나뿐이고 의자 둘이에요.
+dl 니에마 | Inatosha kwa mtu mmoja! | 혼자 살기엔 충분하죠!
+sm Kitabu kimoja, vitabu vingi; kiti kimoja, viti vingi. | 책 한 권, 책 많이; 의자 하나, 의자 많이.
+qz kiti 의 여럿은? | viti
+qz vyumba 의 하나는? | chumba
+
+@ 2-02-04 | 짝·과일: ji-/∅ → ma- | jicho·macho | 하나일 때 ji-가 있거나 앞말이 없고, 여럿일 때 ma-가 붙는 부류예요.
+w jicho → macho | 눈 → 눈들 | 눈(들)
+e Jicho moja. | 한쪽 눈.
+e Macho mawili. | 두 눈.
+e Macho yake ni mazuri. | 그의 눈은 예뻐요.
+w jina → majina | 이름 → 이름들 | 이름(들)
+e Jina lako. | 네 이름.
+e Majina ya wanafunzi. | 학생들 이름.
+e Andika majina yenu. | 여러분 이름을 써요.
+w yai → mayai | 달걀 → 달걀들 | 달걀(들)
+e Yai moja. | 달걀 하나.
+e Mayai kumi. | 달걀 열 개.
+e Mayai yamevunjika. | 달걀이 깨졌어요.
+w gari → magari | 차 → 차들 | 차(들)
+e Gari jipya. | 새 차.
+e Magari mengi. | 차가 많아요.
+e Gari langu ni jekundu. | 내 차는 빨개요.
+w duka → maduka | 가게 → 가게들 | 가게(들)
+e Duka moja. | 가게 하나.
+e Maduka yamefungwa. | 가게들이 닫혔어요.
+e Duka la nguo. | 옷 가게.
+w swali → maswali | 질문 → 질문들 | 질문(들)
+e Swali moja. | 질문 하나.
+e Maswali mengi. | 질문이 많아요.
+e Jibu maswali yote. | 질문에 다 답해요.
+tp 5·6 부류(ji-ma): 짝 있는 몸(macho, masikio), 과일(embe/maembe), 큰 물건(gari/magari).
+tp 꾸미는 말: gari jipya(새 차) → magari mapya. '~의'는 la/ya: jina la mtoto, majina ya watoto.
+tp 한 음절 말은 ji-가 남아요: jicho, jino, jiwe(돌). 나머지는 하나일 때 앞말이 없어요: gari, duka.
+pr yai | 달걀 하나 || mayai | 달걀 여럿
+pr gari jipya | 새 차 || magari mapya | 새 차들
+dl 민준 | Duka hili lina mayai? | 이 가게에 달걀 있어요?
+dl 상인 | Ndiyo, mayai mangapi? | 네, 몇 개요?
+dl 민준 | Mayai sita na embe mawili. | 달걀 여섯 개랑 망고 두 개요.
+dl 상인 | Haya, maembe ni matamu leo! | 네, 오늘 망고 달아요!
+sm Jicho moja, macho mawili; yai moja, mayai mengi. | 눈 하나, 눈 둘; 달걀 하나, 달걀 많이.
+qz jina 의 여럿은? | majina
+qz macho 의 하나는? | jicho
+
+@ 2-02-05 | 같은 모양: N 부류 | nyumba·ndizi | 하나든 여럿이든 모양이 같은 말이 많아요. 수와 꾸밈말로 구별해요.
+w nyumba | 집 · 하나든 여럿이든 nyumba | 집(들)
+e Nyumba moja. | 집 한 채.
+e Nyumba mbili. | 집 두 채.
+e Nyumba hii ni yangu. | 이 집은 내 거예요.
+w ndizi | 바나나 · 모양 그대로 | 바나나(들)
+e Ndizi moja. | 바나나 하나.
+e Ndizi tano. | 바나나 다섯.
+e Ndizi hizi ni tamu. | 이 바나나들은 달아요.
+w kalamu | 펜 · 모양 그대로 | 펜(들)
+e Kalamu yangu. | 내 펜.
+e Kalamu zangu. | 내 펜들.
+e Kalamu hizi ni mpya. | 이 펜들은 새것이에요.
+w meza | 탁자 · 모양 그대로 | 탁자(들)
+e Meza moja. | 탁자 하나.
+e Meza tatu. | 탁자 셋.
+e Meza hii ni ndogo. | 이 탁자는 작아요.
+w barua | 편지 · 모양 그대로 | 편지(들)
+e Barua moja. | 편지 한 통.
+e Barua nyingi. | 편지 여러 통.
+e Andika barua. | 편지를 써요.
+w simu | 전화 · 모양 그대로 | 전화, 휴대폰(들)
+e Simu yangu. | 내 휴대폰.
+e Simu zetu. | 우리 휴대폰들.
+e Simu mbili. | 휴대폰 두 대.
+tp 9·10 부류(N): 하나 = 여럿. 차이는 꾸밈말에 보여요: nyumba hii(이 집) → nyumba hizi(이 집들), kalamu yangu → kalamu zangu.
+tp 외래어 대부분이 여기 들어가요: meza(탁자), barua(편지), simu(전화), baiskeli(자전거).
+tp 동사도 i-(하나) / zi-(여럿): Nyumba imejengwa → Nyumba zimejengwa.
+pr nyumba hii | 이 집 || nyumba hizi | 이 집들
+pr kalamu yangu | 내 펜 || kalamu zangu | 내 펜들
+dl 수아 | Kalamu hii ni yako? | 이 펜 네 거야?
+dl 친구 | Ndiyo. Kalamu zangu zote ziko hapa. | 응. 내 펜들 다 여기 있어.
+dl 수아 | Una kalamu ngapi? | 펜이 몇 개야?
+dl 친구 | Kalamu tano! | 다섯 개!
+sm Nyumba moja, nyumba mbili; ndizi moja, ndizi nyingi — umbo ni lile lile. | 집 하나, 집 둘; 바나나 하나, 바나나 많이 — 모양이 똑같아요.
+qz nyumba 의 여럿은? | nyumba
+qz '내 펜들'은? | kalamu zangu
+
+@ 2-02-06 | 길쭉한 것: u- → n | ufunguo·funguo | 하나일 때 u-(w-), 여럿일 때 n 부류로 바뀌는 말이에요.
+w ufunguo → funguo | 열쇠 → 열쇠들 | 열쇠(들)
+e Ufunguo mmoja. | 열쇠 하나.
+e Funguo nyingi. | 열쇠 여러 개.
+e Funguo zangu ziko wapi? | 내 열쇠들 어디 있지?
+w wimbo → nyimbo | 노래 → 노래들 | 노래(들)
+e Wimbo mzuri. | 좋은 노래.
+e Nyimbo nzuri. | 좋은 노래들.
+e Imba nyimbo za Kikorea. | 한국 노래들을 불러요.
+w ukuta → kuta | 벽 → 벽들 | 벽(들)
+e Ukuta mrefu. | 높은 벽.
+e Kuta nyeupe. | 하얀 벽들.
+e Bandika picha ukutani. | 벽에 그림을 붙여요.
+w ufagio → fagio | 빗자루 → 빗자루들 | 빗자루(들)
+e Ufagio mpya. | 새 빗자루.
+e Fagio mbili. | 빗자루 두 개.
+e Ufagio uko nyuma ya mlango. | 빗자루는 문 뒤에 있어요.
+w ulimi → ndimi | 혀 → 혀들 | 혀(들)
+e Ulimi mwekundu. | 빨간 혀.
+e Toa ulimi. | 혀를 내밀어요.
+e Ulimi wangu umeungua. | 혀를 데었어요.
+w uso → nyuso | 얼굴 → 얼굴들 | 얼굴(들)
+e Uso wake. | 그의 얼굴.
+e Nyuso za furaha. | 기쁜 얼굴들.
+e Osha uso. | 세수해요.
+tp 11 부류(u-) → 10 부류(n): ufunguo/funguo, wimbo/nyimbo, ukuta/kuta. 모양이 많이 바뀌니 짝으로 외워요.
+tp u-로 시작하는 말 중 추상명사(uhuru 자유, upendo 사랑)는 여럿이 없어요(14 부류).
+tp 꾸밈말: ufunguo mmoja(열쇠 하나) → funguo mbili(열쇠 둘).
+pr wimbo | 노래 하나 || nyimbo | 노래들
+pr ufunguo | 열쇠 하나 || funguo | 열쇠들
+dl 민준 | Nimepoteza funguo zangu! | 열쇠들을 잃어버렸어요!
+dl 니에마 | Funguo ngapi? | 몇 개요?
+dl 민준 | Mbili, ufunguo wa nyumba na wa gari. | 두 개요, 집 열쇠랑 차 열쇠요.
+dl 니에마 | Angalia ukutani, kuna ndoano. | 벽을 봐요, 걸이가 있잖아요.
+sm Ufunguo mmoja, funguo nyingi; wimbo mmoja, nyimbo nyingi. | 열쇠 하나, 열쇠 많이; 노래 하나, 노래 많이.
+qz wimbo 의 여럿은? | nyimbo
+qz funguo 의 하나는? | ufunguo
+
+@ 2-02-07 | 동물 이름·명사 호응 | mbwa·simba | 동물 이름은 대부분 모양이 그대로지만, 동사·꾸밈말은 사람처럼(a-, wa-) 써요.
+w mbwa | 개 · 하나든 여럿이든 mbwa | 개
+e Mbwa mmoja. | 개 한 마리.
+e Mbwa wawili. | 개 두 마리.
+e Mbwa anabweka. | 개가 짖어요.
+w paka | 고양이 · 모양 그대로 | 고양이
+e Paka mdogo. | 새끼 고양이.
+e Paka wengi. | 고양이 여러 마리.
+e Paka analala. | 고양이가 자요.
+w simba | 사자 · 모양 그대로 | 사자
+e Simba mkubwa. | 큰 사자.
+e Simba watatu. | 사자 세 마리.
+e Simba ni mfalme wa porini. | 사자는 숲의 왕이에요.
+w ng'ombe | 소 · 모양 그대로 | 소
+e Ng'ombe mmoja. | 소 한 마리.
+e Ng'ombe wengi. | 소 여러 마리.
+e Ng'ombe anakula majani. | 소가 풀을 먹어요.
+w tembo | 코끼리 · 모양 그대로 | 코끼리
+e Tembo mkubwa. | 큰 코끼리.
+e Tembo wanakunywa maji. | 코끼리들이 물을 마셔요.
+e Meno ya tembo. | 코끼리 상아.
+w kuku | 닭 · 모양 그대로 | 닭
+e Kuku mmoja. | 닭 한 마리.
+e Kuku wanne. | 닭 네 마리.
+e Kuku anataga yai. | 닭이 알을 낳아요.
+tp 동물은 모양이 그대로지만 꾸밈말·동사는 사람 부류: mbwa mmoja(개 한 마리), mbwa wawili(두 마리), mbwa anakula(개가 먹어요).
+tp 동물 수를 세면 wa-: simba watatu, ng'ombe wengi, kuku wanne.
+tp 동아프리카 '빅 파이브': simba(사자), tembo(코끼리), nyati(물소), chui(표범), kifaru(코뿔소).
+pr mbwa mmoja | 개 한 마리 || mbwa wawili | 개 두 마리
+pr simba anakula | 사자가 먹어요 || simba wanakula | 사자들이 먹어요
+dl 수아 | Angalia! Tembo wangapi? | 봐요! 코끼리 몇 마리예요?
+dl 가이드 | Tembo saba, na mtoto mmoja. | 일곱 마리, 새끼도 한 마리 있어요.
+dl 수아 | Kuna simba pia? | 사자도 있어요?
+dl 가이드 | Ndiyo, simba wawili wanalala chini ya mti. | 네, 사자 두 마리가 나무 아래서 자고 있어요.
+sm Mbwa mmoja, simba wawili, tembo saba — wanyama wengi! | 개 한 마리, 사자 두 마리, 코끼리 일곱 마리 — 동물이 많아요!
+qz '개 두 마리'는? | mbwa wawili
+qz '코끼리'는? | tembo
+
+@ 2-02-08 | 지시어의 명사 호응 | hiki·kile | '이것'과 '저것'도 명사 부류에 따라 바뀌어요.
+w huyu → hawa | 이 사람 → 이 사람들 | 이 사람(들)
+e Huyu ni mama yangu. | 이분은 우리 엄마예요.
+e Hawa ni wanafunzi wangu. | 이 사람들은 제 학생들이에요.
+e Mtoto huyu. | 이 아이.
+w yule → wale | 저 사람 → 저 사람들 | 저 사람(들)
+e Yule ni nani? | 저 사람은 누구예요?
+e Wale ni wageni. | 저 사람들은 손님이에요.
+e Mtu yule. | 저 사람.
+w hiki → hivi | 이것 → 이것들 (ki-vi) | 이것(들) (ki 부류)
+e Kitabu hiki. | 이 책.
+e Vitabu hivi. | 이 책들.
+e Hiki ni nini? | 이건 뭐예요?
+w kile → vile | 저것 → 저것들 (ki-vi) | 저것(들) (ki 부류)
+e Kiti kile. | 저 의자.
+e Viti vile. | 저 의자들.
+e Kile ni changu. | 저건 내 거예요.
+w hii → hizi | 이것 → 이것들 (n) | 이것(들) (n 부류)
+e Nyumba hii. | 이 집.
+e Nyumba hizi. | 이 집들.
+e Hii ni bei gani? | 이거 얼마예요?
+w hili → haya | 이것 → 이것들 (ji-ma) | 이것(들) (ji-ma 부류)
+e Gari hili. | 이 차.
+e Magari haya. | 이 차들.
+e Swali hili ni gumu. | 이 질문은 어려워요.
+tp '이(것)'는 h- + 부류 모음: huyu/hawa(사람), huu/hii(m-mi), hili/haya(ji-ma), hiki/hivi(ki-vi), hii/hizi(n).
+tp '저(것)'는 -le: yule/wale, ule/ile, lile/yale, kile/vile, ile/zile.
+tp 모르면 hii(이거)를 써도 통해요: Hii ni nini?(이거 뭐예요?)
+pr hiki | 이것 || kile | 저것
+pr huyu | 이 사람 || yule | 저 사람
+dl 상인 | Unataka kipi? Hiki au kile? | 어느 걸 원해요? 이거요, 저거요?
+dl 민준 | Kile kikubwa. Bei gani? | 저 큰 거요. 얼마예요?
+dl 상인 | Kile ni elfu tano, hiki ni elfu tatu. | 저건 오천, 이건 삼천이에요.
+dl 민준 | Nitachukua hiki basi. | 그럼 이걸로 할게요.
+sm Huyu, hawa, hiki, hivi, hii, hizi — 'hii' inabadilika. | 이 사람, 이 사람들, 이것, 이것들 — '이'가 바뀌어요.
+qz '이 책들'은? | vitabu hivi
+qz '저 사람'은? | yule
+
+@ 2-02-09 | 소유어의 명사 호응 | yangu·wangu | '나의, 너의'도 명사에 따라 앞부분이 바뀌어요.
+w kitabu changu → vitabu vyangu | 내 책 → 내 책들 | 내 책(들)
+e Kitabu changu kiko wapi? | 내 책 어디 있어?
+e Vitabu vyangu ni vipya. | 내 책들은 새것이에요.
+e Hiki ni changu. | 이건 내 거예요.
+w rafiki yangu → rafiki zangu | 내 친구 → 내 친구들 | 내 친구(들)
+e Rafiki yangu anaitwa Amani. | 내 친구 이름은 아마니예요.
+e Rafiki zangu wako Korea. | 내 친구들은 한국에 있어요.
+e Huyu ni rafiki yangu. | 이 사람은 내 친구예요.
+w mtoto wangu → watoto wangu | 내 아이 → 내 아이들 | 내 아이(들)
+e Mtoto wangu anasoma. | 우리 아이는 학교 다녀요.
+e Watoto wangu ni watatu. | 우리 아이들은 셋이에요.
+e Mwalimu wangu. | 우리 선생님.
+w jina lako → majina yako | 네 이름 → 네 이름들 | 네 이름; 네 이름들
+e Jina lako nani? | 이름이 뭐야?
+e Majina yako yote ni mazuri. | 네 이름들이 다 예뻐(이름이 여럿일 때).
+e Gari lako ni jipya? | 네 차 새 거야?
+w mji wake → miji yake | 그의 도시 → 그의 도시들 | 그의 도시; 그의 도시들
+e Mji wake ni Mombasa. | 그의 고향은 몸바사예요.
+e Miji yake ni mikubwa. | 그가 가진 도시들(땅)은 커요.
+e Mkono wake umevunjika. | 그의 팔이 부러졌어요.
+w nyumba yetu → nyumba zetu | 우리 집 → 우리 집들 | 우리 집(들)
+e Karibu nyumba yetu. | 우리 집에 어서 와요.
+e Nyumba zetu ziko karibu. | 우리 집들은 가까워요.
+e Shule yetu ni kubwa. | 우리 학교는 커요.
+tp 소유 뿌리: -angu(나) -ako(너) -ake(그) -etu(우리) -enu(너희) -ao(그들).
+tp 앞부분은 명사 부류: w-(m-wa 사람, m- 나무), y-(n 하나, mi- 여럿), z-(n 여럿), l-(ji), ch-/vy-(ki-vi).
+tp 가족·친구 같은 사람 말은 N 부류처럼 써요: rafiki yangu, dada yangu, mama yangu.
+pr changu | 내 것(ki) || vyangu | 내 것들(vi)
+pr yangu | 내 것(n) || zangu | 내 것들(n 여럿)
+dl 할리마 | Hii ni nyumba yako? | 이게 당신 집이에요?
+dl 민준 | Ndiyo. Na hii ni familia yangu kwenye picha. | 네. 그리고 이게 사진 속 우리 가족이에요.
+dl 할리마 | Watoto wako ni wazuri! | 아이들이 예쁘네요!
+dl 민준 | Asante. Na hawa ni rafiki zangu. | 고마워요. 그리고 이 사람들은 제 친구들이에요.
+sm Kitabu changu, vitabu vyangu; rafiki yangu, rafiki zangu. | 내 책, 내 책들; 내 친구, 내 친구들.
+qz '내 책들'은? | vitabu vyangu
+qz '우리 집'은? | nyumba yetu
+
+@ 2-02-10 | 장소·위치 표현 | mahali·nyumbani | 장소에는 특별한 부류(16·17·18)가 있어요. 장소 + -ni를 붙이면 '~에(서)'가 돼요.
+w mahali | 곳, 장소 · 꾸밈말 pa- | 곳, 장소
+e Mahali pazuri. | 좋은 곳.
+e Mahali hapa. | 이곳.
+e Mahali gani? | 어느 곳이요?
+w nyumbani | 집에(서) · nyumba + ni | 집에, 집에서
+e Niko nyumbani. | 집에 있어요.
+e Nyumbani kuna watu wengi. | 집에 사람이 많아요.
+e Rudi nyumbani. | 집에 돌아가요.
+w shuleni | 학교에(서) · shule + ni | 학교에, 학교에서
+e Watoto wako shuleni. | 아이들은 학교에 있어요.
+e Shuleni kuna maktaba. | 학교에 도서관이 있어요.
+e Tunakula shuleni. | 학교에서 밥을 먹어요.
+w hapa → huku | 여기(딱 이곳) → 이쪽(근처) | 여기; 이쪽
+e Kaa hapa. | 여기 앉아요.
+e Huku kuna baridi. | 이쪽은 추워요.
+e Njoo huku. | 이쪽으로 와요.
+w humu | 이 안에 · 안쪽 장소 | 이 안에
+e Humu ndani kuna joto. | 이 안은 더워요.
+e Kuna nini humu? | 이 안에 뭐가 있어요?
+e Weka humu. | 이 안에 넣어요.
+w kuna | ~가 있다 · ku 장소 + na | ~가 있다
+e Kuna maji? | 물 있어요?
+e Kuna watu wengi hapa. | 여기 사람이 많아요.
+e Hakuna shida. | 문제없어요.
+tp 장소 + -ni: nyumba → nyumbani, shule → shuleni, soko → sokoni, mji → mjini.
+tp 장소 세 가지: pa-(딱 그곳: hapa), ku-(그 근처, 방향: huku, kuna), mu-(안쪽: humu, mna).
+tp '있다'는 kuna(그 근처에 있다), pana(딱 그곳에 있다), mna(안에 있다). 일상에서는 kuna를 가장 많이 써요.
+pr hapa | 여기 || pale | 저기
+pr kuna | 있어요 || hakuna | 없어요
+dl 수아 | Kuna duka karibu hapa? | 이 근처에 가게 있어요?
+dl 주마 | Ndiyo, kuna duka pale kona. | 네, 저기 모퉁이에 가게가 있어요.
+dl 수아 | Ndani kuna maji ya chupa? | 안에 생수 있어요?
+dl 주마 | Ndiyo, humo kuna kila kitu. | 네, 그 안에 다 있어요.
+sm Hapa, huku, humu; nyumbani, shuleni, sokoni — mahali pengi. | 여기, 이쪽, 이 안; 집에, 학교에, 시장에 — 여러 곳.
+qz '집에서'는? | nyumbani
+qz '~가 있다'는? | kuna
