@@ -1,0 +1,694 @@
+// more note words (x word | meaning [| reading])
+x kwenye | ~에, ~에서
+x kazi | 일
+x wengi | 많은 (사람)
+x mmoja | 하나, 한 (사람)
+x kimoja | 하나 (물건)
+x hili | 이 (li 부류)
+x huu | 이 (u 부류)
+x hii | 이, 이것
+x hiki | 이 (ki 부류)
+x hizi | 이것들
+x huyu | 이 사람
+x hawa | 이 사람들
+x hiyo | 그 (것)
+x hilo | 그 (li 부류)
+x yule | 저 사람
+x ile | 저 (것)
+x ule | 저 (u 부류)
+x Zanzibar | 잔지바르 | 잔지바르
+x Arusha | 아루샤 | 아루샤
+x Dar | 다르(다르에스살람) | 다르
+x Kilimanjaro | 킬리만자로 | 킬리만자로
+x Kenya | 케냐 | 케냐
+x Seoul | 서울 | 서울
+x Busan | 부산 | 부산
+x Mombasa | 몸바사 | 몸바사
+x Serengeti | 세렝게티 | 세렝게티
+x Afrika | 아프리카 | 아프리카
+x Moshi | 모시(도시); 연기 | 모시
+x Victoria | 빅토리아 | 빅토리아
+x Kariakoo | 카리아쿠(시장) | 카리아쿠
+x Tanganyika | 탕가니카 | 탕가니카
+x Nyerere | 니에레레(초대 대통령) | 니에레레
+x China | 중국 | 치나
+x Bongo | 봉고(탄자니아 별명) | 봉고
+x Kyela | 키엘라(쌀 산지) | 키엘라
+x Bagamoyo | 바가모요 | 바가모요
+x Westlands | 웨스트랜즈(나이로비) | 웨스트랜즈
+x SGR | 표준궤 철도 | 에스지아르
+x Julius | 율리우스 | 줄리어스
+x Japani | 일본 | 자파니
+x Uganda | 우간다 | 우간다
+x Rwanda | 르완다 | 르완다
+x Kongo | 콩고 | 콩고
+x Komoro | 코모로 | 코모로
+x Rufiji | 루피지(강) | 루피지
+x Marekani | 미국 | 마레카니
+x Vodacom | 보다콤(통신사) | 보다콤
+x Uluguru | 울루구루(산) | 울루구루
+x Hindi | 인도 | 힌디
+x Nungwi | 능위(해변) | 능위
+x Sahara | 사하라 | 사하라
+x Dubai | 두바이 | 두바이
+x Mtwara | 음트와라 | 음트와라
+x Kigoma | 키고마 | 키고마
+x Mbezi | 음베지 | 음베지
+x Serena | 세레나 | 세레나
+x Iringa | 이링가 | 이링가
+x Geita | 게이타 | 게이타
+x Pemba | 펨바 | 펨바
+x Mkongwe | 오래된 (Mji Mkongwe 스톤타운) | 음콩웨
+x Diamond | 다이아몬드(가수) | 다이아몬드
+x Platnumz | 플래티넘즈 | 플라트넘즈
+x Yanga | 양가(축구팀) | 양가
+x BTS | 비티에스 | 비티에스
+x K-pop | 케이팝 | 케이팝
+x Shaaban | 샤반 | 샤반
+x Robert | 로버트 | 로버트
+x Zuhura | 주후라(이름) | 주후라
+x Kim | 김 | 킴
+x Minjun | 민준 | 민준
+x Sua | 수아 | 수아
+x Mubarak | 무바라크(축복받은) | 무바라크
+x Sol | 솔 | 솔
+x Seollal | 설날 | 설랄
+x Chuseok | 추석 | 추석
+x Arirang | 아리랑 | 아리랑
+x Hanbok | 한복 | 한복
+x annyeong | 안녕(한국어) | 안녕
+x Totoro | 토토로 | 토토로
+x es | 에스 | 에스
+x salaam | 평화 | 살람
+x ndefu | 긴 (n 부류)
+x refu | 긴, 높은
+x piga | 치다, 때리다
+x kupiga | 치다, 때리다
+x kali | 사나운, 매운, 강한
+x ah | 아(감탄)
+x aa | 아(감탄)
+x vaa | 입다
+x kuvaa | 입다
+x njema | 좋은 (n 부류)
+x naweza | 할 수 있어요(나)
+x ninaweza | 할 수 있어요(나)
+x tunaweza | 할 수 있어요(우리)
+x siwezi | 못 해요(나)
+x funguo | 열쇠(들)
+x tangu | ~부터, ~ 이래로
+x usiwe | ~하지 마(~이 되지 마)
+x vingi | 많은 (vi 부류)
+x viwili | 둘 (vi 부류)
+x vitatu | 셋 (vi 부류)
+x vitano | 다섯 (vi 부류)
+x vinne | 넷 (vi 부류)
+x mawili | 둘 (ma 부류)
+x watatu | 셋 (사람)
+x wanne | 넷 (사람)
+x watano | 다섯 (사람)
+x wanane | 여덟 (사람)
+x mitano | 다섯 (mi 부류)
+x nawa | 손을 씻다
+x kunawa | 손을 씻다
+x mkutano | 회의, 모임
+x mkutanoni | 회의에서
+x bila | ~없이
+x haya | 자, 좋아; 이것들 (ya 부류)
+x lete | 가져와
+x malaria | 말라리아
+x amani | 평화
+x chungu | 쓴; 냄비; 무더기
+x jikoni | 부엌에서
+x jiko | 부엌; 화덕
+x fundi | 기술자, 수리공
+x kadi | 카드
+x usijali | 걱정 마
+x haina | 없다(그것)
+x osha | 씻다
+x kuosha | 씻다
+x majani | 풀, 잎; 찻잎
+x chupa | 병
+x mwenye | ~을 가진 (사람)
+x taifa | 나라, 국가
+x nyimbo | 노래들
+x rudia | 다시 하다, 되풀이하다
+x kurudia | 되풀이하다
+x nitarudia | 다시 할게요
+x bivu | 익은
+x zuri | 좋은 (ji 부류)
+x nyekundu | 빨간 (n 부류)
+x jekundu | 빨간 (ji 부류)
+x mekundu | 빨간 (ma 부류)
+x mwekundu | 빨간 (m 부류)
+x chekundu | 빨간 (ki 부류)
+x ipi | 어느 (것)
+x pi | 어느
+x fupi | 짧은
+x kamba | 줄, 밧줄; 새우
+x meno | 이(이빨)들
+x kavu | 마른
+x pana | 넓은
+x mwanangu | 내 아이
+x ijayo | 다음 (i 부류)
+x ujao | 다음 (u 부류)
+x bichi | 덜 익은, 날것의
+x dogo | 작은
+x posta | 우체국
+x makini | 조심스러운, 주의 깊은
+x muhimu | 중요한
+x asili | 전통, 근원
+x namba | 번호
+x nambari | 번호
+x unajisikiaje | 몸(기분)은 어때요?
+x chaja | 충전기
+x zito | 무거운
+x hadithi | 이야기
+x gumu | 어려운, 딱딱한
+x tia | 넣다
+x kutia | 넣다
+x unaendeleaje | 어떻게 지내요?
+x anaendeleaje | 그는 어떻게 지내요?
+x letu | 우리의 (li 부류)
+x lenu | 너희의 (li 부류)
+x kanisa | 교회
+x kanisani | 교회에서
+x kingine | 다른 (것)
+x mengine | 다른 (것들)
+x wengine | 다른 사람들
+x mfalme | 왕
+x bluu | 파란
+x buluu | 파란
+x ukurasa | 쪽, 페이지
+x kurasa | 쪽들
+x wenye | ~을 가진 (사람들)
+x redio | 라디오
+x baiskeli | 자전거
+x mechi | 경기, 시합
+x washindi | 우승자들
+x sote | 우리 모두
+x anaitwa | 이름이 ~이에요(그)
+x ninaitwa | 제 이름은 ~이에요
+x unaitwa | 이름이 뭐예요(너)
+x chafu | 더러운
+x tupu | 빈
+x peke | 혼자
+x kawaida | 보통, 평소
+x kukaanga | 튀기다, 볶다
+x anataga | (알을) 낳아요
+x kimasai | 마사이식
+x kijani | 초록색
+x njano | 노란색
+x kinachofuata | 다음 것
+x konda | 마른(사람); 버스 차장
+x ofisi | 사무실
+x ofisini | 사무실에서
+x mstari | 줄, 선
+x mistari | 줄들
+x sanduku | 상자
+x badilisha | 바꾸다
+x kubadilisha | 바꾸다
+x maktaba | 도서관
+x maktabani | 도서관에서
+x nafasi | 자리, 기회, 틈
+x bomba | 수도관
+x tundu | 구멍
+x oga | 샤워하다
+x ninafua | 빨래해요
+x kufua | 빨래하다
+x kufulia | 빨래용
+x ikoje | 어때요?
+x ita | 부르다
+x kuita | 부르다
+x mwizi | 도둑
+x heri | 행운, 복
+x herini | (여러분) 안녕히
+x bidhaa | 상품, 물건
+x nene | 두꺼운, 뚱뚱한
+x kuukuu | 낡은, 헌
+x serikali | 정부
+x tatizo | 문제
+x tutabaki | 남을게요
+x bure | 공짜; 헛되이
+x tai | 독수리; 넥타이
+x ndio | 네(= ndiyo)
+x mwendo | 걸음, 속도
+x water | 물(영어)
+x pa | ~의 (장소); 주다
+x nitafikaje | 어떻게 가요?
+x ulifikaje | 어떻게 왔어요?
+x wavuvi | 어부들
+x kutwa | 하루 종일
+x msikitini | 모스크에서
+x chuo | 학교, 대학
+x chuoni | 학교(대학)에서
+x chips | 감자튀김
+x chipsi | 감자튀김
+x unga | 밀가루, 가루
+x kachumbari | 카춤바리(토마토 양파 샐러드)
+x kienyeji | 토종, 시골식
+x freshi | 신선한, 좋아
+x uma | 포크; 물다
+x limeiva | 익었어요
+x mnazi | 코코넛 나무
+x kiatu | 신발
+x wauzaji | 판매원들
+x kwako | 너에게, 너의 집
+x kwangu | 나에게, 내 집
+x kwetu | 우리 집, 우리 고향
+x kuu | 큰, 주된
+x mkuu | 우두머리, 주된
+x abiria | 승객
+x anaita | 불러요(그)
+x wanaita | 불러요(그들)
+x ninaita | 불러요(나)
+x uangalifu | 조심, 주의
+x risasi | 총알
+x baada | ~ 뒤에
+x a | 아(모음)
+x e | 에(모음)
+x i | 이(모음)
+x o | 오(모음)
+x u | 우(모음)
+x m | 음
+x d | 드(글자)
+x g | 그(글자)
+x ma | 마
+x sha | 이미 (-sha-)
+x tunga | 짓다, 만들다(글·노래)
+x filamu | 영화
+x haba | 적은
+x hana | 없다(그)
+x hekima | 지혜
+x kampuni | 회사
+x tupige | 치자(우리)
+x makofi | 손뼉
+x pigeni | 치세요(여러분)
+x walipiga | 쳤어요(그들)
+x unapiga | 쳐요(너)
+x anapiga | 쳐요(그)
+x wanapiga | 쳐요(그들)
+x alipiga | 쳤어요(그)
+x usipige | 치지 마
+x msipige | 치지 마세요
+x napiga | 쳐요(나)
+x utapiga | 칠 거예요(너)
+x amepiga | 쳤어요(그)
+x nimepiga | 쳤어요(나)
+x inapiga | 울려요(그것)
+x tupigiane | 서로 전화하자
+x nipigie | 나한테 전화해
+x mpigie | 그에게 전화해
+x ninampigia | 그에게 전화해요
+x alinipigia | 나한테 전화했어요
+x ananipigia | 나한테 전화해요
+x hukupiga | 안 쳤다/안 걸었다(너)
+x wapiga | 치는 사람들
+x tamaa | 욕심, 바람
+x porini | 들판에서, 덤불에서
+x nitamwita | 그를 부를게요
+x zimefuliwa | 빨렸어요
+x funika | 덮다
+x umevimba | 부었어요
+x zake | 그의 (z 부류)
+x chake | 그의 (ki 부류)
+x twiga | 기린
+x mkufu | 목걸이
+x begi | 가방
+x shinikizo | 압력
+x uzi | 실
+x magonjwa | 병들
+x bahati | 운
+x taslimu | 현금
+x nimebadilisha | 바꿨어요
+x kiwango | 수준, 비율
+x ardhi | 땅
+x ardhini | 땅에
+x sala | 기도(이슬람)
+x akubariki | 너를 축복하시기를
+x pili | 둘째
+x mwa | ~의 (안쪽)
+x mpe | 그에게 줘
+x uza | 팔다
+x mwambie | 그에게 말해
+x aje | 그가 오게
+x daraja | 다리; 등급
+x takataka | 쓰레기
+x salamu | 안부, 인사
+x tii | 따르다
+x sheria | 법
+x ndoto | 꿈
+x msamaha | 용서
+x magotini | 무릎에
+x rembo | 아름다운
+x epesi | 가벼운
+x hesabu | 수학; 계산
+x Kifaransa | 프랑스어
+x mfaransa | 프랑스 사람
+x nguvu | 힘
+x udaktari | 의학
+x ajili | ~을 위해 (kwa ajili ya)
+x jiandae | 준비해
+x mtungi | 통, 항아리
+x medali | 메달
+x pete | 반지
+x anabisha | 문을 두드려요; 우겨요
+x alibisha | 두드렸어요
+x kubisha | 두드리다; 우기다
+x nyuzi | 실들; 도(온도)
+x sitini | 60
+x tisini | 90
+x themanini | 80
+x tunahesabu | 세어요(우리)
+x yaani | 즉, 말하자면
+x adhana | 기도 시간 알림(아잔)
+x juzi | 그저께
+x kale | 옛날
+x Machi | 3월
+x Oktoba | 10월
+x kumbe | 알고 보니
+x kinywaji | 음료
+x siagi | 버터
+x matoke | 마토케(요리용 바나나)
+x namna | 방법, 종류
+x tulichinja | 잡았어요(가축)
+x wanachinja | 잡아요(가축)
+x saumu | 마늘
+x vinanuka | 냄새나요
+x hoho | 피망
+x miwa | 사탕수수
+x hujashiba | 아직 배 안 불러(너)
+x ushibe | 배불리 먹어
+x kupunguza | 줄이다, 깎다
+x kuchoma | 굽다; 찌르다
+x nitakuchoma | (주사) 놓을게요
+x nimechomwa | 찔렸어요; 주사 맞았어요
+x mdalasini | 계피
+x karafuu | 정향
+x inanibana | 나한테 꽉 껴요
+x kinabana | 꽉 껴요
+x kiislamu | 이슬람식
+x subira | 인내
+x plastiki | 플라스틱
+x mwaminifu | 정직한 사람
+x ukili | 야자잎 띠
+x bangili | 팔찌
+x mpingo | 흑단
+x makonde | 마콘데(조각)
+x zina | 가지고 있다(그것들)
+x nishushe | 내려 줘요
+x nililewa | 취했어요
+x bandarini | 항구에서
+x ukiwa | 네가 ~이면
+x epuka | 피하다
+x wino | 잉크
+x imebadilika | 바뀌었어요
+x inabadilika | 바뀌어요
+x kidato | 학년(중고등)
+x maabara | 실험실
+x linavutia | 매력 있어요
+x ili | ~하기 위해
+x nikikosea | 내가 틀리면
+x ulikuwaje | 어땠어요?
+x ilikuwaje | 어땠어요?
+x linamaanisha | 뜻해요
+x eraser | 지우개(영어)
+x jozi | 쌍, 켤레
+x linatafsiriwa | 번역돼요
+x nakulaa | 먹어요(입말)
+x fleva | 맛, 스타일
+x flava | 맛, 스타일 (Bongo Flava)
+x sehemu | 부분, 곳
+x wanafuga | 길러요(가축)
+x mavazi | 옷차림
+x kibaba | 작은 되(계량)
+x desturi | 관습
+x mchaga | 차가족 사람
+x mmasai | 마사이 사람
+x mna | 있다(너희)
+x hamna | 없다
+x fuata | 따라가다
+x mianzi | 대나무
+x ala | 악기
+x tingatinga | 팅가팅가(그림)
+x tangazo | 광고, 공고
+x tunapaka | 칠해요(우리)
+x kupaka | 칠하다, 바르다
+x usipake | 칠하지 마
+x tupake | 칠하자
+x upake | 칠해
+x mfinyanzi | 도공
+x vyungu | 항아리들
+x gawanya | 나누다
+x gawanyeni | 나누세요
+x itakayoshinda | 이길 (것)
+x umepasuka | 찢어졌어요
+x mlinda | 지키는 사람 (mlinda mlango 골키퍼)
+x unashabikia | 응원해요(너)
+x yanachemka | 끓어요
+x kuchemka | 끓다
+x inayeyuka | 녹아요
+x sola | 태양광
+x sogeza | 옮기다
+x friji | 냉장고
+x kijamii | 사회의
+x mafanikio | 성공
+x inajumuisha | 포함해요
+x dari | 천장
+x kinavuja | 새요
+x kisafi | 깨끗하게
+x dini | 종교
+x bafu | 욕실
+x bafuni | 욕실에서
+x ufagio | 빗자루
+x umeamkaje | 잘 잤어요?
+x anagonga | 두드려요
+x nyavu | 그물들
+x tabasamu | 미소
+x fumba | 감다(눈)
+x kamasi | 콧물
+x mswaki | 칫솔
+x kuhara | 설사하다
+x utajiri | 부(富)
+x kichefuchefu | 메스꺼움
+x wauguzi | 간호사들
+x muite | 그를 불러
+x wodini | 병동에서
+x inaungua | 타요, 데어요
+x umeungua | 데었어요
+x ameiba | 훔쳤어요
+x kuiba | 훔치다
+x dharura | 비상
+x sajili | 등록하다
+x iliyojaa | 가득 찬
+x maombi | 기도; 신청
+x taarifa | 보고, 정보
+x kucha | 손톱
+x limepungua | 줄었어요
+x zimeharibiwa | 망가뜨려졌어요
+x mbuyu | 바오바브나무
+x ngamia | 낙타
+x mashua | 배(작은)
+x busara | 지혜, 분별
+x ushindi | 승리
+x kikao | 회의, 모임
+x atahutubia | 연설할 거예요
+x rasmi | 공식적인
+x namkaribisha | 그를 환영해요
+x nawapongeza | 여러분을 축하해요
+x chokoleti | 초콜릿
+x wananchi | 국민, 시민
+x amezaa | 낳았어요
+x anasimulia | 이야기해요
+x barazani | 마루(바라자)에서
+x umbo | 모양
+x ndoano | 낚싯바늘
+x humo | 그 안에
+x huku | 여기, 이쪽
+x pengi | 많은 곳에
+x deki | 갑판
+x pande | 쪽, 방향들
+x vyombo | 그릇들; 탈것들
+x blanketi | 담요
+x eleza | 설명하다
+x sentimita | 센티미터
+x kisasa | 현대식
+x huduma | 서비스
+x elimu | 교육
+x chenye | ~을 가진 (ki 부류)
+x yenye | ~을 가진 (i 부류)
+x hakina | 없다(그것)
+x ladha | 맛
+x chache | 적은
+x hawaaminiwi | 믿을 수 없어요(그들)
+x machozi | 눈물
+x hafifu | 약한
+x tanki | 탱크
+x choyo | 인색함
+x adui | 적
+x amezeeka | 늙었어요
+x changa | 어린
+x biashara | 장사, 사업
+x umeshindaje | 어떻게 지냈어요?(하루)
+x mkeka | 돗자리
+x kabatini | 찬장(옷장)에서
+x ananiita | 나를 불러요
+x anamlaza | 재워요
+x wamemlaza | 입원시켰어요
+x laza | 눕히다, 재우다
+x msalimieni | 안부 전해 주세요
+x hamjambo | 다들 안녕하세요?
+x hatujambo | 우리는 잘 지내요
+x nisamehe | 용서해 줘
+x mkurugenzi | 이사, 대표
+x miadi | 약속(만날)
+x inasemwaje | 어떻게 말해요?
+x sadaka | 헌금, 제물
+x ripoti | 보고서
+x wamekabidhiwa | 넘겨받았어요
+x ziada | 여분, 추가
+x lori | 트럭
+x matendo | 행동
+x saini | 서명
+x iliyobaki | 남은 (것)
+x ona | 보다
+x alininong'oneza | 나에게 속삭였어요
+x askari | 군인, 경비
+x amri | 명령
+x sifahamu | 몰라요(나)
+x wanasayansi | 과학자들
+x hebu | 자, 어디
+x mali | 재산
+x pochi | 지갑
+x rais | 대통령
+x nyoka | 뱀
+x chali | 반듯이(눕다)
+x popcorn | 팝콘
+x ipo | 있어요(그것)
+x hisia | 감정
+x hasara | 손해
+x mjusi | 도마뱀
+x embamba | 좁은
+x ukiniita | 네가 나를 부르면
+x sikuja | 안 왔어요(나)
+x hakuja | 안 왔어요(그)
+x gazeti | 신문
+x nipo | 여기 있어요(나)
+x jeshi | 군대
+x sufuria | 냄비
+x hapo | 거기
+x jiandikisha | 등록하다
+x chuki | 미움
+x orodha | 목록
+x nununulie | 나한테 사 줘
+x jembe | 괭이
+x uti | 줄기 (uti wa mgongo 등뼈)
+x wizara | 부(정부 부처)
+x tunavuna | 거둬요(우리)
+x kuvuna | 거두다
+x gharama | 비용
+x uponyaji | 치유
+x wachina | 중국 사람들
+x kubomoa | 허물다
+x kafiri | 이교도, 낯선 이
+x umma | 대중
+x daima | 늘, 영원히
+x haki | 정의, 권리
+x halisi | 진짜
+x malkia | 여왕
+x mjerumani | 독일 사람
+x iliitawala | 지배했어요
+x wafanyabiashara | 상인들
+x tende | 대추야자
+x mataifa | 나라들
+x kwamba | ~라고, ~라는 것
+x taarab | 타랍(음악)
+x mwajiri | 고용주
+x wanakijiji | 마을 사람들
+x kisha | 그다음에
+x geti | 대문
+x jogoo | 수탉
+x utotoni | 어릴 때
+x vita | 전쟁
+x kuvunja | 깨다
+x mwenyewe | 스스로
+x jipikie | 해 먹어
+x jiunge | 가입해
+x nasi | 우리와 함께
+x kuandaa | 준비하다
+x mzizi | 뿌리
+x ondoa | 없애다
+x mahakamani | 법정에서
+x kifo | 죽음
+x uchumi | 경제
+x tahadhari | 주의, 조심
+x imepaa | 날아올랐어요
+x mchungaji | 목자; 목사
+x asali | 꿀
+x mpevu | 다 자란, 보름(달)
+x kundi | 무리
+x ngombe | 소(잘못된 철자)
+x kigeni | 외국의
+x mosi | 첫째, 1일
+x jumuiya | 공동체
+x jumaa | 금요일(이슬람)
+x zimo | 안에 있어요(그것들)
+x yumo | 안에 있어요(그)
+x kimo | 안에 있어요(그것)
+x siko | 없어요(나)
+x hakiko | 없어요(그것)
+x bovu | 상한, 썩은
+x kuta | 벽들
+x nyuso | 얼굴들
+x alipo | 그가 있는 곳
+x nendeni | 가세요(여러분)
+x a-san-te | 아산테
+x cha-ku-la | 차쿨라
+x ha-ba-ri | 하바리
+x ni-na-ku-pe-nda | 니나쿠펜다
+x tu-ta-o-na-na | 투타오나나
+x nimepona | 나았어요
+x Korea | 한국 | 코리아
+x ana | 가지고 있다(그)
+x una | 가지고 있다(너)
+x ina | 가지고 있다, ~이 있다(그것)
+x iko | 있어요(그것, 어디에)
+x uko | 있어요(너, 어디에)
+x mko | 있어요(너희, 어디에)
+x yuko | 있어요(그, 어디에)
+x afisa | 관리, 공무원
+x kupandishwa | 올려지다, 승진하다
+x kufukuzwa | 쫓겨나다, 해고되다
+x kufukuza | 쫓다, 해고하다
+x kustaafu | 은퇴하다
+x kuajiri | 고용하다
+x kutandika | (침대를) 정리하다, 펴다
+x kuanua | (빨래를) 걷다
+x kuagiza | 주문하다, 부르다
+x kuficha | 숨기다
+x kukanyaga | 밟다
+x ramyeon | 라면 | 라면
+x wow | 와(감탄)
+x chui | 표범
+x kifaru | 코뿔소
+x tulivu | 잔잔한, 조용한
+x Agosti | 8월
+x haha | 하하
+x Masaki | 마사키(다르에스살람 동네) | 마사키
+x Sinza | 신자(다르에스살람 동네) | 신자
+x bosi | 사장, 상사
+x meneja | 매니저
+x cheo | 직위, 지위
+x pipa | 통, 드럼통
+x mapato | 소득, 수입
+x mpangaji | 세입자
+x amana | 보증금, 맡긴 것
+x maandazi | 만다지(튀긴 빵)
+x nimeajiriwa | 취직했어요(고용됐어요)
+x msikiti | 모스크
+x jihadhari | 조심하다
+x nakala | 사본
+x yoyote | 어떤 ~라도
+x NMB | NMB(은행 이름) | 엔엠비
+x mkabala | 맞은편
+x inateleza | 미끄러워요
+x usimuuzie | 그에게 팔지 마

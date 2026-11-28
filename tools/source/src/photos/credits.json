@@ -1,0 +1,135 @@
+{
+"dodoma": {
+"w": 800,
+"h": 600,
+"a": "Mangapwani",
+"lic": "CC BY-SA 4.0",
+"src": "Street_in_Uhuru_ward,_Dodoma_MC.jpg"
+},
+"bagamoyo": {
+"w": 800,
+"h": 600,
+"a": "Adam Jones, Ph.D.",
+"lic": "CC BY-SA 3.0",
+"src": "Architectural_Detail_-_Bagamoyo_-_Tanzania_-_02.jpg"
+},
+"church": {
+"w": 800,
+"h": 600,
+"a": "David Stanley from Nanaimo, Canada",
+"lic": "CC BY 2.0",
+"src": "Azania_Front_Lutheran_Church_(34858227016).jpg"
+},
+"mosque": {
+"w": 800,
+"h": 600,
+"a": "Luganosamwel",
+"lic": "CC BY-SA 4.0",
+"src": "Bamnara_Mosque.jpg"
+},
+"music": {
+"w": 800,
+"h": 533,
+"a": "Imani selemani Nsamila",
+"lic": "CC BY-SA 4.0",
+"src": "Taarab_From_Zanzibar.jpg"
+},
+"ugali": {
+"w": 800,
+"h": 600,
+"a": "MWANI",
+"lic": "CC BY-SA 4.0",
+"src": "Tanzania_Food_Ugali_and_Mlenda.jpg"
+},
+"mishkaki": {
+"w": 800,
+"h": 588,
+"a": "Zizounyc",
+"lic": "CC BY-SA 4.0",
+"src": "Mishkaki_at_Coco_Beach,_Oysterbay..jpg"
+},
+"tinga": {
+"w": 800,
+"h": 611,
+"a": "Ingo Koll (scan) - Rubuni Rashid Said (artist)",
+"lic": "CC BY-SA 4.0",
+"src": "Punda_Milia_Baba_na_Mama.jpg"
+},
+"daladala": {
+"w": 800,
+"h": 600,
+"a": "Yeluma Ntali",
+"lic": "CC BY-SA 4.0",
+"src": "Motor_Bike_Riders_locally_called_\"Bodaboda\".jpg"
+},
+"meal": {
+"w": 800,
+"h": 600,
+"a": "Tcg1111",
+"lic": "CC BY-SA 4.0",
+"src": "Traditional_Tanzanian_food_-_pilau_kuku,_mishkaki,_ndizi,_&c..JPG"
+},
+"shilingi": {
+"w": 800,
+"h": 393,
+"a": "Plouf250",
+"lic": "CC BY-SA 4.0",
+"src": "10,000_Tanzanian_shillings_banknote,_2011_serie,_obverse.jpg"
+},
+"coast": {
+"w": 800,
+"h": 600,
+"a": "Olivier Lejade from France",
+"lic": "CC BY-SA 2.0",
+"src": "Beach_at_Matemwe.jpg"
+},
+"street": {
+"w": 800,
+"h": 600,
+"a": "Ismizotz",
+"lic": "CC BY-SA 4.0",
+"src": "Kariakoo_Waking_Up.jpg"
+},
+"nyerere": {
+"w": 800,
+"h": 531,
+"a": "Pernille Bærendtsen",
+"lic": "CC BY-SA 2.0",
+"src": "Nyerere_Statue_in_Dodoma.jpg"
+},
+"rain": {
+"w": 800,
+"h": 450,
+"a": "Christoph Strässler",
+"lic": "CC BY-SA 2.0",
+"src": "Rainstorm_at_Mara_River,_Serengeti,_Tanzania.jpg"
+},
+"serengeti": {
+"w": 800,
+"h": 533,
+"a": "Agness Abubakar Saidi",
+"lic": "CC0",
+"src": "Blue_wildebeest_herd_gathering_at_the_Mara_River,_Serengeti_National_Park.jpg"
+},
+"dar": {
+"w": 800,
+"h": 600,
+"a": "FredyVC",
+"lic": "CC BY-SA 4.0",
+"src": "A_ship_leaving_Dar_es_salaam_port.jpg"
+},
+"victoria": {
+"w": 800,
+"h": 524,
+"a": "Jonathan Stonehouse",
+"lic": "CC BY 2.0",
+"src": "Capri_Point,_Mwanza,_Tanzania.jpg"
+},
+"kilwa": {
+"w": 800,
+"h": 600,
+"a": "Mateo.Mfalme",
+"lic": "CC BY-SA 4.0",
+"src": "Magofu_ya_Husuni_Mkubwa_-_Kilwa_Kisiwani_2016.jpg"
+}
+}

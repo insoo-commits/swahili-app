@@ -1,0 +1,365 @@
+# P5-D | 건강·병원
+
+@ 1-09-01 | 머리·얼굴 | kichwa·macho | 머리와 얼굴 부분 이름이에요. 여럿을 말할 때 모양이 바뀌는 말이 많아요.
+w kichwa | 머리 · 여럿 vichwa | 머리
+e Kichwa kinauma. | 머리가 아파요.
+e Kichwa changu kizito. | 머리가 무거워요.
+e Funika kichwa. | 머리를 가려요.
+w uso | 얼굴 · 여럿 nyuso | 얼굴
+e Osha uso. | 세수해요.
+e Uso wake una tabasamu. | 그의 얼굴에 미소가 있어요.
+e Uso umevimba. | 얼굴이 부었어요.
+w jicho | 눈 · 여럿 macho | 눈
+e Jicho moja linauma. | 한쪽 눈이 아파요.
+e Macho mekundu. | 빨간 눈.
+e Fumba macho. | 눈을 감아요.
+w sikio | 귀 · 여럿 masikio | 귀
+e Sikio linauma. | 귀가 아파요.
+e Masikio mawili. | 두 귀.
+e Sikio langu limeziba. | 귀가 먹먹해요.
+w pua | 코 | 코
+e Pua inatoka kamasi. | 콧물이 나요.
+e Pua imeziba. | 코가 막혔어요.
+e Pua ndefu. | 긴 코.
+w mdomo | 입, 입술 · 여럿 midomo | 입; 입술
+e Fungua mdomo. | 입을 벌려요.
+e Midomo imekauka. | 입술이 텄어요.
+e Funga mdomo! | 입 다물어!
+w jino | 이, 치아 · 여럿 meno | 이, 치아
+e Jino linauma. | 이가 아파요.
+e Piga mswaki meno. | 이를 닦아요.
+e Daktari wa meno. | 치과 의사.
+w nywele | 머리카락 | 머리카락
+e Nywele ndefu. | 긴 머리.
+e Kata nywele. | 머리를 잘라요.
+e Nywele zake ni nyeusi. | 그의 머리카락은 검어요.
+tp 짝을 이루는 몸 부분은 ji-ma 부류가 많아요: jicho → macho(눈), jino → meno(이), sikio → masikio(귀).
+tp '~가 아파요'는 ~ + inauma/kinauma/linauma: Kichwa kinauma(머리가 아파요).
+tp 이 닦기는 kupiga mswaki(칫솔질하다).
+pr jicho | 눈 하나 || macho | 두 눈
+pr jino | 이 하나 || meno | 이들
+dl 의사 | Nini kinakusumbua? | 어디가 불편하세요?
+dl 수아 | Kichwa kinauma na macho ni mekundu. | 머리가 아프고 눈이 빨개요.
+dl 의사 | Tangu lini? | 언제부터요?
+dl 수아 | Tangu jana usiku. | 어젯밤부터요.
+sm Kichwa, uso, macho, masikio, pua, mdomo na meno. | 머리, 얼굴, 눈, 귀, 코, 입, 이.
+qz '눈(두 눈)'은? | macho
+qz '이가 아파요'는? | Jino linauma
+
+@ 1-09-02 | 몸통·팔다리 | mkono·mguu·tumbo | 몸통과 팔다리 이름이에요. mkono는 '팔'과 '손' 둘 다예요.
+w mkono | 손, 팔 · 여럿 mikono | 손; 팔
+e Mkono wa kulia. | 오른손.
+e Nawa mikono. | 손 씻어요.
+e Nimeumia mkono. | 팔을 다쳤어요.
+w mguu | 발, 다리 · 여럿 miguu | 발; 다리
+e Mguu unauma. | 다리가 아파요.
+e Kwa miguu. | 걸어서.
+e Mguu wangu umevimba. | 발이 부었어요.
+w tumbo | 배 | 배(복부)
+e Tumbo linauma. | 배가 아파요.
+e Tumbo la kuhara. | 설사.
+e Tumbo limejaa. | 배가 불러요.
+w kifua | 가슴 | 가슴
+e Kifua kinabana. | 가슴이 답답해요.
+e Maumivu ya kifua. | 가슴 통증.
+e Kikohozi cha kifua. | 가슴 기침.
+w mgongo | 등, 허리 · 여럿 migongo | 등; 허리
+e Mgongo unauma. | 허리가 아파요.
+e Beba mtoto mgongoni. | 아기를 등에 업어요.
+e Nyoosha mgongo. | 허리를 펴요.
+w shingo | 목 | 목
+e Shingo ndefu ya twiga. | 기린의 긴 목.
+e Shingo inauma. | 목이 아파요.
+e Mkufu wa shingo. | 목걸이.
+w bega | 어깨 · 여럿 mabega | 어깨
+e Bega la kushoto. | 왼쪽 어깨.
+e Mabega yanauma. | 어깨가 아파요.
+e Beba begi begani. | 가방을 어깨에 메요.
+w goti | 무릎 · 여럿 magoti | 무릎
+e Goti linauma. | 무릎이 아파요.
+e Piga magoti. | 무릎을 꿇어요.
+e Nimeanguka nikaumia goti. | 넘어져서 무릎을 다쳤어요.
+tp mkono(팔·손), mguu(다리·발)는 한 단어로 둘 다예요. 정확히는 kiganja(손바닥), unyayo(발바닥).
+tp '다쳤어요'는 nimeumia ~: Nimeumia mguu(다리를 다쳤어요).
+tp goti(무릎) ↔ koti(외투): 소리가 비슷해요(7-xx 말소리).
+pr mkono | 팔 하나 || mikono | 팔들
+pr mguu | 다리 하나 || miguu | 다리들
+dl 민준 | Daktari, mgongo na bega vinauma. | 선생님, 허리랑 어깨가 아파요.
+dl 의사 | Ulibeba kitu kizito? | 무거운 걸 들었어요?
+dl 민준 | Ndiyo, mizigo mizito jana. | 네, 어제 무거운 짐을요.
+dl 의사 | Pumzika siku mbili. | 이틀 쉬세요.
+sm Mkono, mguu, tumbo, kifua, mgongo, shingo, bega na goti. | 팔, 다리, 배, 가슴, 등, 목, 어깨, 무릎.
+qz '배가 아파요'는? | Tumbo linauma
+qz mkono 는? | 손, 팔
+
+@ 1-09-03 | 몸속 기관·혈액 | moyo·damu | 몸 안쪽과 몸에 대한 말이에요.
+w moyo | 심장, 마음 · 여럿 mioyo | 심장; 마음
+e Moyo unapiga haraka. | 심장이 빨리 뛰어요.
+e Ana moyo mzuri. | 그는 마음씨가 좋아요.
+e Kwa moyo wote. | 진심으로.
+w damu | 피 | 피
+e Damu inatoka. | 피가 나요.
+e Kipimo cha damu. | 피검사.
+e Shinikizo la damu. | 혈압.
+w mwili | 몸 · 여럿 miili | 몸
+e Mwili wote unauma. | 온몸이 아파요.
+e Joto la mwili. | 체온.
+e Mwili wenye afya. | 건강한 몸.
+w ngozi | 피부, 가죽 | 피부; 가죽
+e Ngozi kavu. | 건조한 피부.
+e Ngozi inawasha. | 피부가 가려워요.
+e Viatu vya ngozi. | 가죽 신발.
+w mfupa | 뼈 · 여럿 mifupa | 뼈
+e Mfupa umevunjika. | 뼈가 부러졌어요.
+e Mifupa ya samaki. | 생선 가시.
+e Picha ya mfupa. | 엑스레이.
+w kidole | 손가락, 발가락 · 여럿 vidole | 손가락
+e Vidole vitano. | 손가락 다섯.
+e Kidole cha mguu. | 발가락.
+e Nimekata kidole. | 손가락을 베었어요.
+w afya | 건강 | 건강
+e Afya njema. | 건강.
+e Afya ni utajiri. | 건강이 재산이다.
+e Afya yako ikoje? | 건강은 어때요?
+w uzito | 무게, 몸무게 · zito 무거운 | 무게, 몸무게
+e Uzito wako ni kilo ngapi? | 몸무게가 몇 킬로예요?
+e Pima uzito. | 몸무게를 재요.
+e Nimeongeza uzito. | 살이 쪘어요.
+tp moyo는 '심장'이면서 '마음'이에요: moyo mzuri(좋은 마음).
+tp 형용사 앞에 u-를 붙이면 명사: -zito(무거운) → uzito(무게), -refu(긴) → urefu(길이).
+tp 건배·작별할 때도 Afya!(건강!)라고 해요.
+pr damu | 피 || mfupa | 뼈
+pr afya njema | 건강 || ugonjwa | 병
+dl 간호사 | Tutapima damu na uzito wako. | 피검사하고 몸무게를 잴게요.
+dl 민준 | Sawa. Itachukua muda gani? | 네. 얼마나 걸려요?
+dl 간호사 | Dakika kumi tu. | 10분이면 돼요.
+dl 민준 | Asante. Afya yangu iko sawa? | 고마워요. 제 건강 괜찮은가요?
+sm Moyo, damu, mifupa na ngozi — mwili wenye afya. | 심장, 피, 뼈, 피부 — 건강한 몸.
+qz '건강'은? | afya
+qz moyo 의 두 뜻은? | 심장, 마음
+
+@ 1-09-04 | 증상·통증 | homa·kikohozi·kuhara | 아플 때 증상을 말해요. 열이 나면 말라리아 검사를 먼저 받는 게 좋아요.
+w homa | 열, 열병 | 열; 열병
+e Nina homa. | 열이 나요.
+e Homa kali. | 고열.
+e Homa ya malaria. | 말라리아 열.
+w mafua | 감기 | 감기, 코감기
+e Nina mafua. | 감기에 걸렸어요.
+e Mafua makali. | 독한 감기.
+e Mtoto ana mafua. | 아이가 감기에 걸렸어요.
+w kikohozi | 기침 · kohoa 기침하다 | 기침
+e Nina kikohozi. | 기침이 나요.
+e Kikohozi kikavu. | 마른기침.
+e Dawa ya kikohozi. | 기침약.
+w kuharisha | 설사하다 | 설사하다
+e Ninaharisha. | 설사해요.
+e Mtoto anaharisha tangu jana. | 아이가 어제부터 설사해요.
+e Kunywa maji mengi ukiharisha. | 설사하면 물을 많이 마셔요.
+w kutapika | 토하다 | 토하다
+e Nimetapika mara mbili. | 두 번 토했어요.
+e Anataka kutapika. | 그는 토할 것 같아요.
+e Kichefuchefu na kutapika. | 메스꺼움과 구토.
+w kuumwa | 아프다 · uma 물다 + wa | 아프다, 앓다
+e Ninaumwa. | 저 아파요.
+e Anaumwa tangu Jumatatu. | 그는 월요일부터 아파요.
+e Unaumwa nini? | 어디가 아파요?
+w maumivu | 통증 | 통증, 아픔
+e Maumivu makali. | 심한 통증.
+e Maumivu ya tumbo. | 복통.
+e Dawa ya maumivu. | 진통제.
+w kizunguzungu | 어지러움 | 어지러움
+e Nina kizunguzungu. | 어지러워요.
+e Kizunguzungu kimeanza asubuhi. | 아침부터 어지러웠어요.
+e Kaa chini kama una kizunguzungu. | 어지러우면 앉아요.
+tp 증상은 Nina ~(~가 있어요)로 말해요: nina homa, nina mafua, nina kikohozi, nina kizunguzungu.
+tp kuuma(물다; 아프다) → kuumwa(아프다, 앓다): Ninaumwa(아파요).
+tp 열이 나면 말라리아일 수 있어요. 바로 검사(kipimo cha malaria)를 받아요.
+pr Nina homa. | 열이 나요. || Sina homa. | 열 없어요.
+pr kikohozi | 기침 || mafua | 감기
+dl 의사 | Unajisikiaje? | 몸이 어때요?
+dl 수아 | Nina homa na kizunguzungu. | 열이 나고 어지러워요.
+dl 의사 | Unatapika au unaharisha? | 토하거나 설사해요?
+dl 수아 | Hapana, lakini mwili wote unauma. | 아니요, 그런데 온몸이 아파요.
+sm Nina homa, kikohozi na maumivu — ninaumwa. | 열, 기침, 통증이 있어요 — 아파요.
+qz '열이 나요'는? | Nina homa
+qz '기침'은? | kikohozi
+
+@ 1-09-05 | 진료 | daktari·kipimo | 병원(hospitali, zahanati)에서 진료받을 때 쓰는 말이에요.
+w hospitali | 병원 | 병원
+e Hospitali iko wapi? | 병원이 어디예요?
+e Nipeleke hospitali. | 병원에 데려다줘요.
+e Amelazwa hospitali. | 그는 병원에 입원했어요.
+w zahanati | 진료소 · 작은 동네 병원 | 진료소, 보건소
+e Zahanati ya kijiji. | 마을 보건소.
+e Zahanati inafunguliwa saa mbili. | 진료소는 8시에 열어요.
+e Nenda zahanati kwanza. | 먼저 진료소에 가요.
+w daktari | 의사 · 여럿 madaktari | 의사
+e Nataka kumwona daktari. | 의사를 만나고 싶어요.
+e Daktari wa watoto. | 소아과 의사.
+e Daktari amesema nipumzike. | 의사가 쉬라고 했어요.
+w muuguzi | 간호사 · uguza 돌보다 | 간호사
+e Muuguzi anapima joto. | 간호사가 체온을 재요.
+e Wauguzi ni wakarimu. | 간호사들이 친절해요.
+e Muite muuguzi. | 간호사를 불러요.
+w kipimo | 검사, 측정 · pima 재다 | 검사; 측정
+e Kipimo cha malaria. | 말라리아 검사.
+e Matokeo ya kipimo. | 검사 결과.
+e Vipimo vyote ni sawa. | 검사가 다 정상이에요.
+w sindano | 주사, 바늘 | 주사; 바늘
+e Nitakuchoma sindano. | 주사 놓을게요.
+e Ninaogopa sindano. | 주사가 무서워요.
+e Sindano na uzi. | 바늘과 실.
+w kulazwa | 입원하다 · laza 눕히다 + wa | 입원하다
+e Atalazwa siku tatu. | 그는 사흘 입원할 거예요.
+e Mgonjwa amelazwa wodini. | 환자가 병동에 입원했어요.
+e Hutalazwa, utarudi nyumbani. | 입원 안 하고 집에 갈 거예요.
+w mgonjwa | 환자 · 여럿 wagonjwa | 환자
+e Mgonjwa anaendeleaje? | 환자는 어때요?
+e Wagonjwa wengi leo. | 오늘 환자가 많아요.
+e Kumtembelea mgonjwa. | 환자 병문안.
+tp 동네의 작은 병원은 zahanati, 큰 병원은 hospitali.
+tp '~를 보다/만나다'에서 사람이 목적어면 동사 안에 m-이 들어가요: kumwona daktari(의사를 보다).
+tp 병문안 인사: Pole sana, ugua pole(빨리 나으세요).
+pr daktari | 의사 || muuguzi | 간호사
+pr mgonjwa | 환자 || wagonjwa | 환자들
+dl 접수 | Unaumwa nini? | 어디가 아프세요?
+dl 민준 | Nina homa tangu jana. Nataka kumwona daktari. | 어제부터 열이 나요. 의사를 만나고 싶어요.
+dl 접수 | Kwanza tutafanya kipimo cha malaria. | 먼저 말라리아 검사를 할게요.
+dl 민준 | Sawa. Kuna sindano? | 네. 주사 맞아요?
+sm Mgonjwa anakwenda zahanati, daktari anafanya kipimo. | 환자가 진료소에 가고, 의사가 검사를 해요.
+qz '의사'는? | daktari
+qz '검사'는? | kipimo
+
+@ 1-09-06 | 약국 | dawa·vidonge | 약국(duka la dawa)에서 약을 살 때 쓰는 말이에요.
+w dawa | 약 | 약
+e Dawa ya homa. | 해열제.
+e Meza dawa. | 약을 삼켜요.
+e Dawa hii ni chungu. | 이 약은 써요.
+w duka la dawa | 약국 · '약 가게' | 약국
+e Duka la dawa liko karibu? | 약국이 가까이 있어요?
+e Nunua dawa kwenye duka la dawa. | 약국에서 약을 사요.
+e Duka la dawa la saa ishirini na nne. | 24시간 약국.
+w kidonge | 알약 · 여럿 vidonge | 알약
+e Vidonge viwili. | 알약 두 개.
+e Kidonge kimoja kila asubuhi. | 매일 아침 한 알.
+e Meza vidonge kwa maji. | 물과 함께 알약을 삼켜요.
+w kumeza | 삼키다 | 삼키다
+e Meza kidonge hiki. | 이 알약을 삼켜요.
+e Siwezi kumeza. | 못 삼키겠어요.
+e Meza baada ya kula. | 식후에 드세요.
+w dawa ya malaria | 말라리아약 | 말라리아약
+e Dawa ya malaria kwa siku tatu. | 사흘 치 말라리아약.
+e Unatumia dawa ya malaria? | 말라리아약 먹어요?
+e Dawa ya malaria ni muhimu. | 말라리아약은 중요해요.
+w dawa ya kupaka | 바르는 약, 연고 · paka 바르다 | 연고, 바르는 약
+e Paka dawa hii kwenye kidonda. | 상처에 이 약을 발라요.
+e Dawa ya kupaka ya ngozi. | 피부 연고.
+e Paka mara mbili kwa siku. | 하루에 두 번 발라요.
+w kidonda | 상처, 종기 · 여럿 vidonda | 상처, 헌데
+e Kidonda kidogo. | 작은 상처.
+e Funga kidonda. | 상처를 감아요.
+e Kidonda kimepona. | 상처가 나았어요.
+w kupona | 낫다 | (병이) 낫다
+e Nimepona! | 나았어요!
+e Upone haraka! | 빨리 나아요!
+e Atapona baada ya wiki moja. | 일주일 지나면 나을 거예요.
+tp 약 먹는 법: mara tatu kwa siku(하루 세 번), baada ya kula(식후), kabla ya kula(식전).
+tp '먹다'가 아니라 '삼키다' kumeza를 써요: meza dawa.
+tp 빨리 나으라는 인사: Upone haraka! / Ugua pole!
+pr kabla ya kula | 식전 || baada ya kula | 식후
+pr kuumwa | 아프다 || kupona | 낫다
+dl 약사 | Karibu. Unahitaji nini? | 어서 오세요. 뭐가 필요하세요?
+dl 수아 | Dawa ya kikohozi na kitu cha kupaka kidonda. | 기침약이랑 상처에 바를 거요.
+dl 약사 | Meza vidonge hivi mara tatu kwa siku, baada ya kula. | 이 알약은 하루 세 번, 식후에 드세요.
+dl 수아 | Asante. Nitapona haraka? | 고마워요. 빨리 나을까요?
+sm Meza dawa, paka kidonda, pumzika — utapona haraka. | 약 먹고, 상처에 바르고, 쉬어요 — 금방 나을 거예요.
+qz '약국'은? | duka la dawa
+qz '낫다'는? | kupona
+
+@ 1-09-07 | 응급 | Msaada!·Hatari | 위급할 때 쓰는 말이에요. 탄자니아 응급 번호 112, 케냐 999.
+w Msaada! | 도와주세요! · msaada 도움 | 도와주세요!; 도움
+e Msaada! Msaada! | 도와주세요! 도와주세요!
+e Nahitaji msaada. | 도움이 필요해요.
+e Asante kwa msaada wako. | 도와줘서 고마워요.
+w gari la wagonjwa | 구급차 · '환자의 차' | 구급차
+e Ita gari la wagonjwa! | 구급차 불러요!
+e Gari la wagonjwa limefika. | 구급차가 왔어요.
+e Namba ya gari la wagonjwa. | 구급차 번호.
+w polisi | 경찰 | 경찰
+e Ita polisi! | 경찰 불러요!
+e Kituo cha polisi. | 경찰서.
+e Polisi wamefika. | 경찰이 왔어요.
+w hatari | 위험 | 위험
+e Hatari! | 위험해!
+e Mahali hapa ni hatari. | 여기는 위험해요.
+e Usiogelee, kuna hatari. | 수영하지 마요, 위험해요.
+w moto | 불, 화재 | 불; 화재
+e Moto! Moto! | 불이야! 불이야!
+e Nyumba inaungua moto. | 집에 불이 났어요.
+e Zima moto! | 불을 꺼요!
+w kuibiwa | 도둑맞다 · iba 훔치다 + wa | 도둑맞다
+e Nimeibiwa simu! | 휴대폰을 도둑맞았어요!
+e Mkoba wangu umeibiwa. | 가방을 도둑맞았어요.
+e Mwizi! Ameiba pesa! | 도둑이야! 돈을 훔쳤어요!
+w kuanguka | 넘어지다, 떨어지다 | 넘어지다; 떨어지다
+e Ameanguka! | 그가 쓰러졌어요!
+e Nimeanguka kutoka baiskeli. | 자전거에서 넘어졌어요.
+e Usianguke! | 넘어지지 마!
+w haraka! | 빨리! | 빨리!
+e Njoo haraka! | 빨리 와요!
+e Haraka, ni dharura! | 빨리요, 응급이에요!
+e Nipeleke hospitali haraka. | 빨리 병원에 데려다줘요.
+tp 위급할 때 외치는 말: Msaada!(도와주세요) Moto!(불이야) Mwizi!(도둑이야) Hatari!(위험해)
+tp '도둑맞다'는 kuiba(훔치다) + -wa: nimeibiwa(나는 도둑맞았다).
+tp 응급 번호: 탄자니아 112(통합), 케냐 999/112. 여행 전에 숙소 주소를 스와힐리어로 적어 두세요.
+pr Msaada! | 도와주세요! || Polisi! | 경찰!
+pr kuiba | 훔치다 || kuibiwa | 도둑맞다
+dl 수아 | Msaada! Rafiki yangu ameanguka! | 도와주세요! 친구가 쓰러졌어요!
+dl 행인 | Ninaita gari la wagonjwa sasa hivi. | 지금 바로 구급차 부를게요.
+dl 수아 | Haraka, tafadhali! | 빨리요, 제발!
+dl 행인 | Usijali, wanakuja. | 걱정 마요, 오고 있어요.
+sm Msaada! Hatari! Ita polisi na gari la wagonjwa haraka! | 도와주세요! 위험해요! 경찰과 구급차를 빨리 불러요!
+qz '도와주세요!'는? | Msaada!
+qz '구급차'는? | gari la wagonjwa
+
+@ 1-09-08 | 위로·회복 표현 | Pole·Ugua pole | 아픈 사람에게 하는 위로와 병원에서 같이 쓰는 말이에요.
+w Ugua pole | 빨리 나으세요 · '천천히(편히) 앓아요' | 빨리 나으세요
+e Ugua pole, rafiki. | 친구야, 빨리 나아.
+e Pole sana, ugua pole. | 정말 안됐어요, 빨리 나으세요.
+e Ugua pole, mama. | 어머니, 빨리 나으세요.
+w kupumzika | 쉬다 | 쉬다
+e Pumzika nyumbani. | 집에서 쉬어요.
+e Nahitaji kupumzika. | 쉬어야 해요.
+e Tulipumzika chini ya mti. | 나무 아래서 쉬었어요.
+w kujisikia | 느끼다 · 몸 상태 | (몸·기분을) 느끼다
+e Unajisikiaje leo? | 오늘 몸은 어때요?
+e Najisikia vizuri. | 괜찮아요.
+e Najisikia vibaya. | 몸이 안 좋아요.
+w ugonjwa | 병 · 여럿 magonjwa | 병, 질병
+e Ugonjwa wa malaria. | 말라리아 병.
+e Magonjwa ya watoto. | 어린이 병.
+e Ugonjwa huu unaambukiza. | 이 병은 전염돼요.
+w bima ya afya | 건강 보험 · bima 보험 | 건강 보험
+e Una bima ya afya? | 건강 보험 있어요?
+e Kadi ya bima ya afya. | 보험 카드.
+e Bima inalipa nusu. | 보험이 절반을 내요.
+w kusubiri | 기다리다 | 기다리다
+e Subiri hapa. | 여기서 기다려요.
+e Chumba cha kusubiri. | 대기실.
+e Tulisubiri saa mbili. | 두 시간 기다렸어요.
+w kwa bahati nzuri | 다행히 · bahati 운 | 다행히
+e Kwa bahati nzuri, si malaria. | 다행히 말라리아가 아니에요.
+e Kwa bahati nzuri, nilipona haraka. | 다행히 금방 나았어요.
+e Kwa bahati mbaya, ameumia. | 불행히도 그가 다쳤어요.
+tp 아픈 사람에게: Pole!(안됐어요) Ugua pole!(편히 앓다 빨리 나아요) Upone haraka!(빨리 나아요)
+tp 몸 상태: najisikia vizuri(괜찮아요) ↔ najisikia vibaya(안 좋아요).
+tp 다행히 kwa bahati nzuri ↔ 불행히 kwa bahati mbaya.
+pr najisikia vizuri | 괜찮아요 || najisikia vibaya | 몸이 안 좋아요
+pr kwa bahati nzuri | 다행히 || kwa bahati mbaya | 불행히
+dl 바라카 | Pole sana, Minjun. Unajisikiaje? | 민준, 정말 안됐어요. 몸은 어때요?
+dl 민준 | Najisikia vizuri kidogo. Kwa bahati nzuri si malaria. | 조금 나아요. 다행히 말라리아는 아니래요.
+dl 바라카 | Pumzika sana. Ugua pole! | 푹 쉬어요. 빨리 나아요!
+dl 민준 | Asante, rafiki. | 고마워, 친구야.
+sm Pole, ugua pole — pumzika na upone haraka. | 안됐어요, 빨리 나으세요 — 쉬고 얼른 나아요.
+qz '빨리 나으세요'는? | Ugua pole
+qz '쉬다'는? | kupumzika

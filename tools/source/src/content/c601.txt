@@ -1,0 +1,275 @@
+# P6-A | 글자·기본 발음
+
+@ 6-01-01 | 모음 a·e·i·o·u | a·e·i·o·u | 스와힐리어 모음은 다섯 개뿐이고, 쓴 대로 읽어요: a 아, e 에, i 이, o 오, u 우.
+w maji | a = 아, i = 이 · 물 | 물
+e Nipe maji. | 물 줘요.
+e Maji ni baridi. | 물이 차가워요.
+w embe | e = 에 · 망고 | 망고
+e Embe ni tamu. | 망고가 달아요.
+e Nataka embe moja. | 망고 하나 주세요.
+w moto | o = 오 · 불, 뜨거운 | 불; 뜨거움
+e Maji ya moto. | 뜨거운 물.
+e Usiguse moto. | 불 만지지 마.
+w uji | u = 우 · 죽 | 죽
+e Uji wa asubuhi. | 아침 죽.
+e Watoto wanakunywa uji. | 아이들이 죽을 먹어요.
+w ua | u·a 두 마디 · 꽃; 마당 | 꽃; 마당
+e Ua zuri. | 예쁜 꽃.
+e Watoto wanacheza uani. | 아이들이 마당에서 놀아요.
+tp 모음은 늘 같은 소리예요: a(아) e(에) i(이) o(오) u(우). 영어처럼 바뀌지 않아요.
+tp 낱말은 거의 모두 모음으로 끝나요. 그래서 한글로 옮기면 받침이 거의 없어요.
+tp 모음이 둘 붙으면 둘 다 소리 내요: ua = 우-아, mia = 미-아.
+pr maji | 물 || moto | 불
+pr embe | 망고 || uji | 죽
+sm Maji, embe, moto, uji, ua. | 물, 망고, 불, 죽, 꽃.
+qz 스와힐리어 모음은 몇 개? | a e i o u 다섯 개
+
+@ 6-01-02 | 쉬운 자음 | b·d·g·h·k·l·m·n·p·s·t | 한글과 거의 같은 자음이에요. k는 ㅋ(때로 ㄲ), p는 ㅍ(때로 ㅃ), t는 ㅌ(때로 ㄸ)로 읽어요.
+w baba | b = ㅂ · 아버지 | 아버지
+e Baba yuko wapi? | 아빠 어디 계세요?
+e Baba ni mkulima. | 아빠는 농부예요.
+w dada | d = ㄷ · 언니·누나 | 언니, 누나, 여동생
+e Dada yangu. | 우리 언니.
+e Dada, karibu! | 언니, 어서 와요!
+w kaka | k = ㅋ · 형·오빠 | 형, 오빠, 남동생
+e Kaka yangu ni mrefu. | 우리 형은 키가 커요.
+e Kaka, habari? | 형, 잘 지내?
+w simu | s = ㅅ, m = ㅁ · 전화 | 전화, 휴대폰
+e Simu yangu. | 내 휴대폰.
+e Nipigie simu. | 나한테 전화해.
+w taa | t = ㅌ · 등불 | 등, 전등
+e Washa taa. | 불 켜요.
+e Taa imezimika. | 불이 꺼졌어요.
+w lala | l = ㄹ · 자다 | 자다
+e Lala salama. | 잘 자.
+e Mtoto amelala. | 아기가 잠들었어요.
+tp b(ㅂ) d(ㄷ) g(ㄱ) h(ㅎ) k(ㅋ) l(ㄹ) m(ㅁ) n(ㄴ) p(ㅍ) s(ㅅ) t(ㅌ).
+tp 자음 + 모음 한 쌍이 한 마디예요: ba-ba, da-da, si-mu.
+tp 낱말 끝에 받침이 없어요. 글자 하나하나 다 읽어요.
+pr baba | 아버지 || mama | 어머니
+pr kaka | 형 || dada | 언니
+sm Baba, mama, kaka, dada. | 아빠, 엄마, 형, 언니.
+qz 스와힐리어 k는 한글로? | ㅋ
+
+@ 6-01-03 | 조금 다른 자음 | f·v·r·w·y·z·j | 한국어에 없거나 조금 다른 자음이에요.
+w fedha | f = ㅍ(윗니+아랫입술) · 돈, 은 | 돈; 은
+e Fedha za kigeni. | 외화.
+e Sina fedha. | 돈이 없어요.
+w viazi | v = ㅂ(윗니+아랫입술) · 감자 | 감자
+e Viazi vitamu. | 고구마.
+e Chipsi za viazi. | 감자튀김.
+w rafiki | r = 혀 튕기는 ㄹ · 친구 | 친구
+e Rafiki yangu. | 내 친구.
+e Marafiki wengi. | 친구가 많아요.
+w zawadi | z = 떨리는 ㅈ · 선물 | 선물
+e Zawadi kwa mama. | 엄마에게 줄 선물.
+e Asante kwa zawadi. | 선물 고마워요.
+w jina | j = ㅈ · 이름 | 이름
+e Jina lako nani? | 이름이 뭐예요?
+e Jina langu ni Sua. | 제 이름은 수아예요.
+w yai | y = 야·여… · 달걀 | 달걀
+e Yai moja. | 달걀 하나.
+e Mayai ya kuchemsha. | 삶은 달걀.
+tp f·v: 윗니를 아랫입술에 대요. 한글로는 ㅍ·ㅂ로 적었어요.
+tp z는 '즈' 하고 이가 떨리는 소리, j는 한국어 'ㅈ'와 비슷해요.
+tp y·w 뒤 모음: ya(야) ye(예) yo(요) yu(유), wa(와) we(웨) wi(위).
+pr fedha | 돈 || viazi | 감자
+pr jina | 이름 || zawadi | 선물
+sm Fedha, viazi, rafiki, zawadi, jina, yai. | 돈, 감자, 친구, 선물, 이름, 달걀.
+qz f는 어떻게 소리 내요? | 윗니를 아랫입술에 대고
+
+@ 6-01-04 | 두 글자 자음(ch·sh·ny 등) | ch·sh·ny·ng' | 두 글자가 모여 한 소리가 돼요.
+w chai | ch = ㅊ · 차 | 차
+e Chai ya maziwa. | 밀크티.
+e Kunywa chai. | 차 마셔요.
+w shamba | sh = 쉬 · 밭 | 밭
+e Shamba kubwa. | 큰 밭.
+e Naenda shambani. | 밭에 가요.
+w nyumba | ny = 냐·녀… · 집 | 집
+e Nyumba yangu. | 우리 집.
+e Nyumba mpya. | 새 집.
+w nyama | ny = 냐 · 고기 | 고기
+e Nyama ya kuku. | 닭고기.
+e Sili nyama. | 고기 안 먹어요.
+w ng'ombe | ng' = 받침 ㅇ · 소 | 소
+e Ng'ombe watatu. | 소 세 마리.
+e Maziwa ya ng'ombe. | 우유.
+tp ch(ㅊ) sh(쉬) ny(냐·녜·뇨·뉴) ng'(응, g 없이).
+tp ny는 n + y가 아니라 한 소리: nyumba = 늄-바.
+tp ng'는 따옴표까지 한 글자로 생각해요.
+pr chai | 차 || shamba | 밭
+pr nyumba | 집 || ng'ombe | 소
+sm Chai, shamba, nyumba, nyama, ng'ombe. | 차, 밭, 집, 고기, 소.
+qz ny는 어떤 소리? | 냐·녀 같은 한 소리
+
+@ 6-01-05 | 아랍어계 발음 | th·dh·gh·kh | 아랍어 낱말에 들어 있는 소리예요. 말하는 사람에 따라 s·z·g·h로도 말해요.
+w thelathini | th = ㅆ(혀를 이 사이에) · 서른 | 30
+e Thelathini na moja. | 31.
+e Shilingi thelathini. | 30실링.
+w dhahabu | dh = ㄷ(혀를 이 사이에) · 금 | 금
+e Mkufu wa dhahabu. | 금목걸이.
+e Dhahabu ya Geita. | 게이타의 금.
+w ghorofa | gh = 목에서 긁는 ㄱ · 층 | 층; 고층 건물
+e Ghorofa ya tatu. | 3층.
+e Jengo la ghorofa kumi. | 10층 건물.
+w kheri | kh = 목에서 긁는 ㅎ · 복, 좋음 | 행운, 좋음
+e Kwa kheri. | 잘 가요(= kwa heri).
+e Kheri ya mwaka mpya. | 새해 복 많이 받으세요.
+w thamani | th · 가치 | 가치
+e Ina thamani kubwa. | 가치가 커요.
+e Thamani ya shilingi. | 실링 가치.
+tp th: 영어 think, dh: 영어 this, gh: 목 깊은 곳에서 '그흐', kh: '크흐'.
+tp 철자로 아랍어에서 온 낱말임을 알 수 있어요.
+tp kheri = heri처럼 두 가지 철자를 다 써요.
+pr thelathini | 서른 || dhahabu | 금
+pr ghorofa | 층 || kheri | 행운
+sm Thelathini, dhahabu, ghorofa, kheri. | 서른, 금, 층, 행운.
+qz th는 영어 어떤 낱말의 소리? | think
+
+@ 6-01-06 | 음절이 되는 m·n | mtoto·mke·ndizi·nguo | m·n 다음에 자음이 오면 m·n이 혼자 한 마디가 돼요.
+w mtoto | m-to-to · 아이 | 아이
+e Mtoto mdogo. | 어린아이.
+e Watoto wanacheza. | 아이들이 놀아요.
+w mke | m-ke · 아내 | 아내
+e Mke wangu. | 제 아내.
+e Mke na mume. | 아내와 남편.
+w ndizi | n-di-zi · 바나나 | 바나나
+e Ndizi mbivu. | 잘 익은 바나나.
+e Ndizi za kupika. | 요리용 바나나.
+w nguo | n-gu-o · 옷 | 옷
+e Nguo mpya. | 새 옷.
+e Fua nguo. | 빨래해요.
+w mbili | m-bi-li · 둘 | 2
+e Vitu viwili. | 물건 두 개.
+e Saa mbili. | 8시(스와힐리 시간 2시).
+tp mtoto은 '음-토-토' 세 마디. m을 '무'로 읽지 마세요.
+tp n 다음 d·g·z·j 등은 '은-디', '응-구'처럼 들려요. 한글로는 '은디지', '응구오'로 적었어요.
+tp mke는 두 마디라 강세가 m에 와요: M-ke.
+pr mtoto | 아이 || watoto | 아이들
+pr ndizi | 바나나 || nguo | 옷
+sm Mtoto, mke, ndizi, nguo, mbili. | 아이, 아내, 바나나, 옷, 둘.
+qz mtoto는 몇 마디? | 셋 (m-to-to)
+
+@ 6-01-07 | 외래어 | basi·kompyuta·televisheni | 영어에서 온 낱말은 끝에 모음을 붙이고 자음 사이에 모음을 넣어요.
+w kompyuta | 컴퓨터 · computer | 컴퓨터
+e Kompyuta yangu. | 내 컴퓨터.
+e Kompyuta imeharibika. | 컴퓨터가 고장 났어요.
+w televisheni | 텔레비전 · television | 텔레비전
+e Washa televisheni. | 텔레비전 켜요.
+e Tunatazama televisheni. | 텔레비전을 봐요.
+w hospitali | 병원 · hospital | 병원
+e Hospitali iko wapi? | 병원이 어디예요?
+e Nenda hospitali. | 병원에 가요.
+w tiketi | 표 · ticket | 표
+e Tiketi mbili. | 표 두 장.
+e Nimenunua tiketi. | 표 샀어요.
+w benki | 은행 · bank | 은행
+e Naenda benki. | 은행에 가요.
+e Benki imefungwa. | 은행이 닫았어요.
+tp 영어 자음 끝에 모음을 더해요: bank → benki, ticket → tiketi.
+tp 자음 둘이 붙으면 모음을 넣어요: club → klabu, school → skuli(잔지바르).
+tp 아랍어에서 온 말도 많아요: kitabu(책), saa(시계), dunia(세상).
+pr benki | 은행 || hospitali | 병원
+pr tiketi | 표 || kompyuta | 컴퓨터
+sm Kompyuta, televisheni, hospitali, tiketi, benki. | 컴퓨터, 텔레비전, 병원, 표, 은행.
+qz bank는 스와힐리어로? | benki
+
+# P6-B | 읽기·표기
+
+@ 6-02-01 | 긴 낱말 끊어 읽기 | ninakupenda·hatujaonana | 긴 동사도 자음+모음 마디로 끊으면 쉬워요.
+w ninakupenda | ni-na-ku-pe-nda · 사랑해요 | 사랑해요
+e Ninakupenda sana. | 많이 사랑해요.
+e Mama, ninakupenda. | 엄마, 사랑해요.
+w hatujaonana | ha-tu-ja-o-na-na · 아직 못 만났어요 | 우리 아직 못 만났어요
+e Hatujaonana muda mrefu. | 오랫동안 못 만났네요.
+e Bado hatujaonana. | 아직 못 만났어요.
+w nitakusaidia | ni-ta-ku-sa-i-di-a · 도와줄게요 | 도와줄게요
+e Usijali, nitakusaidia. | 걱정 마요, 도와줄게요.
+e Nitakusaidia kesho. | 내일 도와줄게요.
+w mwanafunzi | mwa-na-fu-nzi · 학생 | 학생
+e Mimi ni mwanafunzi. | 저는 학생이에요.
+e Wanafunzi wengi. | 학생이 많아요.
+w tutaonana | tu-ta-o-na-na · 또 봐요 | 또 만나요
+e Tutaonana kesho. | 내일 봐요.
+e Haya, tutaonana! | 그럼 또 봐요!
+tp 동사는 조각이 붙은 모양이에요: ni(나)-ta(미래)-ku(너를)-saidia(돕다).
+tp 마디로 끊고, 뒤에서 둘째 마디에 강세: ni-na-ku-PE-nda.
+tp mw·ny·ng 같은 소리는 한 마디 첫소리로 묶어요.
+pr ninakupenda | 사랑해요 || nakupenda | 사랑해요(줄임)
+pr tutaonana | 또 봐요 || hatujaonana | 아직 못 만났어요
+sm Ni-na-ku-pe-nda, tu-ta-o-na-na. | 니나쿠펜다, 투타오나나.
+qz ninakupenda의 강세는? | PE
+
+@ 6-02-02 | 대문자 표기 규칙 | Mungu·Dar es Salaam·Januari | 사람·장소 이름, 하나님, 달·요일 이름은 대문자로 시작해요.
+w Mungu | 하나님 | 하나님, 신
+e Mungu akubariki. | 하나님의 축복을.
+e Asante Mungu. | 하나님 감사합니다.
+w Januari | 1월 | 1월
+e Januari mosi. | 1월 1일.
+e Mwezi wa Januari. | 1월 달.
+w Jumatatu | 월요일 | 월요일
+e Jumatatu ijayo. | 다음 주 월요일.
+e Tutaonana Jumatatu. | 월요일에 봐요.
+w Kiswahili | 스와힐리어 | 스와힐리어
+e Ninapenda Kiswahili. | 스와힐리어를 좋아해요.
+e Kitabu cha Kiswahili. | 스와힐리어 책.
+w Afrika Mashariki | 동아프리카 | 동아프리카
+e Nchi za Afrika Mashariki. | 동아프리카 나라들.
+e Jumuiya ya Afrika Mashariki. | 동아프리카 공동체.
+tp 이름, Mungu(하나님), 달(Januari), 요일(Jumatatu), 언어(Kiswahili)는 대문자.
+tp 문장 첫 글자도 대문자로 써요.
+tp 요일은 Juma(주) + 숫자: Jumatatu(월), Jumanne(화), Jumatano(수).
+pr Jumatatu | 월요일 || Jumamosi | 토요일
+pr Januari | 1월 || Desemba | 12월
+sm Mungu, Januari, Jumatatu, Kiswahili. | 하나님, 1월, 월요일, 스와힐리어.
+qz 요일 이름은 대문자로 써요? | 네
+
+# P6-C | 인명·지명 읽기
+
+@ 6-03-01 | 동아프리카 사람 이름 | Juma·Neema·Baraka·Rehema | 스와힐리 이름에는 뜻이 있어요. 아랍어에서 온 이름도 많아요.
+w Juma | 주마 · '금요일(에 태어난)' | 주마(남자 이름)
+e Juma ni rafiki yangu. | 주마는 내 친구예요.
+e Juma yuko wapi? | 주마 어디 있어요?
+w Neema | 네에마 · '은혜' | 네에마(여자 이름)
+e Neema ni mwalimu. | 네에마는 선생님이에요.
+e Neema ya Mungu. | 하나님의 은혜.
+w Baraka | 바라카 · '축복' | 바라카(남자 이름)
+e Baraka anacheza mpira. | 바라카는 축구를 해요.
+e Baraka za Mungu. | 하나님의 축복.
+w Rehema | 레헤마 · '자비' | 레헤마(여자 이름)
+e Mama Rehema ni mpishi. | 레헤마 아주머니는 요리사예요.
+e Rehema na amani. | 자비와 평화.
+w Halima | 할리마 · '온화한' | 할리마(여자 이름)
+e Halima anashona nguo. | 할리마는 옷을 지어요.
+e Halima ni mpole. | 할리마는 온화해요.
+tp 이름이 보통 낱말이기도 해요: neema(은혜), baraka(축복), rehema(자비), amani(평화).
+tp Mama + 아이 이름 = '~의 엄마': Mama Juma(주마 엄마). 어른을 부르는 공손한 방법이에요.
+tp Juma(금요일)처럼 태어난 날로 짓기도 해요.
+pr Juma | 주마 || Jumaa | 금요일(이슬람)
+pr Neema | 네에마 || neema | 은혜
+sm Juma, Neema, Baraka, Rehema, Halima. | 주마, 네에마, 바라카, 레헤마, 할리마.
+qz Baraka는 무슨 뜻? | 축복
+
+@ 6-03-02 | 지명 읽기 | Mwanza·Mbeya·Dodoma·Unguja | 탄자니아·케냐 도시 이름을 읽어 봐요.
+w Dodoma | 도도마 · 탄자니아 수도 | 도도마
+e Dodoma ni mji mkuu. | 도도마는 수도예요.
+e Naenda Dodoma kesho. | 내일 도도마에 가요.
+w Mwanza | 므완자 · 빅토리아 호수 옆 | 므완자
+e Mwanza iko karibu na Ziwa Victoria. | 므완자는 빅토리아 호수 옆이에요.
+e Samaki wa Mwanza. | 므완자 생선.
+w Mbeya | 음베야 · 남쪽 고원 | 음베야
+e Mbeya kuna baridi. | 음베야는 추워요.
+e Mbeya ni mji wa milima. | 음베야는 산의 도시예요.
+w Unguja | 웅구자 · 잔지바르 큰 섬 | 웅구자(잔지바르 섬)
+e Unguja na Pemba. | 웅구자와 펨바.
+e Mji Mkongwe uko Unguja. | 스톤타운은 웅구자에 있어요.
+w Nairobi | 나이로비 · 케냐 수도 | 나이로비
+e Nairobi ni mji mkubwa. | 나이로비는 큰 도시예요.
+e Basi la Nairobi. | 나이로비행 버스.
+tp Mw·Mb·Ng로 시작하는 지명이 많아요: Mwanza(므완자), Mbeya(음베야).
+tp Dar es Salaam은 아랍어로 '평화의 집'이에요. 줄여서 Dar라고 해요.
+tp 잔지바르는 큰 섬 Unguja와 Pemba로 되어 있어요.
+pr Dodoma | 도도마 || Dar es Salaam | 다르에스살람
+pr Unguja | 웅구자 || Pemba | 펨바
+sm Dodoma, Mwanza, Mbeya, Unguja, Nairobi. | 도도마, 므완자, 음베야, 웅구자, 나이로비.
+qz 탄자니아 수도는? | Dodoma

@@ -1,0 +1,283 @@
+# P3-H | 의문·수량 표현
+
+@ 3-01-01 | 어느·무슨·무엇 | gani·-pi·nini | 셋 다 묻는 말이지만 쓰는 자리가 달라요. gani는 명사 뒤 '무슨', -pi는 '(여럿 중) 어느', nini는 혼자 '무엇'.
+w gani | 무슨, 어떤 · 명사 뒤, 모양 그대로 | 무슨, 어떤
+e Rangi gani? | 무슨 색이요?
+e Siku gani? | 무슨 요일이요?
+e Unasoma kitabu gani? | 무슨 책 읽어요?
+w -pi | 어느 · 앞말이 붙음 (lipi, kipi, ipi) | (여럿 중) 어느 것
+e Kitabu kipi? | 어느 책이요?
+e Unataka ipi? | 어느 걸 원해요?
+e Gari lipi ni lako? | 어느 차가 당신 거예요?
+w nini | 무엇 · 혼자 쓰거나 동사 뒤 | 무엇
+e Hii ni nini? | 이건 뭐예요?
+e Unataka nini? | 뭘 원해요?
+e Nini kimetokea? | 무슨 일이 있었어요?
+w -je | 어떻게 · 동사 끝에 붙음 | 어떻게
+e Unaendeleaje? | 어떻게 지내요?
+e Inasemwaje? | 어떻게 말해요?
+e Nitafikaje? | 어떻게 가요?
+w vipi | 어떻게, 어때 · 혼자 쓰는 말 | 어떻게; 어때
+e Vipi? | 어때?
+e Ulifika vipi? | 어떻게 왔어요?
+e Habari vipi? | 별일 없어요?
+tp gani(무슨, 종류를 물음) vs -pi(어느, 정해진 몇 개 중에서 고름): Rangi gani?(무슨 색?) / Rangi ipi?(이 중 어느 색?)
+tp -je는 동사 끝에, vipi는 따로 써요: Unaendeleaje? = Unaendelea vipi?
+tp nini는 '무엇' 자체예요. 명사를 꾸밀 때는 gani: kitu gani?(무슨 물건?)
+pr Rangi gani? | 무슨 색이요? || Rangi ipi? | 어느 색이요?
+pr Unataka nini? | 뭘 원해요? || Unataka kipi? | 어느 걸 원해요?
+dl 상인 | Unataka shati gani? | 무슨 셔츠 원해요?
+dl 민준 | Shati jeupe. | 흰 셔츠요.
+dl 상인 | Kuna mawili. Unataka lipi? | 두 개 있어요. 어느 걸로 할래요?
+dl 민준 | Lile dogo. Bei ni nini? Samahani, bei gani? | 저 작은 거요. 값이 뭐… 아니, 얼마예요?
+sm Gani, -pi, nini, -je, vipi — maswali tofauti. | 무슨, 어느, 무엇, 어떻게 — 서로 다른 질문.
+qz '어느 책?'은? | Kitabu kipi?
+qz '무슨 색?'은? | Rangi gani?
+
+@ 3-01-02 | 얼마나·몇 | -ngapi·kiasi gani | 수를 물을 때 -ngapi, 양을 물을 때 kiasi gani.
+w -ngapi | 몇 · 셀 수 있는 것 | 몇
+e Watu wangapi? | 몇 명이요?
+e Vitabu vingapi? | 책 몇 권이요?
+e Saa ngapi? | 몇 시예요?
+w kiasi gani | 얼마나 · 양, 정도 | 얼마나(양)
+e Unataka sukari kiasi gani? | 설탕 얼마나 넣어요?
+e Maji kiasi gani? | 물 얼마나요?
+e Ni mbali kiasi gani? | 얼마나 멀어요?
+w bei gani | 얼마예요 · 값 | 얼마예요(값)
+e Hii bei gani? | 이거 얼마예요?
+e Bei gani kwa kilo? | 1킬로에 얼마예요?
+e Tiketi bei gani? | 표 얼마예요?
+w muda gani | 얼마 동안 · 시간 | 얼마 동안
+e Utakaa muda gani? | 얼마나 머물러요?
+e Inachukua muda gani? | 얼마나 걸려요?
+e Umesubiri muda gani? | 얼마나 기다렸어요?
+w kiasi | 양, 어느 정도 · '알맞게' | 양; 적당히
+e Kula kwa kiasi. | 적당히 먹어요.
+e Kiasi kidogo. | 적은 양.
+e Ni nzuri kiasi. | 그럭저럭 좋아요.
+tp 수: -ngapi(앞말이 붙음): watu wangapi, miti mingapi, vitu vingapi, saa ngapi.
+tp 양: kiasi gani. 값: bei gani. 시간: muda gani / kwa muda gani.
+tp kwa kiasi = 적당히, 알맞게.
+pr Watu wangapi? | 몇 명? || Maji kiasi gani? | 물 얼마나?
+pr Bei gani? | 얼마예요? || Muda gani? | 얼마 동안?
+dl 직원 | Mtakaa muda gani? | 얼마나 머무르세요?
+dl 수아 | Siku nne. Tuko watu watatu. | 나흘이요. 세 명이에요.
+dl 직원 | Vyumba vingapi? | 방은 몇 개요?
+dl 수아 | Kimoja tu. Bei gani kwa usiku? | 하나만요. 하룻밤에 얼마예요?
+sm Wangapi? Kiasi gani? Bei gani? Muda gani? | 몇 명? 얼마나? 얼마? 얼마 동안?
+qz '얼마나 걸려요?'는? | Inachukua muda gani?
+qz '몇 명?'은? | Watu wangapi?
+
+@ 3-01-03 | 많다 | -ingi·tele·sana | 많음을 나타내는 말 여러 가지예요.
+w -ingi | 많은 · 명사를 꾸밈 | 많은
+e Watu wengi. | 많은 사람.
+e Kazi nyingi. | 많은 일.
+e Asante kwa mengi. | 여러 가지로 고마워요.
+w tele | 아주 많이, 가득 · 모양 그대로 | 가득, 넘치게
+e Matunda tele. | 과일이 가득.
+e Sokoni kuna samaki tele. | 시장에 생선이 넘쳐요.
+e Maji tele mtoni. | 강에 물이 가득해요.
+w sana | 아주, 많이 · 동사·형용사 뒤 | 아주; 많이
+e Asante sana. | 정말 고마워요.
+e Anakula sana. | 그는 많이 먹어요.
+e Nzuri sana. | 아주 좋아요.
+w mno | 너무 · 지나치게 | 너무, 지나치게
+e Ghali mno. | 너무 비싸요.
+e Joto jingi mno. | 너무 더워요.
+e Umechelewa mno. | 너무 늦었어요.
+w kabisa | 완전히 · 끝까지 | 완전히, 전혀
+e Nimechoka kabisa. | 완전히 지쳤어요.
+e Sijui kabisa. | 전혀 몰라요.
+e Kweli kabisa. | 진짜 맞아요.
+w chungu nzima | 엄청 많이 · '한 무더기' | 산더미처럼, 잔뜩
+e Kazi chungu nzima. | 일이 산더미예요.
+e Watu chungu nzima walikuja. | 사람이 엄청 많이 왔어요.
+e Ana pesa chungu nzima. | 그는 돈이 엄청 많아요.
+tp -ingi는 명사를 꾸미고(watu wengi), sana는 동사·형용사를 꾸며요(anakula sana).
+tp sana(아주) < mno(너무, 지나치게) — mno는 '지나치다'는 느낌이 있어요.
+tp kabisa는 긍정에서 '완전히', 부정에서 '전혀'예요.
+pr watu wengi | 많은 사람 || watu tele | 사람이 가득
+pr ghali sana | 아주 비싸요 || ghali mno | 너무 비싸요
+dl 민준 | Leo sokoni kuna watu wengi! | 오늘 시장에 사람 많네요!
+dl 주마 | Ndiyo, ni Jumamosi. Kuna matunda tele. | 네, 토요일이라서요. 과일이 가득해요.
+dl 민준 | Lakini bei ni ghali mno. | 그런데 값이 너무 비싸요.
+dl 주마 | Kweli kabisa! | 정말 그래요!
+sm Wengi, tele, sana, mno, kabisa — wingi kwa maneno tofauti. | 많은, 가득, 아주, 너무, 완전히 — 많음을 말하는 여러 단어.
+qz '너무 비싸요'는? | Ghali mno
+qz '전혀 몰라요'는? | Sijui kabisa
+
+# P3-B | 기본 동사 뜻 비교
+
+@ 3-02-01 | 주다 | kutoa·kupa·kugawa | 모두 '주다'지만 쓰임이 달라요.
+w kupa | 주다 · 받는 사람이 꼭 붙음 | (~에게) 주다
+e Nipe chai. | 나에게 차 줘.
+e Mpe pesa. | 그에게 돈을 줘.
+e Utanipa nini? | 나한테 뭐 줄 거야?
+w kutoa | 내주다, 내놓다 · 받는 사람 없이도 | 내주다; 꺼내다
+e Toa sadaka. | 헌금을 내요.
+e Ametoa zawadi. | 그는 선물을 냈어요.
+e Toa simu mfukoni. | 주머니에서 휴대폰을 꺼내요.
+w kugawa | 나누어 주다 | 나누다, 나눠 주다
+e Gawa mkate. | 빵을 나눠요.
+e Mwalimu anagawa vitabu. | 선생님이 책을 나눠 줘요.
+e Gawa kwa wote. | 모두에게 나눠 줘요.
+w kuzawadia | 선물하다 · zawadi + ia | 선물하다, 상을 주다
+e Nilimzawadia saa. | 그에게 시계를 선물했어요.
+e Shule iliwazawadia washindi. | 학교가 우승자들에게 상을 줬어요.
+e Mama alinizawadia kanga. | 엄마가 캉가를 선물해 주셨어요.
+w kukabidhi | 넘겨주다 · 공식적으로 | 넘겨주다, 인계하다
+e Kabidhi funguo. | 열쇠를 넘겨줘요.
+e Alikabidhi ripoti. | 그는 보고서를 제출했어요.
+e Wamekabidhiwa zawadi. | 그들은 상을 받았어요.
+tp kupa는 '~에게'가 꼭 있어요(nipe, mpe). kutoa는 '내놓다'로 받는 사람이 없어도 돼요.
+tp kugawa는 '여럿에게 나누어 주다', kukabidhi는 공식적으로 '넘겨주다'예요.
+tp 헷갈리면 사람에게 직접 줄 때는 kupa: Nipe!(줘!)
+pr Nipe kitabu. | 나에게 책 줘. || Toa kitabu. | 책을 꺼내.
+pr Gawa mkate. | 빵을 나눠요. || Kabidhi ufunguo. | 열쇠를 넘겨요.
+dl 선생님 | Baraka, gawa madaftari kwa wanafunzi. | 바라카, 학생들에게 공책 나눠 줘.
+dl 바라카 | Sawa. Neema, nipe daftari lako la zamani. | 네. 네에마, 네 옛날 공책 줘.
+dl 네에마 | Haya, nimelitoa mkobani. | 자, 가방에서 꺼냈어.
+dl 선생님 | Mwisho, kabidhi daftari la ziada kwangu. | 마지막으로 남는 공책은 나한테 넘겨줘.
+sm Nipe, toa, gawa, kabidhi — njia nne za kutoa. | 줘, 내놔, 나눠, 넘겨 — 주는 네 가지 방법.
+qz '나에게 차 줘'는? | Nipe chai
+qz '나누어 주다'는? | kugawa
+
+@ 3-02-02 | 잡다·들다 | kushika·kukamata·kubeba | 손으로 다루는 동작이에요.
+w kushika | 잡다, 쥐다 | 잡다, 쥐다; 만지다
+e Shika mkono wangu. | 내 손 잡아.
+e Usishike! | 만지지 마!
+e Shika kalamu vizuri. | 펜을 제대로 쥐어요.
+w kukamata | 붙잡다, 체포하다 | 붙잡다; 체포하다
+e Kamata mpira! | 공 잡아!
+e Polisi wamemkamata mwizi. | 경찰이 도둑을 잡았어요.
+e Paka amekamata panya. | 고양이가 쥐를 잡았어요.
+w kubeba | 들다, 나르다 | 들고 가다, 나르다; 업다
+e Beba begi. | 가방 들어요.
+e Anambeba mtoto. | 그녀는 아기를 업고 있어요.
+e Lori linabeba mizigo. | 트럭이 짐을 날라요.
+w kuokota | 줍다 | 줍다
+e Okota takataka. | 쓰레기를 주워요.
+e Nimeokota shilingi mia. | 백 실링을 주웠어요.
+e Okota kalamu yako. | 네 펜 주워.
+w kugusa | 만지다, 건드리다 | 만지다, 건드리다
+e Usiguse moto! | 불 만지지 마!
+e Gusa skrini. | 화면을 터치해요.
+e Maneno yake yamenigusa. | 그의 말이 마음을 울렸어요.
+tp kushika(쥐다, 잡고 있다) vs kukamata(움직이는 것을 붙잡다): shika mkono / kamata mpira.
+tp kubeba는 들거나 업거나 이고 '나르다'예요.
+tp '만지지 마!'는 Usishike! 또는 Usiguse!
+pr kushika | 잡다 || kuachia | 놓다
+pr kukamata | 붙잡다 || kuokota | 줍다
+dl 아이 | Baba, kamata mpira! | 아빠, 공 잡아요!
+dl 아빠 | Nimeukamata! Sasa shika mkono wangu, tuvuke barabara. | 잡았다! 이제 내 손 잡아, 길 건너자.
+dl 아이 | Niokote mpira wangu kwanza. | 내 공 먼저 주울래요.
+dl 아빠 | Nitaubeba mimi. Twende. | 내가 들게. 가자.
+sm Shika, kamata, beba, okota, gusa — mikono inafanya kazi. | 쥐고, 잡고, 들고, 줍고, 만지고 — 손이 일해요.
+qz '줍다'는? | kuokota
+qz '도둑을 잡았다'의 '잡다'는? | kukamata
+
+@ 3-02-03 | 하다·만들다 | kufanya·kutengeneza·kutenda | '하다'와 '만들다'를 나타내는 말이에요.
+w kufanya | 하다 | 하다
+e Unafanya nini? | 뭐 해요?
+e Fanya kazi yako. | 네 일 해.
+e Umefanya vizuri. | 잘했어요.
+w kutengeneza | 만들다, 고치다 | 만들다; 고치다
+e Anatengeneza viatu. | 그는 신발을 만들어요.
+e Tengeneza simu yangu. | 내 휴대폰 고쳐 줘요.
+e Tumetengeneza keki. | 케이크를 만들었어요.
+w kutenda | 행하다 · 글말 | 행하다, (행동을) 하다
+e Tenda wema. | 착한 일을 해요.
+e Alitenda kosa. | 그는 잘못을 저질렀어요.
+e Maneno na matendo. | 말과 행동.
+w kufanya kazi | 일하다 · '일을 하다' | 일하다; 작동하다
+e Ninafanya kazi benki. | 은행에서 일해요.
+e Simu haifanyi kazi. | 휴대폰이 안 돼요.
+e Anafanya kazi kwa bidii. | 그는 열심히 일해요.
+w kujenga | 짓다 | 짓다, 세우다
+e Wanajenga nyumba. | 집을 짓고 있어요.
+e Jenga urafiki. | 우정을 쌓아요.
+e Kanisa jipya limejengwa. | 새 교회가 지어졌어요.
+w kushona | 바느질하다 | 바느질하다, 짓다(옷)
+e Fundi anashona gauni. | 재봉사가 원피스를 지어요.
+e Shona kitufe. | 단추를 달아요.
+e Nimeshona suruali. | 바지를 지었어요.
+tp kufanya(하다)는 가장 넓은 말. kutengeneza는 '만들다, 고치다', kutenda는 글말로 '행하다'.
+tp 만드는 대상에 따라: 집은 kujenga, 옷은 kushona, 음식은 kupika.
+tp ~ haifanyi kazi(일하지 않는다) = 고장 났다.
+pr kufanya | 하다 || kutenda | 행하다
+pr kujenga | 짓다 || kushona | 바느질하다
+dl 민준 | Unafanya kazi gani? | 무슨 일 해요?
+dl 할리마 | Mimi ni fundi. Ninashona nguo na kutengeneza mikoba. | 저는 기술자예요. 옷을 짓고 가방을 만들어요.
+dl 민준 | Unaweza kunishonea shati? | 셔츠 하나 지어 줄 수 있어요?
+dl 할리마 | Bila shaka, nitakutengenezea. | 물론이죠, 만들어 드릴게요.
+sm Fanya, tengeneza, jenga, shona — kazi za mikono. | 하고, 만들고, 짓고, 바느질해요 — 손으로 하는 일.
+qz '고치다'는? | kutengeneza
+qz '옷을 짓다'는? | kushona
+
+@ 3-02-04 | 두다·넣다 | kuweka·kutia | 둘 다 '두다, 넣다'예요. kutia는 '안에 넣다'에 많이 써요.
+w kuweka | 두다, 놓다 | 두다, 놓다; 맡기다
+e Weka hapa. | 여기 둬요.
+e Weka pesa benki. | 돈을 은행에 넣어요.
+e Weka nafasi. | 예약해요.
+w kutia | 넣다 · 안에 | 넣다, 담다
+e Tia sukari kwenye chai. | 차에 설탕을 넣어요.
+e Tia chumvi kidogo. | 소금을 조금 넣어요.
+e Tia saini. | 서명해요.
+w kumimina | 붓다 | 붓다, 따르다
+e Mimina maji. | 물을 부어요.
+e Mimina chai kikombeni. | 컵에 차를 따라요.
+e Mvua ilimiminika. | 비가 퍼부었어요.
+w kuingiza | 들여놓다, 넣다 | 넣다; 들여오다
+e Ingiza kadi. | 카드를 넣어요.
+e Ingiza nguo ndani, mvua inakuja. | 빨래 안에 들여놔요, 비 와요.
+e Wanaingiza bidhaa kutoka China. | 그들은 중국에서 물건을 들여와요.
+w kuhifadhi | 보관하다 | 보관하다, 저장하다
+e Hifadhi chakula. | 음식을 보관해요.
+e Hifadhi pasipoti mahali salama. | 여권을 안전한 곳에 보관해요.
+e Hifadhi faili. | 파일을 저장해요.
+tp kuweka(어디에 두다) vs kutia(안에 넣다): weka kitabu mezani / tia sukari chaini.
+tp 서명하다는 kutia saini 또는 kuweka sahihi, 둘 다 써요.
+tp 액체는 kumimina(붓다).
+pr weka | 두어요 || tia | 넣어요
+pr kumimina | 붓다 || kumwaga | 쏟다
+dl 수아 | Nitie sukari kiasi gani? | 설탕 얼마나 넣을까요?
+dl 니에마 | Vijiko viwili. Halafu mimina maziwa. | 두 숟갈요. 그다음에 우유를 부어요.
+dl 수아 | Na chai iliyobaki? | 남은 차는요?
+dl 니에마 | Iweke kwenye chupa, uihifadhi. | 병에 담아서 보관해요.
+sm Weka, tia, mimina, ingiza, hifadhi. | 두고, 넣고, 붓고, 들이고, 보관해요.
+qz '차에 설탕을 넣어요'의 '넣다'는? | kutia
+qz '붓다'는? | kumimina
+
+@ 3-02-05 | 가져오다·데려오다 | kuleta·kuchukua·kupeleka | 물건과 사람을 옮기는 동작이에요.
+w kuleta | 가져오다, 데려오다 · 여기로 | 가져오다; 데려오다
+e Lete maji. | 물 가져와.
+e Mlete mtoto. | 아이 데려와.
+e Leta rafiki yako kesho. | 내일 친구 데려와.
+w kupeleka | 가져가다, 데려다주다 · 저기로 | 가져가다; 데려다주다
+e Peleka barua posta. | 편지를 우체국에 가져가요.
+e Nipeleke hospitali. | 병원에 데려다줘요.
+e Mpeleke mtoto shuleni. | 아이를 학교에 데려다줘요.
+w kuchukua | 가져가다, 가지다 | 가져가다; 가지다; 걸리다
+e Chukua mwavuli. | 우산 가져가.
+e Nani amechukua kalamu yangu? | 누가 내 펜 가져갔어?
+e Inachukua saa moja. | 한 시간 걸려요.
+w kusindikiza | 배웅하다, 바래다주다 | 배웅하다, 바래다주다
+e Nitakusindikiza mpaka stendi. | 터미널까지 바래다줄게.
+e Tulimsindikiza uwanja wa ndege. | 공항까지 그를 배웅했어요.
+e Asante kwa kunisindikiza. | 바래다줘서 고마워요.
+w kufikisha | 전하다 · fika + isha | 전달하다; 데려다주다
+e Fikisha salamu zangu. | 내 안부 전해 줘.
+e Nitakufikisha nyumbani. | 집까지 데려다줄게.
+e Fikisha ujumbe huu. | 이 메시지를 전해 줘.
+tp 방향이 중요해요: kuleta(이쪽으로 가져오다) ↔ kupeleka(저쪽으로 가져가다).
+tp 손님을 길까지 배웅하는 kusindikiza는 동아프리카의 중요한 예절이에요.
+tp 안부 전하기: Fikisha salamu zangu kwa ~ / Nisalimie ~.
+pr kuleta | 가져오다 || kupeleka | 가져가다
+pr kusindikiza | 배웅하다 || kukaribisha | 맞이하다
+dl 손님 | Asante kwa chakula, sasa ninaondoka. | 밥 고마웠어요, 이제 가 볼게요.
+dl 주인 | Nitakusindikiza mpaka barabarani. | 길까지 바래다줄게요.
+dl 손님 | Asante. Fikisha salamu zangu kwa mama. | 고마워요. 어머니께 안부 전해 주세요.
+dl 주인 | Nitafikisha. Na kesho lete mke wako! | 전할게요. 내일은 부인도 데려와요!
+sm Lete hapa, peleka pale, sindikiza mgeni. | 여기로 가져오고, 저기로 가져가고, 손님을 배웅해요.
+qz '병원에 데려다줘요'는? | Nipeleke hospitali
+qz '배웅하다'는? | kusindikiza

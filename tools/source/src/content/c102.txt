@@ -1,0 +1,381 @@
+# P5-J | 숫자·시간·날짜
+
+@ 1-02-01 | 숫자 1~10 | moja·mbili·tatu | 하나부터 열까지. 물건을 셀 때 2~5, 8은 앞 명사에 따라 모양이 조금 바뀌어요(watoto wawili 아이 둘).
+w moja | 1, 하나 | 하나(1)
+e Nina kaka mmoja. | 형이 한 명 있어요.
+e Chai moja, tafadhali. | 차 한 잔 주세요.
+e Siku moja nitakwenda Zanzibar. | 언젠가 잔지바르에 갈 거예요.
+w mbili | 2, 둘 | 둘(2)
+e Ndizi mbili, tafadhali. | 바나나 두 개 주세요.
+e Nina dada wawili. | 여동생이 둘 있어요.
+e Saa mbili asubuhi. | 아침 여덟 시.
+w tatu | 3, 셋 | 셋(3)
+e Vitabu vitatu. | 책 세 권.
+e Tunakaa siku tatu. | 우리는 사흘 머물러요.
+e Watoto watatu wanacheza. | 아이 셋이 놀아요.
+w nne | 4, 넷 | 넷(4)
+e Nyumba nne. | 집 네 채.
+e Darasa letu lina wanafunzi wanne. | 우리 반에는 학생이 네 명 있어요.
+e Saa nne asubuhi. | 오전 열 시.
+w tano | 5, 다섯 | 다섯(5)
+e Siku tano kwa wiki. | 일주일에 닷새.
+e Nipe machungwa matano. | 오렌지 다섯 개 주세요.
+e Ana miaka mitano. | 그 아이는 다섯 살이에요.
+w sita | 6, 여섯 | 여섯(6)
+e Mayai sita. | 달걀 여섯 개.
+e Saa sita mchana. | 낮 열두 시.
+e Tuna viti sita tu. | 의자가 여섯 개뿐이에요.
+w saba | 7, 일곱 | 일곱(7)
+e Siku saba ni wiki moja. | 이레가 일주일이에요.
+e Mabasi saba yamefika. | 버스 일곱 대가 도착했어요.
+e Nambari saba ni nzuri. | 7은 좋은 숫자예요.
+w nane | 8, 여덟 | 여덟(8)
+e Watu wanane. | 여덟 사람.
+e Darasa linaanza saa nane. | 수업은 두 시에 시작해요.
+e Kitabu hiki kina kurasa nane. | 이 책은 여덟 쪽이에요.
+w tisa | 9, 아홉 | 아홉(9)
+e Miezi tisa. | 아홉 달.
+e Saa tisa alasiri. | 오후 세 시.
+e Ana ng'ombe tisa. | 그는 소가 아홉 마리 있어요.
+w kumi | 10, 열 | 열(10)
+e Kumi na moja. | 열하나(11).
+e Shilingi elfu kumi. | 만 실링.
+e Wanafunzi kumi na wawili. | 학생 열두 명.
+tp 11~19는 kumi na ~(열과 ~): kumi na moja(11), kumi na tano(15).
+tp 사람을 셀 때는 wa-를 붙여요: wawili(두 명), watatu(세 명), wanne, watano, wanane. 사람 하나는 mmoja.
+tp sita(6)와 saba(7)는 아랍어에서 왔어요. 7은 소리가 '사바'라서 '사바나'처럼 외워 보세요.
+pr mbili | 둘 || nane | 여덟
+pr sita | 여섯 || saba | 일곱
+dl 민준 | Ndizi ni bei gani? | 바나나 얼마예요?
+dl 상인 | Ndizi tano, shilingi elfu moja. | 바나나 다섯 개에 천 실링이에요.
+dl 민준 | Nipe ndizi kumi, tafadhali. | 바나나 열 개 주세요.
+dl 상인 | Sawa, elfu mbili. | 네, 이천 실링이에요.
+sm Moja, mbili, tatu, nne, tano, sita, saba, nane, tisa, kumi! | 하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열!
+qz '7'은? | saba
+qz tisa 는 몇? | 9
+
+@ 1-02-02 | 큰 숫자 | ishirini·mia·elfu | 20부터 백만까지. 돈 계산에 아주 많이 써요(1,000실링 = elfu moja).
+w ishirini | 20, 스물 | 스물(20)
+e Ishirini na tano. | 스물다섯(25).
+e Nina miaka ishirini. | 저는 스무 살이에요.
+e Dakika ishirini tu. | 이십 분만요.
+w thelathini | 30, 서른 | 서른(30)
+e Siku thelathini. | 삼십 일.
+e Ana miaka thelathini na mbili. | 그는 서른두 살이에요.
+e Thelathini na tatu, tafadhali. | 서른셋이요.
+w arobaini | 40, 마흔 | 마흔(40)
+e Wanafunzi arobaini. | 학생 마흔 명.
+e Arobaini na nane. | 마흔여덟.
+e Joto ni nyuzi arobaini leo. | 오늘 기온이 40도예요.
+w hamsini | 50, 쉰 | 쉰(50)
+e Hamsini na hamsini. | 반반.
+e Shilingi mia hamsini. | 150실링.
+e Baba yangu ana miaka hamsini. | 아버지는 쉰 살이에요.
+w mia | 100, 백 | 백(100)
+e Mia moja. | 백.
+e Mia tano. | 오백.
+e Watu mia mbili walikuja. | 이백 명이 왔어요.
+w elfu | 1,000, 천 | 천(1,000)
+e Elfu moja. | 천.
+e Shilingi elfu tano. | 오천 실링.
+e Elfu mbili na ishirini na sita. | 2026.
+w laki | 100,000, 십만 | 십만(100,000)
+e Laki moja. | 십만.
+e Simu hii ni laki tatu. | 이 휴대폰은 삼십만 실링이에요.
+e Laki mbili na nusu. | 이십오만.
+w milioni | 1,000,000, 백만 | 백만
+e Milioni moja. | 백만.
+e Watu milioni sitini. | 육천만 명.
+e Gari hili ni milioni kumi. | 이 차는 천만 실링이에요.
+tp 큰 단위가 앞에 와요: mia tano(백 다섯 = 500), elfu tatu(천 셋 = 3,000).
+tp 단위 사이는 na(그리고)로 이어요: mia moja na ishirini(120).
+tp laki(십만)는 동아프리카에서 돈 말할 때 아주 많이 써요. 1실링이 작아서 큰 숫자가 흔해요.
+pr mia | 백 || elfu | 천
+pr ishirini | 스물 || thelathini | 서른
+dl 수아 | Simu hii ni bei gani? | 이 휴대폰 얼마예요?
+dl 상인 | Laki mbili. | 이십만 실링이에요.
+dl 수아 | Ghali! Elfu hamsini? | 비싸요! 오만은요?
+dl 상인 | Hapana, laki moja na nusu. | 안 돼요, 십오만이요.
+sm Mia, elfu, laki, milioni — tunahesabu pesa. | 백, 천, 십만, 백만 — 돈을 세어요.
+qz '천'은? | elfu
+qz laki 는? | 십만
+
+@ 1-02-03 | 시간 말하기 | saa ngapi·saa moja | 스와힐리 시간은 해 뜨는 6시를 0으로 세요. 그래서 아침 7시가 saa moja(1시)예요.
+w Saa ngapi? | 몇 시예요? · saa 시계, 시 + ngapi 몇 | 몇 시예요?
+e Ni saa ngapi sasa? | 지금 몇 시예요?
+e Saa ngapi utafika? | 몇 시에 도착해요?
+e Basi linaondoka saa ngapi? | 버스가 몇 시에 떠나요?
+w saa moja asubuhi | 아침 7시 · 해 뜨고 첫 시간 | 아침 7시
+e Ninaamka saa moja asubuhi. | 아침 7시에 일어나요.
+e Shule inaanza saa moja na nusu. | 학교는 7시 반에 시작해요.
+e Saa moja asubuhi ni mapema. | 아침 7시는 일러요.
+w saa sita mchana | 낮 12시 | 낮 12시
+e Tunakula saa sita mchana. | 낮 12시에 점심을 먹어요.
+e Saa sita mchana jua ni kali. | 낮 12시에는 햇볕이 세요.
+e Duka linafungwa saa sita mchana. | 가게는 낮 12시에 닫아요.
+w nusu | 반, 30분 | 반, 절반
+e Saa tatu na nusu. | 9시 반.
+e Nusu ya mkate. | 빵 반 개.
+e Nusu saa tu. | 삼십 분만요.
+w robo | 4분의 1, 15분 | 15분, 4분의 1
+e Saa nne na robo. | 10시 15분.
+e Saa tano kasoro robo. | 10시 45분(11시 15분 전).
+e Robo saa imepita. | 15분이 지났어요.
+w kasoro | ~분 전 · '모자라다' | ~분 전, 모자라다
+e Saa mbili kasoro dakika tano. | 7시 55분(8시 5분 전).
+e Saa tatu kasoro robo. | 8시 45분.
+e Kasoro kidogo tu. | 조금 모자라요.
+w dakika | 분 | 분(分)
+e Dakika tano. | 5분.
+e Subiri dakika moja. | 1분만 기다려요.
+e Ni dakika kumi kwa miguu. | 걸어서 10분이에요.
+w saa | 시간, 시계, ~시 | 시(時), 시간, 시계
+e Saa yangu imesimama. | 제 시계가 멈췄어요.
+e Saa mbili za kusoma. | 두 시간의 공부.
+e Nimesubiri saa nzima. | 한 시간 내내 기다렸어요.
+tp 동아프리카에서는 서양식 12시간제와 스와힐리식 시간을 같이 써요(시차가 아니에요). 스와힐리식은 해 뜨는 아침 7시를 1시로 세요: 7시 = saa moja, 8시 = saa mbili, 12시 = saa sita, 오후 6시 = saa kumi na mbili.
+tp 헷갈리면 영어 시간인지 물어보세요: Saa za Kizungu?(서양식 시간이에요?)
+tp '~시 ~분'은 saa + 수 + na + dakika: saa tatu na dakika kumi(9시 10분).
+pr saa moja | 7시 || saa saba | 오후 1시
+pr na nusu | 반 || na robo | 15분
+dl 민준 | Samahani, ni saa ngapi? | 실례지만, 몇 시예요?
+dl 주마 | Ni saa tatu na nusu. | 9시 반이에요.
+dl 민준 | Saa tatu? Yaani saa tisa? | 3시요? 그러니까 9시요?
+dl 주마 | Ndiyo, saa za Kizungu ni tisa na nusu. | 네, 서양식으로는 9시 반이에요.
+sm Saa moja asubuhi ni saa saba za Kizungu. | 스와힐리 시간 아침 1시는 서양식 7시예요.
+qz 아침 7시를 스와힐리어로? | saa moja asubuhi
+qz kasoro robo 는? | 15분 전
+
+@ 1-02-04 | 아침·낮·저녁·밤 | asubuhi·mchana·jioni | 아침, 낮, 저녁, 밤. 시간을 말할 때 뒤에 붙여 헷갈리지 않게 해요.
+w asubuhi | 아침 | 아침, 오전
+e Habari za asubuhi? | 좋은 아침이에요.
+e Ninakunywa chai asubuhi. | 아침에 차를 마셔요.
+e Kesho asubuhi tutaondoka. | 내일 아침에 떠나요.
+w mchana | 낮 | 낮, 오후
+e Chakula cha mchana. | 점심(낮 음식).
+e Mchana kuna joto. | 낮에는 더워요.
+e Nitakuja mchana. | 낮에 갈게요.
+w alasiri | 오후(3~5시쯤) | 오후
+e Saa tisa alasiri. | 오후 3시.
+e Tunapumzika alasiri. | 오후에 쉬어요.
+e Mvua inanyesha kila alasiri. | 오후마다 비가 와요.
+w jioni | 저녁 | 저녁
+e Habari za jioni? | 좋은 저녁이에요.
+e Tutaonana jioni. | 저녁에 봐요.
+e Jioni tunatembea pwani. | 저녁에 해변을 걸어요.
+w usiku | 밤 | 밤
+e Usiku mwema. | 좋은 밤 되세요.
+e Saa nne usiku. | 밤 10시.
+e Usiku kuna baridi kidogo. | 밤에는 조금 추워요.
+w alfajiri | 새벽 | 새벽
+e Tuliamka alfajiri. | 새벽에 일어났어요.
+e Adhana ya alfajiri. | 새벽 기도 부름.
+e Wavuvi wanarudi alfajiri. | 어부들은 새벽에 돌아와요.
+w leo | 오늘 | 오늘
+e Leo ni Jumatatu. | 오늘은 월요일이에요.
+e Leo nina kazi nyingi. | 오늘 일이 많아요.
+e Unafanya nini leo? | 오늘 뭐 해요?
+w kesho | 내일 | 내일
+e Tutaonana kesho. | 내일 봐요.
+e Kesho kutwa. | 모레.
+e Kesho nitakwenda sokoni. | 내일 시장에 갈 거예요.
+w jana | 어제 | 어제
+e Jana nilikuwa nyumbani. | 어제 집에 있었어요.
+e Juzi na jana. | 그저께와 어제.
+e Jana mvua ilinyesha sana. | 어제 비가 많이 왔어요.
+tp 같은 숫자라도 때를 붙이면 헷갈리지 않아요: saa mbili asubuhi(아침 8시) ↔ saa mbili usiku(밤 8시).
+tp 모레는 kesho kutwa, 그저께는 juzi.
+tp 인사도 때에 맞춰요: Habari za asubuhi / za mchana / za jioni?
+pr asubuhi | 아침 || jioni | 저녁
+pr jana | 어제 || kesho | 내일
+dl 니에마 | Utafanya nini kesho? | 내일 뭐 할 거예요?
+dl 수아 | Asubuhi nitasoma, mchana nitapika. | 아침에는 공부하고, 낮에는 요리할 거예요.
+dl 니에마 | Na jioni? | 저녁에는요?
+dl 수아 | Jioni nitapumzika nyumbani. | 저녁에는 집에서 쉴 거예요.
+sm Asubuhi, mchana, jioni na usiku — siku nzima. | 아침, 낮, 저녁, 밤 — 하루 종일.
+qz '저녁'은? | jioni
+qz '모레'는? | kesho kutwa
+
+@ 1-02-05 | 요일 | Jumatatu·Ijumaa | 한 주는 토요일 Jumamosi(첫째 날)부터 세요. Juma = 주(週).
+w Jumatatu | 월요일 · '주의 셋째 날' | 월요일
+e Leo ni Jumatatu. | 오늘은 월요일이에요.
+e Shule inaanza Jumatatu. | 학교는 월요일에 시작해요.
+e Tutaonana Jumatatu. | 월요일에 봐요.
+w Jumanne | 화요일 · '주의 넷째 날' | 화요일
+e Kesho ni Jumanne. | 내일은 화요일이에요.
+e Jumanne nina darasa. | 화요일에 수업이 있어요.
+e Soko linafunguliwa Jumanne. | 시장은 화요일에 열려요.
+w Jumatano | 수요일 | 수요일
+e Jumatano tunacheza mpira. | 수요일에 공을 차요.
+e Mkutano ni Jumatano. | 모임은 수요일이에요.
+e Jumatano jioni nitakuja. | 수요일 저녁에 갈게요.
+w Alhamisi | 목요일 · 아랍어 '다섯째' | 목요일
+e Alhamisi ni siku ya soko. | 목요일은 장날이에요.
+e Nitarudi Alhamisi. | 목요일에 돌아올게요.
+e Alhamisi hii ni sikukuu. | 이번 목요일은 공휴일이에요.
+w Ijumaa | 금요일 · 이슬람의 모이는 날 | 금요일
+e Ijumaa watu wanakwenda msikitini. | 금요일에 사람들이 모스크에 가요.
+e Ijumaa njema! | 즐거운 금요일!
+e Tutasafiri Ijumaa. | 금요일에 여행 가요.
+w Jumamosi | 토요일 · '주의 첫째 날' | 토요일
+e Jumamosi sina kazi. | 토요일에는 일이 없어요.
+e Harusi ni Jumamosi. | 결혼식이 토요일이에요.
+e Jumamosi tunakwenda ufukweni. | 토요일에 바닷가에 가요.
+w Jumapili | 일요일 · '주의 둘째 날' | 일요일
+e Jumapili tunakwenda kanisani. | 일요일에 교회에 가요.
+e Jumapili ni siku ya kupumzika. | 일요일은 쉬는 날이에요.
+e Jumapili ijayo. | 다음 일요일.
+w wiki | 주, 일주일 | 주(週), 일주일
+e Wiki hii. | 이번 주.
+e Wiki ijayo. | 다음 주.
+e Mara mbili kwa wiki. | 일주일에 두 번.
+tp Jumamosi(토)가 1, Jumapili(일)가 2, Jumatatu(월)가 3… 그래서 '월요일'에 '셋(tatu)'이 들어 있어요.
+tp Alhamisi(목), Ijumaa(금)는 아랍어에서 왔어요.
+tp '요일이 뭐예요?'는 Leo ni siku gani?
+pr Jumamosi | 토요일 || Jumapili | 일요일
+pr Jumatatu | 월요일 || Jumanne | 화요일
+dl 바라카 | Leo ni siku gani? | 오늘 무슨 요일이에요?
+dl 민준 | Leo ni Alhamisi. | 오늘은 목요일이에요.
+dl 바라카 | Kwa hiyo kesho ni Ijumaa! | 그럼 내일이 금요일이네요!
+dl 민준 | Ndiyo, na kesho kutwa ni Jumamosi. | 네, 모레는 토요일이고요.
+sm Jumamosi, Jumapili, Jumatatu, Jumanne, Jumatano, Alhamisi, Ijumaa. | 토, 일, 월, 화, 수, 목, 금.
+qz '금요일'은? | Ijumaa
+qz Jumatatu 는? | 월요일
+
+@ 1-02-06 | 날짜·월·연도 | tarehe·mwezi·mwaka | 날짜, 달, 해. 달 이름은 '첫째 달, 둘째 달'처럼 숫자로도 말해요.
+w tarehe | 날짜 | 날짜
+e Leo ni tarehe ngapi? | 오늘 며칠이에요?
+e Tarehe kumi na tano. | 15일.
+e Andika tarehe hapa. | 여기에 날짜를 써요.
+w mwezi | 달, 월 · '하늘의 달'도 | 달, 월(月)
+e Mwezi huu. | 이번 달.
+e Mwezi wa kwanza. | 1월(첫째 달).
+e Mwezi unang'aa usiku. | 밤에 달이 빛나요.
+w mwaka | 해, 년 | 해, 년(年)
+e Mwaka huu. | 올해.
+e Mwaka jana. | 작년.
+e Heri ya mwaka mpya! | 새해 복 많이 받으세요!
+w Januari | 1월 · 영어에서 온 달 이름 | 1월
+e Januari ni mwezi wa kwanza. | 1월은 첫째 달이에요.
+e Shule zinafunguliwa Januari. | 학교는 1월에 개학해요.
+e Mwezi Januari kuna joto. | 1월에는 더워요.
+w Desemba | 12월 | 12월
+e Desemba tunasherehekea Krismasi. | 12월에 크리스마스를 축하해요.
+e Tarehe ishirini na tano Desemba. | 12월 25일.
+e Desemba ni likizo. | 12월은 방학이에요.
+w mwaka ujao | 내년 · ujao 다가오는 | 내년
+e Mwaka ujao nitarudi Tanzania. | 내년에 탄자니아에 다시 올 거예요.
+e Mwaka ujao ataanza chuo. | 내년에 그는 대학에 들어가요.
+e Tutaonana mwaka ujao. | 내년에 봐요.
+w zamani | 옛날 | 옛날, 오래전
+e Zamani za kale. | 아주 먼 옛날.
+e Zamani niliishi Mombasa. | 예전에 몸바사에 살았어요.
+e Hii ni nyumba ya zamani. | 이건 옛날 집이에요.
+w siku ya kuzaliwa | 생일 · '태어난 날' | 생일
+e Siku yangu ya kuzaliwa ni Machi. | 제 생일은 3월이에요.
+e Heri ya siku ya kuzaliwa! | 생일 축하해요!
+e Leo ni siku ya kuzaliwa ya mama. | 오늘은 엄마 생일이에요.
+tp 달 이름: Januari, Februari, Machi, Aprili, Mei, Juni, Julai, Agosti, Septemba, Oktoba, Novemba, Desemba. 또는 mwezi wa kwanza(1월), mwezi wa pili(2월)…
+tp '다가오는'은 ujao/ijayo, '지난'은 uliopita/iliyopita: mwezi ujao(다음 달), wiki iliyopita(지난주).
+tp 날짜는 tarehe + 수 + 달: tarehe tatu Mei(5월 3일).
+pr mwaka jana | 작년 || mwaka ujao | 내년
+pr mwezi | 달 || mwaka | 해
+dl 할리마 | Siku yako ya kuzaliwa ni lini? | 생일이 언제예요?
+dl 수아 | Ni tarehe kumi Oktoba. | 10월 10일이에요.
+dl 할리마 | Kumbe ni mwezi ujao! | 어머, 다음 달이네요!
+dl 수아 | Ndiyo, karibu kwenye sherehe! | 네, 파티에 와요!
+sm Leo ni tarehe moja, mwezi wa kwanza, mwaka mpya. | 오늘은 1월 1일, 새해예요.
+qz '내년'은? | mwaka ujao
+qz tarehe 는? | 날짜
+
+@ 1-02-07 | 순서·횟수 | kwanza·mara | 첫째, 둘째, 몇 번. 순서는 'ya + 숫자'로 말해요.
+w kwanza | 먼저, 첫째 | 먼저; 첫째
+e Kwanza tunakula, halafu tunacheza. | 먼저 먹고, 그다음에 놀아요.
+e Mtoto wa kwanza. | 첫째 아이.
+e Wewe kwanza, tafadhali. | 먼저 하세요.
+w ya pili | 둘째 · ya ~의 + pili 둘 | 둘째, 두 번째
+e Siku ya pili. | 둘째 날.
+e Darasa la pili. | 2학년.
+e Mara ya pili. | 두 번째.
+w mwisho | 끝, 마지막 | 끝, 마지막
+e Wiki ya mwisho. | 마지막 주.
+e Mwisho wa mwezi. | 월말.
+e Huyu ni mtu wa mwisho. | 이 사람이 마지막이에요.
+w mara | 번, 회 | ~번, ~회
+e Mara moja. | 한 번.
+e Mara tatu kwa siku. | 하루에 세 번.
+e Nimekuja hapa mara nyingi. | 여기 여러 번 왔어요.
+w kila siku | 매일 · kila 모든 + siku 날 | 매일
+e Ninasoma kila siku. | 매일 공부해요.
+e Kila siku asubuhi ninakunywa chai. | 매일 아침 차를 마셔요.
+e Basi linakuja kila siku. | 버스는 매일 와요.
+w mara nyingi | 자주 · '많은 번' | 자주
+e Mara nyingi tunakula wali. | 우리는 자주 밥을 먹어요.
+e Mvua inanyesha mara nyingi. | 비가 자주 와요.
+e Ninampigia simu mara nyingi. | 그에게 자주 전화해요.
+w mara chache | 가끔, 드물게 | 가끔, 드물게
+e Mara chache ninakula nyama. | 가끔 고기를 먹어요.
+e Anakuja mara chache tu. | 그는 가끔만 와요.
+e Theluji inaonekana mara chache. | 눈은 드물게 보여요.
+w halafu | 그다음에 | 그다음에, 그러고 나서
+e Halafu tutakwenda nyumbani. | 그다음에 집에 갈 거예요.
+e Nilioga, halafu nilikula. | 씻고 나서 밥을 먹었어요.
+e Halafu je? | 그다음은요?
+tp 순서 = ~의 + 숫자: wa kwanza(첫째), wa pili(둘째), wa tatu(셋째). '첫째'만 kwanza, '둘째'는 pili(mbili 아님)를 써요.
+tp '하루에 ~번'은 mara ~ kwa siku: mara mbili kwa siku.
+tp 이야기 순서: kwanza(먼저) → halafu/kisha(그다음) → mwisho(마지막으로).
+pr mara nyingi | 자주 || mara chache | 가끔
+pr kwanza | 먼저 || mwisho | 마지막
+dl 의사 | Kunywa dawa mara tatu kwa siku. | 하루 세 번 약을 드세요.
+dl 민준 | Kabla ya kula au baada ya kula? | 식전이요, 식후요?
+dl 의사 | Baada ya kula. Kwanza ule chakula. | 식후요. 먼저 밥을 드세요.
+dl 민준 | Sawa, asante daktari. | 알겠어요, 고맙습니다 선생님.
+sm Kwanza, halafu, mwisho — mara moja kila siku. | 먼저, 그다음, 마지막 — 매일 한 번.
+qz '하루에 세 번'은? | mara tatu kwa siku
+qz '둘째 날'은? | siku ya pili
+
+@ 1-02-08 | 시간 약속·지각 | mapema·kuchelewa | 약속 시간에 같이 쓰는 말. 동아프리카 시간은 느긋하지만, 버스와 비행기는 정시에 떠나요.
+w mapema | 일찍 | 일찍
+e Njoo mapema, tafadhali. | 일찍 와 주세요.
+e Tuliondoka mapema asubuhi. | 아침 일찍 떠났어요.
+e Bado ni mapema. | 아직 일러요.
+w kuchelewa | 늦다 | 늦다, 지각하다
+e Samahani kwa kuchelewa. | 늦어서 미안해요.
+e Usichelewe kesho. | 내일 늦지 마.
+e Basi limechelewa leo. | 오늘 버스가 늦었어요.
+w kuwahi | 제시간에 대다, 서둘러 가다 | 제시간에 대다; 서두르다
+e Nimewahi basi. | 버스를 놓치지 않고 탔어요.
+e Wahi shuleni! | 학교에 늦지 않게 가!
+e Tutawahi mkutano? | 회의에 제시간에 닿을까요?
+w haraka | 빨리, 서두름 | 빨리; 서두름
+e Haraka, basi linaondoka! | 빨리, 버스가 떠나요!
+e Usiwe na haraka. | 서두르지 마요.
+e Haraka haraka haina baraka. | 서두르면 복이 없다. (속담)
+w muda | 시간, 동안 | 시간, 기간
+e Sina muda leo. | 오늘은 시간이 없어요.
+e Muda gani? | 얼마 동안이요?
+e Kwa muda mfupi. | 잠깐 동안.
+w sasa hivi | 지금 바로, 곧 | 지금 당장; 곧
+e Nakuja sasa hivi! | 지금 바로 갈게!
+e Sasa hivi anafika. | 이제 곧 도착해요.
+e Fanya sasa hivi. | 지금 당장 해.
+w baadaye | 나중에 | 나중에, 이따가
+e Tutaonana baadaye. | 이따 봐요.
+e Nitakupigia simu baadaye. | 나중에 전화할게요.
+e Baadaye kidogo. | 조금 이따가.
+w kusubiri | 기다리다 | 기다리다
+e Subiri kidogo. | 조금 기다려요.
+e Ninakusubiri hapa. | 여기서 너를 기다릴게.
+e Tulisubiri basi saa nzima. | 버스를 한 시간이나 기다렸어요.
+tp sasa hivi는 '지금 당장'이지만 실제로는 '곧, 좀 이따'일 때가 많아요.
+tp 기다리다는 kusubiri와 kungoja 둘 다 써요: Subiri kidogo = Ngoja kidogo.
+tp '늦지 마'는 부정 명령 u- + si + -e: usichelewe.
+pr mapema | 일찍 || kuchelewa | 늦다
+pr sasa hivi | 지금 바로 || baadaye | 나중에
+dl 민준 | Uko wapi? Basi linaondoka! | 어디예요? 버스 떠나요!
+dl 바라카 | Nakuja sasa hivi! Nisubiri! | 지금 가요! 기다려 줘요!
+dl 민준 | Haraka! Tumechelewa. | 빨리요! 늦었어요.
+dl 바라카 | Samahani kwa kuchelewa. Tumewahi! | 늦어서 미안해요. 아슬아슬하게 탔네요!
+sm Njoo mapema, usichelewe — basi halisubiri! | 일찍 와요, 늦지 말고요 — 버스는 안 기다려요!
+qz '나중에'는? | baadaye
+qz '기다리다'는? | kusubiri

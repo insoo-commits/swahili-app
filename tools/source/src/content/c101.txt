@@ -1,0 +1,402 @@
+# P5-K | 인사·기본 표현
+
+@ 1-01-01 | 첫인사 | Jambo·Habari | 스와힐리어를 처음 배울 때 가장 먼저 쓰는 인사말이에요. 동아프리카 사람들은 만나면 인사를 길게, 여러 번 주고받아요.
+w Jambo | 안녕하세요 · 여행자에게 자주 쓰는 가벼운 인사 | 안녕하세요
+e Jambo, rafiki! | 안녕, 친구!
+e Jambo, karibu Tanzania. | 안녕하세요, 탄자니아에 오신 걸 환영해요.
+e Jambo, mama! | 안녕하세요, 아주머니!
+w Habari? | 잘 지내요? · 원래 뜻 '소식' | 잘 지내요?; 소식
+e Habari yako? | 너는 잘 지내?
+e Habari za asubuhi? | 좋은 아침이에요. (아침 소식은 어때요?)
+e Habari za kazi? | 일은 어때요?
+w Nzuri | 좋아요 · Habari?에 대한 대답 | 좋아요; 좋은
+e Nzuri sana, asante. | 아주 좋아요, 고마워요.
+e Nzuri tu. | 그냥 좋아요.
+e Habari? — Nzuri! | 잘 지내요? — 좋아요!
+w Mambo? | 어때? · 친구끼리 쓰는 인사 | 어때?, 별일 없어?
+e Mambo, Juma? | 주마, 어때?
+e Mambo vipi? | 요즘 어때?
+e Mambo? — Poa! | 어때? — 좋아!
+w Poa | 좋아 · Mambo?에 대한 대답(입말) | 좋아(입말); 시원하다
+e Poa sana! | 아주 좋아!
+e Mimi niko poa. | 나는 잘 지내.
+e Poa, na wewe? | 좋아, 너는?
+w Shikamoo | 안녕하세요(어른께) · 윗사람에게 먼저 하는 존경 인사 | 안녕하세요(어른께)
+e Shikamoo, bibi. | 할머니, 안녕하세요.
+e Shikamoo, mwalimu! | 선생님, 안녕하세요!
+e Watoto wanasema shikamoo. | 아이들이 '시카모'라고 인사해요.
+w Marahaba | 그래, 반갑다 · Shikamoo에 대한 어른의 대답 | 그래 (Shikamoo의 대답)
+e Shikamoo, babu. — Marahaba. | 할아버지, 안녕하세요. — 그래.
+e Marahaba, mwanangu. | 그래, 우리 아가.
+e Bibi anajibu marahaba. | 할머니가 '마라하바'라고 대답해요.
+w Kwaheri | 안녕히 가세요 · 헤어질 때 | 안녕히 가세요(계세요)
+e Kwaheri, rafiki! | 잘 가, 친구야!
+e Kwaheri ya kuonana. | 또 만날 때까지 안녕히.
+e Kwaherini, watoto! | 얘들아, 안녕!
+tp 인사에는 보통 같은 말로 대답하지 않고 정해진 짝으로 대답해요: Habari? → Nzuri, Mambo? → Poa, Shikamoo → Marahaba.
+tp Jambo는 관광지에서 많이 들어요. 현지 사람끼리는 Habari? 나 Hujambo?(잘 있어요?)를 더 자주 써요.
+tp Shikamoo는 나이 많은 사람에게 '먼저' 하는 인사예요. 탄자니아에서 특히 중요하게 여겨요.
+tp 여러 사람에게 작별할 때는 Kwaheri에 -ni를 붙여 Kwaherini라고 해요.
+nx 자기소개: Jina langu ni… → 1-01-02
+pr Habari? | 잘 지내요? || Nzuri. | 좋아요.
+pr Mambo? | 어때? || Poa! | 좋아!
+pr Shikamoo. | 안녕하세요(어른께). || Marahaba. | 그래.
+dl 수아 | Habari za asubuhi, mwalimu? | 선생님, 좋은 아침이에요.
+dl 선생님 | Nzuri sana. Habari yako? | 아주 좋아요. 수아는 잘 지내요?
+dl 수아 | Nzuri, asante. | 잘 지내요, 고마워요.
+dl 선생님 | Karibu darasani. | 교실에 어서 와요.
+sm Jambo! Habari yako? — Nzuri sana, asante! | 안녕하세요! 잘 지내요? — 아주 잘 지내요, 고마워요!
+qz 어른께 먼저 하는 인사는? | Shikamoo
+qz Mambo? 에 대한 대답은? | Poa
+
+@ 1-01-02 | 자기소개 | Jina langu·Ninatoka | 이름, 나라, 사는 곳을 말해 봐요. '나는'은 mimi, 동사 앞의 ni-도 '나'를 뜻해요.
+w Jina langu ni… | 내 이름은 ~예요 · jina 이름 + langu 나의 | 내 이름은 ~예요
+e Jina langu ni Minjun. | 제 이름은 민준이에요.
+e Jina langu ni Sua Kim. | 제 이름은 김수아예요.
+e Habari, jina langu ni Amani. | 안녕하세요, 제 이름은 아마니예요.
+w Jina lako nani? | 이름이 뭐예요? · 기본형 Jina lako ni nani?, 입말에서 ni 생략 | 이름이 뭐예요?
+e Jina lako nani, rafiki? | 친구야, 이름이 뭐야?
+e Samahani, jina lako nani? | 실례지만, 이름이 뭐예요?
+e Jina lako nani? — Neema. | 이름이 뭐예요? — 네에마예요.
+w Ninatoka… | ~에서 왔어요 · ni 나 + na 지금 + toka 나오다 | ~에서 왔어요
+e Ninatoka Korea Kusini. | 한국(남한)에서 왔어요.
+e Ninatoka Seoul. | 서울에서 왔어요.
+e Unatoka wapi? — Ninatoka Busan. | 어디서 왔어요? — 부산에서 왔어요.
+w Mkorea | 한국 사람 · m 사람 + Korea | 한국 사람
+e Mimi ni Mkorea. | 저는 한국 사람이에요.
+e Yeye ni Mkorea pia. | 그 사람도 한국 사람이에요.
+e Wakorea wengi wanapenda chai. | 많은 한국 사람이 차를 좋아해요.
+w Ninaishi… | ~에 살아요 · ni 나 + na 지금 + ishi 살다 | ~에 살아요
+e Ninaishi Dar es Salaam. | 다르에스살람에 살아요.
+e Ninaishi karibu na shule. | 학교 근처에 살아요.
+e Unaishi wapi sasa? | 지금 어디에 살아요?
+w Mwanafunzi | 학생 · 배우는 사람 | 학생
+e Mimi ni mwanafunzi. | 저는 학생이에요.
+e Mwanafunzi huyu ni Mkorea. | 이 학생은 한국 사람이에요.
+e Wanafunzi wanajifunza Kiswahili. | 학생들이 스와힐리어를 배워요.
+w Nimefurahi kukutana nawe | 만나서 반가워요 · nimefurahi 기쁘다 + kukutana 만나다 | 만나서 반가워요
+e Nimefurahi kukutana nawe, Neema. | 네에마, 만나서 반가워요.
+e Nimefurahi sana kukutana nawe. | 만나서 정말 반가워요.
+e Nami nimefurahi kukutana nawe. | 저도 만나서 반가워요.
+w Umri | 나이 · 나이를 물을 때 | 나이
+e Una umri gani? | 몇 살이에요?
+e Nina umri wa miaka ishirini. | 저는 스무 살이에요.
+e Umri wangu ni miaka thelathini. | 제 나이는 서른이에요.
+tp '나는 ~예요'는 Mimi ni ~. 사람 이름, 나라 사람, 직업을 모두 이 틀로 말해요.
+tp 나라 사람은 m-을 붙여요: Mkorea(한국 사람), Mtanzania(탄자니아 사람), Mkenya(케냐 사람). 여럿이면 wa-: Wakorea.
+tp 언어 이름은 ki-를 붙여요: Kiswahili(스와힐리어), Kikorea(한국어), Kiingereza(영어).
+pr Jina lako nani? | 이름이 뭐예요? || Jina langu ni Sua. | 제 이름은 수아예요.
+pr Unatoka wapi? | 어디서 왔어요? || Ninatoka Korea. | 한국에서 왔어요.
+dl 아마니 | Habari! Jina langu ni Amani. Jina lako nani? | 안녕하세요! 제 이름은 아마니예요. 이름이 뭐예요?
+dl 민준 | Jina langu ni Minjun. Ninatoka Korea. | 제 이름은 민준이에요. 한국에서 왔어요.
+dl 아마니 | Karibu sana! Unaishi wapi? | 정말 환영해요! 어디에 살아요?
+dl 민준 | Ninaishi Arusha. Nimefurahi kukutana nawe. | 아루샤에 살아요. 만나서 반가워요.
+sm Jina langu ni Minjun, ninatoka Korea na ninaishi Arusha. | 제 이름은 민준이고, 한국에서 왔고, 아루샤에 살아요.
+qz '이름이 뭐예요?'는? | Jina lako nani?
+qz '한국 사람'은? | Mkorea
+
+@ 1-01-03 | 짧은 대답 | Ndiyo·Hapana·Sawa | 질문에 바로 대답하는 짧은 말이에요.
+w Ndiyo | 네 · 긍정 대답 | 네, 그래요
+e Ndiyo, ni kweli. | 네, 맞아요.
+e Ndiyo, ninaelewa. | 네, 알겠어요.
+e Ndiyo, mimi ni mwanafunzi. | 네, 저는 학생이에요.
+w Hapana | 아니요 · 부정 대답 | 아니요
+e Hapana, asante. | 아니요, 괜찮아요.
+e Hapana, si mimi. | 아니요, 제가 아니에요.
+e Hapana, sitaki chai. | 아니요, 차는 안 마실래요.
+w Sawa | 좋아요 · 동의, '같다'라는 뜻도 | 좋아요, 알겠어요; 같다
+e Sawa, tutaonana kesho. | 좋아요, 내일 봐요.
+e Sawa sawa! | 좋아 좋아!
+e Ni sawa kabisa. | 완전히 괜찮아요.
+w Labda | 아마 · 확실하지 않을 때 | 아마, 어쩌면
+e Labda kesho. | 아마 내일요.
+e Labda atakuja jioni. | 아마 그는 저녁에 올 거예요.
+e Labda ndiyo, labda hapana. | 그럴 수도 있고 아닐 수도 있어요.
+w Bila shaka | 물론이죠 · '의심 없이' | 물론이죠
+e Bila shaka, karibu! | 물론이죠, 어서 와요!
+e Bila shaka nitakuja. | 물론 갈게요.
+e Unaweza kunisaidia? — Bila shaka. | 도와줄 수 있어요? — 물론이죠.
+w Hakuna matata | 문제없어요 · '걱정 없다' | 문제없어요, 걱정 마세요
+e Hakuna matata, rafiki. | 문제없어, 친구야.
+e Samahani! — Hakuna matata. | 미안해요! — 괜찮아요.
+e Hapa Zanzibar, hakuna matata. | 여기 잔지바르에서는 걱정이 없어요.
+w Kweli? | 정말요? · kweli 참, 사실 | 정말요?; 사실, 참
+e Kweli? Sikujua. | 정말요? 몰랐어요.
+e Ni kweli kabisa. | 완전히 사실이에요.
+e Kweli, chakula hiki ni kitamu. | 정말 이 음식 맛있어요.
+w Si kweli | 사실이 아니에요 · si ~이 아니다 + kweli | 사실이 아니에요
+e Hapana, si kweli. | 아니요, 사실이 아니에요.
+e Habari hiyo si kweli. | 그 소식은 사실이 아니에요.
+e Si kweli, yeye yuko nyumbani. | 아니에요, 그는 집에 있어요.
+tp '네'는 Ndiyo, '아니요'는 Hapana. 부드럽게 거절할 때는 Hapana, asante(아니요, 고마워요).
+tp Sawa는 '알겠어요'와 '같다' 두 가지로 써요: Ni sawa(괜찮아요), sawa na(~와 같다).
+tp Hakuna matata는 관광객에게 유명하지만, 현지에서는 Hakuna shida(문제없어요)도 자주 써요.
+pr Ndiyo. | 네. || Hapana. | 아니요.
+pr Kweli? | 정말요? || Si kweli. | 사실이 아니에요.
+dl 니에마 | Utakuja sokoni kesho? | 내일 시장에 올 거예요?
+dl 민준 | Labda. Saa ngapi? | 아마요. 몇 시에요?
+dl 니에마 | Asubuhi, saa tatu. | 아침 아홉 시요.
+dl 민준 | Sawa, bila shaka nitakuja. | 좋아요, 꼭 갈게요.
+sm Ndiyo, sawa, bila shaka — hakuna matata! | 네, 좋아요, 물론이죠 — 문제없어요!
+qz '물론이죠'는? | Bila shaka
+qz Hapana 의 뜻은? | 아니요
+
+@ 1-01-04 | 이해 확인·되묻기 | Sielewi·Polepole | 알아듣지 못할 때, 천천히 말해 달라고 할 때 써요.
+w Sielewi | 이해가 안 돼요 · si 나 ~않다 + elewi 이해하다 | 이해가 안 돼요
+e Samahani, sielewi. | 죄송해요, 이해가 안 돼요.
+e Sielewi Kiswahili vizuri. | 스와힐리어를 잘 못 알아들어요.
+e Sielewi neno hili. | 이 단어를 모르겠어요.
+w Ninaelewa | 이해해요 · ni 나 + na 지금 + elewa 이해하다 | 이해해요, 알겠어요
+e Ndiyo, ninaelewa. | 네, 이해해요.
+e Ninaelewa kidogo. | 조금 알아들어요.
+e Sasa ninaelewa, asante. | 이제 알겠어요, 고마워요.
+w Polepole | 천천히 · 서두르지 말라는 뜻도 | 천천히
+e Sema polepole, tafadhali. | 천천히 말해 주세요.
+e Tembea polepole. | 천천히 걸어요.
+e Polepole ndio mwendo. | 천천히 가는 게 제대로 가는 거예요. (속담)
+w Rudia, tafadhali | 다시 말해 주세요 · rudia 되풀이하다 | 다시 말해 주세요
+e Rudia, tafadhali, sikusikia. | 다시 말해 주세요, 못 들었어요.
+e Mwalimu, rudia tafadhali. | 선생님, 다시 한 번 말씀해 주세요.
+e Rudia neno hilo, tafadhali. | 그 단어를 다시 말해 주세요.
+w Sijui | 몰라요 · si 나 ~않다 + jui 알다 | 몰라요
+e Sijui, samahani. | 몰라요, 미안해요.
+e Sijui yuko wapi. | 그가 어디 있는지 몰라요.
+e Sijui jibu. | 답을 몰라요.
+w Unasemaje…? | ~를 어떻게 말해요? · '너는 어떻게 말하니' | ~를 어떻게 말해요?
+e Unasemaje 'water' kwa Kiswahili? | 'water'를 스와힐리어로 어떻게 말해요?
+e Unasemaje hii kwa Kiswahili? | 이건 스와힐리어로 뭐라고 해요?
+e Unasemaje 'asante' kwa Kikorea? | 'asante'를 한국어로 어떻게 말해요?
+w Maana yake nini? | 무슨 뜻이에요? · maana 뜻 + yake 그것의 + nini 무엇 | 무슨 뜻이에요?
+e Neno hili, maana yake nini? | 이 단어, 무슨 뜻이에요?
+e 'Pole', maana yake nini? | 'pole'이 무슨 뜻이에요?
+e Sijui maana yake. | 그 뜻을 몰라요.
+w Andika, tafadhali | 써 주세요 · andika 쓰다 | 써 주세요
+e Andika hapa, tafadhali. | 여기에 써 주세요.
+e Andika jina lako, tafadhali. | 이름을 써 주세요.
+e Andika neno hilo ubaoni. | 그 단어를 칠판에 써 주세요.
+tp 부정형 '나는 ~않다'는 si-로 시작해요: sielewi(이해 못 해요), sijui(몰라요), sitaki(싫어요).
+tp Polepole는 '천천히'지만, 동아프리카에서는 '여유를 가져요'라는 생활 태도를 뜻하기도 해요.
+tp 단어를 물을 때: Unasemaje ~ kwa Kiswahili?(~를 스와힐리어로 어떻게 말해요?)
+pr Ninaelewa. | 이해해요. || Sielewi. | 이해가 안 돼요.
+pr Ninajua. | 알아요. || Sijui. | 몰라요.
+dl 수아 | Samahani, sielewi. Rudia, tafadhali. | 죄송해요, 이해가 안 돼요. 다시 말해 주세요.
+dl 주마 | Sawa. Duka — liko — pale. | 좋아요. 가게는 — 저기 — 있어요.
+dl 수아 | Ah, sasa ninaelewa. 'Duka' maana yake nini? | 아, 이제 알겠어요. 'duka'가 무슨 뜻이에요?
+dl 주마 | Duka ni mahali pa kununua vitu. | 두카는 물건을 사는 곳이에요.
+sm Sielewi — sema polepole na rudia, tafadhali. | 이해가 안 돼요 — 천천히 다시 말해 주세요.
+qz '천천히'는? | Polepole
+qz '몰라요'는? | Sijui
+
+@ 1-01-05 | 느낌 한마디 | Safi·Pole·Hongera | 기쁠 때, 위로할 때, 축하할 때 쓰는 짧은 말이에요.
+w Safi | 좋아, 멋져 · 원래 뜻 '깨끗하다' | 멋져, 좋아; 깨끗하다
+e Safi sana! | 정말 멋져!
+e Chumba hiki ni safi. | 이 방은 깨끗해요.
+e Kazi safi! | 잘했어!
+w Pole | 안됐어요 · 힘든 일을 당한 사람에게 위로 | 안됐어요, 힘들었겠어요
+e Pole sana, rafiki. | 정말 안됐다, 친구야.
+e Pole kwa safari. | 오시느라 고생했어요.
+e Pole, umeumia? | 아이고, 다쳤어요?
+w Asante | 고마워요 · Pole에 대한 대답으로도 | 고마워요
+e Asante sana! | 정말 고마워요!
+e Asante kwa chakula. | 음식 고마워요.
+e Pole! — Asante. | 힘들었겠어요! — 고마워요.
+w Hongera | 축하해요 · 좋은 일이 있을 때 | 축하해요
+e Hongera sana! | 정말 축하해요!
+e Hongera kwa kazi mpya. | 새 직장 축하해요.
+e Hongera kwa harusi yenu! | 결혼 축하해요!
+w Ajabu! | 놀라워요! · ajabu 신기한 일 | 놀라워요!, 신기해요
+e Ajabu sana! | 정말 놀라워요!
+e Ni jambo la ajabu. | 신기한 일이에요.
+e Mlima huu ni wa ajabu. | 이 산은 정말 놀라워요.
+w Nimechoka | 피곤해요 · ni 나 + me 완료 + choka 지치다 | 피곤해요
+e Nimechoka sana leo. | 오늘 너무 피곤해요.
+e Umechoka? — Ndiyo, nimechoka. | 피곤해요? — 네, 피곤해요.
+e Nimechoka kutembea. | 걷느라 지쳤어요.
+w Nina furaha | 기뻐요 · nina 가지고 있다 + furaha 기쁨 | 기뻐요, 행복해요
+e Nina furaha sana leo. | 오늘 정말 기뻐요.
+e Nina furaha kukuona. | 너를 봐서 기뻐.
+e Watoto wana furaha. | 아이들이 행복해해요.
+w Afadhali | 다행이에요, ~가 낫다 | 다행이에요; ~하는 게 낫다
+e Afadhali umefika salama. | 무사히 도착해서 다행이에요.
+e Afadhali kidogo leo. | 오늘은 좀 나아요.
+e Afadhali twende sasa. | 지금 가는 게 낫겠어요.
+tp Pole는 '미안해요'가 아니라 '안됐어요, 고생했어요'예요. 넘어지거나 아프거나 먼 길을 온 사람에게 해요. 대답은 Asante.
+tp 사과하는 '미안해요'는 Samahani예요(1-01-07).
+tp '나는 ~을 가지고 있다'는 nina: nina furaha(기뻐요), nina njaa(배고파요), nina kiu(목말라요).
+pr Pole! | 안됐어요! || Asante. | 고마워요.
+pr Hongera! | 축하해요! || Asante sana. | 정말 고마워요.
+dl 바라카 | Pole kwa safari, Sua! | 오느라 고생했어요, 수아!
+dl 수아 | Asante. Nimechoka kidogo. | 고마워요. 조금 피곤해요.
+dl 바라카 | Karibu nyumbani. Hongera kwa kufika! | 집에 어서 와요. 도착한 거 축하해요!
+dl 수아 | Asante sana. Nina furaha sana. | 정말 고마워요. 정말 기뻐요.
+sm Pole kwa safari, hongera kwa kufika — safi sana! | 오느라 고생했어요, 도착 축하해요 — 정말 좋아요!
+qz '축하해요'는? | Hongera
+qz Pole 에 대한 대답은? | Asante
+
+@ 1-01-06 | 의문사로 질문하기 | Nini·Nani·Wapi | 무엇, 누구, 어디, 언제, 왜, 어떻게. 스와힐리어 의문사는 보통 문장 끝에 와요.
+w Nini? | 무엇 · 동사 뒤에 붙기도(unataka nini) | 무엇
+e Hii ni nini? | 이건 뭐예요?
+e Unataka nini? | 뭘 원해요?
+e Unafanya nini? | 뭐 해요?
+w Nani? | 누구 | 누구
+e Huyu ni nani? | 이 사람은 누구예요?
+e Nani anakuja? | 누가 와요?
+e Jina lake nani? | 그 사람 이름이 뭐예요?
+w Wapi? | 어디 | 어디
+e Choo kiko wapi? | 화장실이 어디예요?
+e Unakwenda wapi? | 어디 가요?
+e Unatoka wapi? | 어디서 왔어요?
+w Lini? | 언제 | 언제
+e Utarudi lini? | 언제 돌아와요?
+e Mkutano ni lini? | 모임이 언제예요?
+e Ulifika lini? | 언제 도착했어요?
+w Kwa nini? | 왜 · kwa ~으로 + nini 무엇 | 왜
+e Kwa nini umechelewa? | 왜 늦었어요?
+e Kwa nini unalia? | 왜 울어요?
+e Kwa nini? Sijui. | 왜요? 모르겠어요.
+w Vipi? | 어떻게, 어때? | 어떻게; 어때?
+e Vipi? — Poa, safi. | 어때? — 좋아, 괜찮아.
+e Nitafika vipi? | 어떻게 가요?
+e Vipi, mambo? | 어때, 별일 없어?
+w Ngapi? | 몇, 얼마 · 수를 물을 때 | 몇, 몇 개
+e Una watoto wangapi? | 아이가 몇 명이에요?
+e Ni saa ngapi? | 몇 시예요?
+e Ni shilingi ngapi? | 몇 실링이에요?
+w Gani? | 어떤 · 명사 뒤에 | 어떤, 무슨
+e Ni siku gani leo? | 오늘이 무슨 요일이에요?
+e Unapenda rangi gani? | 무슨 색을 좋아해요?
+e Unasoma kitabu gani? | 무슨 책을 읽어요?
+tp 의문사는 보통 동사 뒤, 문장 끝에 와요: Unakwenda wapi?(너는 간다 어디?)
+tp -ngapi(몇)는 앞 명사에 맞춰 바뀌어요: watoto wangapi(아이 몇 명), saa ngapi(몇 시), vitabu vingapi(책 몇 권).
+tp 동사 뒤에 -je를 붙여도 '어떻게'가 돼요: Unasemaje?(어떻게 말해요?), Nitafikaje?(어떻게 가요?)
+pr Hii ni nini? | 이건 뭐예요? || Hii ni ndizi. | 이건 바나나예요.
+pr Huyu ni nani? | 이 사람은 누구예요? || Huyu ni rafiki yangu. | 이 사람은 내 친구예요.
+dl 민준 | Huyu ni nani? | 이 사람은 누구예요?
+dl 할리마 | Huyu ni dada yangu, Zawadi. | 제 여동생 자와디예요.
+dl 민준 | Anaishi wapi? | 어디 살아요?
+dl 할리마 | Anaishi Mombasa. | 몸바사에 살아요.
+sm Nani, nini, wapi, lini, kwa nini, vipi? | 누가, 무엇을, 어디서, 언제, 왜, 어떻게?
+qz '어디'는? | Wapi?
+qz Kwa nini 의 뜻은? | 왜
+
+@ 1-01-07 | 부탁·사과·작별 | Tafadhali·Samahani | 부탁하고 사과하고 작별할 때 같이 쓰는 말이에요.
+w Tafadhali | 부탁해요 · 요청에 붙이는 말 | 제발, ~해 주세요
+e Maji, tafadhali. | 물 주세요.
+e Tafadhali, nisaidie. | 저 좀 도와주세요.
+e Kaa hapa, tafadhali. | 여기 앉으세요.
+w Samahani | 미안해요, 실례합니다 · 사과와 말 걸기 | 미안해요; 실례합니다
+e Samahani, nimechelewa. | 미안해요, 늦었어요.
+e Samahani, choo kiko wapi? | 실례합니다, 화장실 어디예요?
+e Samahani sana! | 정말 미안해요!
+w Karibu | 어서 오세요 · 환영, '들어오세요' | 어서 오세요, 환영해요; 천만에요
+e Karibu nyumbani! | 우리 집에 어서 와요!
+e Asante! — Karibu. | 고마워요! — 천만에요.
+e Karibu tena! | 또 오세요!
+w Hodi! | 계세요? · 남의 집 앞에서 들어가도 되는지 물을 때 | 계세요?(들어가도 돼요?)
+e Hodi! — Karibu! | 계세요? — 들어오세요!
+e Hodi, kuna mtu? | 계세요, 누구 있어요?
+e Mgeni anabisha hodi. | 손님이 '호디' 하고 부르네요.
+w Usiku mwema | 잘 자요 · '좋은 밤' | 잘 자요, 좋은 밤 되세요
+e Usiku mwema, mama. | 엄마, 안녕히 주무세요.
+e Lala salama, usiku mwema. | 잘 자, 좋은 밤 보내.
+e Usiku mwema, watoto! | 얘들아, 잘 자!
+w Safari njema | 좋은 여행 되세요 | 좋은 여행 되세요
+e Safari njema, rafiki! | 친구야, 좋은 여행 해!
+e Kwaheri, safari njema. | 안녕히 가세요, 좋은 여행 되세요.
+e Safari njema kwenda Nairobi. | 나이로비까지 잘 다녀와요.
+w Tutaonana | 또 봐요 · tu 우리 + ta 미래 + onana 서로 보다 | 또 봐요
+e Tutaonana kesho. | 내일 봐요.
+e Tutaonana baadaye. | 나중에 봐요.
+e Kwaheri, tutaonana! | 안녕, 또 봐!
+w Lala salama | 잘 자요 · lala 자다 + salama 평안히 | 잘 자요
+e Lala salama, mtoto. | 잘 자, 아가.
+e Asante, nawe lala salama. | 고마워, 너도 잘 자.
+e Lala salama, tutaonana kesho. | 잘 자요, 내일 봐요.
+tp 남의 집 문 앞에서는 문을 두드리기 전에 Hodi!(계세요?)라고 말하고, 안에서 Karibu!(들어오세요)라고 대답해요.
+tp Karibu는 '어서 와요'이면서 Asante(고마워요)에 대한 '천만에요'로도 써요.
+tp Samahani는 사과할 때도, 길을 묻거나 말을 걸 때(실례합니다)도 써요.
+pr Asante. | 고마워요. || Karibu. | 천만에요.
+pr Hodi! | 계세요? || Karibu! | 들어오세요!
+dl 수아 | Hodi! Hodi! | 계세요? 계세요?
+dl 할머니 | Karibu, mwanangu! Karibu ndani. | 어서 와, 얘야! 안으로 들어와.
+dl 수아 | Shikamoo, bibi. Samahani, nimechelewa. | 할머니, 안녕하세요. 늦어서 죄송해요.
+dl 할머니 | Marahaba. Hakuna shida, kaa hapa tafadhali. | 그래. 괜찮아, 여기 앉으렴.
+sm Hodi! Karibu! Samahani, tafadhali, asante — tutaonana! | 계세요? 들어오세요! 미안해요, 부탁해요, 고마워요 — 또 봐요!
+qz 남의 집 앞에서 '계세요?'는? | Hodi
+qz '또 봐요'는? | Tutaonana
+
+@ 1-01-08 | 인사·응답의 짝 | Shikamoo·Marahaba | 정해진 짝으로 주고받는 인사예요.
+w Shikamoo | 안녕하세요(어른께) | 안녕하세요(어른께)
+e Shikamoo, mzee. | 어르신, 안녕하세요.
+e Shikamoo, mama. | 아주머니, 안녕하세요.
+e Watoto, msalimieni mgeni: shikamoo! | 얘들아, 손님께 인사해: 시카모!
+w Marahaba | 그래(어른의 대답) | 그래 (Shikamoo의 대답)
+e Marahaba, mwanangu. | 그래, 얘야.
+e Marahaba, hujambo? | 그래, 잘 지내니?
+e Bibi alijibu, 'Marahaba.' | 할머니가 '마라하바'라고 대답했어요.
+w Hujambo? | 잘 지내요? · '너에게 일이 없니?' | 잘 지내요?
+e Hujambo, rafiki? | 친구야, 잘 지내?
+e Hujambo, mwalimu? | 선생님, 잘 지내세요?
+e Hamjambo, watoto? | 얘들아, 다들 잘 지내?
+w Sijambo | 잘 지내요 · Hujambo?의 대답 | 잘 지내요
+e Sijambo, asante. | 잘 지내요, 고마워요.
+e Sijambo sana. | 아주 잘 지내요.
+e Hatujambo! | (우리) 잘 지내요!
+w Hodi | 계세요? · 집 앞에서 | 계세요?
+e Hodi! Kuna mtu? | 계세요! 누구 있어요?
+e Mgeni alibisha hodi. | 손님이 '계세요' 하고 불렀어요.
+e Hodi, naweza kuingia? | 계세요, 들어가도 돼요?
+w Karibu | 들어오세요 · Hodi의 대답 | 들어오세요; 어서 오세요
+e Karibu ndani! | 안으로 들어와요!
+e Karibuni wote! | 다들 어서 와요!
+e Hodi! — Karibu! | 계세요? — 들어오세요!
+tp 짝 인사: Shikamoo → Marahaba, Hujambo? → Sijambo, Hamjambo? → Hatujambo, Hodi → Karibu, Asante → Karibu, Pole → Asante.
+tp Hujambo?는 '너에게 (나쁜) 일이 없니?', Sijambo는 '나에게 일이 없다'예요.
+tp 여럿에게는 Hamjambo?(다들 잘 지내요?), 대답은 Hatujambo(우리는 잘 지내요).
+pr Shikamoo | 안녕하세요(어른께) || Marahaba | 그래
+pr Hujambo? | 잘 지내요? || Sijambo. | 잘 지내요.
+dl 민준 | Hodi! | 계세요!
+dl 할머니 | Karibu! | 들어와요!
+dl 민준 | Shikamoo, bibi. | 할머니, 안녕하세요.
+dl 할머니 | Marahaba. Hujambo, mwanangu? | 그래. 잘 지내니, 얘야?
+sm Shikamoo — Marahaba; Hujambo — Sijambo; Hodi — Karibu. | 시카모 — 마라하바; 후잠보 — 시잠보; 호디 — 카리부.
+qz Hujambo? 의 대답은? | Sijambo
+qz Hodi 의 대답은? | Karibu
+
+@ 1-01-09 | 공손한 부탁 표현 | Naomba·Ningependa | 같은 부탁도 공손하게 바꿔 말할 수 있어요.
+w Naomba | 부탁드려요 · nipe보다 공손 | ~ 부탁드려요, 주세요
+e Naomba maji. | 물 좀 주세요.
+e Naomba msaada. | 도움을 부탁드려요.
+e Naomba kuuliza. | 여쭤봐도 될까요?
+w Ningependa | ~하고 싶습니다 · nataka보다 공손 | ~하고 싶습니다
+e Ningependa kahawa. | 커피를 마시고 싶습니다.
+e Ningependa kukutana na mkuu. | 책임자를 뵙고 싶습니다.
+e Ningependa kujifunza Kiswahili. | 스와힐리어를 배우고 싶습니다.
+w Unaweza…? | ~해 줄 수 있어요? · weza 할 수 있다 | ~할 수 있어요?
+e Unaweza kunisaidia? | 도와줄 수 있어요?
+e Unaweza kurudia? | 다시 말해 줄 수 있어요?
+e Unaweza kufungua dirisha? | 창문 열어 줄 수 있어요?
+w Naam | 네(공손) · 부를 때 대답 | 네(공손한 대답)
+e Juma! — Naam! | 주마! — 네!
+e Naam, mama. | 네, 어머니.
+e Naam, nakusikiliza. | 네, 듣고 있어요.
+w Radhi | 용서 · samahani보다 깊은 사과 | 용서; 축복
+e Naomba radhi. | 용서를 구합니다.
+e Nisamehe, naomba radhi. | 용서해 주세요.
+e Radhi ya wazazi. | 부모님의 축복.
+w Bila shaka | 물론이죠 · 공손한 승낙 | 물론이죠
+e Bila shaka, karibu. | 물론이죠, 어서 오세요.
+e Unaweza kuja? — Bila shaka. | 올 수 있어요? — 물론이죠.
+e Bila shaka nitakusaidia. | 물론 도와줄게요.
+tp 공손하게 바꾸기: Nipe → Naomba, Nataka → Ningependa, Njoo → Karibu, Samahani → Naomba radhi.
+tp 이름이 불렸을 때 '네'는 Naam이 공손해요. Ndiyo는 '예/맞아요'의 대답이에요.
+tp Ningependa = ni(나) + nge(~라면) + penda(좋아하다): '나는 ~하고 싶습니다'.
+pr Nataka chai. | 차 원해요. || Ningependa chai. | 차를 마시고 싶습니다.
+pr Nipe kalamu. | 펜 줘. || Naomba kalamu. | 펜 좀 주세요.
+dl 직원 | Karibu ofisini. Nikusaidie nini? | 사무실에 어서 오세요. 무엇을 도와드릴까요?
+dl 민준 | Ningependa kuonana na mkurugenzi. | 소장님을 뵙고 싶습니다.
+dl 직원 | Una miadi? | 약속 있으세요?
+dl 민준 | Hapana. Naomba radhi, ninaweza kusubiri? | 아니요. 죄송하지만 기다려도 될까요?
+sm Naomba, ningependa, unaweza — maneno ya adabu. | 부탁드려요, ~하고 싶습니다, ~해 줄 수 있어요 — 예의 바른 말.
+qz '차를 마시고 싶습니다(공손)'는? | Ningependa chai
+qz 이름이 불렸을 때 공손한 '네'는? | Naam

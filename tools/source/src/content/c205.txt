@@ -1,0 +1,495 @@
+# P4-A | 동작·관계 반대
+
+@ 2-05-01 | 오다·가다 | kuja·kwenda | 오고 가는 동작이에요. 한 음절 동사(ja, enda)는 시제 뒤에 ku-가 남아요: ninakuja, nitakwenda.
+w kuja | 오다 · 명령은 njoo | 오다
+e Njoo hapa! | 이리 와!
+e Ninakuja sasa hivi. | 지금 바로 가요(올게요).
+e Atakuja kesho. | 그는 내일 와요.
+w kwenda | 가다 · 명령은 nenda | 가다
+e Nenda nyumbani. | 집에 가.
+e Ninakwenda kazini. | 일하러 가요.
+e Twende! | 가자!
+w kurudi | 돌아오다 | 돌아오다; 돌아가다
+e Rudi mapema. | 일찍 돌아와.
+e Amerudi kutoka safari. | 그는 여행에서 돌아왔어요.
+e Nitarudi Korea mwezi ujao. | 다음 달에 한국에 돌아가요.
+w kuondoka | 떠나다 | 떠나다
+e Tunaondoka sasa. | 이제 떠나요.
+e Usiondoke! | 가지 마!
+e Ndege imeondoka. | 비행기가 떠났어요.
+w kufika | 도착하다 | 도착하다
+e Tumefika. | 도착했어요.
+e Atafika saa ngapi? | 그는 몇 시에 도착해요?
+e Karibu, umefika salama? | 어서 와요, 잘 도착했어요?
+w kupita | 지나가다 | 지나가다; 통과하다
+e Pita hapa. | 이리로 지나가요.
+e Basi limepita. | 버스가 지나갔어요.
+e Wiki iliyopita. | 지난주.
+tp 오다 kuja ↔ 가다 kwenda, 떠나다 kuondoka ↔ 도착하다 kufika.
+tp 명령형은 불규칙해요: njoo(와), nenda(가), twende(가자), njooni(다들 와).
+tp '지난 ~'는 -liyopita(지나간): wiki iliyopita(지난주), mwaka uliopita(작년).
+pr kuja | 오다 || kwenda | 가다
+pr kuondoka | 떠나다 || kufika | 도착하다
+dl 바라카 | Unakuja sherehe kesho? | 내일 파티 와요?
+dl 수아 | Ndiyo, nitakuja saa mbili. | 네, 8시에 갈게요.
+dl 바라카 | Utaondoka saa ngapi? | 몇 시에 가요?
+dl 수아 | Nitarudi nyumbani saa tano. | 11시에 집에 돌아갈게요.
+sm Njoo, nenda, rudi, fika salama! | 와, 가, 돌아와, 잘 도착해!
+qz '이리 와!'는? | Njoo hapa!
+qz '가자!'는? | Twende!
+
+@ 2-05-02 | 주다·받다 | kutoa·kupokea | 주고받는 동작이에요.
+w kutoa | 주다, 내놓다, 꺼내다 | 내주다; 꺼내다; 빼다
+e Toa pesa. | 돈을 내요.
+e Toa nguo kwenye mfuko. | 가방에서 옷을 꺼내요.
+e Ametoa msaada. | 그가 도움을 줬어요.
+w kupokea | 받다 | 받다
+e Pokea zawadi. | 선물을 받아요.
+e Nimepokea barua. | 편지를 받았어요.
+e Pokea kwa mikono miwili. | 두 손으로 받아요.
+w kupa | 주다 · 받는 사람이 꼭 붙음 (nipe 나에게 줘) | (~에게) 주다
+e Nipe maji. | 물 줘.
+e Mpe mtoto chakula. | 아이에게 밥 줘.
+e Alinipa zawadi. | 그가 나에게 선물을 줬어요.
+w kuchukua | 가져가다, 집다 | 가져가다; 집다; (시간이) 걸리다
+e Chukua hii. | 이거 가져가.
+e Nitachukua teksi. | 택시 탈게요.
+e Inachukua saa mbili. | 두 시간 걸려요.
+w kuleta | 가져오다 | 가져오다
+e Lete chai. | 차 가져와.
+e Niletee kitabu. | 책 가져다줘.
+e Mvua imeleta baridi. | 비가 추위를 가져왔어요.
+w kurudisha | 돌려주다 | 돌려주다
+e Rudisha kalamu. | 펜 돌려줘.
+e Nitarudisha kesho. | 내일 돌려줄게.
+e Rudisha chenji. | 거스름돈 주세요.
+tp kupa는 '~에게'가 꼭 들어가요: nipe(나에게 줘), mpe(그에게 줘), tupe(우리에게 줘).
+tp 가져오다 kuleta ↔ 가져가다 kuchukua. kuchukua는 '(시간이) 걸리다'도 돼요.
+tp 물건을 받을 때 두 손이나 오른손으로 받는 게 예의예요.
+pr kutoa | 주다 || kupokea | 받다
+pr kuleta | 가져오다 || kuchukua | 가져가다
+dl 엄마 | Niletee maji, tafadhali. | 물 좀 가져다줘.
+dl 아이 | Haya, mama. Pokea. | 네, 엄마. 받으세요.
+dl 엄마 | Asante. Sasa chukua sahani hizi. | 고마워. 이제 이 접시들 가져가.
+dl 아이 | Nimezichukua! | 가져갔어요!
+sm Nipe, pokea, lete, chukua, rudisha. | 줘, 받아, 가져와, 가져가, 돌려줘.
+qz '물 줘'는? | Nipe maji
+qz '가져오다'는? | kuleta
+
+@ 2-05-03 | 시작하다·끝내다 | kuanza·kumaliza | 시작과 끝의 동작이에요.
+w kuanza | 시작하다 | 시작하다
+e Darasa linaanza saa mbili. | 수업은 8시에 시작해요.
+e Anza sasa. | 지금 시작해.
+e Mvua imeanza. | 비가 오기 시작했어요.
+w kumaliza | 끝내다 | 끝내다
+e Maliza chakula. | 밥 다 먹어.
+e Nimemaliza kazi. | 일을 끝냈어요.
+e Utamaliza lini? | 언제 끝내요?
+w kwisha | 끝나다, 다 떨어지다 · 명사가 주어 | 끝나다; 다 떨어지다
+e Sukari imekwisha. | 설탕이 다 떨어졌어요.
+e Mchezo umekwisha. | 경기가 끝났어요.
+e Pesa zimekwisha. | 돈이 다 떨어졌어요.
+w kuendelea | 계속하다 | 계속하다; 나아가다
+e Endelea! | 계속해!
+e Mvua inaendelea. | 비가 계속 와요.
+e Unaendeleaje? | 어떻게 지내요?(어떻게 계속하고 있어요?)
+w kuacha | 그만두다, 놓다 | 그만두다; 놔두다; 남기다
+e Acha kelele! | 그만 떠들어!
+e Ameacha kazi. | 그는 일을 그만뒀어요.
+e Acha mlango wazi. | 문을 열어 둬요.
+w kusimamisha | 멈추게 하다 · simama + isha | 세우다, 중단시키다
+e Simamisha gari. | 차를 세워요.
+e Polisi walisimamisha basi. | 경찰이 버스를 세웠어요.
+e Simamisha muziki. | 음악을 멈춰요.
+tp 사람이 끝내다 kumaliza ↔ 물건이 끝나다/떨어지다 kwisha(-isha): Chai imeisha(차가 떨어졌다).
+tp kuacha는 '그만두다, 내버려 두다, 남기다'로 넓게 써요.
+tp 안부 Unaendeleaje?(어떻게 지내?)는 kuendelea(계속하다)에서 왔어요.
+pr kuanza | 시작하다 || kumaliza | 끝내다
+pr kuendelea | 계속하다 || kuacha | 그만두다
+dl 선생님 | Mmemaliza? | 다 했어요?
+dl 학생 | Bado, mwalimu. Tuendelee dakika tano? | 아직요, 선생님. 5분만 더 할까요?
+dl 선생님 | Sawa, endeleeni. Halafu tutaanza somo jipya. | 좋아요, 계속해요. 그다음에 새 수업을 시작해요.
+dl 학생 | Asante! | 고맙습니다!
+sm Anza, endelea, maliza — kazi imekwisha. | 시작하고, 계속하고, 끝내요 — 일이 끝났어요.
+qz '시작하다'는? | kuanza
+qz '설탕이 다 떨어졌어요'는? | Sukari imekwisha
+
+@ 2-05-04 | 서다·앉다·눕다 | kusimama·kukaa·kulala | 몸의 자세예요.
+w kusimama | 서다 | 서다; 멈추다
+e Simama! | 일어서!
+e Alisimama mlangoni. | 그는 문 앞에 서 있었어요.
+e Saa imesimama. | 시계가 멈췄어요.
+w kukaa | 앉다, 머물다, 살다 | 앉다; 머물다; 살다
+e Kaa hapa. | 여기 앉아요.
+e Utakaa siku ngapi? | 며칠 머물러요?
+e Anakaa Arusha. | 그는 아루샤에 살아요.
+w kulala | 눕다, 자다 | 눕다; 자다
+e Lala kitandani. | 침대에 누워요.
+e Mtoto amelala. | 아이가 잠들었어요.
+e Nililala saa tano. | 11시에 잤어요.
+w kuamka | 일어나다 | (잠에서) 깨다
+e Amka! | 일어나!
+e Umeamka? | 깼어요?
+e Ninaamka mapema. | 일찍 일어나요.
+w kuinuka | 일어서다, 오르다 | 일어서다; 솟다
+e Inuka! | 일어나!
+e Aliinuka kitandani. | 그는 침대에서 일어났어요.
+e Jua linainuka. | 해가 떠올라요.
+w kupiga magoti | 무릎 꿇다 | 무릎을 꿇다
+e Walipiga magoti kanisani. | 그들은 교회에서 무릎을 꿇었어요.
+e Usipige magoti, kaa. | 무릎 꿇지 말고 앉아요.
+e Wasichana wanapiga magoti kusalimia. | 소녀들이 무릎을 굽혀 인사해요.
+tp kukaa는 '앉다'이자 '머물다, 살다'예요: Unakaa wapi?(어디 살아요?)
+tp kulala는 '눕다'와 '자다' 둘 다예요.
+tp 일부 지역에서는 여자아이가 어른께 무릎을 살짝 굽혀 인사해요.
+pr kusimama | 서다 || kukaa | 앉다
+pr kulala | 자다 || kuamka | 깨다
+dl 의사 | Lala hapa, tafadhali. | 여기 누우세요.
+dl 민준 | Sawa. | 네.
+dl 의사 | Sasa kaa. Halafu simama polepole. | 이제 앉으세요. 그다음 천천히 일어서요.
+dl 민준 | Nina kizunguzungu kidogo. | 조금 어지러워요.
+sm Simama, kaa, lala, amka — siku nzima. | 서고, 앉고, 눕고, 일어나요 — 하루 종일.
+qz '앉다'는? | kukaa
+qz '깨다(잠에서)'는? | kuamka
+
+@ 2-05-05 | 사다·팔다·빌리다 | kununua·kuuza·kukopa | 돈과 물건이 오가는 동작이에요.
+w kununua | 사다 | 사다
+e Nunua mkate. | 빵 사 와.
+e Nimenunua gari. | 차를 샀어요.
+e Unanunua nini? | 뭐 사요?
+w kuuza | 팔다 | 팔다
+e Anauza nguo. | 그는 옷을 팔아요.
+e Nyumba imeuzwa. | 집이 팔렸어요.
+e Unauza kwa bei gani? | 얼마에 팔아요?
+w kukopa | 빌리다 · 돈을 | (돈을) 빌리다
+e Nimekopa pesa benki. | 은행에서 돈을 빌렸어요.
+e Naweza kukopa elfu kumi? | 만 실링 빌릴 수 있어요?
+e Usikope sana. | 너무 많이 빌리지 마요.
+w kukopesha | 빌려주다 · kopa + esha | (돈을) 빌려주다
+e Nikopeshe elfu tano. | 오천 실링 빌려줘.
+e Benki inakopesha wakulima. | 은행이 농부들에게 대출해 줘요.
+e Alinikopesha pesa. | 그가 나에게 돈을 빌려줬어요.
+w kuazima | 빌리다 · 물건을 | (물건을) 빌리다
+e Naomba kuazima kalamu. | 펜 좀 빌릴 수 있을까요?
+e Nimeazima kitabu maktabani. | 도서관에서 책을 빌렸어요.
+e Aliazima baiskeli yangu. | 그가 내 자전거를 빌려 갔어요.
+w kuazimisha | 빌려주다 · 물건을 | (물건을) 빌려주다
+e Niazimishe mwavuli. | 우산 빌려줘.
+e Nitakuazimisha kitabu. | 책 빌려줄게.
+e Aliniazimisha gari lake. | 그가 차를 빌려줬어요.
+tp 돈은 kukopa(빌리다)/kukopesha(빌려주다), 물건은 kuazima(빌리다)/kuazimisha(빌려주다).
+tp -esha/-isha가 붙으면 '~하게 해 주다': kopa → kopesha.
+tp 사다 kununua ↔ 팔다 kuuza; 팔리다는 kuuzwa.
+pr kununua | 사다 || kuuza | 팔다
+pr kukopa | 빌리다 || kukopesha | 빌려주다
+dl 수아 | Naomba kuazima kalamu yako. | 펜 좀 빌려줄래요?
+dl 니에마 | Chukua. Utairudisha? | 가져가요. 돌려줄 거죠?
+dl 수아 | Ndiyo, baada ya darasa. | 네, 수업 끝나고요.
+dl 니에마 | Sawa, nimekuazimisha! | 좋아요, 빌려준 거예요!
+sm Nunua, uza, kopa, kopesha, azima — biashara ya kila siku. | 사고, 팔고, 빌리고, 빌려주고 — 매일의 거래.
+qz '팔다'는? | kuuza
+qz 물건을 '빌리다'는? | kuazima
+
+@ 2-05-06 | 열다·닫다·켜다·끄다 | kufungua·kufunga·kuwasha·kuzima | 문과 불을 다루는 동작이에요.
+w kufungua | 열다 | 열다
+e Fungua mlango. | 문 열어요.
+e Duka linafunguliwa saa mbili. | 가게는 8시에 열어요.
+e Fungua macho. | 눈을 떠요.
+w kufunga | 닫다, 묶다, 잠그다 | 닫다; 묶다; 잠그다
+e Funga dirisha. | 창문 닫아요.
+e Funga mlango kwa ufunguo. | 열쇠로 문을 잠가요.
+e Funga kamba. | 줄을 묶어요.
+w kuwasha | 켜다 | 켜다; 불을 붙이다
+e Washa taa. | 불 켜요.
+e Washa moto. | 불을 피워요.
+e Washa redio. | 라디오를 켜요.
+w kuzima | 끄다 | 끄다
+e Zima taa. | 불 꺼요.
+e Zima televisheni. | 텔레비전 꺼요.
+e Zima simu. | 휴대폰 꺼요.
+w kufungwa | 닫히다 | 닫히다; 잠기다; (감옥에) 갇히다
+e Mlango umefungwa. | 문이 잠겼어요.
+e Shule zimefungwa. | 학교들이 방학했어요.
+e Barabara imefungwa. | 길이 막혔어요.
+w kufunguliwa | 열리다 | 열리다
+e Benki inafunguliwa saa tatu. | 은행은 9시에 열려요.
+e Soko jipya limefunguliwa. | 새 시장이 열렸어요.
+e Mlango umefunguliwa. | 문이 열렸어요.
+tp 열다 fungua ↔ 닫다 funga: 끝 -ua가 '반대로 하다'를 만들어요(2-05-12).
+tp -wa가 붙으면 '~되다': kufunga → kufungwa(닫히다), kufungua → kufunguliwa(열리다).
+tp kufunga는 '닫다, 묶다, 잠그다, (골을) 넣다, 단식하다'까지 뜻이 넓어요.
+pr kufungua | 열다 || kufunga | 닫다
+pr kuwasha | 켜다 || kuzima | 끄다
+dl 수아 | Chumba kina giza. Washa taa, tafadhali. | 방이 어두워요. 불 좀 켜 줘요.
+dl 니에마 | Sawa. Na fungua dirisha, kuna joto. | 네. 그리고 창문 열어요, 더워요.
+dl 수아 | Nimefungua. Usiku tutafunga. | 열었어요. 밤에 닫을게요.
+dl 니에마 | Ndiyo, na tuzime taa tukilala. | 네, 그리고 잘 때 불 꺼요.
+sm Fungua, funga, washa, zima — mlango na taa. | 열고, 닫고, 켜고, 꺼요 — 문과 불.
+qz '불 꺼요'는? | Zima taa
+qz '열리다'는? | kufunguliwa
+
+@ 2-05-07 | 묻다·대답하다·말하다·듣다 | kuuliza·kujibu | 말이 오가는 동작이에요.
+w kuuliza | 묻다 | 묻다, 질문하다
+e Uliza swali. | 질문해요.
+e Niliuliza njia. | 길을 물었어요.
+e Muulize mwalimu. | 선생님께 여쭤 봐.
+w kujibu | 대답하다 | 대답하다
+e Jibu haraka. | 빨리 대답해.
+e Hakujibu. | 그는 대답하지 않았어요.
+e Jibu ujumbe wangu. | 내 메시지에 답장해.
+w kusema | 말하다 | 말하다
+e Sema tena. | 다시 말해.
+e Amesema nini? | 그가 뭐라고 했어요?
+e Usiseme hivyo. | 그렇게 말하지 마.
+w kusikiliza | 귀 기울여 듣다 | 귀 기울이다
+e Nisikilize. | 내 말 들어 봐.
+e Tunasikiliza redio. | 라디오를 들어요.
+e Sikiliza kwa makini. | 잘 들어요.
+w kuambia | 말해 주다 · 듣는 사람이 붙음 (niambie) | (~에게) 말하다
+e Niambie ukweli. | 사실대로 말해 줘.
+e Alikuambia nini? | 그가 너한테 뭐라고 했어?
+e Mwambie aje. | 그에게 오라고 해.
+w kunyamaza | 조용히 하다 · 말을 멈추다 | 입을 다물다, 조용히 하다
+e Nyamaza! | 조용히 해!
+e Mtoto amenyamaza. | 아이가 울음을 그쳤어요.
+e Alinyamaza kwa muda. | 그는 잠시 말이 없었어요.
+tp kusema(말하다) vs kuambia(~에게 말하다): 듣는 사람이 있으면 kuambia: Niambie(나에게 말해).
+tp kusikia(들리다, 듣다) vs kusikiliza(귀 기울여 듣다).
+tp 묻다 kuuliza ↔ 대답하다 kujibu, 말하다 kusema ↔ 조용히 하다 kunyamaza.
+pr kuuliza | 묻다 || kujibu | 대답하다
+pr kusema | 말하다 || kunyamaza | 입을 다물다
+dl 민준 | Nikuulize swali? | 질문 하나 해도 돼요?
+dl 할리마 | Uliza tu. | 그냥 물어봐요.
+dl 민준 | Juma alikuambia nini jana? | 어제 주마가 뭐라고 했어요?
+dl 할리마 | Alisema atakuja leo, lakini hajajibu simu. | 오늘 온다고 했는데 전화를 안 받아요.
+sm Uliza, jibu, sema, sikiliza — mazungumzo mazuri. | 묻고, 답하고, 말하고, 듣고 — 좋은 대화.
+qz '대답하다'는? | kujibu
+qz '나에게 말해 줘'는? | Niambie
+
+@ 2-05-08 | 기억하다·잊다·찾다·잃다 | kukumbuka·kusahau | 기억과 찾기의 반대말이에요.
+w kukumbuka | 기억하다 | 기억하다, 생각나다
+e Unanikumbuka? | 나 기억해?
+e Nakumbuka jina lake. | 그의 이름이 기억나요.
+e Kumbuka kuleta pasipoti. | 여권 가져오는 거 잊지 마.
+w kusahau | 잊다 | 잊다, 깜빡하다
+e Nimesahau! | 깜빡했어요!
+e Usisahau ufunguo. | 열쇠 잊지 마.
+e Nimesahau jina lako. | 이름을 잊어버렸어요.
+w kutafuta | 찾다 | 찾다
+e Ninatafuta choo. | 화장실을 찾고 있어요.
+e Tafuta kazi. | 일자리를 찾아요.
+e Unatafuta nini? | 뭘 찾아요?
+w kupata | 얻다, 찾아내다 | 얻다; 찾아내다; 받다
+e Nimepata kazi! | 일자리를 구했어요!
+e Umepata ufunguo? | 열쇠 찾았어요?
+e Nimepata homa. | 열이 났어요.
+w kupoteza | 잃다 | 잃다, 잃어버리다; 낭비하다
+e Nimepoteza simu. | 휴대폰을 잃어버렸어요.
+e Usipoteze muda. | 시간 낭비하지 마.
+e Timu imepoteza mchezo. | 팀이 경기에 졌어요.
+w kupotea | 없어지다, 길을 잃다 | 없어지다; 길을 잃다
+e Mtoto amepotea! | 아이가 없어졌어요!
+e Nimepotea njia. | 길을 잃었어요.
+e Mzigo umepotea. | 짐이 없어졌어요.
+tp 찾다 kutafuta ↔ 찾아내다 kupata. kupata는 '얻다, 받다, (병에) 걸리다'까지 넓어요.
+tp kupoteza(잃어버리다, 사람이 주어) ↔ kupotea(없어지다, 물건이 주어 / 길을 잃다).
+tp Usisahau ~ = ~ 잊지 마(꼭 챙겨).
+pr kukumbuka | 기억하다 || kusahau | 잊다
+pr kutafuta | 찾다 || kupata | 찾아내다
+dl 수아 | Nimepoteza ufunguo wangu! | 열쇠를 잃어버렸어요!
+dl 니에마 | Tafuta mkobani. | 가방 안을 찾아봐요.
+dl 수아 | Hamna... Ah! Nimeupata mfukoni! | 없어요… 아! 주머니에서 찾았어요!
+dl 니에마 | Kumbuka kuuweka mahali pamoja. | 한곳에 두는 거 기억해요.
+sm Tafuta, pata, kumbuka, usisahau, usipoteze. | 찾고, 찾아내고, 기억하고, 잊지 말고, 잃지 마요.
+qz '잊다'는? | kusahau
+qz '찾아내다'는? | kupata
+
+@ 2-05-09 | 좋아하다·싫어하다 | kupenda·kuchukia | 마음의 반대 동작이에요.
+w kupenda | 좋아하다, 사랑하다 | 좋아하다; 사랑하다
+e Ninakupenda. | 사랑해.
+e Napenda chai. | 차를 좋아해요.
+e Unapenda nini? | 뭘 좋아해요?
+w kuchukia | 싫어하다, 미워하다 | 싫어하다; 미워하다
+e Nachukia mbu. | 모기가 싫어요.
+e Usimchukie. | 그를 미워하지 마.
+e Anachukia kuchelewa. | 그는 늦는 걸 싫어해요.
+w kutaka | 원하다 | 원하다, ~하고 싶다
+e Nataka kula. | 먹고 싶어요.
+e Unataka nini? | 뭘 원해요?
+e Sitaki. | 싫어요.
+w kukataa | 거절하다 | 거절하다, 거부하다
+e Amekataa kuja. | 그는 오기를 거절했어요.
+e Usikatae zawadi. | 선물을 거절하지 마요.
+e Nakataa! | 싫어요(안 할래요)!
+w kukubali | 받아들이다, 동의하다 | 동의하다; 받아들이다
+e Nakubali. | 동의해요.
+e Amekubali mwaliko. | 그는 초대를 받아들였어요.
+e Unakubali dola? | 달러 받아요?
+w kuogopa | 무서워하다 | 무서워하다
+e Naogopa mbwa. | 개가 무서워요.
+e Usiogope! | 무서워하지 마!
+e Anaogopa giza. | 그는 어둠을 무서워해요.
+tp 좋아하다 kupenda ↔ 싫어하다 kuchukia, 동의하다 kukubali ↔ 거절하다 kukataa.
+tp '싫어요'를 부드럽게 말할 때는 Sitaki, asante(괜찮아요, 고마워요).
+tp 사랑 고백: Nakupenda(너를 사랑해) — ku(너를)가 동사 안에 들어가요.
+pr kupenda | 좋아하다 || kuchukia | 싫어하다
+pr kukubali | 동의하다 || kukataa | 거절하다
+dl 바라카 | Unapenda ugali? | 우갈리 좋아해요?
+dl 민준 | Ndiyo, napenda sana! Lakini nachukia pilipili kali. | 네, 아주 좋아해요! 그런데 매운 고추는 싫어요.
+dl 바라카 | Unataka kuja kula kwetu Jumamosi? | 토요일에 우리 집에 밥 먹으러 올래요?
+dl 민준 | Nakubali kwa furaha! | 기꺼이 갈게요!
+sm Napenda, sipendi; nataka, sitaki; nakubali, nakataa. | 좋아해, 안 좋아해; 원해, 싫어; 동의해, 거절해.
+qz '사랑해'는? | Ninakupenda
+qz '동의하다'는? | kukubali
+
+@ 2-05-10 | 이기다·지다·돕다·방해하다 | kushinda·kusaidia | 관계의 반대 동작이에요.
+w kushinda | 이기다 | 이기다; (하루를) 보내다
+e Tumeshinda! | 이겼다!
+e Nani atashinda? | 누가 이길까?
+e Umeshindaje? | 하루 어떻게 보냈어요?
+w kushindwa | 지다, 못 하다 | 지다; ~하지 못하다
+e Wameshindwa. | 그들이 졌어요.
+e Nimeshindwa kulala. | 잠을 못 잤어요.
+e Usikate tamaa ukishindwa. | 실패해도 포기하지 마요.
+w kusaidia | 돕다 | 돕다
+e Nisaidie! | 도와줘!
+e Tunasaidiana. | 우리는 서로 도와요.
+e Asante kwa kunisaidia. | 도와줘서 고마워요.
+w kusumbua | 귀찮게 하다, 방해하다 | 괴롭히다, 방해하다
+e Usinisumbue! | 나 좀 귀찮게 하지 마!
+e Samahani kwa kukusumbua. | 귀찮게 해서 미안해요.
+e Nini kinakusumbua? | 뭐가 불편해요?
+w kupigana | 싸우다 · piga + ana(서로) | 싸우다
+e Watoto wanapigana. | 아이들이 싸워요.
+e Msipigane! | 다들 싸우지 마!
+e Walipigana jana. | 그들은 어제 싸웠어요.
+w kupatana | 화해하다, 사이좋다 · pata + ana | 사이좋게 지내다; 합의하다
+e Wamepatana. | 그들은 화해했어요.
+e Tunapatana vizuri. | 우리는 사이가 좋아요.
+e Tumepatana bei. | 값을 합의했어요.
+tp -ana를 붙이면 '서로 ~하다': piga(때리다) → pigana(싸우다), saidia → saidiana(서로 돕다), ona → onana(서로 만나다).
+tp Samahani kwa kukusumbua(귀찮게 해서 미안해요)는 부탁하기 전에 많이 써요.
+tp kushinda는 '이기다'와 '하루를 보내다' 둘 다예요: Umeshindaje?(오늘 하루 어땠어요?)
+pr kushinda | 이기다 || kushindwa | 지다
+pr kupigana | 싸우다 || kupatana | 화해하다
+dl 선생님 | Kwa nini mnapigana? | 왜 싸우니?
+dl 학생 | Yeye ananisumbua, mwalimu! | 쟤가 저를 괴롭혀요, 선생님!
+dl 선생님 | Acheni. Mpatane na msaidiane. | 그만해요. 화해하고 서로 도와요.
+dl 학생들 | Samahani. Tumepatana. | 죄송해요. 화해했어요.
+sm Msipigane, mpatane; msisumbuane, msaidiane. | 싸우지 말고 화해해요; 괴롭히지 말고 서로 도와요.
+qz '서로 돕다'는? | kusaidiana
+qz '싸우다'는? | kupigana
+
+@ 2-05-11 | 태어나다·결혼하다·만나다·헤어지다 | kukutana·kuachana | 사람 사이의 일이에요.
+w kukutana | 만나다 · kuta + ana | (서로) 만나다
+e Tukutane kesho. | 내일 만나요.
+e Tulikutana chuoni. | 우리는 대학에서 만났어요.
+e Nimefurahi kukutana nawe. | 만나서 반가워요.
+w kuachana | 헤어지다 · acha + ana | 헤어지다; 이혼하다
+e Wameachana. | 그들은 헤어졌어요.
+e Tuliachana kituoni. | 우리는 정류장에서 헤어졌어요.
+e Usiachane naye. | 그와 헤어지지 마.
+w kuoana | 결혼하다 · oa + ana | (서로) 결혼하다
+e Wameoana mwaka jana. | 그들은 작년에 결혼했어요.
+e Wataoana Desemba. | 그들은 12월에 결혼해요.
+e Walioana kanisani. | 그들은 교회에서 결혼했어요.
+w kuagana | 작별하다 · aga + ana | (서로) 작별 인사하다
+e Tuliagana uwanja wa ndege. | 공항에서 작별했어요.
+e Kuagana ni vigumu. | 작별은 어려워요.
+e Agana na wazazi. | 부모님께 작별 인사해요.
+w kutembelea | 방문하다 | 찾아가다, 방문하다
+e Nitakutembelea kesho. | 내일 찾아갈게.
+e Tulitembelea Serengeti. | 세렝게티를 방문했어요.
+e Karibu kututembelea. | 우리를 찾아와요.
+w kuzoea | 익숙해지다 | 익숙해지다
+e Nimezoea chakula cha hapa. | 여기 음식에 익숙해졌어요.
+e Bado sijazoea joto. | 아직 더위에 익숙하지 않아요.
+e Utazoea polepole. | 천천히 익숙해질 거예요.
+tp '서로' -ana: kukuta(마주치다) → kukutana(만나다), kuacha → kuachana(헤어지다), kuaga → kuagana(작별하다).
+tp 만나다 kukutana ↔ 헤어지다 kuachana.
+tp 처음 온 사람에게: Utazoea(곧 익숙해질 거예요).
+pr kukutana | 만나다 || kuachana | 헤어지다
+pr kuja | 오다 || kuagana | 작별하다
+dl 수아 | Tulikutana miezi sita iliyopita. | 우리 여섯 달 전에 만났죠.
+dl 니에마 | Ndiyo! Sasa umezoea Tanzania. | 네! 이제 탄자니아에 익숙해졌네요.
+dl 수아 | Kesho tutaagana… Nitarudi Korea. | 내일 작별이에요… 한국에 돌아가요.
+dl 니에마 | Usijali, nitakutembelea Korea! | 걱정 마요, 한국에 찾아갈게요!
+sm Tukutane, tuagane, tutembeleane — urafiki hauishi. | 만나고, 작별하고, 서로 찾아가요 — 우정은 끝나지 않아요.
+qz '만나다'는? | kukutana
+qz '익숙해지다'는? | kuzoea
+
+@ 2-05-12 | 묶다·풀다 (-ua ①) | funga·fungua | 동사 끝 -a를 -ua로 바꾸면 '반대로 하다'가 돼요: funga(닫다) → fungua(열다).
+w kufunga | 닫다, 묶다 | 닫다; 묶다
+e Funga mzigo kwa kamba. | 짐을 끈으로 묶어요.
+e Funga mlango. | 문 닫아요.
+e Funga viatu. | 신발 끈을 매요.
+w kufungua | 열다, 풀다 · funga ↔ fungua | 열다; 풀다
+e Fungua kamba. | 끈을 풀어요.
+e Fungua zawadi. | 선물을 풀어 봐요.
+e Fungua mlango. | 문 열어요.
+w kuvaa | 입다, 신다, 쓰다 | 입다; 신다; 쓰다
+e Vaa koti. | 외투 입어요.
+e Vaa viatu. | 신발 신어요.
+e Vaa kofia. | 모자 써요.
+w kuvua | 벗다 · vaa ↔ vua | 벗다
+e Vua viatu. | 신발 벗어요.
+e Vua koti. | 외투 벗어요.
+e Vua kofia ndani. | 실내에서는 모자 벗어요.
+w kuziba | 막다 | 막다, 메우다
+e Ziba tundu. | 구멍을 막아요.
+e Bomba limeziba. | 관이 막혔어요.
+e Ziba masikio. | 귀를 막아요.
+w kuzibua | 뚫다 · ziba ↔ zibua | (막힌 것을) 뚫다
+e Zibua choo. | 변기를 뚫어요.
+e Fundi amezibua bomba. | 기술자가 관을 뚫었어요.
+e Zibua pua. | 코를 뚫어요(풀어요).
+tp 반대 동작 -ua: funga → fungua, vaa → vua, ziba → zibua.
+tp kuvua는 '(옷을) 벗다'이면서 '물고기를 잡다'이기도 해요: kuvua samaki(낚시하다).
+tp kuvaa 하나로 옷, 신발, 모자, 안경을 모두 '착용'해요.
+pr kufunga | 묶다 || kufungua | 풀다
+pr kuvaa | 입다 || kuvua | 벗다
+dl 엄마 | Vua viatu kabla ya kuingia. | 들어오기 전에 신발 벗어.
+dl 아이 | Siwezi kufungua kamba! | 끈을 못 풀겠어요!
+dl 엄마 | Njoo, nitakufungulia. | 이리 와, 풀어 줄게.
+dl 아이 | Asante. Sasa nitavaa viatu vya ndani. | 고마워요. 이제 실내화 신을게요.
+sm Funga na fungua, vaa na vua, ziba na zibua. | 묶고 풀고, 입고 벗고, 막고 뚫어요.
+qz '벗다'는? | kuvua
+qz kufunga 의 반대는? | kufungua
+
+@ 2-05-13 | 꽂다·뽑다 (-ua ②) | chomeka·chomoa | -ua 반대 동사 더 알기. 모양이 조금 바뀌는 것도 있어요.
+w kuchomeka | 꽂다 | 꽂다, 끼우다
+e Chomeka chaja. | 충전기를 꽂아요.
+e Chomeka ufunguo. | 열쇠를 꽂아요.
+e Chomeka kalamu mfukoni. | 펜을 주머니에 꽂아요.
+w kuchomoa | 뽑다 · chomeka ↔ chomoa | 뽑다, 빼내다
+e Chomoa chaja. | 충전기를 뽑아요.
+e Chomoa kisu. | 칼을 뽑아요.
+e Chomoa waya. | 선을 뽑아요.
+w kukunja | 접다 | 접다; 구부리다
+e Kunja nguo. | 옷을 개요.
+e Kunja karatasi. | 종이를 접어요.
+e Kunja mkono. | 팔을 구부려요.
+w kukunjua | 펴다 · kunja ↔ kunjua | 펴다
+e Kunjua karatasi. | 종이를 펴요.
+e Kunjua ramani. | 지도를 펼쳐요.
+e Kunjua mkeka. | 돗자리를 펴요.
+w kupanga | 정리하다, 줄 세우다 | 정리하다; 계획하다; 세 들다
+e Panga vitabu. | 책을 정리해요.
+e Panga safari. | 여행을 계획해요.
+e Ninapanga chumba. | 방을 세 들어 살아요.
+w kupangua | 흩뜨리다, 취소하다 · panga ↔ pangua | 흩뜨리다; 취소하다
+e Usipangue vitabu! | 책 흐트러뜨리지 마!
+e Wamepangua mkutano. | 회의를 취소했어요.
+e Upepo umepangua karatasi. | 바람에 종이가 흩어졌어요.
+tp -oa도 반대를 만들어요: chomeka(꽂다) → chomoa(뽑다), choma(찌르다) → chomoa.
+tp kupanga는 '정리하다, 계획하다, 세 들다'로 뜻이 넓어요: panga foleni(줄 서다), panga nyumba(집을 세내다).
+tp 짝으로 외우면 한 번에 두 단어를 배워요.
+pr kuchomeka | 꽂다 || kuchomoa | 뽑다
+pr kukunja | 접다 || kukunjua | 펴다
+dl 민준 | Nichomeke chaja wapi? | 충전기 어디 꽂아요?
+dl 니에마 | Pale ukutani. Ukimaliza, ichomoe. | 저기 벽에요. 다 되면 뽑아요.
+dl 민준 | Sawa. Na nguo hizi nizikunje? | 네. 이 옷들은 갤까요?
+dl 니에마 | Ndiyo, kunja na upange kabatini. | 네, 개서 옷장에 정리해요.
+sm Chomeka na chomoa, kunja na kunjua, panga na pangua. | 꽂고 뽑고, 접고 펴고, 정리하고 흩뜨려요.
+qz '충전기를 뽑아요'는? | Chomoa chaja
+qz '펴다'는? | kukunjua

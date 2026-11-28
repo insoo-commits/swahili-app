@@ -1,0 +1,153 @@
+# P5-P | 안전·도움 요청
+
+@ 1-16-01 | 도난 신고·경찰 | polisi·kuibiwa·ripoti | 물건을 도둑맞았을 때 경찰에 신고하는 말이에요.
+w polisi | 경찰 | 경찰
+e Piga simu polisi! | 경찰에 전화해요!
+e Kituo cha polisi kiko wapi? | 경찰서 어디예요?
+e Polisi wamefika. | 경찰이 왔어요.
+w kuibiwa | 도둑맞다 · iba + wa | 도둑맞다
+e Nimeibiwa simu. | 휴대폰을 도둑맞았어요.
+e Mkoba wake uliibiwa sokoni. | 그녀는 시장에서 가방을 도둑맞았어요.
+e Gari limeibiwa usiku. | 밤에 차를 도둑맞았어요.
+w mwizi | 도둑 · 여럿 wezi | 도둑
+e Mwizi! Mkamate! | 도둑이야! 잡아요!
+e Wezi wamekamatwa. | 도둑들이 잡혔어요.
+e Jihadhari na wezi. | 도둑 조심하세요.
+w kituo cha polisi | 경찰서 | 경찰서
+e Twende kituo cha polisi. | 경찰서에 가요.
+e Kituo cha polisi kiko karibu. | 경찰서는 가까워요.
+e Nilitoa ripoti kituo cha polisi. | 경찰서에 신고했어요.
+w kutoa ripoti | 신고하다 · ripoti 보고서 | 신고하다
+e Nataka kutoa ripoti. | 신고하고 싶어요.
+e Toa ripoti haraka. | 빨리 신고해요.
+e Umeshatoa ripoti? | 신고했어요?
+w ushahidi | 증거 | 증거
+e Una ushahidi? | 증거 있어요?
+e Picha ni ushahidi. | 사진이 증거예요.
+e Hakuna ushahidi. | 증거가 없어요.
+tp 도둑맞았다는 '도둑질당하다' 꼴: Nimeibiwa ~(내가 ~을 도둑맞았다).
+tp 보험이나 대사관에 낼 때 경찰 신고서(ripoti / Police report)가 필요해요.
+tp 사람이 많은 곳에서는 휴대폰을 손에 들고 다니지 않는 게 좋아요.
+pr kuiba | 훔치다 || kuibiwa | 도둑맞다
+pr mwizi | 도둑 || wezi | 도둑들
+dl 경찰 | Nikusaidie nini? | 무엇을 도와드릴까요?
+dl 수아 | Nimeibiwa simu kwenye daladala. | 달라달라에서 휴대폰을 도둑맞았어요.
+dl 경찰 | Pole sana. Andika jina na namba ya simu hapa. | 안됐네요. 여기 이름과 전화번호 쓰세요.
+dl 수아 | Sawa. Nitapata nakala ya ripoti? | 네. 신고서 사본 받을 수 있어요?
+sm Polisi, mwizi, kuibiwa, kutoa ripoti. | 경찰, 도둑, 도둑맞다, 신고하다.
+qz '휴대폰을 도둑맞았어요'는? | Nimeibiwa simu
+qz '경찰서'는? | kituo cha polisi
+
+@ 1-16-02 | 길을 잃었을 때 | kupotea·ramani·kuonyesha | 길을 잃었을 때 도움을 청하는 말이에요.
+w kupotea | 길을 잃다, 없어지다 | 길을 잃다; 없어지다
+e Nimepotea. | 길을 잃었어요.
+e Mtoto amepotea sokoni. | 아이가 시장에서 없어졌어요.
+e Usipotee! | 길 잃지 마!
+w ramani | 지도 | 지도
+e Angalia ramani. | 지도 봐요.
+e Ramani ya simu. | 휴대폰 지도.
+e Nionyeshe kwenye ramani. | 지도에서 보여 줘요.
+w alama | 표시, 표지 | 표시; 랜드마크
+e Kuna alama yoyote karibu? | 근처에 눈에 띄는 거 있어요?
+e Alama ya barabarani. | 도로 표지판.
+e Weka alama hapa. | 여기 표시해요.
+w mbele kidogo | 조금 앞 | 조금 더 가서
+e Ni mbele kidogo. | 조금 더 가면 있어요.
+e Simama mbele kidogo. | 조금 앞에 세워요.
+e Tembea mbele kidogo, kisha kushoto. | 조금 더 걸어가서 왼쪽이요.
+w nyuma ya | ~ 뒤에 | ~ 뒤에
+e Nyuma ya msikiti. | 모스크 뒤에.
+e Hoteli iko nyuma ya benki. | 호텔은 은행 뒤에 있어요.
+e Nyuma yako! | 네 뒤에!
+w mkabala na | ~ 맞은편에 | ~ 맞은편에
+e Mkabala na posta. | 우체국 맞은편.
+e Duka liko mkabala na soko. | 가게는 시장 맞은편에 있어요.
+e Simama mkabala na kanisa. | 교회 맞은편에 서요.
+tp 길을 잃으면 Nimepotea(길을 잃었어요)라고 말하고 가까운 alama(눈에 띄는 건물)를 알려 줘요.
+tp 위치: mbele ya(앞), nyuma ya(뒤), karibu na(옆), mkabala na(맞은편).
+tp 동아프리카에서는 주소보다 '어느 건물 근처'로 길을 설명해요.
+pr mbele ya | ~ 앞 || nyuma ya | ~ 뒤
+pr karibu na | ~ 근처 || mkabala na | ~ 맞은편
+dl 민준 | Samahani, nimepotea. Hoteli ya Amani iko wapi? | 실례지만 길을 잃었어요. 아마니 호텔이 어디예요?
+dl 행인 | Iko nyuma ya benki ya NMB, mkabala na msikiti. | NMB 은행 뒤, 모스크 맞은편이에요.
+dl 민준 | Nionyeshe kwenye ramani, tafadhali. | 지도에서 보여 주세요.
+dl 행인 | Hapa. Tembea mbele kidogo, kisha kulia. | 여기요. 조금 걸어가서 오른쪽이요.
+sm Nimepotea; mbele, nyuma, mkabala, ramani. | 길을 잃었어요; 앞, 뒤, 맞은편, 지도.
+qz '길을 잃었어요'는? | Nimepotea
+qz '~ 맞은편에'는? | mkabala na
+
+@ 1-16-03 | 정전·단수 | umeme umekatika·maji·jenereta | 동아프리카 생활에서 자주 생기는 일이에요.
+w umeme umekatika | 전기가 나갔어요 · katika 끊기다 | 정전됐어요
+e Umeme umekatika tena! | 또 정전이에요!
+e Umeme umekatika tangu asubuhi. | 아침부터 전기가 나갔어요.
+e Umeme ukikatika, washa jenereta. | 정전되면 발전기 켜요.
+w umeme umerudi | 전기가 들어왔어요 | 전기가 다시 들어왔어요
+e Umeme umerudi! | 전기 들어왔다!
+e Umeme umerudi saa nne. | 10시에 전기가 들어왔어요.
+e Je, umeme umerudi? | 전기 다시 들어왔어요?
+w jenereta | 발전기 | 발전기
+e Jenereta inapiga kelele. | 발전기가 시끄러워요.
+e Washa jenereta. | 발전기 켜요.
+e Jenereta haina mafuta. | 발전기에 기름이 없어요.
+w tochi | 손전등 | 손전등
+e Tochi iko wapi? | 손전등 어디 있어요?
+e Washa tochi ya simu. | 휴대폰 손전등 켜요.
+e Tochi imeisha betri. | 손전등 배터리가 다 됐어요.
+w maji yamekatika | 물이 끊겼어요 | 단수됐어요
+e Maji yamekatika leo. | 오늘 단수예요.
+e Hifadhi maji kwenye ndoo. | 양동이에 물 받아 둬요.
+e Maji yatarudi lini? | 물은 언제 나와요?
+w tanki la maji | 물탱크 | 물탱크
+e Tanki la maji limejaa. | 물탱크가 가득 찼어요.
+e Tanki liko juu ya paa. | 물탱크는 지붕 위에 있어요.
+e Safisha tanki la maji. | 물탱크 청소해요.
+tp 정전: Umeme umekatika, 다시 들어옴: Umeme umerudi. 아이들은 기뻐서 '움에메!' 하고 소리쳐요.
+tp 집집마다 물탱크(tanki)와 양동이(ndoo)에 물을 받아 둬요.
+tp 선불 전기 카드는 LUKU라고 해요: Nimenunua LUKU(전기 충전했어요).
+pr umeme umekatika | 정전 || umeme umerudi | 전기 들어옴
+pr kuwasha | 켜다 || kuzima | 끄다
+dl 수아 | Umeme umekatika! Siwezi kuona kitu. | 정전이에요! 아무것도 안 보여요.
+dl 주인 | Usijali, nitawasha jenereta. | 걱정 마요, 발전기 켤게요.
+dl 수아 | Na maji? Yamekatika pia? | 물은요? 물도 끊겼어요?
+dl 주인 | Hapana, tanki limejaa. | 아니요, 물탱크가 가득해요.
+sm Umeme, jenereta, tochi, maji, tanki. | 전기, 발전기, 손전등, 물, 물탱크.
+qz '정전됐어요'는? | Umeme umekatika
+qz '손전등'은? | tochi
+
+@ 1-16-04 | 위험 경고·도움 요청 | tahadhari·hatari·msaada | 위험할 때 쓰는 짧은 말을 모아 봐요.
+w hatari | 위험 | 위험
+e Hatari! | 위험해요!
+e Barabara hii ni hatari usiku. | 이 길은 밤에 위험해요.
+e Hatari ya moto. | 화재 위험.
+w tahadhari | 조심, 주의 | 주의, 경고
+e Chukua tahadhari. | 조심하세요.
+e Tahadhari: sakafu inateleza. | 주의: 바닥이 미끄러워요.
+e Tahadhari ya mvua kubwa. | 호우 경보.
+w moto! | 불이야! | 불이야!
+e Moto! Toka nje! | 불이야! 밖으로 나가요!
+e Kuna moto jikoni. | 부엌에 불이 났어요.
+e Zima moto! | 불 꺼요!
+w zimamoto | 소방대 · zima 끄다 + moto 불 | 소방대
+e Piga simu zimamoto. | 소방서에 전화해요.
+e Gari la zimamoto. | 소방차.
+e Zimamoto wamefika haraka. | 소방대가 빨리 왔어요.
+w salama | 안전한 | 안전한; 무사히
+e Uko salama? | 괜찮아요(안전해요)?
+e Mahali salama. | 안전한 곳.
+e Tumefika salama. | 무사히 도착했어요.
+w ubalozi | 대사관 · balozi 대사 | 대사관
+e Ubalozi wa Korea. | 한국 대사관.
+e Piga simu ubalozi. | 대사관에 전화해요.
+e Ubalozi uko Dar es Salaam. | 대사관은 다르에스살람에 있어요.
+tp 급할 때: Msaada!(도와주세요!) Hatari!(위험해요!) Moto!(불이야!) Mwizi!(도둑이야!)
+tp 표지판에서 자주 보는 말: Tahadhari(주의), Hatari(위험).
+tp 여권을 잃어버리면 경찰 신고 후 Ubalozi wa Korea(한국 대사관)에 연락해요.
+pr hatari | 위험 || salama | 안전
+pr kuwasha moto | 불을 피우다 || kuzima moto | 불을 끄다
+dl 민준 | Moto! Kuna moshi mwingi! | 불이야! 연기가 많아요!
+dl 직원 | Tokeni nje haraka! Piga simu zimamoto! | 빨리 밖으로 나가요! 소방서에 전화해요!
+dl 민준 | Wote wako salama? | 다들 무사해요?
+dl 직원 | Ndiyo, wote tuko salama. | 네, 모두 안전해요.
+sm Hatari, tahadhari, moto, zimamoto, salama. | 위험, 주의, 불, 소방대, 안전.
+qz '위험해요!'는? | Hatari!
+qz '한국 대사관'은? | Ubalozi wa Korea

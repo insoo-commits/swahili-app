@@ -1,0 +1,309 @@
+# P4-E | 사람·가족·관계
+
+@ 2-01-01 | 나·너 | mimi·wewe | 나와 너. 동사 안에서는 ni-(나), u-(너)로 줄어들어요.
+w mimi | 나 · 동사 안에서는 ni- | 나
+e Mimi ni mwalimu. | 나는 선생님이에요.
+e Mimi pia ninapenda chai. | 나도 차를 좋아해요.
+e Ni mimi! | 나야!
+w wewe | 너, 당신 · 동사 안에서는 u- | 너, 당신
+e Wewe ni nani? | 너는 누구야?
+e Na wewe je? | 너는?
+e Wewe ni rafiki yangu. | 너는 내 친구야.
+w ninakwenda | 나는 간다 · ni 나 + na 지금 + kwenda | (나는) 가요
+e Ninakwenda shuleni. | 나는 학교에 가요.
+e Ninakwenda sokoni sasa. | 지금 시장에 가요.
+e Ninakwenda nyumbani. | 집에 가요.
+w unakwenda | 너는 간다 · u 너 + na + kwenda | (너는) 가요
+e Unakwenda wapi? | 어디 가?
+e Unakwenda kazini? | 일하러 가요?
+e Unakwenda na nani? | 누구랑 가요?
+w nami | 나도, 나와 함께 · na + mimi | 나도; 나와 함께
+e Nami pia. | 나도요.
+e Njoo nami. | 나랑 같이 가.
+e Nami ninakupenda. | 나도 너를 좋아해.
+w nawe | 너도, 너와 함께 · na + wewe | 너도; 너와 함께
+e Nawe pia! | 너도!
+e Nimefurahi kukutana nawe. | 만나서 반가워요.
+e Nitakwenda nawe. | 너랑 같이 갈게.
+tp 대명사는 강조할 때만 써요. 보통은 동사 앞부분만으로 충분해요: Ninakwenda(나는 가요) = Mimi ninakwenda.
+tp na(~와) + 대명사는 줄여요: na mimi → nami, na wewe → nawe, na yeye → naye.
+tp '나는 ~이다'에서는 ni가 '이다'예요: Mimi ni Mkorea.
+pr mimi | 나 || wewe | 너
+pr Nami pia. | 나도요. || Nawe pia. | 너도.
+dl 민준 | Ninakwenda sokoni. Unakwenda wapi? | 나 시장에 가. 너는 어디 가?
+dl 아마니 | Nami ninakwenda sokoni! | 나도 시장 가!
+dl 민준 | Safi! Twende pamoja. | 좋아! 같이 가자.
+dl 아마니 | Sawa, nitakwenda nawe. | 그래, 너랑 같이 갈게.
+sm Mimi ninakwenda, wewe unakwenda — twende pamoja. | 나도 가고 너도 가니, 같이 가자.
+qz '나도요'는? | Nami pia
+qz 동사 안의 '너'는? | u-
+
+@ 2-01-02 | 그·그들 | yeye·wao | 그(그녀)와 그들. 스와힐리어는 '그'와 '그녀'를 구별하지 않아요.
+w yeye | 그, 그녀 · 동사 안에서는 a- | 그, 그녀
+e Yeye ni daktari. | 그는 의사예요.
+e Yeye ni dada yangu. | 그녀는 내 여동생이에요.
+e Yeye yuko wapi? | 그 사람 어디 있어요?
+w wao | 그들 · 동사 안에서는 wa- | 그들
+e Wao ni wanafunzi. | 그들은 학생이에요.
+e Wao wanatoka Kenya. | 그들은 케냐에서 왔어요.
+e Wao wamefika. | 그들이 도착했어요.
+w anapika | 그가 요리한다 · a 그 + na + pika | (그는) 요리해요
+e Mama anapika ugali. | 엄마가 우갈리를 만들어요.
+e Anapika vizuri sana. | 그는 요리를 아주 잘해요.
+e Nani anapika leo? | 오늘 누가 요리해요?
+w wanapika | 그들이 요리한다 · wa 그들 + na + pika | (그들은) 요리해요
+e Wanapika pilau kwa harusi. | 그들은 결혼식 필라우를 만들어요.
+e Wanawake wanapika pamoja. | 여자들이 같이 요리해요.
+e Wanapika nje. | 그들은 밖에서 요리해요.
+w naye | 그도, 그와 함께 · na + yeye | 그도; 그와 함께
+e Naye pia anakuja. | 그도 와요.
+e Ninaishi naye. | 그와 같이 살아요.
+e Ongea naye. | 그와 이야기해 봐.
+w nao | 그들도, 그들과 함께 · na + wao | 그들도; 그들과 함께
+e Nao wamefurahi. | 그들도 기뻐해요.
+e Tulikula nao. | 우리는 그들과 같이 먹었어요.
+e Nenda nao. | 그들과 같이 가.
+tp 한 사람 a-, 여러 사람 wa-: anapika(그가 요리해요) ↔ wanapika(그들이 요리해요).
+tp yeye 하나로 '그'와 '그녀'를 다 말해요. 누군지는 이름이나 문맥으로 알아요.
+tp 사람이 아닌 것(물건, 동물)은 부류마다 다른 앞말을 써요(7-05 명사 부류).
+pr yeye | 그 || wao | 그들
+pr anapika | 그가 요리해요 || wanapika | 그들이 요리해요
+dl 수아 | Yule ni nani? | 저 사람은 누구예요?
+dl 니에마 | Yeye ni Juma. Anapika chakula cha sherehe. | 주마예요. 잔치 음식을 만들어요.
+dl 수아 | Na wale? | 저 사람들은요?
+dl 니에마 | Wao ni marafiki zake. Wanapika naye. | 그의 친구들이에요. 같이 요리해요.
+sm Yeye anapika, wao wanapika naye. | 그가 요리하고, 그들도 그와 같이 요리해요.
+qz '그들'은? | wao
+qz '그가 요리해요'는? | anapika
+
+@ 2-01-03 | 우리·너희 | sisi·ninyi | 우리와 너희(여러분). 동사 안에서는 tu-(우리), m-(너희).
+w sisi | 우리 · 동사 안에서는 tu- | 우리
+e Sisi ni Wakorea. | 우리는 한국 사람이에요.
+e Sisi tunapenda Tanzania. | 우리는 탄자니아를 좋아해요.
+e Sisi sote. | 우리 모두.
+w ninyi | 너희, 여러분 · 동사 안에서는 m- | 너희, 여러분
+e Ninyi ni wageni wetu. | 여러분은 우리 손님이에요.
+e Ninyi mnatoka wapi? | 여러분은 어디서 왔어요?
+e Ninyi nyote. | 여러분 모두.
+w tunasoma | 우리는 공부한다 · tu 우리 + na + soma | (우리는) 공부해요
+e Tunasoma Kiswahili. | 우리는 스와힐리어를 공부해요.
+e Tunasoma pamoja kila jioni. | 매일 저녁 같이 공부해요.
+e Tunasoma chuo kikuu. | 우리는 대학에 다녀요.
+w mnasoma | 너희는 공부한다 · m 너희 + na + soma | (너희는) 공부해요
+e Mnasoma nini? | 여러분은 뭘 공부해요?
+e Mnasoma wapi? | 어디서 공부해요?
+e Mnasoma kwa bidii. | 여러분은 열심히 공부하네요.
+w -etu | 우리의 · yetu, wetu, letu | 우리의
+e Nyumba yetu. | 우리 집.
+e Mwalimu wetu. | 우리 선생님.
+e Darasa letu. | 우리 반.
+w -enu | 너희의 · yenu, wenu, lenu | 너희의, 여러분의
+e Nyumba yenu ni nzuri. | 여러분 집 예쁘네요.
+e Mwalimu wenu ni nani? | 여러분 선생님은 누구예요?
+e Darasa lenu liko wapi? | 여러분 반은 어디예요?
+tp 동사 앞말 정리: ni-(나) u-(너) a-(그) / tu-(우리) m-(너희) wa-(그들).
+tp '우리의'는 -etu, '너희의'는 -enu. 앞부분은 명사에 맞춰요: nyumba yetu, mwalimu wetu, darasa letu.
+tp 여럿에게 하는 인사: Hamjambo?(다들 잘 지내요?) → Hatujambo(우리는 잘 지내요).
+pr sisi | 우리 || ninyi | 너희
+pr tunasoma | 우리는 공부해요 || mnasoma | 너희는 공부해요
+dl 선생님 | Ninyi mnatoka wapi? | 여러분은 어디서 왔어요?
+dl 민준 | Sisi tunatoka Korea. | 우리는 한국에서 왔어요.
+dl 선생님 | Mnasoma nini hapa? | 여기서 뭘 공부해요?
+dl 수아 | Tunasoma Kiswahili. Mwalimu wetu ni mzuri! | 스와힐리어를 공부해요. 우리 선생님이 좋아요!
+sm Sisi tunasoma, ninyi mnasoma — darasa letu ni zuri. | 우리도 공부하고 너희도 공부해요 — 우리 반은 좋아요.
+qz '우리'는? | sisi
+qz 동사 안의 '너희'는? | m-
+
+@ 2-01-04 | 아빠·엄마 | baba·mama | 부모와 부부. 동아프리카에서는 어른을 Baba ~, Mama ~(~의 아빠/엄마)라고 부르기도 해요.
+w baba | 아빠, 아버지 · 아저씨를 부를 때도 | 아버지, 아빠
+e Baba yangu ni mkulima. | 우리 아버지는 농부예요.
+e Baba anarudi jioni. | 아빠는 저녁에 돌아와요.
+e Baba Juma. | 주마 아빠(주마의 아버지라고 부르는 말).
+w mama | 엄마, 어머니 · 아주머니를 부를 때도 | 어머니, 엄마
+e Mama yangu anapika. | 엄마가 요리해요.
+e Mama, karibu! | 어머니(아주머니), 어서 오세요!
+e Mama Neema. | 네에마 엄마.
+w mume | 남편 · 여럿 waume | 남편
+e Mume wangu ni daktari. | 제 남편은 의사예요.
+e Mume na mke. | 남편과 아내.
+e Mume wake yuko Dubai. | 그녀의 남편은 두바이에 있어요.
+w mke | 아내 · 여럿 wake | 아내
+e Mke wangu anafundisha. | 제 아내는 가르쳐요.
+e Mke wake ni Mkenya. | 그의 아내는 케냐 사람이에요.
+e Ana mke na watoto watatu. | 그는 아내와 아이 셋이 있어요.
+w wazazi | 부모 · 하나는 mzazi | 부모
+e Wazazi wangu wanaishi Busan. | 제 부모님은 부산에 사세요.
+e Mkutano wa wazazi. | 학부모 회의.
+e Heshimu wazazi wako. | 부모님을 공경해.
+w mwanaume | 남자 · 여럿 wanaume | 남자
+e Mwanaume mrefu. | 키 큰 남자.
+e Wanaume wanacheza mpira. | 남자들이 공을 차요.
+e Choo cha wanaume. | 남자 화장실.
+w mwanamke | 여자 · 여럿 wanawake | 여자
+e Mwanamke huyu ni mwalimu. | 이 여자분은 선생님이에요.
+e Wanawake wanauza sokoni. | 여자들이 시장에서 팔아요.
+e Siku ya wanawake. | 여성의 날.
+tp 첫아이 이름을 붙여 부모를 부르는 일이 많아요: Mama Neema(네에마 엄마), Baba Juma(주마 아빠).
+tp 아는 아저씨는 baba, 아주머니는 mama라고 불러도 예의 바른 말이에요.
+tp mke(아내)의 여럿은 wake인데, '그의'를 뜻하는 -ake와 모양이 같으니 주의해요.
+pr baba | 아버지 || mama | 어머니
+pr mume | 남편 || mke | 아내
+dl 할리마 | Wazazi wako wako wapi? | 부모님은 어디 계세요?
+dl 민준 | Baba na mama wako Korea. | 아빠랑 엄마는 한국에 계세요.
+dl 할리마 | Una mke? | 아내 있어요?
+dl 민준 | Bado sijaoa. | 아직 결혼 안 했어요.
+sm Baba na mama ni wazazi; mume na mke ni familia. | 아빠와 엄마는 부모, 남편과 아내는 가족이에요.
+qz '남편'은? | mume
+qz '부모'는? | wazazi
+
+@ 2-01-05 | 형제자매 | kaka·dada | 형제와 자매. kaka는 손위·손아래 남자, dada는 여자 형제를 모두 말해요.
+w kaka | 형, 오빠, 남동생 | 남자 형제(형·오빠·남동생)
+e Kaka yangu mkubwa. | 우리 형(오빠).
+e Kaka yangu mdogo. | 내 남동생.
+e Kaka, habari? | 형(오빠), 잘 지내?
+w dada | 누나, 언니, 여동생 | 여자 형제(언니·누나·여동생)
+e Dada yangu mkubwa. | 우리 언니(누나).
+e Dada yangu mdogo anasoma. | 내 여동생은 학생이에요.
+e Dada, karibu! | 아가씨, 어서 와요!
+w ndugu | 형제, 친척 · 넓게 '동포' | 형제, 친척; 동포
+e Ndugu zangu wanaishi kijijini. | 제 친척들은 시골에 살아요.
+e Tuna ndugu wengi. | 우리는 친척이 많아요.
+e Ndugu wananchi! | 국민 여러분!
+w mkubwa | 손위, 큰 · kubwa 큰 | 손위의; 큰
+e Mtoto mkubwa. | 큰아이.
+e Kaka mkubwa. | 형(손위 남자 형제).
+e Yeye ni mkubwa kuliko mimi. | 그는 나보다 나이가 많아요.
+w mdogo | 손아래, 작은 · dogo 작은 | 손아래의; 작은
+e Mdogo wangu. | 내 동생.
+e Dada mdogo. | 여동생.
+e Yeye ni mdogo sana. | 그는 아주 어려요.
+w pacha | 쌍둥이 · 여럿 mapacha | 쌍둥이
+e Wao ni mapacha. | 그들은 쌍둥이예요.
+e Pacha wangu. | 내 쌍둥이 형제.
+e Mama amezaa mapacha. | 엄마가 쌍둥이를 낳았어요.
+tp 나이 위아래는 mkubwa(큰)/mdogo(작은)를 붙여 말해요: kaka mkubwa(형), kaka mdogo(남동생).
+tp 남자가 자기 누나를 말해도 dada, 여자가 자기 오빠를 말해도 kaka예요.
+tp ndugu는 형제부터 먼 친척, 같은 나라 사람까지 넓게 써요.
+pr kaka | 남자 형제 || dada | 여자 형제
+pr mkubwa | 손위 || mdogo | 손아래
+dl 니에마 | Una kaka au dada? | 형제자매 있어요?
+dl 수아 | Nina kaka mkubwa mmoja na dada mdogo mmoja. | 오빠 한 명, 여동생 한 명 있어요.
+dl 니에마 | Mimi nina ndugu sita! | 저는 형제가 여섯이에요!
+dl 수아 | Ajabu! Familia kubwa. | 와! 대가족이네요.
+sm Kaka mkubwa, dada mdogo — ndugu wa familia moja. | 형과 여동생 — 한 가족 형제예요.
+qz '남동생'은? | kaka mdogo
+qz '여자 형제'는? | dada
+
+@ 2-01-06 | 할아버지·할머니 | babu·bibi | 조부모와 손주예요.
+w babu | 할아버지 | 할아버지
+e Babu yangu ana miaka themanini. | 할아버지는 여든 살이에요.
+e Babu anasimulia hadithi. | 할아버지가 이야기를 들려주세요.
+e Shikamoo, babu! | 할아버지, 안녕하세요!
+w bibi | 할머니 · '부인, 아가씨'도 | 할머니; 부인
+e Bibi yangu anaishi kijijini. | 할머니는 시골에 사세요.
+e Bibi anapika chai ya tangawizi. | 할머니가 생강차를 끓이세요.
+e Bibi Neema. | 네에마 부인.
+w mjukuu | 손주 · 여럿 wajukuu | 손자, 손녀
+e Mjukuu wangu wa kwanza. | 내 첫 손주.
+e Bibi ana wajukuu kumi. | 할머니는 손주가 열 명이에요.
+e Wajukuu wanacheza na babu. | 손주들이 할아버지와 놀아요.
+w mjomba | 외삼촌 · 어머니의 남자 형제 | 외삼촌
+e Mjomba wangu ni dereva. | 외삼촌은 운전기사예요.
+e Tulikwenda kwa mjomba. | 외삼촌 댁에 갔어요.
+e Mjomba ananipenda sana. | 외삼촌은 나를 무척 아끼셔요.
+w shangazi | 고모 · 아버지의 여자 형제 | 고모
+e Shangazi yangu anaishi Mwanza. | 고모는 므완자에 사세요.
+e Shangazi ni mkali kidogo. | 고모는 조금 엄해요.
+e Shangazi alileta zawadi. | 고모가 선물을 가져오셨어요.
+w binamu | 사촌 | 사촌
+e Binamu yangu ni mwanafunzi. | 내 사촌은 학생이에요.
+e Tuna binamu wengi. | 사촌이 많아요.
+e Binamu zangu wanakuja kesho. | 사촌들이 내일 와요.
+tp 아버지의 형제는 baba mkubwa(큰아버지)/baba mdogo(작은아버지), 어머니의 자매는 mama mkubwa/mama mdogo예요.
+tp 외삼촌 mjomba, 고모 shangazi는 따로 있는 말이에요. 집안에서 특별한 역할을 맡기도 해요.
+tp bibi는 '할머니'이자 '부인'이에요: bibi harusi(신부).
+pr babu | 할아버지 || bibi | 할머니
+pr mjomba | 외삼촌 || shangazi | 고모
+dl 민준 | Babu na bibi yako wanaishi wapi? | 할아버지 할머니는 어디 사세요?
+dl 바라카 | Wanaishi kijijini Moshi. | 모시 시골에 사세요.
+dl 민준 | Wana wajukuu wangapi? | 손주가 몇 명이에요?
+dl 바라카 | Ishirini! Familia yetu ni kubwa sana. | 스무 명이요! 우리 집안은 아주 커요.
+sm Babu, bibi, mjomba, shangazi, binamu na wajukuu — familia kubwa. | 할아버지, 할머니, 외삼촌, 고모, 사촌, 손주 — 대가족.
+qz '손주'는? | mjukuu
+qz '고모'는? | shangazi
+
+@ 2-01-07 | 아이·어른 | mtoto·mtu mzima | 나이로 사람을 나누는 말이에요.
+w mtoto | 아이 · 여럿 watoto | 아이, 자식
+e Mtoto mchanga. | 갓난아기.
+e Watoto wanacheza nje. | 아이들이 밖에서 놀아요.
+e Una watoto wangapi? | 자녀가 몇이에요?
+w mtu mzima | 어른 · '다 자란 사람' | 어른
+e Watu wazima na watoto. | 어른과 아이.
+e Tiketi ya mtu mzima. | 어른 표.
+e Sasa wewe ni mtu mzima. | 이제 너는 어른이야.
+w mvulana | 소년, 남자아이 · 여럿 wavulana | 남자아이, 소년
+e Mvulana mdogo. | 어린 남자아이.
+e Wavulana wanacheza mpira. | 남자아이들이 공을 차요.
+e Shule ya wavulana. | 남학교.
+w msichana | 소녀, 여자아이 · 여럿 wasichana | 여자아이, 소녀
+e Msichana mrembo. | 예쁜 소녀.
+e Wasichana wanaimba. | 여자아이들이 노래해요.
+e Shule ya wasichana. | 여학교.
+w kijana | 젊은이 · 여럿 vijana | 젊은이, 청년
+e Kijana hodari. | 유능한 젊은이.
+e Vijana wengi wanatafuta kazi. | 많은 젊은이가 일자리를 찾아요.
+e Kijana, njoo hapa! | 젊은이, 이리 와요!
+w mzee | 노인, 어르신 · 여럿 wazee | 노인, 어르신
+e Mzee mwenye hekima. | 지혜로운 어르신.
+e Wazee wanakaa barazani. | 어르신들이 툇마루에 앉아 있어요.
+e Shikamoo, mzee! | 어르신, 안녕하세요!
+tp 사람 부류 m-/wa-: mtoto → watoto, mvulana → wavulana, msichana → wasichana, mzee → wazee.
+tp kijana는 ki-vi 부류지만 사람이라서 동사는 사람 모양(a-, wa-)을 써요: Kijana anakuja(젊은이가 와요).
+tp 어린 아이를 부를 때는 mtoto, 젊은이는 kijana, 어른은 mzee — 부르는 말로도 써요.
+pr mtoto | 아이 || mtu mzima | 어른
+pr mvulana | 소년 || msichana | 소녀
+dl 직원 | Tiketi ngapi? | 표 몇 장이요?
+dl 수아 | Watu wazima wawili na mtoto mmoja. | 어른 둘, 아이 하나요.
+dl 직원 | Mtoto ana miaka mingapi? | 아이는 몇 살이에요?
+dl 수아 | Ana miaka sita. | 여섯 살이에요.
+sm Watoto, vijana, watu wazima na wazee — wote wako sherehe. | 아이들, 젊은이들, 어른들, 어르신들 — 모두 잔치에 있어요.
+qz '소녀'는? | msichana
+qz '젊은이'는? | kijana
+
+@ 2-01-08 | 친구·이웃 | rafiki·jirani | 가족 밖의 가까운 사람들이에요.
+w rafiki | 친구 · 여럿 marafiki | 친구
+e Rafiki yangu wa karibu. | 내 친한 친구.
+e Marafiki zangu. | 내 친구들.
+e Rafiki wa kweli. | 진정한 친구.
+w jirani | 이웃 · 여럿 majirani | 이웃
+e Jirani yangu ni mkarimu. | 제 이웃은 친절해요.
+e Majirani wanasaidiana. | 이웃끼리 서로 도와요.
+e Jirani mwema. | 좋은 이웃.
+w mwenzangu | 내 동료, 내 짝 · mwenzi + angu | 내 동료, 내 짝
+e Mwenzangu wa kazi. | 직장 동료.
+e Huyu ni mwenzangu. | 이 사람은 제 동료예요.
+e Wenzangu wako ofisini. | 동료들은 사무실에 있어요.
+w mpenzi | 애인, 사랑하는 사람 · penda 사랑하다 | 애인; 사랑하는 사람
+e Mpenzi wangu. | 내 사랑.
+e Ana mpenzi? | 그는 애인 있어요?
+e Wapenzi wawili. | 연인 두 사람.
+w mgeni | 손님, 낯선 사람 | 손님; 낯선 사람
+e Mgeni amefika. | 손님이 왔어요.
+e Mimi ni mgeni hapa. | 저는 여기가 처음이에요.
+e Karibu, mgeni! | 손님, 어서 와요!
+w mwenyeji | 주인, 현지인 | 주인; 현지 사람
+e Mwenyeji wetu. | 우리 집주인.
+e Mimi ni mwenyeji wa Dar es Salaam. | 저는 다르에스살람 토박이예요.
+e Wenyeji wanakaribisha wageni. | 주인들이 손님을 맞이해요.
+tp rafiki는 하나든 여럿이든 '친구'지만, 여럿은 marafiki라고도 해요.
+tp '-wenzi'는 함께하는 사람이에요: mwenzangu(내 동료), mwenzako(네 동료), mwenzake(그의 동료).
+tp 손님 mgeni ↔ 주인 mwenyeji: 동아프리카는 손님 대접을 아주 중요하게 여겨요.
+pr rafiki | 친구 || marafiki | 친구들
+pr mgeni | 손님 || mwenyeji | 주인
+dl 민준 | Huyu ni nani? | 이 사람은 누구예요?
+dl 주마 | Ni jirani yangu na rafiki yangu, Baraka. | 제 이웃이자 친구 바라카예요.
+dl 민준 | Nimefurahi kukutana nawe, Baraka. | 바라카, 만나서 반가워요.
+dl 바라카 | Karibu sana, mgeni wetu! | 우리 손님, 정말 환영해요!
+sm Rafiki, jirani, mwenzangu — watu wa karibu. | 친구, 이웃, 동료 — 가까운 사람들.
+qz '이웃'은? | jirani
+qz '내 동료'는? | mwenzangu

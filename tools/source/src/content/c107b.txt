@@ -1,0 +1,505 @@
+# P5-L | 수업
+
+@ 1-07-13 | 미술·만들기 | sanaa·kuchora | 미술 시간에 그리고 만들 때 쓰는 말이에요.
+w sanaa | 미술, 예술 | 미술, 예술
+e Somo la sanaa. | 미술 수업.
+e Sanaa ya Tingatinga. | 팅가팅가 그림(탄자니아 화풍).
+e Anapenda sanaa. | 그는 미술을 좋아해요.
+w kuchora | 그리다 | 그리다
+e Chora picha ya nyumba yako. | 너희 집을 그려 봐.
+e Anachora wanyama. | 그는 동물을 그려요.
+e Nimechora mti. | 나무를 그렸어요.
+w picha | 그림, 사진 | 그림; 사진
+e Picha nzuri. | 예쁜 그림.
+e Picha ya familia. | 가족사진.
+e Bandika picha ukutani. | 그림을 벽에 붙여요.
+w kutengeneza | 만들다, 고치다 | 만들다; 고치다
+e Tutatengeneza kadi. | 카드를 만들 거예요.
+e Tengeneza kikapu kidogo. | 작은 바구니를 만들어요.
+e Fundi anatengeneza baiskeli. | 기술자가 자전거를 고쳐요.
+w kukata | 자르다 | 자르다
+e Kata karatasi hivi. | 종이를 이렇게 잘라요.
+e Kata kwa mkasi. | 가위로 잘라요.
+e Usikate kidole! | 손가락 베지 마!
+w kubandika | 붙이다 | 붙이다
+e Bandika kwa gundi. | 풀로 붙여요.
+e Bandika picha kwenye daftari. | 공책에 그림을 붙여요.
+e Tangazo limebandikwa mlangoni. | 공지가 문에 붙어 있어요.
+w kupaka rangi | 색칠하다 · paka 바르다 + rangi 색 | 색칠하다
+e Paka rangi picha yako. | 그림에 색칠해요.
+e Tunapaka rangi ukuta. | 벽에 페인트칠해요.
+e Usipake nje ya mstari. | 선 밖으로 칠하지 마요.
+tp 팅가팅가(Tingatinga)는 밝은 색으로 동물을 그리는 탄자니아 화풍이에요.
+tp kutengeneza는 '만들다'와 '고치다' 둘 다예요.
+tp 만들기 순서: kukata(자르기) → kubandika(붙이기) → kupaka rangi(색칠).
+pr kuchora | 그리다 || kupaka rangi | 색칠하다
+pr kukata | 자르다 || kubandika | 붙이다
+dl 선생님 | Leo tutatengeneza kadi ya Krismasi. | 오늘은 크리스마스 카드를 만들 거예요.
+dl 학생 | Tuchore nini? | 뭘 그려요?
+dl 선생님 | Chora nyota, kata na ubandike kwenye kadi. | 별을 그려서 오려서 카드에 붙여요.
+dl 학생 | Halafu tupake rangi? | 그다음에 색칠해요?
+sm Chora, kata, bandika na upake rangi — kazi ya sanaa! | 그리고, 오리고, 붙이고, 색칠해요 — 미술 작품!
+qz '그리다'는? | kuchora
+qz '붙이다'는? | kubandika
+
+@ 1-07-14 | 미술 도구·재료 | mkasi·gundi | 미술 재료 이름이에요.
+w mkasi | 가위 | 가위
+e Mkasi mkali. | 잘 드는 가위.
+e Nipe mkasi, tafadhali. | 가위 좀 줘.
+e Mikasi kumi. | 가위 열 개.
+w gundi | 풀 | 풀(접착제)
+e Gundi imeisha. | 풀이 다 떨어졌어요.
+e Weka gundi kidogo. | 풀을 조금만 발라요.
+e Gundi ya maji. | 물풀.
+w kalamu za rangi | 색연필, 크레용 | 색연필, 크레용
+e Kalamu za rangi kumi na mbili. | 12색 색연필.
+e Tumia kalamu za rangi. | 색연필을 써요.
+e Kalamu za rangi ziko kwenye sanduku. | 색연필은 상자 안에 있어요.
+w brashi | 붓 | 붓, 솔
+e Brashi ya rangi. | 그림붓.
+e Osha brashi. | 붓을 씻어요.
+e Brashi ndogo. | 작은 붓.
+w rula | 자 | 자
+e Pima kwa rula. | 자로 재요.
+e Chora mstari kwa rula. | 자로 선을 그어요.
+e Rula yangu imevunjika. | 제 자가 부러졌어요.
+w kifutio | 지우개 · futa 지우다 | 지우개
+e Nipe kifutio. | 지우개 줘요.
+e Kifutio kidogo. | 작은 지우개.
+e Futa kwa kifutio. | 지우개로 지워요.
+w udongo | 흙, 찰흙 | 흙; 찰흙
+e Udongo wa mfinyanzi. | 도자기 흙.
+e Tutatengeneza vyungu kwa udongo. | 흙으로 항아리를 만들 거예요.
+e Udongo mwekundu. | 붉은 흙.
+tp ki- + 동사 뿌리 = 도구: kifutio(지우는 것 = 지우개), kichongeo(깎는 것 = 연필깎이).
+tp 여럿: mkasi → mikasi(가위들), kifutio → vifutio.
+tp 재료를 빌릴 때: Naomba ~ / Nipe ~.
+pr mkasi | 가위 || gundi | 풀
+pr kalamu ya risasi | 연필 || kifutio | 지우개
+dl 학생 | Mwalimu, sina mkasi. | 선생님, 가위가 없어요.
+dl 선생님 | Tumia wa mwenzako. Una gundi? | 짝 거 써요. 풀은 있어요?
+dl 학생 | Ndiyo, na kalamu za rangi. | 네, 색연필도 있어요.
+dl 선생님 | Vizuri. Anza kuchora. | 좋아요. 그리기 시작해요.
+sm Mkasi, gundi, rula, brashi na kifutio — tayari kwa sanaa. | 가위, 풀, 자, 붓, 지우개 — 미술 준비 끝.
+qz '가위'는? | mkasi
+qz '지우개'는? | kifutio
+
+@ 1-07-15 | 체육·놀이 | michezo·kucheza | 체육 시간과 놀이에 쓰는 말이에요.
+w michezo | 운동, 놀이, 체육 · 하나는 mchezo | 운동, 경기; 놀이
+e Somo la michezo. | 체육 수업.
+e Michezo ya watoto. | 아이들 놀이.
+e Mchezo wa leo ulikuwa mzuri. | 오늘 경기 좋았어요.
+w kucheza | 놀다, 경기하다 | 놀다; 경기하다; 춤추다
+e Watoto wanacheza nje. | 아이들이 밖에서 놀아요.
+e Tucheze pamoja. | 같이 놀자.
+e Anacheza mpira. | 그는 공을 차요.
+w uwanja | 운동장 · 마당 | 운동장, 경기장
+e Uwanja wa shule. | 학교 운동장.
+e Uwanja wa mpira. | 축구장.
+e Twende uwanjani. | 운동장에 가요.
+w timu | 팀 | 팀
+e Timu mbili. | 두 팀.
+e Timu yetu imeshinda. | 우리 팀이 이겼어요.
+e Gawanya timu. | 팀을 나눠요.
+w kushinda | 이기다 | 이기다
+e Tumeshinda! | 이겼다!
+e Nani ameshinda? | 누가 이겼어요?
+e Timu ya bluu ilishinda. | 파란 팀이 이겼어요.
+w kushindwa | 지다 · shinda + wa | 지다; 못 하다
+e Tumeshindwa leo. | 오늘은 졌어요.
+e Usikate tamaa ukishindwa. | 져도 포기하지 마.
+e Nimeshindwa kufungua. | 못 열겠어요.
+w kukimbia | 달리다 | 달리다; 도망가다
+e Kimbia haraka! | 빨리 달려!
+e Wakenya wanakimbia sana. | 케냐 사람들은 달리기를 잘해요.
+e Mbwa alikimbia. | 개가 도망갔어요.
+tp kushinda(이기다)에 -wa를 붙이면 kushindwa(지다; ~하지 못하다)가 돼요.
+tp 케냐와 에티오피아는 장거리 달리기 강국이에요.
+tp 운동 = michezo(여럿 형태로 많이 씀), 경기 하나 = mchezo.
+pr kushinda | 이기다 || kushindwa | 지다
+pr timu yetu | 우리 팀 || timu yao | 그들 팀
+dl 선생님 | Twende uwanjani. Gawanyeni timu mbili. | 운동장으로 가요. 두 팀으로 나눠요.
+dl 학생 | Tutacheza nini? | 뭐 해요?
+dl 선생님 | Mchezo wa kukimbia. Timu itakayoshinda itapata zawadi. | 달리기 놀이요. 이기는 팀은 상을 받아요.
+dl 학생 | Tutashinda! | 우리가 이길 거예요!
+sm Uwanjani, timu mbili zinacheza; moja inashinda, moja inashindwa. | 운동장에서 두 팀이 경기해요. 한 팀은 이기고 한 팀은 져요.
+qz '이기다'는? | kushinda
+qz '운동장'은? | uwanja
+
+@ 1-07-16 | 체육 구령·동작 | Moja, mbili·ruka | 체조할 때 쓰는 구령이에요.
+w Panga mstari | 줄 서요 · panga 정리하다 + mstari 줄 | 줄 서요
+e Pangeni mstari mmoja. | 한 줄로 서요.
+e Panga mstari kwa urefu. | 키 순서로 줄 서요.
+e Pangeni mistari miwili. | 두 줄로 서요.
+w kuruka | 뛰다, 날다 | 뛰다, 점프하다; 날다
+e Ruka juu! | 높이 뛰어!
+e Ruka kamba. | 줄넘기해요.
+e Ndege inaruka. | 비행기가 날아요.
+w kunyoosha | 펴다 · 스트레칭 | 곧게 펴다
+e Nyoosha mikono. | 팔을 펴요.
+e Nyoosheni miguu. | 다들 다리를 펴요.
+e Nyoosha mgongo. | 허리를 펴요.
+w kuinama | 숙이다, 굽히다 | (몸을) 숙이다, 굽히다
+e Inama mbele. | 앞으로 숙여요.
+e Inama, gusa vidole vya miguu. | 숙여서 발가락을 만져요.
+e Usiiname sana. | 너무 숙이지 마요.
+w kugeuka | 돌다, 돌아서다 | 돌다, 돌아서다
+e Geuka kulia. | 오른쪽으로 돌아요.
+e Geukeni nyuma. | 다들 뒤로 돌아요.
+e Geuka polepole. | 천천히 돌아요.
+w kupumua | 숨 쉬다 | 숨 쉬다
+e Pumua ndani, pumua nje. | 숨 들이쉬고, 내쉬어요.
+e Pumua polepole. | 천천히 숨 쉬어요.
+e Siwezi kupumua vizuri. | 숨을 잘 못 쉬겠어요.
+w Anza! | 시작! · anza 시작하다 | 시작!
+e Tayari, anza! | 준비, 시작!
+e Anzeni sasa. | 이제 시작해요.
+e Simama! Anza tena. | 멈춰! 다시 시작.
+tp 구령: Moja, mbili, tatu, nne!(하나, 둘, 셋, 넷!) Tayari? Anza!(준비? 시작!) Simama!(멈춰!)
+tp 여러 명에게는 -eni: nyoosheni, geukeni, anzeni.
+tp kuruka는 '뛰다'와 '날다' 둘 다예요: ruka kamba(줄넘기), ndege inaruka(비행기가 날다).
+pr Anza! | 시작! || Simama! | 멈춰!
+pr nyoosha | 펴요 || inama | 숙여요
+dl 선생님 | Pangeni mstari! Tayari? | 줄 서요! 준비됐어요?
+dl 학생들 | Tayari! | 준비됐어요!
+dl 선생님 | Nyoosheni mikono juu... moja, mbili, tatu, nne! | 팔을 위로 펴요... 하나, 둘, 셋, 넷!
+dl 학생들 | Moja, mbili, tatu, nne! | 하나, 둘, 셋, 넷!
+sm Panga mstari, nyoosha mikono, inama, ruka na upumue! | 줄 서고, 팔 펴고, 숙이고, 뛰고, 숨 쉬어요!
+qz '시작!'은? | Anza!
+qz '줄 서요'는? | Panga mstari
+
+@ 1-07-17 | 구기 종목 | mpira·kandanda | 공으로 하는 운동이에요. 축구는 동아프리카에서 가장 인기 있어요.
+w mpira | 공 · 축구도 | 공; 축구
+e Mpira wa miguu. | 축구(발 공).
+e Piga mpira! | 공 차!
+e Mpira umepasuka. | 공이 터졌어요.
+w mpira wa miguu | 축구 · kandanda라고도 | 축구
+e Tunacheza mpira wa miguu Jumamosi. | 토요일에 축구해요.
+e Mpira wa miguu ni maarufu Tanzania. | 탄자니아에서 축구가 인기예요.
+e Mechi ya mpira wa miguu. | 축구 경기.
+w mpira wa kikapu | 농구 · kikapu 바구니 | 농구
+e Uwanja wa mpira wa kikapu. | 농구장.
+e Ni mrefu, anacheza mpira wa kikapu. | 그는 키가 커서 농구를 해요.
+e Timu ya mpira wa kikapu. | 농구팀.
+w mpira wa wavu | 배구 · wavu 그물 | 배구
+e Wasichana wanacheza mpira wa wavu. | 여학생들이 배구를 해요.
+e Wavu wa mpira wa wavu. | 배구 네트.
+e Mpira wa wavu wa ufukweni. | 비치발리볼.
+w goli | 골, 골대 · 영어 goal | 골; 골대
+e Goli! | 골!
+e Amefunga goli mbili. | 그는 두 골을 넣었어요.
+e Mlinda goli. | 골키퍼.
+w kufunga | 넣다(골), 닫다 | (골을) 넣다; 닫다, 묶다
+e Funga goli! | 골 넣어!
+e Simba imefunga. | 심바가 골을 넣었어요.
+e Funga mlango. | 문 닫아요.
+w mwamuzi | 심판 · amua 결정하다 | 심판
+e Mwamuzi alipiga filimbi. | 심판이 호루라기를 불었어요.
+e Mwamuzi ametoa kadi njano. | 심판이 옐로카드를 줬어요.
+e Sikiliza mwamuzi. | 심판 말을 들어요.
+tp 공 운동은 mpira wa + ~: mpira wa miguu(축구), mpira wa kikapu(농구), mpira wa wavu(배구), mpira wa mkono(핸드볼).
+tp kufunga는 '닫다, 묶다'이면서 '골을 넣다'예요.
+tp 탄자니아 프로축구 라이벌: Simba와 Yanga. 축구 이야기는 친해지기 좋은 화제예요.
+pr kushinda | 이기다 || sare | 비기다
+pr goli | 골 || mwamuzi | 심판
+dl 주마 | Unashabikia timu gani, Simba au Yanga? | 심바 응원해요, 양가 응원해요?
+dl 민준 | Bado sijui! Wewe? | 아직 모르겠어요! 당신은요?
+dl 주마 | Yanga! Jana tulifunga goli tatu. | 양가요! 어제 세 골 넣었어요.
+dl 민준 | Hongera! Nitakuja kuangalia mechi. | 축하해요! 경기 보러 갈게요.
+sm Mwamuzi anapiga filimbi — goli! Timu yetu imeshinda. | 심판이 호루라기를 불어요 — 골! 우리 팀이 이겼어요.
+qz '축구'는? | mpira wa miguu
+qz '심판'은? | mwamuzi
+
+@ 1-07-18 | 과학 실험 | jaribio·maji·joto | 과학 실험 시간에 쓰는 말이에요.
+w jaribio | 실험 · 여럿 majaribio | 실험; 시험
+e Jaribio la sayansi. | 과학 실험.
+e Tutafanya jaribio leo. | 오늘 실험을 할 거예요.
+e Majaribio mengi. | 실험 여러 개.
+w kupima | 재다 | 재다, 측정하다; 검사하다
+e Pima urefu. | 길이를 재요.
+e Pima joto la maji. | 물 온도를 재요.
+e Daktari alinipima. | 의사가 나를 검사했어요.
+w joto | 열, 더위 · 온도 | 열; 더위; 온도
+e Joto la mwili. | 체온.
+e Maji yana joto. | 물이 따뜻해요.
+e Joto linapanda. | 온도가 올라가요.
+w kuchemsha | 끓이다 | 끓이다
+e Chemsha maji. | 물을 끓여요.
+e Maji yanachemka. | 물이 끓어요.
+e Chemsha mayai dakika kumi. | 달걀을 10분 삶아요.
+w kuchanganya | 섞다 | 섞다
+e Changanya maji na chumvi. | 물과 소금을 섞어요.
+e Changanya polepole. | 천천히 섞어요.
+e Rangi zimechanganyika. | 색이 섞였어요.
+w matokeo | 결과 | 결과
+e Matokeo ya jaribio. | 실험 결과.
+e Andika matokeo yako. | 결과를 적어요.
+e Matokeo ya mtihani yametoka. | 시험 결과가 나왔어요.
+w kuangalia kwa makini | 자세히 관찰하다 | 자세히 보다, 관찰하다
+e Angalia kwa makini kinachotokea. | 무슨 일이 일어나는지 잘 봐요.
+e Angalieni rangi kwa makini. | 색을 자세히 봐요.
+e Aliangalia kwa makini sana. | 그는 아주 자세히 관찰했어요.
+tp 실험 순서: kupima(재기) → kuchanganya(섞기) → kuangalia(관찰) → kuandika matokeo(결과 쓰기).
+tp kuchemsha(끓이다) ↔ kuchemka(끓다): 하는 사람이 있으면 -sha.
+tp joto는 '더위, 열, 온도'예요: joto la mwili(체온).
+pr kuchemsha | 끓이다 || kuchemka | 끓다
+pr jaribio | 실험 || matokeo | 결과
+dl 선생님 | Changanyeni maji na chumvi. Nini kinatokea? | 물과 소금을 섞어 봐요. 무슨 일이 생겨요?
+dl 학생 | Chumvi inapotea! | 소금이 사라져요!
+dl 선생님 | Inayeyuka. Sasa chemsheni maji. | 녹는 거예요. 이제 물을 끓여요.
+dl 학생 | Chumvi imerudi! Ni matokeo mazuri. | 소금이 돌아왔어요! 결과가 좋네요.
+sm Pima, changanya, chemsha, angalia kwa makini na uandike matokeo. | 재고, 섞고, 끓이고, 잘 보고, 결과를 써요.
+qz '실험'은? | jaribio
+qz '섞다'는? | kuchanganya
+
+@ 1-07-19 | 생물·전기 | mmea·umeme | 생물과 전기에 대한 말이에요.
+w mmea | 식물 · 여럿 mimea | 식물
+e Mmea unahitaji maji. | 식물은 물이 필요해요.
+e Mimea ya kijani. | 초록 식물.
+e Panda mmea mdogo. | 작은 식물을 심어요.
+w mbegu | 씨앗 | 씨앗
+e Mbegu za mahindi. | 옥수수 씨앗.
+e Panda mbegu ardhini. | 씨앗을 땅에 심어요.
+e Mbegu imeota. | 씨앗이 싹텄어요.
+w mnyama | 동물 · 여럿 wanyama | 동물
+e Mnyama wa porini. | 야생 동물.
+e Wanyama wa nyumbani. | 가축.
+e Simba ni mnyama mkubwa. | 사자는 큰 동물이에요.
+w mdudu | 벌레, 곤충 · 여럿 wadudu | 벌레, 곤충
+e Mdudu mdogo. | 작은 벌레.
+e Wadudu wanakula majani. | 벌레들이 잎을 먹어요.
+e Mbu ni mdudu hatari. | 모기는 위험한 곤충이에요.
+w umeme | 전기 · 원래 '번개' | 전기; 번개
+e Umeme umekatika. | 전기가 나갔어요.
+e Bili ya umeme. | 전기 요금.
+e Radi na umeme. | 천둥과 번개.
+w betri | 배터리 | 배터리, 전지
+e Betri imeisha. | 배터리가 다 됐어요.
+e Badilisha betri. | 건전지를 갈아요.
+e Betri mbili. | 전지 두 개.
+w taa | 불, 전등 | 등, 전등
+e Washa taa. | 불을 켜요.
+e Zima taa. | 불을 꺼요.
+e Taa ya sola. | 태양광 등.
+tp 동아프리카에서는 정전이 잦아요: Umeme umekatika(전기가 끊겼다). 태양광 등(taa ya sola)도 흔해요.
+tp '켜다' kuwasha ↔ '끄다' kuzima: washa taa / zima taa.
+tp 살아 있는 것: mmea(식물), mnyama(동물), mdudu(벌레), mtu(사람) — 모두 m- 로 시작해요.
+pr kuwasha | 켜다 || kuzima | 끄다
+pr mmea | 식물 || mnyama | 동물
+dl 학생 | Mwalimu, taa haziwaki! | 선생님, 불이 안 켜져요!
+dl 선생님 | Umeme umekatika. Tufungue madirisha. | 전기가 나갔어요. 창문을 열어요.
+dl 학생 | Tutaendelea na somo la mimea? | 식물 수업 계속해요?
+dl 선생님 | Ndiyo, twende nje tuangalie mbegu zetu. | 네, 밖에 나가서 우리 씨앗을 봐요.
+sm Mmea unakua kutoka mbegu; taa inawaka kwa umeme. | 식물은 씨앗에서 자라고, 등은 전기로 켜져요.
+qz '전기'는? | umeme
+qz '씨앗'은? | mbegu
+
+@ 1-07-20 | 컴퓨터·주변기기 | kompyuta·skrini | 컴퓨터와 주변 기기 이름이에요.
+w kompyuta | 컴퓨터 | 컴퓨터
+e Darasa la kompyuta. | 컴퓨터 교실.
+e Kompyuta ndogo. | 노트북(작은 컴퓨터).
+e Washa kompyuta. | 컴퓨터를 켜요.
+w skrini | 화면 | 화면, 스크린
+e Angalia skrini. | 화면을 봐요.
+e Skrini imevunjika. | 화면이 깨졌어요.
+e Skrini kubwa. | 큰 화면.
+w kibodi | 키보드 | 키보드
+e Andika kwa kibodi. | 키보드로 쳐요.
+e Kibodi ya Kikorea. | 한글 키보드.
+e Kibodi haifanyi kazi. | 키보드가 안 돼요.
+w kipanya | 마우스 · 원래 '작은 쥐' | 마우스
+e Bonyeza kipanya. | 마우스를 클릭해요.
+e Kipanya kiko wapi? | 마우스 어디 있어요?
+e Sogeza kipanya. | 마우스를 움직여요.
+w printa | 프린터 · 표준어 mashine ya kuchapisha | 프린터
+e Printa haina karatasi. | 프린터에 종이가 없어요.
+e Chapisha kwa printa. | 프린터로 뽑아요.
+e Printa ya ofisi. | 사무실 프린터.
+w kuwasha | 켜다 | 켜다; 불붙이다
+e Washa kompyuta. | 컴퓨터를 켜요.
+e Washa feni. | 선풍기를 켜요.
+e Kompyuta haiwaki. | 컴퓨터가 안 켜져요.
+w kuzima | 끄다 | 끄다
+e Zima kompyuta. | 컴퓨터를 꺼요.
+e Zima simu darasani. | 교실에서는 휴대폰을 꺼요.
+e Zima moto. | 불을 꺼요.
+tp kipanya(마우스)는 panya(쥐)에 작다는 ki-를 붙인 말이에요.
+tp 컴퓨터 말은 영어에서 온 게 많아요: skrini, kibodi, printa. 표준어로 바꾼 말도 있어요.
+tp 끝낼 때: Zimeni kompyuta(다들 컴퓨터 끄세요).
+pr kuwasha | 켜다 || kuzima | 끄다
+pr kibodi | 키보드 || kipanya | 마우스
+dl 선생님 | Washeni kompyuta. | 다들 컴퓨터 켜요.
+dl 학생 | Mwalimu, yangu haiwaki. | 선생님, 제 건 안 켜져요.
+dl 선생님 | Angalia waya wa umeme. | 전원선을 확인해 봐요.
+dl 학생 | Ah, sasa inawaka! | 아, 이제 켜졌어요!
+sm Washa kompyuta, angalia skrini, tumia kibodi na kipanya. | 컴퓨터를 켜고, 화면을 보고, 키보드와 마우스를 써요.
+qz '마우스'는? | kipanya
+qz '끄다'는? | kuzima
+
+@ 1-07-21 | 컴퓨터 기본 조작 | kubonyeza·kuandika | 컴퓨터를 다룰 때 쓰는 동사예요.
+w kubonyeza | 누르다, 클릭하다 | 누르다, 클릭하다
+e Bonyeza hapa. | 여기를 클릭해요.
+e Bonyeza mara mbili. | 더블클릭해요.
+e Bonyeza kitufe hiki. | 이 버튼을 눌러요.
+w kitufe | 버튼, 단추 | 버튼; 단추
+e Kitufe chekundu. | 빨간 버튼.
+e Bonyeza kitufe cha 'Anza'. | '시작' 버튼을 눌러요.
+e Kitufe cha shati. | 셔츠 단추.
+w kufungua | 열다 | 열다
+e Fungua faili. | 파일을 열어요.
+e Fungua programu. | 프로그램을 열어요.
+e Fungua dirisha. | 창문을 열어요.
+w kufunga | 닫다 | 닫다; 묶다
+e Funga programu. | 프로그램을 닫아요.
+e Funga dirisha. | 창을 닫아요.
+e Funga mlango. | 문을 닫아요.
+w kuhifadhi | 저장하다, 보관하다 | 저장하다; 보관하다
+e Hifadhi kazi yako. | 작업을 저장해요.
+e Umehifadhi? | 저장했어요?
+e Hifadhi chakula kwenye friji. | 음식을 냉장고에 보관해요.
+w kuchapa | 타자 치다, 인쇄하다 | 타자 치다; 인쇄하다
+e Chapa jina lako. | 이름을 쳐요.
+e Anachapa haraka. | 그는 타자를 빨리 쳐요.
+e Chapa kurasa mbili. | 두 쪽을 인쇄해요.
+w kunakili | 복사하다 | 베끼다, 복사하다
+e Nakili na ubandike. | 복사해서 붙여 넣어요.
+e Usinakili jibu la mwenzako. | 짝 답을 베끼지 마.
+e Nakili maneno haya. | 이 말을 옮겨 써요.
+tp 열다 kufungua ↔ 닫다 kufunga. 동사 끝 -ua는 '반대로 하다'예요(4-xx 짝말).
+tp 복사·붙여넣기: kunakili na kubandika.
+tp kuhifadhi는 '저장하다'이면서 '(음식·물건을) 보관하다'예요.
+pr kufungua | 열다 || kufunga | 닫다
+pr kunakili | 복사하다 || kubandika | 붙여 넣다
+dl 학생 | Mwalimu, nimemaliza kuandika. | 선생님, 다 썼어요.
+dl 선생님 | Safi! Bonyeza 'Hifadhi'. | 좋아요! '저장'을 눌러요.
+dl 학생 | Nimehifadhi. Nifunge programu? | 저장했어요. 프로그램 닫을까요?
+dl 선생님 | Ndiyo, funga na uzime kompyuta. | 네, 닫고 컴퓨터를 꺼요.
+sm Fungua, chapa, hifadhi, funga — kazi ya kompyuta imekwisha. | 열고, 치고, 저장하고, 닫아요 — 컴퓨터 작업 끝.
+qz '저장하다'는? | kuhifadhi
+qz '누르다, 클릭하다'는? | kubonyeza
+
+@ 1-07-22 | 인터넷 | mtandao·tovuti | 인터넷과 온라인에 쓰는 말이에요.
+w mtandao | 인터넷, 망 · 원래 '그물망' | 인터넷; 네트워크
+e Mtandao uko chini leo. | 오늘 인터넷이 느려요(안 돼요).
+e Tafuta kwenye mtandao. | 인터넷에서 찾아봐요.
+e Mitandao ya kijamii. | 소셜 미디어.
+w intaneti | 인터넷 · 영어 그대로 | 인터넷
+e Hakuna intaneti. | 인터넷이 안 돼요.
+e Intaneti ya simu. | 휴대폰 인터넷.
+e Kifurushi cha intaneti. | 인터넷 데이터 상품.
+w tovuti | 웹사이트 | 웹사이트
+e Tovuti ya shule. | 학교 웹사이트.
+e Fungua tovuti hii. | 이 웹사이트를 열어요.
+e Anwani ya tovuti. | 웹사이트 주소.
+w kutafuta | 찾다, 검색하다 | 찾다, 검색하다
+e Tafuta neno hili. | 이 단어를 검색해요.
+e Ninatafuta kazi. | 일자리를 찾고 있어요.
+e Tafuta funguo zangu. | 내 열쇠를 찾아 줘요.
+w barua pepe | 이메일 · '바람 편지' | 이메일
+e Nitumie barua pepe. | 이메일 보내 줘요.
+e Anwani yako ya barua pepe ni ipi? | 이메일 주소가 뭐예요?
+e Nimepokea barua pepe. | 이메일을 받았어요.
+w kupakua | 내려받다 · pakia 싣다의 반대 | 내려받다, 다운로드하다
+e Pakua programu hii. | 이 앱을 내려받아요.
+e Inapakua polepole. | 천천히 내려받아지고 있어요.
+e Nimepakua wimbo. | 노래를 내려받았어요.
+w kupakia | 올리다, 싣다 | 올리다(업로드); 싣다
+e Pakia picha. | 사진을 올려요.
+e Pakia mizigo kwenye gari. | 차에 짐을 실어요.
+e Video imepakiwa. | 영상이 올라갔어요.
+tp kupakia(싣다 = 올리다) ↔ kupakua(내리다 = 내려받다). -ua가 반대를 만들어요.
+tp barua pepe의 pepe는 '바람'이에요. 바람처럼 빨리 가는 편지라는 뜻이에요.
+tp 데이터는 kifurushi(꾸러미)로 사서 써요.
+pr kupakia | 올리다 || kupakua | 내려받다
+pr kutuma | 보내다 || kupokea | 받다
+dl 수아 | Kuna intaneti hapa? | 여기 인터넷 돼요?
+dl 니에마 | Ndiyo, lakini mtandao ni wa polepole. | 네, 그런데 느려요.
+dl 수아 | Nataka kupakua kitabu cha Kiswahili. | 스와힐리어 책을 내려받고 싶어요.
+dl 니에마 | Tafuta kwenye tovuti ya maktaba. | 도서관 웹사이트에서 찾아봐요.
+sm Tafuta kwenye mtandao, pakua faili na utume barua pepe. | 인터넷에서 찾고, 파일을 내려받고, 이메일을 보내요.
+qz '이메일'은? | barua pepe
+qz '내려받다'는? | kupakua
+
+@ 1-07-23 | 파일·프로그램 | faili·programu | 파일과 프로그램을 다룰 때 쓰는 말이에요.
+w faili | 파일 | 파일
+e Faili jipya. | 새 파일.
+e Faili limepotea! | 파일이 없어졌어요!
+e Tuma faili kwa barua pepe. | 파일을 이메일로 보내요.
+w programu | 프로그램, 앱 | 프로그램; 앱
+e Programu ya kuandika. | 문서 프로그램.
+e Pakua programu hii. | 이 앱을 깔아요.
+e Programu imefungwa. | 프로그램이 닫혔어요.
+w nenosiri | 비밀번호 · neno 말 + siri 비밀 | 비밀번호
+e Andika nenosiri. | 비밀번호를 입력해요.
+e Nimesahau nenosiri. | 비밀번호를 잊어버렸어요.
+e Usimwambie mtu nenosiri lako. | 비밀번호를 아무에게도 말하지 마요.
+w kufuta | 지우다, 삭제하다 | 지우다, 삭제하다
+e Futa faili hili. | 이 파일을 지워요.
+e Usifute picha! | 사진 지우지 마!
+e Nimefuta kwa makosa. | 실수로 지웠어요.
+w folda | 폴더 | 폴더
+e Folda ya picha. | 사진 폴더.
+e Fungua folda mpya. | 새 폴더를 만들어요.
+e Weka faili kwenye folda. | 파일을 폴더에 넣어요.
+w kutuma | 보내다 | 보내다
+e Tuma ujumbe. | 메시지를 보내요.
+e Nitakutumia faili. | 파일 보내 줄게.
+e Umetuma? | 보냈어요?
+w kupokea | 받다 | 받다
+e Nimepokea faili lako. | 네 파일 받았어.
+e Pokea simu. | 전화 받아요.
+e Alipokea zawadi. | 그는 선물을 받았어요.
+tp nenosiri = neno(말) + siri(비밀): '비밀의 말'.
+tp '~에게 보내다'는 tumia: Nitakutumia(너에게 보낼게), Nitumie(나에게 보내 줘).
+tp kufuta는 칠판을 지울 때도, 파일을 지울 때도 써요.
+pr kutuma | 보내다 || kupokea | 받다
+pr kuhifadhi | 저장하다 || kufuta | 지우다
+dl 학생 | Mwalimu, nimesahau nenosiri! | 선생님, 비밀번호를 잊어버렸어요!
+dl 선생님 | Usijali. Nitakusaidia. | 걱정 마요. 도와줄게요.
+dl 학생 | Faili langu liko kwenye folda gani? | 제 파일이 어느 폴더에 있어요?
+dl 선생님 | Kwenye folda ya 'Darasa 7'. | '7학년' 폴더에 있어요.
+sm Fungua programu, andika nenosiri, hifadhi faili kwenye folda. | 프로그램을 열고, 비밀번호를 넣고, 파일을 폴더에 저장해요.
+qz '비밀번호'는? | nenosiri
+qz '받다'는? | kupokea
+
+@ 1-07-24 | 과제·평가 | kazi·tathmini | 숙제 검사와 평가에 쓰는 말이에요.
+w kumaliza | 끝내다 | 끝내다, 마치다
+e Umemaliza? | 다 했어요?
+e Sijamaliza bado. | 아직 못 끝냈어요.
+e Malizeni kazi kabla ya kengele. | 종 치기 전에 끝내요.
+w kukusanya | 모으다, 걷다 | 모으다, 걷다
+e Kusanya madaftari. | 공책을 걷어요.
+e Nitakusanya kazi kesho. | 내일 숙제를 걷을게요.
+e Tunakusanya pesa kwa sherehe. | 잔치를 위해 돈을 모아요.
+w kurudisha | 돌려주다 | 돌려주다, 되돌리다
+e Rudisha kitabu kesho. | 내일 책을 돌려줘요.
+e Mwalimu amerudisha mitihani. | 선생님이 시험지를 돌려주셨어요.
+e Rudisha kalamu yangu. | 내 펜 돌려줘.
+w alama nzuri | 좋은 점수 | 좋은 점수
+e Umepata alama nzuri. | 좋은 점수를 받았어요.
+e Alama nzuri sana! | 아주 좋은 점수!
+e Nataka alama nzuri. | 좋은 점수를 받고 싶어요.
+w bidii | 노력, 부지런함 | 노력, 열심
+e Soma kwa bidii. | 열심히 공부해.
+e Ana bidii sana. | 그는 아주 부지런해요.
+e Bidii italeta mafanikio. | 노력하면 성공해요.
+w kuboresha | 나아지게 하다 · bora 더 좋은 | 개선하다, 더 좋게 하다
+e Boresha mwandiko wako. | 글씨를 더 잘 써 봐.
+e Ameboresha matamshi. | 그는 발음이 좋아졌어요.
+e Tuboreshe kazi hii. | 이 작업을 더 좋게 만들자.
+w hodari | 잘한다, 뛰어나다 | 뛰어나다, 잘한다
+e Wewe ni hodari! | 너 정말 잘한다!
+e Mwanafunzi hodari. | 우수한 학생.
+e Hodari wa hisabati. | 수학을 잘하는 사람.
+tp '아직 ~ 못 했다'는 si- + ja-: sijamaliza(아직 못 끝냈다), sijaelewa(아직 이해 못 했다).
+tp 칭찬 한마디: Hodari!(잘한다!), Kazi nzuri!(잘했어!), Endelea hivyo!(계속 그렇게 해!)
+tp kurudi(돌아오다) → kurudisha(돌려주다): -sha는 '~하게 하다'예요.
+pr Umemaliza? | 다 했어요? || Sijamaliza. | 아직 못 했어요.
+pr kukusanya | 걷다 || kurudisha | 돌려주다
+dl 선생님 | Mmemaliza kazi ya nyumbani? | 다들 숙제 했어요?
+dl 학생 | Mimi nimemaliza, lakini Baraka bado. | 저는 했는데 바라카는 아직요.
+dl 선생님 | Kusanyeni madaftari. Nitayarudisha kesho. | 공책 걷어요. 내일 돌려줄게요.
+dl 학생 | Tutapata alama nzuri! | 좋은 점수 받을 거예요!
+sm Soma kwa bidii, maliza kazi, boresha kila siku — wewe ni hodari! | 열심히 공부하고, 숙제를 끝내고, 매일 나아지면 — 넌 대단해!
+qz '끝내다'는? | kumaliza
+qz '잘한다!'는? | Hodari!

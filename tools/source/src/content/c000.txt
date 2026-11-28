@@ -1,0 +1,109 @@
+// shared readings and note words (x word | meaning [| reading]); keys lowercase
+rd Minjun | 민준
+rd Sua | 수아
+rd Jisu | 지수
+rd Dar es Salaam | 다르에스살람
+rd es | 에스
+rd Salaam | 살람
+rd Korea | 코리아
+rd M-Pesa | 엠페사
+rd Wi-Fi | 와이파이
+x na | 그리고, ~와; ~에 의해
+x ya | ~의 (ya 부류)
+x za | ~의 (za 부류)
+x wa | ~의 (wa 부류)
+x la | ~의 (la 부류)
+x cha | ~의 (cha 부류)
+x vya | ~의 (vya 부류)
+x kwa | ~으로, ~에게; ~를 위해
+x ni | ~이다
+x si | ~이 아니다
+x sana | 아주, 많이
+x hii | 이(것)
+x huyu | 이 사람
+x hiki | 이(것, ki 부류)
+x hapa | 여기
+x pale | 저기
+x huko | 거기
+x mimi | 나
+x wewe | 너, 당신
+x yeye | 그, 그녀
+x sisi | 우리
+x ninyi | 너희, 여러분
+x wao | 그들
+x yangu | 나의
+x yako | 너의
+x yake | 그의, 그녀의
+x yetu | 우리의
+x yenu | 너희의
+x yao | 그들의
+x langu | 나의 (la 부류)
+x lako | 너의 (la 부류)
+x lake | 그의 (la 부류)
+x wangu | 나의 (wa 부류)
+x wako | 너의 (wa 부류)
+x wake | 그의 (wa 부류)
+x changu | 나의 (ki 부류)
+x chako | 너의 (ki 부류)
+x zangu | 나의 (여럿)
+x zako | 너의 (여럿)
+x pia | ~도, 또한
+x tu | 그냥, ~만
+x leo | 오늘
+x kesho | 내일
+x jana | 어제
+x sasa | 지금
+x bado | 아직
+x tena | 다시
+x kila | 모든, 매~
+x siku | 날, 하루
+x moja | 하나
+x mbili | 둘
+x tatu | 셋
+x nne | 넷
+x tano | 다섯
+x kuna | ~이 있다
+x hakuna | ~이 없다
+x je | (질문을 시작하는 말)
+x au | 또는
+x lakini | 그러나
+x kama | ~처럼; 만약
+x katika | ~ 안에, ~에서
+x kutoka | ~에서(부터); 나오다
+x mpaka | ~까지
+x hadi | ~까지
+x baada ya | ~ 후에
+x kabla ya | ~ 전에
+x nyumbani | 집에(서)
+x shuleni | 학교에(서)
+x sokoni | 시장에(서)
+x mjini | 시내에(서)
+x kazini | 직장에(서)
+x mwalimu | 선생님
+x rafiki | 친구
+x mama | 엄마, 어머니
+x baba | 아빠, 아버지
+x mtoto | 아이
+x watoto | 아이들
+x bwana | ~씨(남자), 아저씨
+x bibi | 할머니; ~부인
+x dada | 언니, 누나, 여동생
+x kaka | 오빠, 형, 남동생
+x mzuri | 좋은, 예쁜
+x nzuri | 좋은, 좋아요
+x vizuri | 잘, 좋게
+x kubwa | 큰
+x ndogo | 작은
+x mengi | 많은
+x kidogo | 조금
+x yote | 모든, 전부
+x wote | 모두 (사람)
+x hivi | 이렇게
+x hivyo | 그렇게
+x sawa | 좋아요, 같다
+x asante | 고마워요
+x tafadhali | 제발, 부탁해요
+x samahani | 미안해요, 실례합니다
+x karibu | 어서 와요; 가까이
+x hapana | 아니요
+x ndiyo | 네

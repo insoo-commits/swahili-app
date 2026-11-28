@@ -1,0 +1,616 @@
+# P7-A | 기본 문장 구조
+
+@ 7-01-01 | 어순 | 주어+동사+목적어 | 스와힐리어 어순은 영어처럼 '주어 + 동사 + 목적어'예요. 주어는 동사 앞에 붙어서 생략할 수 있어요.
+w Ninasoma Kiswahili | 나는 + (지금) 읽는다 + 스와힐리어 | 스와힐리어를 공부해요
+e Ninasoma Kiswahili kila siku. | 날마다 스와힐리어를 공부해요.
+e Mimi ninasoma Kiswahili, yeye anasoma Kiingereza. | 저는 스와힐리어, 그는 영어를 공부해요.
+w Juma anakula wali | 주마는 + 먹는다 + 밥 | 주마가 밥을 먹어요
+e Juma anakula wali mchana. | 주마는 점심에 밥을 먹어요.
+e Mtoto anakula ndizi. | 아이가 바나나를 먹어요.
+w mtoto mzuri | 꾸미는 말은 뒤에 · 착한 아이 | 착한(예쁜) 아이
+e Ni mtoto mzuri sana. | 아주 착한 아이예요.
+e Ana mtoto mzuri. | 그는 예쁜 아이가 있어요.
+w nyumba yangu | '나의'도 뒤에 · 내 집 | 내 집
+e Nyumba yangu iko karibu. | 우리 집은 가까워요.
+e Hii ni nyumba yangu. | 이게 우리 집이에요.
+w kitabu hiki | '이(this)'도 보통 뒤에 · 이 책 | 이 책
+e Kitabu hiki ni kizuri. | 이 책 좋아요.
+e Nimesoma kitabu hiki. | 이 책 읽었어요.
+tp 기본 어순: 주어 + 동사 + 목적어 + 때·곳. Juma anakula wali mchana(주마는 먹는다 밥을 점심에).
+tp 꾸미는 말(형용사·소유·'이')은 낱말 뒤: nyumba kubwa(큰 집), nyumba yangu(내 집), nyumba hii(이 집).
+tp 주어는 동사 앞머리에 들어 있어요: ni-na-soma(나는 공부한다). 그래서 Mimi(나)를 따로 말하지 않아도 돼요.
+pr Ninasoma. | 공부해요. || Mimi ninasoma. | '저는' 공부해요.
+pr nyumba kubwa | 큰 집 || nyumba yangu | 내 집
+sm Leo Juma anakula wali na samaki mchana. | 오늘 주마는 점심에 밥과 생선을 먹어요.
+qz '큰 집'의 순서는? | nyumba kubwa (집 + 큰)
+
+@ 7-01-02 | 동사의 주어 표시 | ni-·u-·a-·tu-·m-·wa- | 동사 앞에 붙는 '누가'예요. kusoma(공부하다)로 연습해요.
+w ninasoma | ni- 나는 | 나는 공부해요
+e Ninasoma jioni. | 저녁에 공부해요.
+e Ninasoma chuo kikuu. | 대학에 다녀요.
+w unasoma | u- 너는 | 너는 공부해요
+e Unasoma nini? | 뭘 공부해요?
+e Unasoma wapi? | 어디서 공부해요?
+w anasoma | a- 그(그녀)는 | 그는 공부해요
+e Anasoma sana. | 그는 공부를 많이 해요.
+e Dada anasoma udaktari. | 언니는 의학을 공부해요.
+w tunasoma | tu- 우리는 | 우리는 공부해요
+e Tunasoma pamoja. | 우리는 같이 공부해요.
+e Tunasoma Kiswahili. | 우리는 스와힐리어를 공부해요.
+w mnasoma | m- 너희는 | 너희는 공부해요
+e Mnasoma darasa gani? | 너희는 몇 학년이니?
+e Mnasoma vizuri. | 너희 공부 잘하는구나.
+w wanasoma | wa- 그들은 | 그들은 공부해요
+e Wanafunzi wanasoma. | 학생들이 공부해요.
+e Wanasoma maktaba. | 그들은 도서관에서 공부해요.
+tp 나 ni-, 너 u-, 그 a-, 우리 tu-, 너희 m-, 그들 wa-.
+tp 주어 + 시제(-na-) + 동사: ni-na-soma.
+tp 사람이 아닌 주어는 무리에 따라 달라요: kitabu ki-, gari li-, nyumba i-.
+pr ninasoma | 나는 공부해요 || tunasoma | 우리는 공부해요
+pr anasoma | 그는 공부해요 || wanasoma | 그들은 공부해요
+sm Ni, u, a, tu, m, wa. | 나, 너, 그, 우리, 너희, 그들.
+qz '우리는 공부해요'는? | tunasoma
+
+@ 7-01-03 | 인칭대명사 | mimi·wewe·yeye·sisi·ninyi·wao | '나, 너, 그…'를 강조하거나 혼자 쓸 때의 말이에요.
+w mimi | 나 | 나
+e Mimi ni Mkorea. | 저는 한국 사람이에요.
+e Na mimi pia. | 저도요.
+w wewe | 너 | 너
+e Wewe ni nani? | 너는 누구니?
+e Na wewe? | 너는?
+w yeye | 그, 그녀 · 남녀 같음 | 그, 그녀
+e Yeye ni daktari. | 그(녀)는 의사예요.
+e Ni yeye! | 그 사람이에요!
+w sisi | 우리 | 우리
+e Sisi ni marafiki. | 우리는 친구예요.
+e Sisi sote. | 우리 모두.
+w ninyi | 너희 | 너희
+e Ninyi ni wanafunzi? | 너희는 학생이니?
+e Karibuni ninyi wote. | 여러분 모두 환영해요.
+w wao | 그들 | 그들
+e Wao wanatoka Kenya. | 그들은 케냐에서 왔어요.
+e Ni wao. | 그 사람들이에요.
+tp 대명사는 강조할 때만 써요. 보통은 동사 앞 ni-, u-, a-로 충분해요.
+tp yeye는 남자·여자 구별이 없어요.
+tp Na wewe? = 너는?(되묻기). Na mimi pia = 나도.
+pr mimi | 나 || sisi | 우리
+pr yeye | 그 || wao | 그들
+sm Mimi, wewe, yeye, sisi, ninyi, wao. | 나, 너, 그, 우리, 너희, 그들.
+qz '그들'은? | wao
+
+@ 7-01-04 | 소유 '나의·너의' | -angu·-ako·-ake·-etu | '~의'는 낱말 뒤에 오고, 앞이 명사 무리에 맞춰 바뀌어요(w-, y-, ch-, l-…).
+w rafiki yangu | -angu 나의 | 내 친구
+e Rafiki yangu anaitwa Juma. | 내 친구 이름은 주마예요.
+e Huyu ni rafiki yangu. | 이 사람은 내 친구예요.
+w kitabu chako | -ako 너의 | 네 책
+e Kitabu chako kiko hapa. | 네 책 여기 있어.
+e Hiki ni kitabu chako? | 이거 네 책이니?
+w gari lake | -ake 그의 | 그의 차
+e Gari lake ni jekundu. | 그의 차는 빨간색이에요.
+e Gari lake limeharibika. | 그의 차가 고장 났어요.
+w nchi yetu | -etu 우리의 | 우리나라
+e Karibu nchi yetu. | 우리나라에 잘 왔어요.
+e Nchi yetu ni nzuri. | 우리나라는 좋아요.
+w watoto wenu | -enu 너희의 | 너희 아이들
+e Watoto wenu wako wapi? | 너희 아이들은 어디 있니?
+e Watoto wenu ni wazuri. | 아이들이 예쁘네요.
+w nyumba yao | -ao 그들의 | 그들의 집
+e Nyumba yao ni kubwa. | 그들의 집은 커요.
+e Tulienda nyumba yao. | 그들 집에 갔어요.
+tp -angu(나), -ako(너), -ake(그), -etu(우리), -enu(너희), -ao(그들).
+tp 앞머리가 무리에 맞춰요: kitabu chako, gari lako, nyumba yako, mtoto wako, vitabu vyako.
+tp 가족 낱말은 짧게 붙여 말하기도: mama yangu = mamangu, mwana wangu = mwanangu.
+pr kitabu changu | 내 책 || vitabu vyangu | 내 책들
+pr gari langu | 내 차 || magari yangu | 내 차들
+sm Rafiki yangu, kitabu chako, gari lake, nchi yetu. | 내 친구, 네 책, 그의 차, 우리나라.
+qz '우리나라'는? | nchi yetu
+
+@ 7-01-05 | 긍정·부정의 ni/si | ni·si·ndiyo | 명사 앞에 ni(~이다), si(~아니다)를 써요. 주어에 따라 바뀌지 않아요.
+w Mimi ni mwalimu | ni = ~이다 | 저는 선생님이에요
+e Mimi ni mwalimu wa Kiswahili. | 저는 스와힐리어 선생님이에요.
+e Yeye ni mwalimu pia. | 그도 선생님이에요.
+w Mimi si mwalimu | si = ~아니다 | 저는 선생님이 아니에요
+e Mimi si mwalimu, ni mwanafunzi. | 저는 선생님이 아니라 학생이에요.
+e Hii si yangu. | 이건 제 게 아니에요.
+w ndiyo | 네; 바로 그것 | 네; 그렇다
+e Ndiyo, ni mimi. | 네, 저예요.
+e Ndiyo hiyo! | 바로 그거예요!
+w siyo | 아니요; 그게 아니다 | 아니요; 그게 아니다
+e Siyo hii. | 이게 아니에요.
+e Siyo kweli. | 사실이 아니에요.
+w ni nani? | 누구예요? | 누구예요?
+e Huyu ni nani? | 이 사람 누구예요?
+e Ni nani anaita? | 누가 불러요?
+tp ni는 모든 주어에 같아요: mimi ni, wewe ni, wao ni.
+tp 부정은 si: Mimi si Mkenya(저는 케냐 사람이 아니에요).
+tp 대답: Ndiyo(네), Hapana(아니요), Siyo(그게 아니에요).
+pr ni mwalimu | 선생님이에요 || si mwalimu | 선생님이 아니에요
+pr Ndiyo. | 네. || Hapana. | 아니요.
+sm Ni na si, ndiyo na siyo. | ~이다와 아니다, 네와 아니요.
+qz '저는 선생님이 아니에요'는? | Mimi si mwalimu
+
+@ 7-01-06 | 위치 표현(-ko/-po/-mo) | -ko·-po·-mo | '어디에 있다'는 주어 + -ko/-po/-mo예요. -ko 가 가장 흔해요.
+w niko | 나는 (어디에) 있다 | 저는 ~에 있어요
+e Niko nyumbani. | 집에 있어요.
+e Niko njiani. | 가는 중이에요(길에 있어요).
+w uko wapi? | 너 어디 있어? | 어디 있어요?
+e Uko wapi sasa? | 지금 어디예요?
+e Uko salama? | 무사해요?
+w yuko | 그는 (어디에) 있다 · a-ko → yuko | 그는 ~에 있어요
+e Mama yuko jikoni. | 엄마는 부엌에 있어요.
+e Yuko kazini. | 그는 일하는 중이에요.
+w kipo | (ki- 물건이) 여기 있다 · -po 정확한 곳 | (그것이) 여기 있어요
+e Kitabu kipo mezani. | 책이 탁자 위에 있어요.
+e Kipo hapa. | 여기 있어요.
+w mmo | 너희가 안에 있다 · m(너희) + mo(안) | (여러분이) 안에 있어요
+e Mmo darasani? | 여러분 교실 안에 있어요?
+e Mmo ndani? — Ndiyo, tumo. | 안에 있어요? — 네, (우리) 안에 있어요.
+tp -ko(대략 어디), -po(바로 그곳), -mo(안에) 앞에 주어가 붙어요: yuko/yupo/yumo(그가), mko/mpo/mmo(여러분이), ziko/zipo/zimo(그것들이). Pesa zimo mkobani = 돈은 가방 안에 있어요.
+tp 주어 앞머리 + ko: niko, uko, yuko, tuko, mko, wako. 물건: kiko, liko, iko, viko.
+tp '~이 있다(존재)'는 kuna: Kuna maji(물이 있어요).
+pr Niko hapa. | 여기 있어요. || Siko. | 없어요(안 있어요).
+pr kiko | (물건) 있어요 || hakiko | 없어요
+sm Niko, uko, yuko; kipo, kimo. | 나는 있다, 너는 있다, 그는 있다; 여기 있다, 안에 있다.
+qz '엄마는 부엌에 있어요'는? | Mama yuko jikoni
+
+@ 7-01-07 | 소유·존재(nina/kuna) | nina·kuna·sina·hakuna | '가지고 있다'는 주어 + na(함께), '있다'는 kuna예요.
+w nina | 나는 가지고 있다 · ni + na | 나는 ~이 있어요
+e Nina swali. | 질문 있어요.
+e Nina watoto wawili. | 아이가 둘 있어요.
+w sina | 나는 없다 · si + na | 나는 ~이 없어요
+e Sina pesa. | 돈이 없어요.
+e Sina shida. | 문제없어요.
+w una | 너는 가지고 있다 | 너는 ~이 있어
+e Una simu? | 휴대폰 있어요?
+e Una muda? | 시간 있어요?
+w kuna | ~이 있다 · 장소 | ~이 있다
+e Kuna maji? | 물 있어요?
+e Kuna watu wengi. | 사람이 많아요.
+w hakuna | ~이 없다 | ~이 없다
+e Hakuna tatizo. | 문제없어요.
+e Hakuna mtu. | 아무도 없어요.
+tp nina(나 있다), una(너 있다), ana(그 있다), tuna, mna, wana.
+tp 부정: sina, huna, hana, hatuna, hamna, hawana.
+tp kuna(있다)/hakuna(없다): Hakuna matata = 걱정 없어요.
+pr Nina. | 있어요. || Sina. | 없어요.
+pr Kuna. | 있어요. || Hakuna. | 없어요.
+sm Nina, sina, una, kuna, hakuna. | 나 있다, 나 없다, 너 있다, 있다, 없다.
+qz '돈이 없어요'는? | Sina pesa
+
+# P7-B | 명사 부류
+
+@ 7-02-01 | 사람 m- ↔ wa- | mtu·watu | 스와힐리어 명사는 앞머리로 무리가 나뉘어요. 사람은 m-(mw-) → wa-.
+w mtu | 사람 → watu | 사람
+e Mtu mmoja. | 한 사람.
+e Watu wawili. | 두 사람.
+w mtoto | 아이 → watoto | 아이
+e Mtoto analala. | 아이가 자요.
+e Watoto wanacheza. | 아이들이 놀아요.
+w mwalimu | 선생님 → walimu | 선생님
+e Mwalimu amefika. | 선생님이 오셨어요.
+e Walimu wako mkutanoni. | 선생님들은 회의 중이에요.
+w mgeni | 손님 → wageni | 손님
+e Mgeni amekuja. | 손님이 왔어요.
+e Wageni wengi. | 손님이 많아요.
+w mwanamke | 여자 → wanawake | 여자
+e Mwanamke mmoja. | 여자 한 명.
+e Wanawake na wanaume. | 여자와 남자.
+tp m-(mw-) 하나 ↔ wa- 여럿: mtu/watu, mwalimu/walimu.
+tp 주어 표시는 a-(하나)/wa-(여럿): Mtoto anacheza / Watoto wanacheza.
+tp 사람이면 다른 무리의 낱말이라도 a-/wa-를 써요: rafiki anakuja.
+pr mtu | 사람 || watu | 사람들
+pr mtoto | 아이 || watoto | 아이들
+sm Mtu, watu, mtoto, watoto. | 사람, 사람들, 아이, 아이들.
+qz '선생님들'은? | walimu
+
+@ 7-02-02 | 나무·자연 m- ↔ mi- | mti·miti | 사람이 아닌 m- 낱말(나무, 신체, 자연)은 여럿일 때 mi-가 돼요.
+w mti | 나무 → miti | 나무
+e Mti mrefu. | 큰 나무.
+e Miti mingi. | 나무가 많아요.
+w mto | 강 → mito | 강
+e Mto mkubwa. | 큰 강.
+e Mito ya Tanzania. | 탄자니아의 강들.
+w mkono | 손, 팔 → mikono | 손
+e Mkono wa kulia. | 오른손.
+e Nawa mikono. | 손 씻어요.
+w mji | 도시 → miji | 도시
+e Mji mkuu. | 수도.
+e Miji mikubwa. | 큰 도시들.
+w mwaka | 해, 년 → miaka | 해
+e Mwaka mpya. | 새해.
+e Miaka mitano. | 5년.
+tp m- 하나 ↔ mi- 여럿: mti/miti, mkono/mikono.
+tp 주어 표시는 u-(하나)/i-(여럿): Mti umeanguka / Miti imeanguka.
+tp 꾸미는 말도 m-/mi-: mti mrefu, miti mirefu.
+pr mti | 나무 || miti | 나무들
+pr mwaka | 해 || miaka | 여러 해
+sm Mti, miti, mkono, mikono. | 나무, 나무들, 손, 손들.
+qz '5년'은? | miaka mitano
+
+@ 7-02-03 | ji-(없음) ↔ ma- | jina·majina | 하나일 때 앞머리가 없거나 ji-, 여럿이면 ma-예요. 과일, 몸, 큰 것이 많아요.
+w jina | 이름 → majina | 이름
+e Jina lako? | 이름은요?
+e Majina yao. | 그들의 이름.
+w gari | 차 → magari | 차
+e Gari jipya. | 새 차.
+e Magari mengi. | 차가 많아요.
+w embe | 망고 → maembe | 망고
+e Embe moja. | 망고 하나.
+e Maembe matatu. | 망고 세 개.
+w jicho | 눈 → macho | 눈
+e Jicho la kulia. | 오른쪽 눈.
+e Macho mazuri. | 예쁜 눈.
+w yai | 달걀 → mayai | 달걀
+e Yai bovu. | 상한 달걀.
+e Mayai kumi. | 달걀 열 개.
+tp 하나(앞머리 없음/ji-) ↔ 여럿 ma-: gari/magari, jicho/macho.
+tp 주어 표시: li-(하나)/ya-(여럿): Gari limefika / Magari yamefika.
+tp 꾸미는 말: gari jipya, magari mapya.
+pr gari | 차 || magari | 차들
+pr jicho | 눈 || macho | 두 눈
+sm Jina, majina, gari, magari, yai, mayai. | 이름, 이름들, 차, 차들, 달걀, 달걀들.
+qz '차들'은? | magari
+
+@ 7-02-04 | ki- ↔ vi- | kitabu·vitabu | 물건 낱말이 많은 무리예요. ki-(ch-) → vi-(vy-).
+w kitabu | 책 → vitabu | 책
+e Kitabu kimoja. | 책 한 권.
+e Vitabu vitatu. | 책 세 권.
+w kiti | 의자 → viti | 의자
+e Kiti kipo wapi? | 의자 어디 있어요?
+e Viti vimejaa. | 의자가 다 찼어요.
+w chumba | 방 → vyumba | 방
+e Chumba kimoja. | 방 하나.
+e Vyumba viwili. | 방 둘.
+w kikombe | 컵 → vikombe | 컵
+e Kikombe cha chai. | 찻잔.
+e Vikombe vitano. | 컵 다섯 개.
+w chakula | 음식 → vyakula | 음식
+e Chakula kitamu. | 맛있는 음식.
+e Vyakula vya Kiswahili. | 스와힐리 음식들.
+tp ki- 하나 ↔ vi- 여럿. 모음 앞에서는 ch- ↔ vy-: chumba/vyumba.
+tp 주어 표시와 꾸미는 말도 ki-/vi-: Kitabu kizuri kimepotea / Vitabu vizuri vimepotea.
+tp 언어 이름(Kiswahili), '~식으로'(kizungu)도 이 무리예요.
+pr kitabu | 책 || vitabu | 책들
+pr chumba | 방 || vyumba | 방들
+sm Kitabu, vitabu, chumba, vyumba. | 책, 책들, 방, 방들.
+qz '방 둘'은? | vyumba viwili
+
+@ 7-02-05 | n- 무리·u- 무리 | nyumba·ufunguo | n- 낱말은 하나든 여럿이든 모양이 같아요. u- 낱말은 여럿일 때 n-이 되기도 해요.
+w nyumba | 집 (하나·여럿 같음) | 집
+e Nyumba moja. | 집 한 채.
+e Nyumba nyingi. | 집이 많아요.
+w ndizi | 바나나 (하나·여럿 같음) | 바나나
+e Ndizi moja. | 바나나 하나.
+e Ndizi tano. | 바나나 다섯 개.
+w ufunguo | 열쇠 → funguo | 열쇠
+e Ufunguo wangu. | 내 열쇠.
+e Funguo zangu. | 내 열쇠들.
+w ukuta | 벽 → kuta | 벽
+e Ukuta mrefu. | 높은 벽.
+e Kuta nne. | 벽 네 개.
+w uso | 얼굴 → nyuso | 얼굴
+e Uso wake. | 그의 얼굴.
+e Nyuso za furaha. | 기쁜 얼굴들.
+tp n- 무리(nyumba, ndizi, chai, simu…)는 모양이 안 바뀌어요. 주어 표시가 i-(하나)/zi-(여럿)로 구별돼요: Nyumba imejengwa / Nyumba zimejengwa.
+tp u- 낱말 여럿: ufunguo → funguo, ukuta → kuta, uso → nyuso.
+tp 동물도 대부분 n- 무리 모양: mbwa, ng'ombe, simba(하나·여럿 같음).
+pr nyumba moja | 집 한 채 || nyumba mbili | 집 두 채
+pr ufunguo | 열쇠 || funguo | 열쇠들
+sm Nyumba, ndizi, ufunguo, funguo. | 집, 바나나, 열쇠, 열쇠들.
+qz '내 열쇠들'은? | funguo zangu
+
+@ 7-02-06 | 형용사의 명사 호응 | mzuri·kizuri·nzuri·zuri | '좋은'(-zuri)이 앞 낱말의 무리에 맞춰 모양을 바꿔요.
+w mtoto mzuri | 사람 m- | 착한 아이
+e Ni mtoto mzuri. | 착한 아이예요.
+e Watoto wazuri. | 착한 아이들.
+w kitabu kizuri | ki- | 좋은 책
+e Kitabu kizuri sana. | 아주 좋은 책.
+e Vitabu vizuri. | 좋은 책들.
+w nyumba nzuri | n- | 좋은 집
+e Wana nyumba nzuri. | 그들은 좋은 집이 있어요.
+e Nyumba nzuri ni ghali. | 좋은 집은 비싸요.
+w gari zuri | 앞머리 없음(ji-) | 좋은 차
+e Gari zuri. | 좋은 차.
+e Magari mazuri. | 좋은 차들.
+w mti mzuri | m-/mi- | 좋은 나무
+e Mti mzuri wa kivuli. | 그늘 좋은 나무.
+e Miti mizuri. | 좋은 나무들.
+tp 형용사 앞머리 = 명사 앞머리: m-zuri, ki-zuri, ma-zuri, vi-zuri, mi-zuri.
+tp n- 무리는 nzuri, ji- 무리는 앞머리 없이 zuri.
+tp 숫자도 같이 바뀌어요: watu watatu, vitu vitatu, miti mitatu.
+pr mtoto mzuri | 착한 아이 || watoto wazuri | 착한 아이들
+pr kitabu kizuri | 좋은 책 || vitabu vizuri | 좋은 책들
+sm Mzuri, kizuri, nzuri, zuri, mazuri. | (사람)좋은, (물건)좋은, (n-)좋은, (ji-)좋은, (ma-)좋은.
+qz '좋은 책들'은? | vitabu vizuri
+
+# P7-C | 시제·부정
+
+@ 7-03-01 | 현재·습관(-na-) | ninakula·anaenda | 동사 가운데 -na-는 '지금 ~해요, 보통 ~해요'예요.
+w ninakula | ni-na-kula · 지금 먹어요 | 먹고 있어요
+e Ninakula sasa. | 지금 먹고 있어요.
+e Ninakula samaki. | 생선을 먹어요.
+w anaenda | a-na-enda · 가요 | 그는 가요
+e Anaenda kazini. | 그는 출근해요.
+e Anaenda sokoni. | 그는 시장에 가요.
+w tunapenda | tu-na-penda · 좋아해요 | 우리는 좋아해요
+e Tunapenda chai. | 우리는 차를 좋아해요.
+e Tunapenda Tanzania. | 우리는 탄자니아를 좋아해요.
+w mvua inanyesha | i-na-nyesha · 비가 와요 | 비가 와요
+e Mvua inanyesha sana. | 비가 많이 와요.
+e Mvua inanyesha tangu asubuhi. | 아침부터 비가 와요.
+w hunywa | hu- = 늘, 보통 | (늘) 마셔요
+e Mimi hunywa chai asubuhi. | 저는 아침마다 차를 마셔요.
+e Watoto hucheza jioni. | 아이들은 보통 저녁에 놀아요.
+tp 주어 + na + 동사: ni-na-kula, a-na-enda.
+tp 한 마디짜리 동사(-la, -nywa)는 ku-를 남겨요: ninakula, ninakunywa.
+tp hu-는 '늘, 습관적으로'예요. 주어 구별 없이 hu-: hunywa, husoma.
+pr ninakula | 먹어요 || ninakunywa | 마셔요
+pr anaenda | 가요 || huenda | (늘) 가요
+sm Ninakula, anaenda, tunapenda, inanyesha. | 먹어요, 가요, 좋아해요, 비 와요.
+qz '비가 와요'는? | Mvua inanyesha
+
+@ 7-03-02 | 과거(-li-) | nilikula·alienda | 과거는 동사 가운데 -li-를 넣어요.
+w nilikula | ni-li-kula · 먹었어요 | 먹었어요
+e Nilikula wali jana. | 어제 밥을 먹었어요.
+e Nilikula mapema. | 일찍 먹었어요.
+w alienda | a-li-enda · 갔어요 | 그는 갔어요
+e Alienda Arusha. | 그는 아루샤에 갔어요.
+e Alienda wapi? | 그는 어디 갔어요?
+w tulifika | tu-li-fika · 도착했어요 | 우리는 도착했어요
+e Tulifika usiku. | 밤에 도착했어요.
+e Tulifika salama. | 무사히 도착했어요.
+w ilinyesha | i-li-nyesha · 비가 왔어요 | 비가 왔어요
+e Ilinyesha jana. | 어제 비가 왔어요.
+e Ilinyesha usiku wote. | 밤새 비가 왔어요.
+w nilikuwa | ni-li-kuwa · ~였어요, 있었어요 | ~였어요; 있었어요
+e Nilikuwa nyumbani. | 집에 있었어요.
+e Nilikuwa mwanafunzi. | 학생이었어요.
+tp 주어 + li + 동사: ni-li-kula, a-li-enda.
+tp jana(어제), juzi(그저께), mwaka jana(작년)와 같이 써요.
+tp nilikuwa = 나는 ~였다. 과거의 상태에 써요.
+pr ninakula | 먹어요 || nilikula | 먹었어요
+pr anaenda | 가요 || alienda | 갔어요
+sm Nilikula, alienda, tulifika, ilinyesha. | 먹었다, 갔다, 도착했다, 비가 왔다.
+qz '어제 비가 왔어요'는? | Ilinyesha jana
+
+@ 7-03-03 | 미래(-ta-) | nitakula·atakuja | 미래는 동사 가운데 -ta-를 넣어요.
+w nitakula | ni-ta-kula · 먹을 거예요 | 먹을 거예요
+e Nitakula baadaye. | 나중에 먹을게요.
+e Nitakula ugali. | 우갈리 먹을 거예요.
+w atakuja | a-ta-kuja · 올 거예요 | 그는 올 거예요
+e Atakuja kesho. | 그는 내일 와요.
+e Atakuja saa ngapi? | 그는 몇 시에 와요?
+w tutaonana | tu-ta-onana · 만날 거예요 | 또 만나요
+e Tutaonana wiki ijayo. | 다음 주에 봐요.
+e Tutaonana! | 또 봐요!
+w itanyesha | i-ta-nyesha · 비가 올 거예요 | 비가 올 거예요
+e Itanyesha leo? | 오늘 비 올까요?
+e Itanyesha jioni. | 저녁에 비가 올 거예요.
+w nitakupigia | ni-ta-ku-pigia · 전화할게 | 전화할게요
+e Nitakupigia jioni. | 저녁에 전화할게요.
+e Nitakupigia nikifika. | 도착하면 전화할게요.
+tp 주어 + ta + 동사: ni-ta-kula, a-ta-kuja.
+tp kesho(내일), baadaye(나중에), wiki ijayo(다음 주)와 같이 써요.
+tp 목적어는 ta 뒤에: ni-ta-ku-pigia(내가 너에게 전화할 것이다).
+pr nilikula | 먹었어요 || nitakula | 먹을 거예요
+pr alikuja | 왔어요 || atakuja | 올 거예요
+sm Nitakula, atakuja, tutaonana, itanyesha. | 먹을 거다, 올 거다, 만날 거다, 비 올 거다.
+qz '그는 내일 와요'는? | Atakuja kesho
+
+@ 7-03-04 | 완료·결과(-me-) | nimefika·amelala | -me-는 '방금 ~했다, ~한 상태다'예요. 한국어 '~했어요'에 많이 맞아요.
+w nimefika | ni-me-fika · 도착했어요 | 도착했어요(지금 와 있어요)
+e Nimefika salama. | 무사히 도착했어요.
+e Nimefika hotelini. | 호텔에 도착했어요.
+w amelala | a-me-lala · 자고 있어요 | 그는 잠들었어요
+e Mtoto amelala. | 아이가 잠들었어요.
+e Amelala tayari. | 벌써 잤어요.
+w nimechoka | ni-me-choka · 피곤해요 | 피곤해요(지친 상태)
+e Nimechoka sana. | 너무 피곤해요.
+e Nimechoka leo. | 오늘 피곤해요.
+w nimeshiba | ni-me-shiba · 배불러요 | 배불러요
+e Asante, nimeshiba. | 고마워요, 배불러요.
+e Nimeshiba kabisa. | 완전히 배불러요.
+w imeharibika | i-me-haribika · 고장 났어요 | 고장 났어요
+e Simu imeharibika. | 휴대폰이 고장 났어요.
+e Gari imeharibika njiani. | 차가 길에서 고장 났어요.
+tp -me-는 지금까지 이어지는 결과: Nimechoka(지쳤다 = 지금 피곤하다).
+tp 상태 동사는 -me-로 현재를 말해요: nimeshiba(배부르다), amelala(자고 있다), nimeelewa(이해했다).
+tp -li-(그때 했다)와 -me-(했고 지금 그렇다)를 구별해요.
+pr nilifika | 도착했었어요 || nimefika | 도착했어요(지금 여기)
+pr nimechoka | 피곤해요 || nimepumzika | 쉬었어요
+sm Nimefika, amelala, nimechoka, nimeshiba. | 도착했다, 잠들었다, 지쳤다, 배부르다.
+qz '배불러요'는? | Nimeshiba
+
+@ 7-03-05 | 현재형 부정 | sili·hali·sijui | 부정은 '나'면 si-, '너'는 hu-, '그'는 ha-로 시작하고, 현재는 끝이 -i로 바뀌어요.
+w sili | 나는 안 먹어요 · si + l + i | 나는 안 먹어요
+e Sili nyama. | 저는 고기 안 먹어요.
+e Sili sasa. | 지금은 안 먹어요.
+w sijui | 나는 몰라요 · si + ju + i | 몰라요
+e Sijui. | 몰라요.
+e Sijui alipo. | 그가 어디 있는지 몰라요.
+w hapendi | 그는 안 좋아해요 · ha + pend + i | 그는 안 좋아해요
+e Hapendi chai. | 그는 차를 안 좋아해요.
+e Hapendi kelele. | 그는 시끄러운 걸 싫어해요.
+w sikwenda | 나는 안 갔어요 · si + ku | 안 갔어요
+e Sikwenda kazini jana. | 어제 출근 안 했어요.
+e Sikuelewa. | 이해 못 했어요.
+w sitakuja | 나는 안 올 거예요 · si + ta | 안 갈 거예요
+e Sitakuja kesho. | 내일 안 가요.
+e Sitasahau. | 안 잊을게요.
+tp 부정 앞머리: si(나) hu(너) ha(그) hatu(우리) ham(너희) hawa(그들).
+tp 현재 부정: -na- 없이 끝 -a → -i: ninapenda → sipendi.
+tp 과거 부정은 -ku-: nilikwenda → sikwenda. 미래 부정은 -ta- 그대로: sitakuja.
+pr Najua. | 알아요. || Sijui. | 몰라요.
+pr Ninakula. | 먹어요. || Sili. | 안 먹어요.
+sm Sili, sijui, hapendi, sikwenda, sitakuja. | 안 먹어요, 몰라요, 안 좋아해요, 안 갔어요, 안 갈 거예요.
+qz '몰라요'는? | Sijui
+
+@ 7-03-06 | 아직 하지 않음(-ja-) | sijala·hajafika | 부정 + -ja-는 '아직 ~ 안 했다'예요. bado(아직)와 자주 같이 써요.
+w sijala | 아직 안 먹었어요 | 아직 안 먹었어요
+e Bado sijala. | 아직 안 먹었어요.
+e Sijala tangu asubuhi. | 아침부터 아무것도 안 먹었어요.
+w hajafika | 아직 안 왔어요 | 그는 아직 안 왔어요
+e Bado hajafika. | 아직 안 왔어요.
+e Basi halijafika. | 버스가 아직 안 왔어요.
+w sijaelewa | 아직 이해 못 했어요 | 아직 이해 못 했어요
+e Samahani, sijaelewa. | 죄송한데 아직 이해 못 했어요.
+e Sijaelewa vizuri. | 잘 이해가 안 됐어요.
+w hatujaonana | 우리 아직 못 만났어요 | 우리 아직 못 만났어요
+e Hatujaonana tangu mwaka jana. | 작년부터 못 만났어요.
+e Bado hatujaonana. | 아직 못 만났어요.
+w sijawahi | 한 번도 ~해 본 적 없어요 · wahi | ~한 적 없어요
+e Sijawahi kwenda Zanzibar. | 잔지바르에 가 본 적이 없어요.
+e Sijawahi kula ugali. | 우갈리를 먹어 본 적 없어요.
+tp 부정 앞머리 + ja + 동사: si-ja-la, ha-ja-fika.
+tp 대답 '아직이요'는 그냥 Bado. 하면 돼요.
+tp sijawahi + 동사 원형 = ~해 본 적이 없다. 경험을 말할 때 좋아요.
+pr nimekula | 먹었어요 || sijala | 아직 안 먹었어요
+pr amefika | 왔어요 || hajafika | 아직 안 왔어요
+sm Bado sijala, hajafika, sijaelewa. | 아직 안 먹었다, 아직 안 왔다, 아직 이해 못 했다.
+qz '아직 안 왔어요'는? | Bado hajafika
+
+# P7-D | 주요 문장 패턴
+
+@ 7-04-01 | 질문 만들기 | je·-je·nani·wapi | 문장 끝을 올리면 질문이 돼요. 앞에 Je를 붙이면 '~예요?' 질문이 분명해져요.
+w Je, unasema Kiswahili? | Je = 질문 표시 | 스와힐리어 해요?
+e Je, unasema Kiswahili kidogo? | 스와힐리어 조금 해요?
+e Je, uko tayari? | 준비됐어요?
+w nani | 누구 | 누구
+e Wewe ni nani? | 누구세요?
+e Nani amekuja? | 누가 왔어요?
+w wapi | 어디 | 어디
+e Unaenda wapi? | 어디 가요?
+e Choo kiko wapi? | 화장실 어디예요?
+w lini | 언제 | 언제
+e Utarudi lini? | 언제 돌아와요?
+e Lini ulifika? | 언제 도착했어요?
+w ngapi | 몇 | 몇
+e Saa ngapi? | 몇 시예요?
+e Una miaka mingapi? | 몇 살이에요?
+tp 의문사는 보통 문장 끝: Unaenda wapi?(너 간다 어디?) Utarudi lini?
+tp Je는 '예/아니요' 질문 앞에 붙여요. 없어도 끝을 올리면 질문이에요.
+tp 이름 묻기: Jina lako ni nani?(기본형) = Jina lako nani?(입말)
+pr nani | 누구 || nini | 무엇
+pr wapi | 어디 || lini | 언제
+sm Je? Nani? Nini? Wapi? Lini? Ngapi? | 그래요? 누구? 뭐? 어디? 언제? 몇?
+qz '언제 돌아와요?'는? | Utarudi lini?
+
+@ 7-04-02 | 희망·가능·의무 | kutaka·kuweza·lazima | 다른 동사 원형(ku-)을 뒤에 붙여요.
+w nataka kula | 먹고 싶어요 · taka + ku- | 먹고 싶어요
+e Nataka kula samaki. | 생선 먹고 싶어요.
+e Nataka kwenda nyumbani. | 집에 가고 싶어요.
+w naweza kusaidia | 도울 수 있어요 · weza + ku- | 도울 수 있어요
+e Naweza kukusaidia? | 도와드릴까요?
+e Siwezi kuja leo. | 오늘은 못 가요.
+w lazima niende | 가야 해요 · lazima + 가정법 | 가야 해요
+e Lazima niende sasa. | 이제 가야 해요.
+e Lazima tufike mapema. | 일찍 도착해야 해요.
+w inabidi | ~해야 하다 · 입말 | ~해야 해요
+e Inabidi nilale mapema. | 일찍 자야 해요.
+e Inabidi tusubiri. | 기다려야 해요.
+w napenda kusoma | 읽기를 좋아해요 · penda + ku- | 읽는 걸 좋아해요
+e Napenda kusoma vitabu. | 책 읽는 걸 좋아해요.
+e Napenda kupika. | 요리하는 걸 좋아해요.
+tp taka(원하다), weza(할 수 있다), penda(좋아하다) + ku-동사.
+tp lazima, inabidi 뒤에는 가정법(끝 -e): niende, tufike, nilale.
+tp 못 해요 = Siwezi. 정중한 거절에 써요.
+pr Naweza. | 할 수 있어요. || Siwezi. | 못 해요.
+pr Nataka. | 원해요. || Sitaki. | 싫어요.
+sm Nataka kula, naweza kusaidia, lazima niende. | 먹고 싶다, 도울 수 있다, 가야 한다.
+qz '오늘은 못 가요'는? | Siwezi kuja leo
+
+@ 7-04-03 | 명령·부탁 | njoo·keti·tafadhali | 동사 줄기만 말하면 명령, 여럿에게는 -eni. 부탁은 tafadhali 또는 가정법을 써요.
+w soma | 읽어 · 줄기만 | 읽어
+e Soma hapa. | 여기 읽어.
+e Someni pamoja. | 다 같이 읽어요.
+w njoo | 와 · 불규칙 | 와
+e Njoo hapa. | 이리 와.
+e Njooni wote! | 다들 와요!
+w nenda | 가 · 불규칙 | 가
+e Nenda nyumbani. | 집에 가.
+e Nendeni salama. | (여러분) 잘 가요.
+w tafadhali | 부디, 제발 | 부디, ~해 주세요
+e Tafadhali keti. | 앉으세요.
+e Nisaidie, tafadhali. | 도와주세요.
+w usiende | 가지 마 · u-si-...-e | 가지 마
+e Usiende peke yako. | 혼자 가지 마.
+e Usiende bado. | 아직 가지 마.
+tp 명령: 줄기만(soma, kimbia), 여럿에게는 끝에 -eni(someni).
+tp 불규칙: kuja → njoo, kwenda → nenda, kula → kula, kunywa → kunywa.
+tp 금지: u-si-동사-e (usiende 가지 마, msiende 가지 마세요).
+pr Njoo! | 와! || Nenda! | 가!
+pr Kaa. | 앉아. || Usikae. | 앉지 마.
+sm Soma, njoo, nenda, tafadhali, usiende. | 읽어, 와, 가, 부디, 가지 마.
+qz '가지 마'는? | Usiende
+
+@ 7-04-04 | 비교 | kuliko·kama·zaidi | '~보다 더'는 kuliko, '~처럼'은 kama, '더'는 zaidi예요.
+w kuliko | ~보다 | ~보다(더)
+e Dar ni kubwa kuliko Moshi. | 다르는 모시보다 커요.
+e Chai ni bora kuliko kahawa. | 차가 커피보다 좋아요.
+w zaidi | 더 | 더; ~ 이상
+e Kidogo zaidi. | 조금 더.
+e Zaidi ya watu mia. | 백 명 이상.
+w kama | ~처럼; 만약 | ~처럼; 만약 ~라면
+e Kama simba. | 사자처럼.
+e Kama unataka, njoo. | 원하면 와.
+w sawa na | ~와 같다 | ~와 같은
+e Bei ni sawa na jana. | 값이 어제와 같아요.
+e Ni sawa na Kikorea. | 한국어랑 같아요.
+w kuliko wote | 가장 | 가장, 제일
+e Ni mrefu kuliko wote. | 그가 제일 커요.
+e Kilimanjaro ni mlima mrefu kuliko yote Afrika. | 킬리만자로는 아프리카에서 제일 높은 산이에요.
+tp A ni (형용사) kuliko B = A가 B보다 ~하다. 영어처럼 비교급 어미는 없지만, 형용사는 늘 앞 명사의 무리에 맞춰요: mtoto mdogo, kitabu kidogo, vitabu vidogo kuliko ~.
+tp 가장 = kuliko wote(사람) / kuliko yote, vyote(물건).
+tp kama는 '~처럼'과 '만약'(=ikiwa) 둘 다예요.
+pr kubwa kuliko | ~보다 커요 || ndogo kuliko | ~보다 작아요
+pr kama | ~처럼 || sawa na | ~와 같다
+sm Kuliko, zaidi, kama, sawa na. | ~보다, 더, ~처럼, ~와 같다.
+qz '다르는 모시보다 커요'는? | Dar ni kubwa kuliko Moshi
+
+@ 7-04-05 | 동사의 목적어 표시 | -ni-·-ku-·-m-·-wa- | '나를, 너를, 그를'은 동사 안, 시제 뒤에 넣어요.
+w ananipenda | a-na-ni-penda · 그가 나를 | 그는 나를 사랑해요
+e Ananipenda sana. | 그는 나를 많이 사랑해요.
+e Mama ananipigia simu. | 엄마가 나한테 전화해요.
+w nakupenda | na-ku-penda · 내가 너를 | 너를 사랑해
+e Nakupenda, mama. | 엄마, 사랑해요.
+e Nitakuona kesho. | 내일 봐(내가 너를 볼 거야).
+w nilimwona | ni-li-mw-ona · 내가 그를 | 그를 봤어요
+e Nilimwona sokoni. | 그를 시장에서 봤어요.
+e Ulimwona Juma? | 주마 봤어요?
+w nitawapigia | ni-ta-wa-pigia · 내가 그들에게 | 그들에게 전화할게요
+e Nitawapigia jioni. | 저녁에 그들에게 전화할게요.
+e Nitawasaidia. | 그들을 도울게요.
+w nisaidie | ni-saidi-e · 나를 도와 | 도와줘
+e Nisaidie tafadhali. | 도와주세요.
+e Nisubiri! | 기다려 줘!
+tp 목적어: ni(나를) ku(너를) m/mw(그를) tu(우리를) wa(너희/그들을).
+tp 자리: 주어 + 시제 + 목적어 + 동사: a-na-ni-penda.
+tp 명령에 목적어가 붙으면 끝이 -e로 바뀌어요: saidia → nisaidie(도와줘).
+pr nakupenda | 너를 사랑해 || ananipenda | 그가 나를 사랑해
+pr nilimwona | 그를 봤어 || aliniona | 그가 나를 봤어
+sm Ananipenda, nakupenda, nilimwona, nitawapigia. | 그가 나를, 내가 너를, 내가 그를, 내가 그들에게.
+qz '그를 봤어요'는? | Nilimwona
+
+@ 7-04-06 | 조건·시간 표현 | -ki-·kama·wakati | 동사 안에 -ki-를 넣으면 '~하면', wakati은 '~할 때'예요.
+w ukifika | u-ki-fika · 도착하면 | 네가 도착하면
+e Ukifika, nipigie simu. | 도착하면 전화해.
+e Ukifika Arusha, niambie. | 아루샤 도착하면 알려 줘.
+w ikinyesha | i-ki-nyesha · 비가 오면 | 비가 오면
+e Ikinyesha, tutabaki nyumbani. | 비 오면 집에 있을게요.
+e Ikinyesha sana, barabara inafungwa. | 비가 많이 오면 길이 막혀요.
+w nikipata | ni-ki-pata · 얻으면 | 내가 구하면
+e Nikipata pesa, nitasafiri. | 돈이 생기면 여행 갈 거예요.
+e Nikipata muda, nitakuja. | 시간 나면 갈게요.
+w wakati | ~할 때 | 때; ~할 때
+e Wakati nilipofika, alikuwa amelala. | 내가 도착했을 때 그는 자고 있었어요.
+e Wakati wa chakula. | 식사 시간.
+w ikiwa | 만약 ~라면 | 만약 ~라면
+e Ikiwa una swali, uliza. | 질문 있으면 물어봐요.
+e Ikiwa hutaki, sawa. | 싫으면 괜찮아요.
+tp 주어 + ki + 동사 = ~하면: u-ki-fika(네가 도착하면).
+tp 뒤 문장은 보통 미래(-ta-)나 명령: Ukifika, nipigie.
+tp kama / ikiwa도 '만약'이에요: Kama unataka(원한다면).
+pr ukifika | 도착하면 || ukiondoka | 떠나면
+pr ikinyesha | 비 오면 || jua likiwaka | 해가 나면
+sm Ukifika, nipigie. Ikinyesha, tutabaki. | 도착하면 전화해. 비 오면 남을게.
+qz '도착하면 전화해'는? | Ukifika, nipigie simu
